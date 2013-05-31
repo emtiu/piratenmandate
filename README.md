@@ -16,7 +16,7 @@ Dies ist eine aktuelle Auflistung aller Mandate in gewählten Volksvertretungen,
         * Falls Übertritt: ursprüngliche Zugehörigkeit
 * Fraktion in einer Vertretung (falls vorhanden und bekannt)
     * Art der Fraktion (PIRATEN-Fraktion oder Zusammenschluss)
-        * Falls Zusammenschluss: Partner in der Fraktion
+        * Falls Zusammenschluss: Name der Fraktion, Partner in der Fraktion
     * Website der Fraktion (falls vorhanden und bekannt)
 
 ### XML
