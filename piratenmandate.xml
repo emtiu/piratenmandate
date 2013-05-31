@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kommunalpiraten>
+
+  <bundesland name="Bremen" gs="04000000">
+
+    <gebiet type="Stadt" name="Bremerhaven" gs="04012000">
+      <parlament name="Stadtverordnetenversammlung">
+        <mandat type="pirat">Alexander Niedermeier</mandat>
+        <fraktion type="gemeinsam" with="2 Mitglieder der „Bündnis 21/RRP“" url="http://www.b21-piraten.de/">Bündnis 21 – PIRATEN</fraktion>
+      </parlament>
+    </gebiet>
+
+    <gebiet type="Stadt" name="Bremen" gs="04011000">
+      <gebiet type="Stadtteil" name="Mitte" localkey="11">
+        <parlament name="Beirat">
+          <mandat type="pirat">Siegfried Wegner-Kärsten</mandat>
+        </parlament>
+      </gebiet>
+    </gebiet>
+
+  </bundesland>
+
+
+  <bundesland name="Hamburg" gs="02000000">
+
+    <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
+      <parlament name="Bezirksversammlung">
+        <mandat type="pirat">Andreas Gerhold</mandat>
+        <mandat type="pirat">Michael Büker</mandat>
+        <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
+        <fraktion type="PIRATEN" url="http://hamburg-mitte.bezirkspiraten.de/" />
+      </parlament>
+    </gebiet>
+
+    <gebiet type="Bezirk" name="Bergedorf" localkey="6">
+      <parlament name="Bezirksversammlung">
+        <mandat type="pirat">Jan Penz</mandat>
+        <fraktion type="none" />
+      </parlament>
+    </gebiet>
+
+  </bundesland>
+
+</kommunalpiraten>
