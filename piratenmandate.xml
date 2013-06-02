@@ -29,7 +29,7 @@
         <mandat type="pirat">Andreas Gerhold</mandat>
         <mandat type="pirat">Michael Büker</mandat>
         <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
-        <fraktion type="PIRATEN" url="http://hamburg-mitte.bezirkspiraten.de/" />
+        <fraktion type="piraten" url="http://hamburg-mitte.bezirkspiraten.de/" />
       </parlament>
     </gebiet>
 
@@ -65,6 +65,25 @@
       <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
         <parlament name="Stadtrat" seats="48">
           <mandat type="transfer" from="LINKE">Günter Kleinpenning</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+
+    <gebiet type="Kreis" name="Soest" gs="05974000">
+      <gebiet type="Stadt" name="Werl" gs="05974052">
+        <parlament name="Stadtrat" seats="40">
+          <mandat type="transfer" from="LINKE">Matthias Fischer</mandat>
+          <mandat type="transfer" from="LINKE">Ali Kaya</mandat>
+          <fraktion type="piraten" url="http://www.piratenfraktion-werl.de/" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+
+    <gebiet type="Kreis" name="Borken" gs="05554000">
+      <gebiet type="Stadt" name="Bad Salzuflen" gs="05554048">
+        <parlament name="Stadtrat" seats="38">
+          <mandat type="transfer" from="CDU">Siegfried Kerkhoff</mandat>
           <fraktion type="none" />
         </parlament>
       </gebiet>
