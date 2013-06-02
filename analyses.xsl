@@ -26,6 +26,10 @@
     <xsl:text> PIRATEN-Fraktionen und </xsl:text>
     <xsl:value-of select="count(//fraktion[@type='gemeinsam'])" />
     <xsl:text> gemeinsame Fraktionen.&#10;</xsl:text>
+    <xsl:value-of select="count(//parlament[not(fraktion)]/mandat)" />
+    <xsl:text> Mandate in </xsl:text>
+    <xsl:value-of select="count(//parlament[not(fraktion)])" />
+    <xsl:text> Vertretungen mit unbekanntem Fraktionsstatus.&#10;</xsl:text>
 
   </xsl:template>
 
