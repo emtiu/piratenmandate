@@ -14,6 +14,7 @@
       <gebiet type="Stadtteil" name="Mitte" localkey="10">
         <parlament name="Beirat" seats="13">
           <mandat type="pirat">Siegfried Wegner-Kärsten</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
