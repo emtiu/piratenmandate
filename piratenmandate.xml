@@ -41,4 +41,25 @@
 
   </bundesland>
 
+
+  <bundesland name="Nordrhein-Westfalen" gs="05000000">
+
+    <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000">
+      <gebiet type="Stadt" name="Aachen" gs="05334002">
+        <parlament name="Stadtrat" seats="74">
+          <mandat type="pirat">Sait Başkaya</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+
+    <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000">
+      <parlament name="Stadtrat" seats="80">
+        <mandat type="pirat">Pascal Powroznik</mandat>
+        <fraktion type="none" />
+      </parlament>
+    </gebiet>
+
+  </bundesland>
+
 </kommunalpiraten>
