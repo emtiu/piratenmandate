@@ -61,6 +61,15 @@
       </parlament>
     </gebiet>
 
+    <gebiet type="Kreis" name="Lippe" gs="05766000">
+      <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
+        <parlament name="Stadtrat" seats="48">
+          <mandat type="transfer" from="LINKE">Günter Kleinpenning</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+
   </bundesland>
 
 </kommunalpiraten>
