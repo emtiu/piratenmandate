@@ -1,0 +1,26 @@
+<!ELEMENT piratenmandate (bundesland+) >
+
+<!ELEMENT bundesland (parlament?, gebiet*) >
+<!ATTLIST bundesland name CDATA #REQUIRED >
+<!ATTLIST bundesland gs CDATA #REQUIRED >
+
+<!ELEMENT gebiet (parlament?, gebiet*) >
+<!ATTLIST gebiet type CDATA #REQUIRED >
+<!ATTLIST gebiet name CDATA #REQUIRED >
+<!ATTLIST gebiet gs CDATA #IMPLIED >
+<!ATTLIST gebiet localkey CDATA #IMPLIED > <!--Amtlicher Schlüssel, falls kein gs-->
+<!ATTLIST gebiet arbkey CDATA #IMPLIED > <!--Beliebiger Schlüssel, falls sonst keiner-->
+<!ATTLIST gebiet localpirates CDATA #IMPLIED >
+
+<!ELEMENT parlament (mandat+, fraktion?) >
+<!ATTLIST parlament name CDATA #REQUIRED >
+<!ATTLIST parlament seats CDATA #IMPLIED >
+
+<!ELEMENT mandat (#PCDATA) >
+<!ATTLIST mandat type (pirat | transfer) #REQUIRED >
+<!ATTLIST mandat from CDATA #IMPLIED >
+
+
+<!ELEMENT fraktion (#PCDATA) >
+<!ATTLIST fraktion type (piraten | gemeinsam | none) #REQUIRED >
+<!ATTLIST fraktion url CDATA #IMPLIED >
