@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kommunalpiraten>
+<!DOCTYPE piratenmandate SYSTEM "piratenmandate.dtd">
+
+<piratenmandate>
 
   <bundesland name="Bremen" gs="04000000">
-
-    <gebiet type="Stadt" name="Bremerhaven" gs="04012000">
+    <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48">
         <mandat type="pirat">Alexander Niedermeier</mandat>
         <fraktion type="gemeinsam" with="2 Mitglieder der „Bündnis 21/RRP“" url="http://www.b21-piraten.de/">Bündnis 21 – PIRATEN</fraktion>
       </parlament>
     </gebiet>
-
-    <gebiet type="Stadt" name="Bremen" gs="04011000">
+    <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
       <gebiet type="Stadtteil" name="Mitte" localkey="10">
         <parlament name="Beirat" seats="13">
           <mandat type="pirat">Siegfried Wegner-Kärsten</mandat>
@@ -18,13 +18,10 @@
         </parlament>
       </gebiet>
     </gebiet>
-
   </bundesland>
 
-
   <bundesland name="Hamburg" gs="02000000">
-
-    <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
+    <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1" localpirates="http://wiki.piratenpartei.de/HH:Mitte">
       <parlament name="Bezirksversammlung" seats="51">
         <mandat type="pirat">Andreas Gerhold</mandat>
         <mandat type="pirat">Michael Büker</mandat>
@@ -32,19 +29,15 @@
         <fraktion type="piraten" url="http://hamburg-mitte.bezirkspiraten.de/" />
       </parlament>
     </gebiet>
-
-    <gebiet type="Bezirk" name="Bergedorf" localkey="6">
+    <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
       <parlament name="Bezirksversammlung" seats="49">
         <mandat type="pirat">Jan Penz</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
-
   </bundesland>
 
-
   <bundesland name="Nordrhein-Westfalen" gs="05000000">
-
     <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000">
       <gebiet type="Stadt" name="Aachen" gs="05334002">
         <parlament name="Stadtrat" seats="74">
@@ -53,14 +46,12 @@
         </parlament>
       </gebiet>
     </gebiet>
-
     <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000">
       <parlament name="Stadtrat" seats="80">
         <mandat type="pirat">Pascal Powroznik</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
-
     <gebiet type="Kreis" name="Lippe" gs="05766000">
       <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
         <parlament name="Stadtrat" seats="48">
@@ -69,7 +60,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-
     <gebiet type="Kreis" name="Soest" gs="05974000">
       <gebiet type="Stadt" name="Werl" gs="05974052">
         <parlament name="Stadtrat" seats="40">
@@ -79,7 +69,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-
     <gebiet type="Kreis" name="Borken" gs="05554000">
       <gebiet type="Stadt" name="Bad Salzuflen" gs="05554048">
         <parlament name="Stadtrat" seats="38">
@@ -88,7 +77,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-
   </bundesland>
 
-</kommunalpiraten>
+</piratenmandate>
