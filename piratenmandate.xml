@@ -7,7 +7,9 @@
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48">
         <mandat type="pirat">Alexander Niedermeier</mandat>
-        <fraktion type="gemeinsam" with="2 Mitglieder der „Bündnis 21/RRP“" url="http://www.b21-piraten.de/">Bündnis 21 – PIRATEN</fraktion>
+        <fraktion type="gemeinsam" name="Bündnis 21 – PIRATEN" url="http://www.b21-piraten.de/">
+          <partner partei="Bündnis 21/RRP" num="2" />
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
