@@ -58,7 +58,7 @@
 <!--
     Gegen Günter Kleinpenning läuft ein Parteiausschlussverfahren:
     http://popcornpiraten.de/angedrohter-parteiausschluss-wegen-fraktionsbildung-mit-mutmaslich-rechtem-politiker-im-rat-bad-salzuflen/
-    <gebiet type="Kreis" name="Lippe" gs="05766000">
+    <gebiet type="Landkreis" name="Kreis Lippe" gs="05766000">
       <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
         <parlament name="Stadtrat" seats="48">
           <mandat type="transfer" from="LINKE">Günter Kleinpenning</mandat>
@@ -66,7 +66,16 @@
         </parlament>
       </gebiet>
 -->
-    <gebiet type="Kreis" name="Höxter" gs="05762000">
+    <gebiet type="Kreisfreie Stadt" name="Oberhausen" gs="05119000" localpirates="http://piratenpartei-oberhausen.de/">
+      <gebiet type="Stadtbezirk" name="Alt-Oberhausen" arbkey="1">
+        <parlament name="Bezirksvertretung" seats="19">
+          <mandat type="transfer" from="GRÜNE">Albert Karschti</mandat>
+          <fraktion type="none" />
+          <story press="http://docs.google.com/viewer?a=v&amp;q=cache:soNNX6Ym1oAJ:gruene-oberhausen.de/userspace/NW/kv_oberhausen/Dokumente/Texte/Pressemitteilung_Karschti.pdf+piraten+site:gruene-oberhausen.de&amp;hl=de&amp;gl=de&amp;pid=bl&amp;srcid=ADGEESiSDdnHpAF8lYSvM_c7JEoC3CFlBkB7N0SDoBDdMyPm3nkFfwBA1epcc17QEQyN6keq6zsgb0yaW2Gw2P_4MhGpyi6fM6f_Dyiw9CZ5XUFNgtq6kzDGF4m-TGnIinXjG_H5HL03&amp;sig=AHIEtbQhjxy4Zf9ggFJdEJJHW8OOnyY3sw" source="http://allris.oberhausen.de/bi/kp020.asp?KPLFDNR=95&amp;options=4">Albert Karschti ist am 4. November 2009 für die Grünen in die Bezirksvertretung Alt-Oberhausen nachgerückt und wurde dort als ihr stellvertretender Vorsitzender der stellvertretende Bezirksbürgermeister. Anfang 2010 trat er bei den Grünen aus und war parteiloser Abgeordneter, bevor er im Oktober 2011 in die Piratenpartei eintrat.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Höxter" gs="05762000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_H%C3%B6xter">
       <gebiet type="Stadt" name="Höxter" gs="05762020">
         <parlament name="Stadtrat" seats="44">
           <mandat type="transfer" from="LINKE">Erich Lehmann</mandat>
@@ -75,21 +84,58 @@
         </parlament>
       </gebiet>
     </gebiet>
-
-    <gebiet type="Kreis" name="Soest" gs="05974000">
+    <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
       <gebiet type="Stadt" name="Werl" gs="05974052">
         <parlament name="Stadtrat" seats="40">
           <mandat type="transfer" from="LINKE">Matthias Fischer</mandat>
           <mandat type="transfer" from="LINKE">Ali Kaya</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-werl.de/" />
+          <story press="http://www.soester-anzeiger.de/lokales/werl/ex-linke-sind-jetzt-piraten-erste-fraktion-1568571.html">Die beiden Abgeordneten Ali Kaya und Matthias Fischer waren am 30. August 2009 für die Partei DIE LINKE in den Stadtrat eingezogen. Im Januar 2012 traten sie zur Piratenpartei über und bilden mit zwei Abgeordneten nun eine Piratenfraktion.</story>
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreis" name="Borken" gs="05554000">
-      <gebiet type="Stadt" name="Bad Salzuflen" gs="05554048">
+    <gebiet type="Landkreis" name="Kreis Steinfurt" gs="05566000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Steinfurt">
+      <gebiet type="Stadt" name="Lengerich" gs="05566040">
+        <parlament name="Stadtrat" seats="32">
+          <mandat type="transfer" from="Freie Wähler/Unabhängige">Sandra Grotholtmann</mandat>
+          <fraktion type="none" />
+          <story press="http://www.wn.de/Muensterland/Kreis-Steinfurt/Lengerich/2012/03/WfL-Vorsitzende-wird-Mitglied-Piratenpartei-entert-Stadtrat" source="https://lengerich.ratsinfomanagement.net/personen/?__=LfyIfvCWq8SpBQj0MnzMaxCYv8Vn7UGJ">Sandra Grotholtmann wurde am 30. August 2009 für die Freie Wählergemeinschaft Lengerich (WfL) in den Stadtrat Lengerich gewählt. Im März 2012 ist sie in die Piratenpartei eingetreten, bleibt aber weiterhin auch Mitglied der WfL.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Borken">
+      <gebiet type="Stadt" name="Rhede" gs="05554048">
         <parlament name="Stadtrat" seats="38">
           <mandat type="transfer" from="CDU">Siegfried Kerkhoff</mandat>
           <fraktion type="none" />
+          <story press="http://www.bbv-net.de/lokales/rhede_artikel,-Der-erste-Pirat-im-Rheder-Rat-_arid,108586.html" source="http://www.rhede.de/Ratsmitglieder-A-Z.781.0.html?&amp;tx_spdirectory_pi1[mode]=detail&amp;tx_spdirectory_pi1[modifier]=abc&amp;tx_spdirectory_pi1[value]=1016&amp;cHash=e5e42e5c757d7734f7165860fa9f709e">Siegfried Kerkhoff wurde am 30. August 2009 für die CDU in den Stadtrat Rhede gewählt und war deren stellvertretender Fraktionsvorsitzender. Er ist 2012 aus der CDU ausgetreten und in die Piratenpartei eingetreten, für die er nun als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Ennepe-Ruhr-Kreis" gs="05945000" localpirates="http://wiki.piratenpartei.de/NRW:Ennepe-Ruhr-Kreis">
+      <gebiet type="Stadt" name="Ennepetal" gs="05945008">
+        <parlament name="Stadtrat" seats="40">
+          <mandat type="transfer" from="LINKE">Wilhelm Völlmecke</mandat>
+          <fraktion type="none" />
+          <story source="http://rat.ennepetal.de/ratsinfo/ennepetal/Person.html?o=2&amp;oc=2&amp;ob=1&amp;persid=76&amp;pc=76#current">Wilhelm Völlmecke wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Ennepetal gewählt. Im Januar 2012 trat er aus der Partei DIE LINKE aus und im März 2012 in die Piratenpartei ein.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Rhein-Kreis Neuss" gs="05162000">
+      <gebiet type="Gemeinde" name="Jüchen" gs="05162012" localpirates="https://wiki.piratenpartei.de/NRW:Rhein-Kreis_Neuss/Stammtisch/Jüchen">
+        <parlament name="Gemeinderat" seats="46">
+          <mandat type="transfer" from="LINKE">Heiner Lindgens</mandat>
+          <fraktion type="none" />
+          <story press="http://www.rp-online.de/niederrhein-sued/juechen/nachrichten/ratsherr-heiner-lindgens-ist-jetzt-ein-pirat-1.2154460" source="http://www.juechen.de/start/politik/gemeinderat/ratsmitglieder/">Heiner Lindgens wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Gemeinderat Jüchen gewählt. Noch vor der Konstituierung des Gemeinderats trat er aus der Partei DIE LINKE aus und übte sein Mandat als partei- und fraktionsloser Abgeordneter aus. Im September 2011 trat er der Piratenpartei bei.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
+      <gebiet type="Gemeinde" name="Kreuzau" gs="05358028">
+        <parlament name="Gemeinderat" seats="35">
+          <mandat type="transfer" from="GRÜNE">Dr. Harald Süreth</mandat>
+          <fraktion type="none" />
+          <story press="http://www.aachener-zeitung.de/lokales/dueren/mandatsrueckgabe-harald-suereth-als-fraktionsloser-pirat-im-rat-1.469662" source="https://sdnetrim.kdvz-frechen.de/rim4250/personen/?__=LfyIfvCWq8SpBQj0MiyHawHWq8Vo8XGJ">Dr. Harald Süreth wurde am 30. August 2009 für die Grünen in den Gemeinderat Kreuzau gewählt. Im November 2012 trat er bei den Grünen aus und in die Piratenpartei ein, für die er jetzt als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
         </parlament>
       </gebiet>
     </gebiet>
