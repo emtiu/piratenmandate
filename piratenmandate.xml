@@ -278,4 +278,30 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Sachsen" gs="14000000">
+    <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
+        <parlament name="Ortsbeirat" seats="15">
+          <mandat type="transfer" from="Freie Wähler/Unabhängige">Martin Schulte-Wissermann</mandat>
+          <story press="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653" source="http://ratsinfo.dresden.de/kp0050.php?__kpenr=668&amp;grnr=36">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Nordsachsen" gs="14730000" localpirates="http://piratenpartei-leipziger-umland.de/">
+      <parlament name="Kreistag" seats="80">
+        <mandat type="transfer" from="LINKE">Veronika Petzold</mandat>
+        <fraktion type="none" />
+        <story press="http://www.torgauerzeitung.com/Default.aspx?t=NewsDetailModus%2863029%29" source="http://info.landkreis-nordsachsen.de/sessionnet/bi/kp0050.php?__kpenr=65&amp;grnr=0">Am 8. Juni 2008 wurde Veronika Petzold für die LINKE in den Kreistag Nordsachsen gewählt. Im April 2012 trat sie aus der LINKEN aus und war für kurze Zeit fraktionslose Abgeordnete, bevor sie noch im April 2012 in die Piratenpartei eintrat.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Erzgebirgskreis" gs="14521000" localpirates="http://www.piraten-erzgebirge.de/">
+      <gebiet type="Stadt" name="Olbernhau" gs="14521460">
+        <parlament name="Stadtrat" seats="22">
+          <mandat type="transfer" from="Freie Wähler/Unabhängige">Tom Küchler</mandat>
+          <story press="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/" source="http://www.olbernhau.de/olbernhau/index1.htm">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
 </piratenmandate>
