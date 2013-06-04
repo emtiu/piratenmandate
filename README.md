@@ -6,7 +6,7 @@ Dies ist eine aktuelle Auflistung aller Mandate in gewählten Volksvertretungen,
 
 * Gebiet einer Vertretung (z.B. Bundesland, Kreis, Gemeinde, Stadt, Ortsteil)
     * Gemeindeschlüssel (falls vorhanden), lokale Ordnungsnummer (falls vorhanden, z.B. Bezirksnummer), willkürliche Ordnungnummer (falls erforderlich)
-    * Webseite der örtlichen (ggf. nächsthöheren) Gliederung der Piratenpartei
+    * Webseite der örtlichen Gliederung der Piratenpartei
 * Vertretung (z.B. Kreistag, Gemeindeversammlung)
     * Sitzanzahl (falls bekannt)
     * Beschreibung der Mandate und/oder Fraktion in der Vertretung (z.B. bei Übertritten)
