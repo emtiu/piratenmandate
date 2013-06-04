@@ -40,6 +40,124 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Berlin" gs="11000000" localpirates="http://berlin.piratenpartei.de/">
+    <gebiet type="Bezirk" name="Mitte" localkey="01" localpirates="http://www.piraten-mitte.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Tobias Kriesel</mandat>
+        <mandat type="pirat">Christopher Lang</mandat>
+        <mandat type="pirat">David Kirchner</mandat>
+        <mandat type="pirat">Alexander Freitag</mandat>
+        <fraktion type="piraten" url="https://bvvmitte.pyxis.uberspace.de/wordpress/" />
+        <story>Von 6 gewonnenen Sitzen konnten nur 5 besetzt werden, da ein Teil der Listenkandidaten gleichzeitig ins Abgeordnetenhaus gewählt wurde. Im August 2012 legte außerdem eine Bezirksverordnete ihr Amt nieder, ohne dass es Nachrücker gab. Somit sind zwei Sitze in der Versammlung unbesetzt.</story>
+      </parlament>
+    </gebiet>
+      <gebiet type="Bezirk" name="Friedrichshain-Kreuzberg" localkey="02" localpirates="http://piratenpartei-friedrichshain-kreuzberg.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Ralf Gerlich</mandat>
+        <mandat type="pirat">Felix J. Just</mandat>
+        <mandat type="pirat">Jessica Zinn</mandat>
+        <mandat type="pirat">Barbara Wisniowska</mandat>
+        <mandat type="pirat">Michael Herbst</mandat>
+        <fraktion type="piraten" url="http://piratenpartei-friedrichshain-kreuzberg.de/category/bvv/" />
+        <story>Von 9 gewonnenen Sitzen konnten nur 5 besetzt werden, da es nur 8 Listenkandidaten gab, von denen zudem ein Teil gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit sind vier Sitze in der Versammlung unbesetzt.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Pankow" localkey="03" localpirates="http://piratenpartei-pankow.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Michael Mittelbach</mandat>
+        <mandat type="pirat">Stephan Bliedung</mandat>
+        <mandat type="pirat">Achim Bartsch</mandat>
+        <mandat type="pirat">Frederik Bordfeld</mandat>
+        <mandat type="pirat">Stephan Verbücheln</mandat>
+        <mandat type="pirat">Jan Schrecker</mandat>
+        <fraktion type="piraten" url="http://www.piratenfraktion-pankow.de/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Charlottenburg-Wilmersdorf" localkey="04" localpirates="http://piratenpartei-charlottenburg-wilmersdorf.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Siegfried Schlosser</mandat>
+        <mandat type="pirat">Holger Pabst</mandat>
+        <mandat type="pirat">Gerlinde Behrendt</mandat>
+        <mandat type="pirat">Merle von Wittich</mandat>
+       <fraktion type="piraten" url="http://www.pf-cw.de/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Spandau" localkey="05" localpirates="http://piraten-spandau.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Emilio Paolini</mandat>
+        <mandat type="pirat">Marion Schunke</mandat>
+        <mandat type="pirat">Lasse Kosiol</mandat>
+        <fraktion type="piraten" url="http://www.piraten-fraktion-spandau.de/" />
+        <story>Von 4 gewonnenen Sitzen konnten nur 3 besetzt werden, da es nur 3 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Steglitz-Zehlendorf" localkey="06" localpirates="http://piraten-steglitz-zehlendorf.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Georg von Boroviczeny</mandat>
+        <mandat type="pirat">Eric Lüders</mandat>
+        <mandat type="pirat">Arne Müller</mandat>
+        <fraktion type="piraten" url="http://www.piratenfraktion-sz.de/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Tempelhof-Schöneberg" localkey="07" localpirates="http://piraten-tempelhof-schoeneberg.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Stefan Schulz-Günther</mandat>
+        <mandat type="pirat">Michael Ickes</mandat>
+        <mandat type="pirat">Jan-Ulrich Franz</mandat>
+        <fraktion type="piraten" url="http://fraktion.piraten-ts.de/" />
+        <story>Im Februar 2013 hat eine parteilose Bezirksverordnete die PIRATEN-Fraktion verlassen, die auf der PIRATEN-Liste gewählt worden und seit der Konstituierung Mitglied der Fraktion gewesen war. Sie ist seitdem fraktions- und parteiloses Mitglied der Versammlung.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Neukölln" localkey="08" localpirates="http://piratenneukoelln.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Steffen Burger</mandat>
+        <mandat type="pirat">Anne Helm</mandat>
+        <mandat type="pirat">Mathias Zaech</mandat>
+        <mandat type="pirat">Semih Kasap</mandat>
+        <fraktion type="piraten" url="http://piratenneukoelln.de/fraktion/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Cornelius Engelmann-Strauß</mandat>
+        <mandat type="pirat">Monika Belz</mandat>
+        <mandat type="pirat">Volker Schröder</mandat>
+        <mandat type="pirat">René Pönitz</mandat>
+        <fraktion type="piraten" url="http://pf-tk.de/" />
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Steffen Ostehr</mandat>
+        <mandat type="pirat">Volker Tanger</mandat>
+        <mandat type="pirat">Steven Kelz</mandat>
+        <mandat type="pirat">Marcel Geppert</mandat>
+        <fraktion type="piraten" url="http://fraktion.piraten-mahe.de/" />
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da eine Listenkandidatin gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Lichtenberg" localkey="11" localpirates="http://piraten-lichtenberg.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Yannick Meyer</mandat>
+        <mandat type="pirat">Steffen Bornfleth</mandat>
+        <mandat type="pirat">Marvin Hemmerlein</mandat>
+        <mandat type="pirat">Helge Eichelberg</mandat>
+        <mandat type="pirat">Florian Lange</mandat>
+        <fraktion type="piraten" url="https://fraktion-piraten-lichtenberg.de/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Bezirk" name="Reinickendorf" localkey="12" localpirates="http://www.piratenpartei-reinickendorf.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55">
+        <mandat type="pirat">Sascha Rudloff</mandat>
+        <mandat type="pirat">Benjamin Adamski</mandat>
+        <mandat type="pirat">Michael Windisch</mandat>
+        <mandat type="pirat">Michael Schulz</mandat>
+        <fraktion type="piraten" url="http://www.piratenfraktion-reinickendorf.eu/" />
+      </parlament>
+    </gebiet>
+  </bundesland>
+
   <bundesland name="Nordrhein-Westfalen" gs="05000000">
     <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000">
       <gebiet type="Stadt" name="Aachen" gs="05334002" localpirates="http://www.piratenpartei-aachen.de/">
