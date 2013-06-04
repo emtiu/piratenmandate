@@ -55,8 +55,7 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
-<!--
-    Gegen Günter Kleinpenning läuft ein Parteiausschlussverfahren:
+<!--Gegen Günter Kleinpenning läuft ein Parteiausschlussverfahren:
     http://popcornpiraten.de/angedrohter-parteiausschluss-wegen-fraktionsbildung-mit-mutmaslich-rechtem-politiker-im-rat-bad-salzuflen/
     <gebiet type="Landkreis" name="Kreis Lippe" gs="05766000">
       <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
@@ -64,8 +63,8 @@
           <mandat type="transfer" from="LINKE">Günter Kleinpenning</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>
--->
+      </gebiet>-->
+
     <gebiet type="Kreisfreie Stadt" name="Oberhausen" gs="05119000" localpirates="http://piratenpartei-oberhausen.de/">
       <gebiet type="Stadtbezirk" name="Alt-Oberhausen" arbkey="1">
         <parlament name="Bezirksvertretung" seats="19">
@@ -138,6 +137,16 @@
           <story press="http://www.aachener-zeitung.de/lokales/dueren/mandatsrueckgabe-harald-suereth-als-fraktionsloser-pirat-im-rat-1.469662" source="https://sdnetrim.kdvz-frechen.de/rim4250/personen/?__=LfyIfvCWq8SpBQj0MiyHawHWq8Vo8XGJ">Dr. Harald Süreth wurde am 30. August 2009 für die Grünen in den Gemeinderat Kreuzau gewählt. Im November 2012 trat er bei den Grünen aus und in die Piratenpartei ein, für die er jetzt als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
         </parlament>
       </gebiet>
+    </gebiet>
+  </bundesland>
+
+  <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
+    <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000">
+      <parlament name="Kreistag" seats="39">
+        <mandat type="transfer" from="FDP">Jörg Arweiler</mandat>
+        <fraktion type="none" />
+        <story press="http://www.sr-online.de/sronline/nachrichten/politik_wirtschaft/arweiler_piraten100.html" source="http://www.kreis-saarlouis.de/city_info/webaccessibility/index.cfm?region_id=389&amp;waid=210&amp;item_id=855782&amp;oldrecord=58238&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">Am 7. Juni 2009 wurde Jörg Arweiler als einer von drei FDP-Abgeordneten in den Kreistag gewählt. Seit Anfang 2012 war er partei- und fraktionslos, im Dezember 2012 ist er der Piratenpartei beigetreten.</story>
+      </parlament>
     </gebiet>
   </bundesland>
 
