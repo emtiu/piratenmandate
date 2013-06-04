@@ -283,6 +283,7 @@
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
         <parlament name="Ortsbeirat" seats="15">
           <mandat type="transfer" from="Freie Wähler/Unabhängige">Martin Schulte-Wissermann</mandat>
+          <!--FIXME Fraktionen existieren nicht-->
           <story press="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653" source="http://ratsinfo.dresden.de/kp0050.php?__kpenr=668&amp;grnr=36">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
         </parlament>
       </gebiet>
@@ -298,8 +299,34 @@
       <gebiet type="Stadt" name="Olbernhau" gs="14521460">
         <parlament name="Stadtrat" seats="22">
           <mandat type="transfer" from="Freie Wähler/Unabhängige">Tom Küchler</mandat>
+          <!--FIXME Fremde Fraktion: Bürger für Olbernhau/SPD-->
           <story press="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/" source="http://www.olbernhau.de/olbernhau/index1.htm">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
         </parlament>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
+  <bundesland name="Sachsen-Anhalt" gs="15000000" localpirates="http://www.piraten-lsa.de/">
+    <gebiet type="Landkreis" name="Landkreis Börde" gs="15083000" localpirates="http://www.piraten-boerde.de/">
+      <gebiet type="Stadt" name="Oebisfelde-Weferlingen" gs="15083411">
+        <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1">
+          <parlament name="Ortschafsrat" seats="20">
+            <mandat type="transfer" from="Einzelbewerber">Andrea Bogner</mandat>
+            <!--FIXME Fraktionen existieren nicht-->
+            <story press="http://www.volksstimme.de/nachrichten/lokal/haldensleben/1066591_Oebisfelderin-Andrea-Bogner-ist-Piraten-Kandidatin-fuer-den-Bundestag.html" source="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/kp020.asp?KPLFDNR=48&amp;options=4">Am 7. Juni 2009 wurde Andrea Bogner als parteilose Einzelkandidatin in den Ortschaftsrat Oebisfelde gewählt. Im Mai 2012 ist sie in die Piratenpartei eingetreten.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
+      <gebiet type="Gemeinde" name="Elbe-Parey" gs="15086035">
+        <gebiet type="Ortsteil" name="Ferchland">
+          <parlament name="Ortschaftsrat" seats="5">
+            <mandat type="transfer" from="SPD">Walter Henning</mandat>
+            <!--FIXME Fraktionen existieren nicht-->
+            <story press="http://www.volksstimme.de/nachrichten/lokal/genthin/794312_Piraten-entern-jetzt-die-Region.html" source="http://www.elbe-parey.de/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=52&amp;limit=1&amp;limitstart=1">Am 22. April 2007 wurde Walter Henning für die SPD in den Ortschaftsrat Ferchland gewählt. Dort ist er als Vorsitzender des Ortschaftsrats der Ortsbürgermeister. Im September 2011 ist er zur Piratenpartei übergetreten.</story>
+          </parlament>
+        </gebiet>
       </gebiet>
     </gebiet>
   </bundesland>
