@@ -3,6 +3,7 @@
 <!ELEMENT bundesland (parlament?, gebiet*) >
 <!ATTLIST bundesland name CDATA #REQUIRED >
 <!ATTLIST bundesland gs CDATA #REQUIRED >
+<!ATTLIST bundesland localpirates CDATA #IMPLIED >
 
 <!ELEMENT gebiet (parlament?, gebiet*) >
 <!ATTLIST gebiet type CDATA #REQUIRED >
