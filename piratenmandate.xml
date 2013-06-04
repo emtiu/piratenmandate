@@ -140,6 +140,16 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Rheinland-Pfalz" gs="07000000">
+    <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="04316000">
+      <parlament name="Stadtrat" seats="44">
+        <mandat type="transfer" from="LINKE">Andreas Severidt</mandat>
+        <fraktion type="none" />
+        <story press="http://www.rheinpfalz.de/cgi-bin/cms2/cms.pl?cmd=showMsg&amp;tpl=rhpMsg_thickbox.html&amp;path=/rhp/welt/rheinland-pfalz&amp;id=9011323" source="https://www2.neustadt.eu/ratsinfo/bi/kp0050.php?__kpenr=786&amp;grnr=1">Am 7. Juni 2009 wurde Andreas Severidt als einziger Abgeordneter für die Partei DIE LINKE in den Stadtrat gewählt. Im Mai 2012 ist er zur Piratenpartei übergetreten.</story>
+      </parlament>
+    </gebiet>
+  </bundesland>
+
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
     <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000">
       <parlament name="Kreistag" seats="39">
