@@ -55,6 +55,9 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
+<!--
+    Gegen Günter Kleinpenning läuft ein Parteiausschlussverfahren:
+    http://popcornpiraten.de/angedrohter-parteiausschluss-wegen-fraktionsbildung-mit-mutmaslich-rechtem-politiker-im-rat-bad-salzuflen/
     <gebiet type="Kreis" name="Lippe" gs="05766000">
       <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
         <parlament name="Stadtrat" seats="48">
@@ -62,7 +65,17 @@
           <fraktion type="none" />
         </parlament>
       </gebiet>
+-->
+    <gebiet type="Kreis" name="Höxter" gs="05762000">
+      <gebiet type="Stadt" name="Höxter" gs="05762020">
+        <parlament name="Stadtrat" seats="44">
+          <mandat type="transfer" from="LINKE">Erich Lehmann</mandat>
+          <fraktion type="none" />
+          <story press="http://www.nw-news.de/lokale_news/hoexter/hoexter/6379888_Linken-Ratsherr_heuert_bei_Piraten_an.html" source="https://sessionnet.krz.de/hoexter/bi//kp0050.php?__kpenr=586&amp;grnr=0">Erich Lehmann wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Höxter gewählt. Im März 2012 trat er aus der Partei DIE LINKE aus und in die Piratenpartei ein.</story>
+        </parlament>
+      </gebiet>
     </gebiet>
+
     <gebiet type="Kreis" name="Soest" gs="05974000">
       <gebiet type="Stadt" name="Werl" gs="05974052">
         <parlament name="Stadtrat" seats="40">
