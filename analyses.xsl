@@ -3,6 +3,7 @@
 <xsl:output method="text" encoding="UTF-8" />
 
   <xsl:key name="exparteien" match="mandat[@type='transfer']" use="@from" />
+  <xsl:key name="fraktionspartner" match="partner" use="@partei" />
 
   <xsl:template match="/">
     <xsl:text>Zahl der Mandate: </xsl:text>
@@ -26,10 +27,17 @@
     <xsl:text> PIRATEN-Fraktionen und </xsl:text>
     <xsl:value-of select="count(//fraktion[@type='gemeinsam'])" />
     <xsl:text> gemeinsame Fraktionen.&#10;</xsl:text>
+
     <xsl:value-of select="count(//parlament[fraktion[@type!='none']]/mandat)" />
     <xsl:text> Mandate in Fraktionen, </xsl:text>
     <xsl:value-of select="count(//parlament[fraktion[@type='none']]/mandat)" />
     <xsl:text> fraktionslose Mandate.&#10;</xsl:text>
+
+    <xsl:for-each select="//partner[generate-id() = generate-id(key('fraktionspartner', @partei)[1])]">
+    <xsl:sort select="count(key('fraktionspartner', @partei))" data-type="number"  order="descending" />
+      <xsl:value-of select="@partei" /><xsl:text> </xsl:text><xsl:value-of select="count(key('fraktionspartner', @partei))" /><xsl:text>&#10;</xsl:text>
+    </xsl:for-each>
+
     <xsl:value-of select="count(//parlament[not(fraktion)]/mandat)" />
     <xsl:text> Mandate in </xsl:text>
     <xsl:value-of select="count(//parlament[not(fraktion)])" />

@@ -12,7 +12,7 @@
 <!ATTLIST gebiet arbkey CDATA #IMPLIED > <!--Beliebiger Schlüssel, falls sonst keiner-->
 <!ATTLIST gebiet localpirates CDATA #IMPLIED >
 
-<!ELEMENT parlament (mandat+, fraktion?) >
+<!ELEMENT parlament (mandat+, fraktion?, story?) >
 <!ATTLIST parlament name CDATA #REQUIRED >
 <!ATTLIST parlament seats CDATA #IMPLIED >
 
@@ -24,6 +24,8 @@
 <!ATTLIST fraktion type (piraten | gemeinsam | none) #REQUIRED >
 <!ATTLIST fraktion name CDATA #IMPLIED >
 <!ATTLIST fraktion url CDATA #IMPLIED >
+
+<!ELEMENT story (#PCDATA) >
 
 <!ELEMENT partner EMPTY >
 <!ATTLIST partner partei CDATA #REQUIRED >

@@ -29,6 +29,7 @@
         <mandat type="pirat">Michael Büker</mandat>
         <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
         <fraktion type="piraten" url="http://hamburg-mitte.bezirkspiraten.de/" />
+        <story source="http://hamburg-mitte.bezirkspiraten.de/2012/06/verstarkung-fur-die-piratenpartei-in-der-bezirksversammlung-hamburg-mitte-piraten-grunden-fraktion/">Nach der Wahl zur Bezirksversammlung am 20. Februar 2011 arbeiteten Andreas Gerhold und Michael Büker zunächst als PIRATEN-Gruppe ohne Fraktionsstatus. Im Juni 2012 trat allerdings Gül Aydın von der GAL (heute Bündnis 90/Die Grünen) über und ermöglichte so die Gründung der PIRATEN-Fraktion.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
@@ -41,14 +42,14 @@
 
   <bundesland name="Nordrhein-Westfalen" gs="05000000">
     <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000">
-      <gebiet type="Stadt" name="Aachen" gs="05334002">
+      <gebiet type="Stadt" name="Aachen" gs="05334002" localpirates="http://www.piratenpartei-aachen.de/">
         <parlament name="Stadtrat" seats="74">
           <mandat type="pirat">Sait Başkaya</mandat>
           <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000">
+    <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000" localpirates="http://www.piraten-muenster.de/">
       <parlament name="Stadtrat" seats="80">
         <mandat type="pirat">Pascal Powroznik</mandat>
         <fraktion type="none" />
