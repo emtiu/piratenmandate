@@ -159,11 +159,20 @@
   </bundesland>
 
   <bundesland name="Nordrhein-Westfalen" gs="05000000">
-    <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000">
-      <gebiet type="Stadt" name="Aachen" gs="05334002" localpirates="http://www.piratenpartei-aachen.de/">
+    <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
+      <gebiet type="Stadt" name="Aachen" gs="05334002">
         <parlament name="Stadtrat" seats="74">
           <mandat type="pirat">Sait Başkaya</mandat>
           <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Eschweiler" gs="05334012">
+        <parlament name="Stadtrat" seats="50">
+          <mandat type="transfer" from="CDU">Rudi E. Lennartz</mandat>
+          <fraktion type="gemeinsam" name="Fraktion aus Piratenpartei und Unabhängigem" url="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;design_id=11083&amp;item_id=855862&amp;modul_id=39&amp;record_id=319&amp;keyword=0&amp;eps=20&amp;cat=0">
+            <partner partei="Parteilose" num="1" />
+          </fraktion>
+          <story press="http://www.aachener-zeitung.de/lokales/eschweiler/cdu-dissidenten-wollen-nun-als-fraktion-auftreten-1.518151" source="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;design_id=11083&amp;item_id=855862&amp;modul_id=39&amp;record_id=319&amp;keyword=0&amp;eps=20&amp;cat=0">Am 30. August 2009 wurden Rudi E. Lennartz und Wolfram Stolz für die CDU in den Stadtrat von Eschweiler gewählt. Bereits 2011 trat Wolfram Stolz aus der CDU-Fraktion aus, im Januar 2013 schließlich auch Rudi E. Lennartz. Die beiden gründeten im Februar 2013 die „Fraktion aus Piratenpartei und Unabhängigem“.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -214,7 +223,7 @@
     <gebiet type="Landkreis" name="Kreis Steinfurt" gs="05566000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Steinfurt">
       <gebiet type="Stadt" name="Lengerich" gs="05566040">
         <parlament name="Stadtrat" seats="32">
-          <mandat type="transfer" from="Freie Wähler/Unabhängige">Sandra Grotholtmann</mandat>
+          <mandat type="transfer" from="Wählergemeinschaft">Sandra Grotholtmann</mandat>
           <fraktion type="none" />
           <story press="http://www.wn.de/Muensterland/Kreis-Steinfurt/Lengerich/2012/03/WfL-Vorsitzende-wird-Mitglied-Piratenpartei-entert-Stadtrat" source="https://lengerich.ratsinfomanagement.net/personen/?__=LfyIfvCWq8SpBQj0MnzMaxCYv8Vn7UGJ">Sandra Grotholtmann wurde am 30. August 2009 für die Freie Wählergemeinschaft Lengerich (WfL) in den Stadtrat Lengerich gewählt. Im März 2012 ist sie in die Piratenpartei eingetreten, bleibt aber weiterhin auch Mitglied der WfL.</story>
         </parlament>
@@ -266,6 +275,14 @@
         <story press="http://www.rheinpfalz.de/cgi-bin/cms2/cms.pl?cmd=showMsg&amp;tpl=rhpMsg_thickbox.html&amp;path=/rhp/welt/rheinland-pfalz&amp;id=9011323" source="https://www2.neustadt.eu/ratsinfo/bi/kp0050.php?__kpenr=786&amp;grnr=1">Am 7. Juni 2009 wurde Andreas Severidt als einziger Abgeordneter für die Partei DIE LINKE in den Stadtrat gewählt. Im Mai 2012 ist er zur Piratenpartei übergetreten.</story>
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
+      <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
+        <parlament name="Verbandsgemeinderat" seats="32">
+          <mandat type="transfer" from="Wählergemeinschaft">Ottmar Muno</mandat>
+          <story press="http://www.abgeordnetenwatch.de/ottmar_muno-840-42836--f283759.html#q283759" source="http://www.hermeskeil.de/index.php?id=221">Am 7. Juni 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
@@ -282,7 +299,7 @@
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
         <parlament name="Ortsbeirat" seats="15">
-          <mandat type="transfer" from="Freie Wähler/Unabhängige">Martin Schulte-Wissermann</mandat>
+          <mandat type="transfer" from="Wählergemeinschaft">Martin Schulte-Wissermann</mandat>
           <!--FIXME Fraktionen existieren nicht-->
           <story press="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653" source="http://ratsinfo.dresden.de/kp0050.php?__kpenr=668&amp;grnr=36">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
         </parlament>
@@ -298,7 +315,7 @@
     <gebiet type="Landkreis" name="Erzgebirgskreis" gs="14521000" localpirates="http://www.piraten-erzgebirge.de/">
       <gebiet type="Stadt" name="Olbernhau" gs="14521460">
         <parlament name="Stadtrat" seats="22">
-          <mandat type="transfer" from="Freie Wähler/Unabhängige">Tom Küchler</mandat>
+          <mandat type="transfer" from="Wählergemeinschaft">Tom Küchler</mandat>
           <!--FIXME Fremde Fraktion: Bürger für Olbernhau/SPD-->
           <story press="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/" source="http://www.olbernhau.de/olbernhau/index1.htm">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
         </parlament>
@@ -320,13 +337,32 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
       <gebiet type="Gemeinde" name="Elbe-Parey" gs="15086035">
-        <gebiet type="Ortsteil" name="Ferchland">
+        <gebiet type="Ortsteil" name="Ferchland" arbkey="1">
           <parlament name="Ortschaftsrat" seats="5">
             <mandat type="transfer" from="SPD">Walter Henning</mandat>
             <!--FIXME Fraktionen existieren nicht-->
             <story press="http://www.volksstimme.de/nachrichten/lokal/genthin/794312_Piraten-entern-jetzt-die-Region.html" source="http://www.elbe-parey.de/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=52&amp;limit=1&amp;limitstart=1">Am 22. April 2007 wurde Walter Henning für die SPD in den Ortschaftsrat Ferchland gewählt. Dort ist er als Vorsitzender des Ortschaftsrats der Ortsbürgermeister. Im September 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
+  <bundesland name="Thüringen" gs="16000000">
+    <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
+      <gebiet type="Ortsteil" name="Stedtfeld" arbkey="1">
+        <parlament name="Ortsteilrat" seats="6">
+          <mandat type="transfer" from="Einzelbewerber">Klaus Lütkenhues</mandat>
+          <story press="http://eisenach-net.de/index.php/en/89-politik/275-neuwahlen-bei-den-wartburgpiraten?tmpl=component&amp;print=1&amp;page=" source="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">Am 7. Juni 2009 wurde Klaus Lütkenhues als Einzelbewerber in den Ortsteilrat Eisenach-Stedtfeld gewählt. Er ist im November 2011 in die Piratenpartei eingetreten.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Jena" gs="16053000" localpirates="http://jena.piraten-thueringen.de/">
+      <gebiet type="Ortsteil" name="Jena-Nord" arbkey="1">
+        <parlament name="Ortsteilrat" seats="11">
+          <mandat type="transfer" from="FDP">Michael Gruner</mandat>
+          <story source="http://www.jena.de/de/stadt_verwaltung/stadtrat/politische_gremien/243228">Am 7. Juni 2009 wurde Michael Gruner für die FDP in den Ortsteilrat Jena-Nord gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
+        </parlament>
       </gebiet>
     </gebiet>
   </bundesland>
