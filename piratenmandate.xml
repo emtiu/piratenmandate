@@ -279,6 +279,7 @@
       <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
         <parlament name="Verbandsgemeinderat" seats="32">
           <mandat type="transfer" from="Wählergemeinschaft">Ottmar Muno</mandat>
+          <fraktion type="none" />
           <story press="http://www.abgeordnetenwatch.de/ottmar_muno-840-42836--f283759.html#q283759" source="http://www.hermeskeil.de/index.php?id=221">Am 7. Juni 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
         </parlament>
       </gebiet>
@@ -353,14 +354,16 @@
       <gebiet type="Ortsteil" name="Stedtfeld" arbkey="1">
         <parlament name="Ortsteilrat" seats="6">
           <mandat type="transfer" from="Einzelbewerber">Klaus Lütkenhues</mandat>
+            <fraktion type="impossible" />
           <story press="http://eisenach-net.de/index.php/en/89-politik/275-neuwahlen-bei-den-wartburgpiraten" source="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">Am 7. Juni 2009 wurde Klaus Lütkenhues als Einzelbewerber in den Ortsteilrat Eisenach-Stedtfeld gewählt. Er ist im November 2011 in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Jena" gs="16053000" localpirates="http://jena.piraten-thueringen.de/">
       <gebiet type="Ortsteil" name="Jena-Nord" arbkey="1">
-        <parlament name="Ortsteilrat" seats="11">
+        <parlament name="Ortsteilrat" seats="10">
           <mandat type="transfer" from="FDP">Michael Gruner</mandat>
+            <fraktion type="impossible" />
           <story source="http://www.jena.de/de/stadt_verwaltung/stadtrat/politische_gremien/243228">Am 7. Juni 2009 wurde Michael Gruner für die FDP in den Ortsteilrat Jena-Nord gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
         </parlament>
       </gebiet>
