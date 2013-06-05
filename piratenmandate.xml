@@ -4,6 +4,66 @@
 <piratenmandate>
 
   <bundesland name="Schleswig-Holstein" gs="01000000">
+    <gebiet type="Kreisfreie Stadt" name="Kiel" gs="01002000" localpirates="http://landesportal.piratenpartei-sh.de/kiel/">
+      <parlament name="Ratsversammlung" seats="53">
+        <mandat type="pirat">Sven Seele</mandat>
+        <mandat type="pirat">Marcel Schmidt</mandat>
+        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-kiel/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Lübeck" gs="01003000" localpirates="http://landesportal.piratenpartei-sh.de/luebeck/">
+      <parlament name="Bürgerschaft" seats="49">
+        <mandat type="pirat">Oliver Dedow</mandat>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
+      <parlament name="Ratsversammlung" seats="42">
+        <mandat type="pirat">Thomas Puls</mandat>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
+      <parlament name="Kreistag" seats="44">
+        <mandat type="pirat" multiplicity="double">Dr. Siegfried Hansen</mandat>
+      </parlament>
+      <gebiet type="Stadt" name="Glückstadt" gs="01061029" localpirates="http://landesportal.piratenpartei-sh.de/glueckstadt/">
+        <parlament name="Stadtvertretung" seats="23">
+          <mandat type="pirat" multiplicity="double">Dr. Siegfried Hansen</mandat>
+          <mandat type="pirat">Sebastian Kolpert</mandat>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
+      <parlament name="Kreistag" seats="52">
+        <mandat type="pirat">Christian Ott</mandat>
+      </parlament>
+      <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
+        <parlament name="Gemeindevertretung" seats="36">
+          <mandat type="pirat">Christian Thiessen</mandat>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
+      <parlament name="Kreistag" seats="56">
+        <mandat type="pirat">Thomas Wilken</mandat>
+        <mandat type="pirat">Toni Köppen</mandat>
+        <fraktion type="piraten" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
+      <parlament name="Kreistag" seats="49">
+        <mandat type="pirat">Hans-Werner Last</mandat>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Pinneberg" gs="" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
+      <parlament name="Kreistag" seats="44">
+        <mandat type="pirat">Sven Lange</mandat>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
+      <parlament name="Kreistag" seats="48">
+        <mandat type="pirat">Axel Sieck</mandat>
+      </parlament>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Hamburg" gs="02000000">
