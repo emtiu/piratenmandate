@@ -21,7 +21,7 @@
     </xsl:for-each>
 
     <xsl:text>&#10;-- Zahl der Fraktionen: </xsl:text>
-    <xsl:value-of select="count(//fraktion[@type!='none' and @type!='impossible'])" />
+    <xsl:value-of select="count(//fraktion[@type!='fremd' and @type!='none' and @type!='impossible'])" />
     <xsl:text>&#10;Davon </xsl:text>
     <xsl:value-of select="count(//fraktion[@type='piraten'])" />
     <xsl:text> PIRATEN-Fraktionen und </xsl:text>
@@ -35,9 +35,11 @@
     </xsl:for-each>
 
     <xsl:text>&#10;</xsl:text><xsl:value-of select="count(//parlament[fraktion[@type!='none' and @type!='impossible']]/mandat)" />
-    <xsl:text> Mandate in Fraktionen, </xsl:text>
+    <xsl:text> Fraktionsmitglieder (davon </xsl:text>
+    <xsl:value-of select="count(//parlament[fraktion[@type='fremd']]/mandat)" />
+    <xsl:text> in fremden Fraktionen) und </xsl:text>
     <xsl:value-of select="count(//parlament[fraktion[@type='none']]/mandat)" />
-    <xsl:text> fraktionslose Mandate.&#10;</xsl:text>
+    <xsl:text> Fraktionslose.&#10;</xsl:text>
     <xsl:value-of select="count(//parlament[fraktion[@type='impossible']]/mandat)" />
     <xsl:text> Mandate in Vertretungen ohne Fraktionen.&#10;</xsl:text>
     <xsl:value-of select="count(//parlament[not(fraktion)]/mandat)" />

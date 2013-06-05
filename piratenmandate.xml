@@ -3,6 +3,9 @@
 
 <piratenmandate>
 
+  <bundesland name="Schleswig-Holstein" gs="01000000">
+  </bundesland>
+
   <bundesland name="Hamburg" gs="02000000">
     <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1" localpirates="http://wiki.piratenpartei.de/HH:Mitte">
       <parlament name="Bezirksversammlung" seats="51">
@@ -296,27 +299,6 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Mecklenburg-Vorpommern" gs="15000000">
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
-      <gebiet type="Stadt" name="Eggesin" gs="15075031">
-        <parlament name="Stadtvertretung" seats="17">
-          <mandat type="transfer" from="LINKE">Ulf Glöde</mandat>
-          <fraktion type="none" />
-          <story press="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266" official="http://www.eggesin.de/start/buergerservice/stadtvertretung/">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
-      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
-        <parlament name="Gemeindevertretung" seats="9">
-          <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
-          <fraktion type="impossible"/>
-          <story press="http://www.heise.de/tp/blogs/8/151935" official="http://www.recknitz-trebeltal.info/html/eixen.html">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-  </bundesland>
-
   <bundesland name="Sachsen" gs="14000000">
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
@@ -338,8 +320,29 @@
       <gebiet type="Stadt" name="Olbernhau" gs="14521460">
         <parlament name="Stadtrat" seats="22">
           <mandat type="transfer" from="Wählergemeinschaft">Tom Küchler</mandat>
-          <!--FIXME Fremde Fraktion: Bürger für Olbernhau/SPD-->
+          <fraktion type="fremd" name="Bürger für Olbernhau/SPD" />
           <story press="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/" official="http://www.olbernhau.de/olbernhau/index1.htm">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
+  <bundesland name="Mecklenburg-Vorpommern" gs="15000000">
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
+      <gebiet type="Stadt" name="Eggesin" gs="15075031">
+        <parlament name="Stadtvertretung" seats="17">
+          <mandat type="transfer" from="LINKE">Ulf Glöde</mandat>
+          <fraktion type="none" />
+          <story press="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266" official="http://www.eggesin.de/start/buergerservice/stadtvertretung/">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
+      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
+        <parlament name="Gemeindevertretung" seats="9">
+          <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
+          <fraktion type="impossible"/>
+          <story press="http://www.heise.de/tp/blogs/8/151935" official="http://www.recknitz-trebeltal.info/html/eixen.html">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
