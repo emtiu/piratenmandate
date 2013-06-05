@@ -18,6 +18,7 @@
 <!ATTLIST parlament seats CDATA #IMPLIED >
 
 <!ELEMENT mandat (#PCDATA) >
+<!ATTLIST mandat multiplicity (none | double | triple) "none" >
 <!ATTLIST mandat type (pirat | transfer) #REQUIRED >
 <!ATTLIST mandat from CDATA #IMPLIED >
 
