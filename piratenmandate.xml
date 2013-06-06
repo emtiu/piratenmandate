@@ -212,6 +212,96 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Hessen" gs="06000000">
+    <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="93">
+        <mandat type="pirat">Herbert Förster</mandat>
+        <mandat type="pirat">Martin Kliehm</mandat>
+        <fraktion type="gemeinsam" name="ELF Piraten" url="http://fw-pp.de/">
+          <partner partei="Europaliste für Frankfurt" num="1" />
+        </fraktion>
+        <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="81">
+        <mandat type="pirat">Hendrik Seipel-Rotter</mandat>
+        <mandat type="pirat">Michael Göttenauer</mandat>
+        <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
+          <partner partei="LINKE" num="2" />
+        </fraktion>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="71">
+        <mandat type="pirat">Claudia Stricker</mandat>
+        <mandat type="pirat">Bernhard Schubach</mandat>
+        <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="71">
+        <mandat type="pirat">Jörg-Peter Bayer</mandat>
+        <fraktion type="none" />
+        <story>Die beiden in die Stadtverordnetenversammlung gewählten Piraten bildeten zunächst eine Fraktion mit mit einem parteilosen Stadtverordneten (ehemals SPD) als Fraktionschef. Diese wurde im März 2013 aufgelöst. Im Mai 2013 trat schließlich einer der beiden PIRATEN-Abgeordneten aus der Partei aus.</story>
+      </parlament>
+      <gebiet type="Ortsteil" name="Stadtteil Nord-Holland" arbkey="1">
+        <parlament name="Ortsbeirat" seats="13">
+          <mandat type="pirat">Volker Berkhout</mandat>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Offenbach am Main" gs="06413000" localpirates="http://www.piratenpartei-offenbach.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="71">
+        <mandat type="pirat">Gregory Engels</mandat>
+        <mandat type="pirat">Helmut Eisenkolb</mandat>
+        <fraktion type="piraten" url="http://www.piratenpartei-offenbach.de/content/fraktion-2011-2016" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
+      <parlament name="Kreistag" seats="71">
+        <mandat type="pirat">Norbert Rücker</mandat>
+        <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
+          <partner partei="Wählergemeinschaft" num="2" />
+        </fraktion>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Bergstraße" gs="06431000" localpirates="http://www.piraten-bergstrasse.de/">
+      <parlament name="Kreistag" seats="81">
+        <mandat type="pirat">Peter Dambier</mandat>
+        <mandat type="transfer" from="LINKE">Veronika Zenker</mandat>
+        <fraktion type="piraten" url="http://www.piraten-fraktion-bergstrasse.de/" />
+        <story press="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
+      <parlament name="Kreistag" seats="81">
+        <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
+        <mandat type="pirat" multiplicity="double">Christian Oechler</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Stadt" name="Gießen" gs="06531005">
+        <parlament name="Stadtverordnetenversammlung" seats="59">
+          <mandat type="pirat" multiplicity="double">Christian Oechler</mandat>
+          <mandat type="pirat">Christian Jackelen</mandat>
+          <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
+      <parlament name="Kreistag" seats="81">
+        <mandat type="pirat">Stephan Flindt</mandat>
+        <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
+      </parlament>
+      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="0644023" localpirates="http://www.piratenpartei-rosbach.de/">
+        <parlament name="Stadtverordnetenversammlung" seats="31">
+          <mandat type="pirat">Helge Welker</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
   <bundesland name="Rheinland-Pfalz" gs="07000000">
     <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="04316000">
       <parlament name="Stadtrat" seats="44">
