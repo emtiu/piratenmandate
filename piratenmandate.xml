@@ -231,6 +231,11 @@
           <partner partei="LINKE" num="2" />
         </fraktion>
       </parlament>
+      <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
+        <parlament name="Ortsbeirat" seats="15">
+          <mandat type="pirat">Markus Kairies</mandat>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71">
