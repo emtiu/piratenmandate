@@ -73,7 +73,7 @@
         <mandat type="pirat">Michael Büker</mandat>
         <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
         <fraktion type="piraten" url="http://hamburg-mitte.bezirkspiraten.de/" />
-        <story official="http://hamburg-mitte.bezirkspiraten.de/2012/06/verstarkung-fur-die-piratenpartei-in-der-bezirksversammlung-hamburg-mitte-piraten-grunden-fraktion/">Nach der Wahl zur Bezirksversammlung am 20. Februar 2011 arbeiteten Andreas Gerhold und Michael Büker zunächst als PIRATEN-Gruppe ohne Fraktionsstatus. Im Juni 2012 trat allerdings Gül Aydın von der GAL (heute Bündnis 90/Die Grünen) über und ermöglichte so die Gründung der PIRATEN-Fraktion.</story>
+        <story source="http://hamburg-mitte.bezirkspiraten.de/2012/06/verstarkung-fur-die-piratenpartei-in-der-bezirksversammlung-hamburg-mitte-piraten-grunden-fraktion/">Nach der Wahl zur Bezirksversammlung am 20. Februar 2011 arbeiteten Andreas Gerhold und Michael Büker zunächst als PIRATEN-Gruppe ohne Fraktionsstatus. Im Juni 2012 trat allerdings Gül Aydın von der GAL (heute Bündnis 90/Die Grünen) über und ermöglichte so die Gründung der PIRATEN-Fraktion.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
@@ -112,12 +112,12 @@
         </parlament>
       </gebiet>
       <gebiet type="Stadt" name="Eschweiler" gs="05334012">
-        <parlament name="Stadtrat" seats="50">
+        <parlament name="Stadtrat" seats="50" ris="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;item_id=855866">
           <mandat type="transfer" from="CDU">Rudi E. Lennartz</mandat>
-          <fraktion type="gemeinsam" name="Fraktion aus Piratenpartei und Unabhängigem" url="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;design_id=11083&amp;item_id=855862&amp;modul_id=39&amp;record_id=319&amp;keyword=0&amp;eps=20&amp;cat=0">
+          <fraktion type="gemeinsam" name="Fraktion aus Piratenpartei und Unabhängigem">
             <partner partei="Parteilose" num="1" />
           </fraktion>
-          <story press="http://www.aachener-zeitung.de/lokales/eschweiler/cdu-dissidenten-wollen-nun-als-fraktion-auftreten-1.518151" official="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;design_id=11083&amp;item_id=855862&amp;modul_id=39&amp;record_id=319&amp;keyword=0&amp;eps=20&amp;cat=0">Am 30. August 2009 wurden Rudi E. Lennartz und Wolfram Stolz für die CDU in den Stadtrat von Eschweiler gewählt. Bereits 2011 trat Wolfram Stolz aus der CDU-Fraktion aus, im Januar 2013 schließlich auch Rudi E. Lennartz. Die beiden gründeten im Februar 2013 die „Fraktion aus Piratenpartei und Unabhängigem“.</story>
+          <story source="http://www.aachener-zeitung.de/lokales/eschweiler/cdu-dissidenten-wollen-nun-als-fraktion-auftreten-1.518151">Am 30. August 2009 wurden Rudi E. Lennartz und Wolfram Stolz für die CDU in den Stadtrat von Eschweiler gewählt. Bereits 2011 trat Wolfram Stolz aus der CDU-Fraktion aus, im Januar 2013 schließlich auch Rudi E. Lennartz. Die beiden gründeten im Februar 2013 die „Fraktion aus Piratenpartei und Unabhängigem“.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -139,19 +139,19 @@
 
     <gebiet type="Kreisfreie Stadt" name="Oberhausen" gs="05119000" localpirates="http://piratenpartei-oberhausen.de/">
       <gebiet type="Stadtbezirk" name="Alt-Oberhausen" arbkey="1">
-        <parlament name="Bezirksvertretung" seats="19">
+        <parlament name="Bezirksvertretung" seats="19" ris="http://allris.oberhausen.de/bi/pa021.asp">
           <mandat type="transfer" from="GRÜNE">Albert Karschti</mandat>
           <fraktion type="none" />
-          <story press="http://docs.google.com/viewer?a=v&amp;q=cache:soNNX6Ym1oAJ:gruene-oberhausen.de/userspace/NW/kv_oberhausen/Dokumente/Texte/Pressemitteilung_Karschti.pdf+piraten+site:gruene-oberhausen.de&amp;hl=de&amp;gl=de&amp;pid=bl&amp;srcid=ADGEESiSDdnHpAF8lYSvM_c7JEoC3CFlBkB7N0SDoBDdMyPm3nkFfwBA1epcc17QEQyN6keq6zsgb0yaW2Gw2P_4MhGpyi6fM6f_Dyiw9CZ5XUFNgtq6kzDGF4m-TGnIinXjG_H5HL03&amp;sig=AHIEtbQhjxy4Zf9ggFJdEJJHW8OOnyY3sw" official="http://allris.oberhausen.de/bi/kp020.asp?KPLFDNR=95&amp;options=4">Albert Karschti ist am 4. November 2009 für die Grünen in die Bezirksvertretung Alt-Oberhausen nachgerückt und wurde dort als ihr stellvertretender Vorsitzender der stellvertretende Bezirksbürgermeister. Anfang 2010 trat er bei den Grünen aus und war parteiloser Abgeordneter, bevor er im Oktober 2011 in die Piratenpartei eintrat.</story>
+          <story source="http://docs.google.com/viewer?a=v&amp;q=cache:soNNX6Ym1oAJ:gruene-oberhausen.de/userspace/NW/kv_oberhausen/Dokumente/Texte/Pressemitteilung_Karschti.pdf+piraten+site:gruene-oberhausen.de&amp;hl=de&amp;gl=de&amp;pid=bl&amp;srcid=ADGEESiSDdnHpAF8lYSvM_c7JEoC3CFlBkB7N0SDoBDdMyPm3nkFfwBA1epcc17QEQyN6keq6zsgb0yaW2Gw2P_4MhGpyi6fM6f_Dyiw9CZ5XUFNgtq6kzDGF4m-TGnIinXjG_H5HL03&amp;sig=AHIEtbQhjxy4Zf9ggFJdEJJHW8OOnyY3sw">Albert Karschti ist am 4. November 2009 für die Grünen in die Bezirksvertretung Alt-Oberhausen nachgerückt und wurde dort als ihr stellvertretender Vorsitzender der stellvertretende Bezirksbürgermeister. Anfang 2010 trat er bei den Grünen aus und war parteiloser Abgeordneter, bevor er im Oktober 2011 in die Piratenpartei eintrat.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Höxter" gs="05762000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_H%C3%B6xter">
       <gebiet type="Stadt" name="Höxter" gs="05762020">
-        <parlament name="Stadtrat" seats="44">
+        <parlament name="Stadtrat" seats="44" ris="https://sessionnet.krz.de/hoexter/bi//kp0041.php">
           <mandat type="transfer" from="LINKE">Erich Lehmann</mandat>
           <fraktion type="none" />
-          <story press="http://www.nw-news.de/lokale_news/hoexter/hoexter/6379888_Linken-Ratsherr_heuert_bei_Piraten_an.html" official="https://sessionnet.krz.de/hoexter/bi//kp0050.php?__kpenr=586&amp;grnr=0">Erich Lehmann wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Höxter gewählt. Im März 2012 trat er aus der Partei DIE LINKE aus und in die Piratenpartei ein.</story>
+          <story source="http://www.nw-news.de/lokale_news/hoexter/hoexter/6379888_Linken-Ratsherr_heuert_bei_Piraten_an.html">Erich Lehmann wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Höxter gewählt. Im März 2012 trat er aus der Partei DIE LINKE aus und in die Piratenpartei ein.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -161,52 +161,52 @@
           <mandat type="transfer" from="LINKE">Matthias Fischer</mandat>
           <mandat type="transfer" from="LINKE">Ali Kaya</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-werl.de/" />
-          <story press="http://www.soester-anzeiger.de/lokales/werl/ex-linke-sind-jetzt-piraten-erste-fraktion-1568571.html">Die beiden Abgeordneten Ali Kaya und Matthias Fischer waren am 30. August 2009 für die Partei DIE LINKE in den Stadtrat eingezogen. Im Januar 2012 traten sie zur Piratenpartei über und bilden mit zwei Abgeordneten nun eine Piratenfraktion.</story>
+          <story source="http://www.soester-anzeiger.de/lokales/werl/ex-linke-sind-jetzt-piraten-erste-fraktion-1568571.html">Die beiden Abgeordneten Ali Kaya und Matthias Fischer waren am 30. August 2009 für die Partei DIE LINKE in den Stadtrat eingezogen. Im Januar 2012 traten sie zur Piratenpartei über und bilden mit zwei Abgeordneten nun eine Piratenfraktion.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinfurt" gs="05566000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Steinfurt">
       <gebiet type="Stadt" name="Lengerich" gs="05566040">
-        <parlament name="Stadtrat" seats="32">
+        <parlament name="Stadtrat" seats="32" ris="https://lengerich.ratsinfomanagement.net/personen/?__=Lg5PgvCYq9ToBUr1Le.LbuCWq8Vt6Pi2Ne0Gc0CfqBTpAOk4KfyIfuCWtAWv4Xm0Te5MayCZqAXm6Wi9Kg0GbuLeq9Sp5Ro0MkyHawLXw8Vn7Uj0KeyHayCaqHYm8Pi2KfyJcyLWsFSq5Oi0Ke-Hd.CYx8Wm6Ri4Kg5HgvCWq8SvCOj0MlyKa1IWu8Ut4SGJ">
           <mandat type="transfer" from="Wählergemeinschaft">Sandra Grotholtmann</mandat>
           <fraktion type="none" />
-          <story press="http://www.wn.de/Muensterland/Kreis-Steinfurt/Lengerich/2012/03/WfL-Vorsitzende-wird-Mitglied-Piratenpartei-entert-Stadtrat" official="https://lengerich.ratsinfomanagement.net/personen/?__=LfyIfvCWq8SpBQj0MnzMaxCYv8Vn7UGJ">Sandra Grotholtmann wurde am 30. August 2009 für die Freie Wählergemeinschaft Lengerich (WfL) in den Stadtrat Lengerich gewählt. Im März 2012 ist sie in die Piratenpartei eingetreten, bleibt aber weiterhin auch Mitglied der WfL.</story>
+          <story source="http://www.wn.de/Muensterland/Kreis-Steinfurt/Lengerich/2012/03/WfL-Vorsitzende-wird-Mitglied-Piratenpartei-entert-Stadtrat">Sandra Grotholtmann wurde am 30. August 2009 für die Freie Wählergemeinschaft Lengerich (WfL) in den Stadtrat Lengerich gewählt. Im März 2012 ist sie in die Piratenpartei eingetreten, bleibt aber weiterhin auch Mitglied der WfL.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Borken">
       <gebiet type="Stadt" name="Rhede" gs="05554048">
-        <parlament name="Stadtrat" seats="38">
+        <parlament name="Stadtrat" seats="38" ris="http://www.rhede.de/Ratsmitglieder-A-Z.781.0.html">
           <mandat type="transfer" from="CDU">Siegfried Kerkhoff</mandat>
           <fraktion type="none" />
-          <story press="http://www.bbv-net.de/lokales/rhede_artikel,-Der-erste-Pirat-im-Rheder-Rat-_arid,108586.html" official="http://www.rhede.de/Ratsmitglieder-A-Z.781.0.html?&amp;tx_spdirectory_pi1[mode]=detail&amp;tx_spdirectory_pi1[modifier]=abc&amp;tx_spdirectory_pi1[value]=1016&amp;cHash=e5e42e5c757d7734f7165860fa9f709e">Siegfried Kerkhoff wurde am 30. August 2009 für die CDU in den Stadtrat Rhede gewählt und war deren stellvertretender Fraktionsvorsitzender. Er ist 2012 aus der CDU ausgetreten und in die Piratenpartei eingetreten, für die er nun als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
+          <story source="http://www.bbv-net.de/lokales/rhede_artikel,-Der-erste-Pirat-im-Rheder-Rat-_arid,108586.html">Siegfried Kerkhoff wurde am 30. August 2009 für die CDU in den Stadtrat Rhede gewählt und war deren stellvertretender Fraktionsvorsitzender. Er ist 2012 aus der CDU ausgetreten und in die Piratenpartei eingetreten, für die er nun als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Ennepe-Ruhr-Kreis" gs="05945000" localpirates="http://wiki.piratenpartei.de/NRW:Ennepe-Ruhr-Kreis">
       <gebiet type="Stadt" name="Ennepetal" gs="05945008">
-        <parlament name="Stadtrat" seats="40">
+        <parlament name="Stadtrat" seats="40" ris="http://rat.ennepetal.de/ratsinfo/ennepetal/Person.html">
           <mandat type="transfer" from="LINKE">Wilhelm Völlmecke</mandat>
           <fraktion type="none" />
-          <story official="http://rat.ennepetal.de/ratsinfo/ennepetal/Person.html?o=2&amp;oc=2&amp;ob=1&amp;persid=76&amp;pc=76#current">Wilhelm Völlmecke wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Ennepetal gewählt. Im Januar 2012 trat er aus der Partei DIE LINKE aus und im März 2012 in die Piratenpartei ein.</story>
+          <story source="http://www.lokalkompass.de/ennepetal/politik/buergersprechstunde-der-piratenpartei-d281427.html">Wilhelm Völlmecke wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Ennepetal gewählt. Im Januar 2012 trat er aus der Partei DIE LINKE aus und im März 2012 in die Piratenpartei ein.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Rhein-Kreis Neuss" gs="05162000">
       <gebiet type="Gemeinde" name="Jüchen" gs="05162012" localpirates="https://wiki.piratenpartei.de/NRW:Rhein-Kreis_Neuss/Stammtisch/Jüchen">
-        <parlament name="Gemeinderat" seats="46">
+        <parlament name="Gemeinderat" seats="46" ris="http://www.juechen.de/start/politik/gemeinderat/ratsmitglieder/">
           <mandat type="transfer" from="LINKE">Heiner Lindgens</mandat>
           <fraktion type="none" />
-          <story press="http://www.rp-online.de/niederrhein-sued/juechen/nachrichten/ratsherr-heiner-lindgens-ist-jetzt-ein-pirat-1.2154460" official="http://www.juechen.de/start/politik/gemeinderat/ratsmitglieder/">Heiner Lindgens wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Gemeinderat Jüchen gewählt. Noch vor der Konstituierung des Gemeinderats trat er aus der Partei DIE LINKE aus und übte sein Mandat als partei- und fraktionsloser Abgeordneter aus. Im September 2011 trat er der Piratenpartei bei.</story>
+          <story source="http://www.rp-online.de/niederrhein-sued/juechen/nachrichten/ratsherr-heiner-lindgens-ist-jetzt-ein-pirat-1.2154460">Heiner Lindgens wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Gemeinderat Jüchen gewählt. Noch vor der Konstituierung des Gemeinderats trat er aus der Partei DIE LINKE aus und übte sein Mandat als partei- und fraktionsloser Abgeordneter aus. Im September 2011 trat er der Piratenpartei bei.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
       <gebiet type="Gemeinde" name="Kreuzau" gs="05358028">
-        <parlament name="Gemeinderat" seats="35">
+        <parlament name="Gemeinderat" seats="35" ris="https://sdnetrim.kdvz-frechen.de/rim4250/personen/?__=Lg5PgvCYq9ToBUr1Le.LbuCWq8Vt6Pi2Se5HayCaqBSo9Ok9LkyIeuDWsCSn4Rk4Te.Pb.CZqAXm7Qm9Kg-GeuFXtESvCOj0MjyGawLXw9Sq4Si3Lh2Gc.CXqAVm8Or8KfyIeuDWtAWv4Qr1Qe.JayCYz9Yn4Si4Le.GbuLaqHSp4Qn0MhyKawJWu8Uv5UGJ">
           <mandat type="transfer" from="GRÜNE">Dr. Harald Süreth</mandat>
           <fraktion type="none" />
-          <story press="http://www.aachener-zeitung.de/lokales/dueren/mandatsrueckgabe-harald-suereth-als-fraktionsloser-pirat-im-rat-1.469662" official="https://sdnetrim.kdvz-frechen.de/rim4250/personen/?__=LfyIfvCWq8SpBQj0MiyHawHWq8Vo8XGJ">Dr. Harald Süreth wurde am 30. August 2009 für die Grünen in den Gemeinderat Kreuzau gewählt. Im November 2012 trat er bei den Grünen aus und in die Piratenpartei ein, für die er jetzt als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
+          <story source="http://www.aachener-zeitung.de/lokales/dueren/mandatsrueckgabe-harald-suereth-als-fraktionsloser-pirat-im-rat-1.469662">Dr. Harald Süreth wurde am 30. August 2009 für die Grünen in den Gemeinderat Kreuzau gewählt. Im November 2012 trat er bei den Grünen aus und in die Piratenpartei ein, für die er jetzt als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -276,7 +276,7 @@
         <mandat type="pirat">Peter Dambier</mandat>
         <mandat type="transfer" from="LINKE">Veronika Zenker</mandat>
         <fraktion type="piraten" url="http://www.piraten-fraktion-bergstrasse.de/" />
-        <story press="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
+        <story source="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
@@ -309,18 +309,18 @@
 
   <bundesland name="Rheinland-Pfalz" gs="07000000">
     <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="04316000">
-      <parlament name="Stadtrat" seats="44">
+      <parlament name="Stadtrat" seats="44" ris="https://www2.neustadt.eu/ratsinfo/bi/kp0041.php">
         <mandat type="transfer" from="LINKE">Andreas Severidt</mandat>
         <fraktion type="none" />
-        <story press="http://www.rheinpfalz.de/cgi-bin/cms2/cms.pl?cmd=showMsg&amp;tpl=rhpMsg_thickbox.html&amp;path=/rhp/welt/rheinland-pfalz&amp;id=9011323" official="https://www2.neustadt.eu/ratsinfo/bi/kp0050.php?__kpenr=786&amp;grnr=1">Am 7. Juni 2009 wurde Andreas Severidt als einziger Abgeordneter für die Partei DIE LINKE in den Stadtrat gewählt. Im Mai 2012 ist er zur Piratenpartei übergetreten.</story>
+        <story source="http://www.rheinpfalz.de/cgi-bin/cms2/cms.pl?cmd=showMsg&amp;tpl=rhpMsg_thickbox.html&amp;path=/rhp/welt/rheinland-pfalz&amp;id=9011323">Am 7. Juni 2009 wurde Andreas Severidt als einziger Abgeordneter für die Partei DIE LINKE in den Stadtrat gewählt. Im Mai 2012 ist er zur Piratenpartei übergetreten.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
       <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
-        <parlament name="Verbandsgemeinderat" seats="32">
+        <parlament name="Verbandsgemeinderat" seats="32" ris="http://www2.hermeskeil.de/bi/kp0041.php">
           <mandat type="transfer" from="Wählergemeinschaft">Ottmar Muno</mandat>
           <fraktion type="none" />
-          <story press="http://www.abgeordnetenwatch.de/ottmar_muno-840-42836--f283759.html#q283759" official="http://www.hermeskeil.de/index.php?id=221">Am 7. Juni 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
+          <story source="http://www.abgeordnetenwatch.de/ottmar_muno-840-42836--f283759.html#q283759">Am 7. Juni 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -328,10 +328,10 @@
 
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
     <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000">
-      <parlament name="Kreistag" seats="39">
+      <parlament name="Kreistag" seats="39" ris="www.kreis-saarlouis.de/city_info/webaccessibility/index.cfm?region_id=389&amp;waid=210&amp;item_id=849546">
         <mandat type="transfer" from="FDP">Jörg Arweiler</mandat>
         <fraktion type="none" />
-        <story press="http://www.sr-online.de/sronline/nachrichten/politik_wirtschaft/arweiler_piraten100.html" official="http://www.kreis-saarlouis.de/city_info/webaccessibility/index.cfm?region_id=389&amp;waid=210&amp;item_id=855782&amp;oldrecord=58238&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">Am 7. Juni 2009 wurde Jörg Arweiler als einer von drei FDP-Abgeordneten in den Kreistag gewählt. Seit Anfang 2012 war er partei- und fraktionslos, im Dezember 2012 ist er der Piratenpartei beigetreten.</story>
+        <story source="http://www.sr-online.de/sronline/nachrichten/politik_wirtschaft/arweiler_piraten100.html">Am 7. Juni 2009 wurde Jörg Arweiler als einer von drei FDP-Abgeordneten in den Kreistag gewählt. Seit Anfang 2012 war er partei- und fraktionslos, im Dezember 2012 ist er der Piratenpartei beigetreten.</story>
       </parlament>
     </gebiet>
   </bundesland>
@@ -457,26 +457,26 @@
   <bundesland name="Sachsen" gs="14000000">
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
-        <parlament name="Ortsbeirat" seats="15">
+        <parlament name="Ortsbeirat" seats="15" ris="http://ratsinfo.dresden.de/kp0041.php">
           <mandat type="transfer" from="Wählergemeinschaft">Martin Schulte-Wissermann</mandat>
           <fraktion type="impossible" />
-          <story press="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653" official="http://ratsinfo.dresden.de/kp0050.php?__kpenr=668&amp;grnr=36">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
+          <story source="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Nordsachsen" gs="14730000" localpirates="http://piratenpartei-leipziger-umland.de/">
-      <parlament name="Kreistag" seats="80">
+      <parlament name="Kreistag" seats="80" ris="http://info.landkreis-nordsachsen.de/sessionnet/bi/kp0041.php">
         <mandat type="transfer" from="LINKE">Veronika Petzold</mandat>
         <fraktion type="none" />
-        <story press="http://www.torgauerzeitung.com/Default.aspx?t=NewsDetailModus%2863029%29" official="http://info.landkreis-nordsachsen.de/sessionnet/bi/kp0050.php?__kpenr=65&amp;grnr=0">Am 8. Juni 2008 wurde Veronika Petzold für die LINKE in den Kreistag Nordsachsen gewählt. Im April 2012 trat sie aus der LINKEN aus und war für kurze Zeit fraktionslose Abgeordnete, bevor sie noch im April 2012 in die Piratenpartei eintrat.</story>
+        <story source="http://www.torgauerzeitung.com/Default.aspx?t=NewsDetailModus%2863029%29">Am 8. Juni 2008 wurde Veronika Petzold für die LINKE in den Kreistag Nordsachsen gewählt. Im April 2012 trat sie aus der LINKEN aus und war für kurze Zeit fraktionslose Abgeordnete, bevor sie noch im April 2012 in die Piratenpartei eintrat.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Erzgebirgskreis" gs="14521000" localpirates="http://www.piraten-erzgebirge.de/">
       <gebiet type="Stadt" name="Olbernhau" gs="14521460">
-        <parlament name="Stadtrat" seats="22">
+        <parlament name="Stadtrat" seats="22" ris="http://www.olbernhau.de/olbernhau/index1.htm">
           <mandat type="transfer" from="Wählergemeinschaft">Tom Küchler</mandat>
           <fraktion type="fremd" name="Bürger für Olbernhau/SPD" />
-          <story press="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/" official="http://www.olbernhau.de/olbernhau/index1.htm">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
+          <story source="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -485,19 +485,19 @@
   <bundesland name="Mecklenburg-Vorpommern" gs="15000000">
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
       <gebiet type="Stadt" name="Eggesin" gs="15075031">
-        <parlament name="Stadtvertretung" seats="17">
+        <parlament name="Stadtvertretung" seats="17" ris="http://www.eggesin.de/start/buergerservice/stadtvertretung/">
           <mandat type="transfer" from="LINKE">Ulf Glöde</mandat>
           <fraktion type="none" />
-          <story press="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266" official="http://www.eggesin.de/start/buergerservice/stadtvertretung/">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
+          <story source="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
       <gebiet type="Gemeinde" name="Eixen" gs="13073022">
-        <parlament name="Gemeindevertretung" seats="9">
+        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
           <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
           <fraktion type="impossible"/>
-          <story press="http://www.heise.de/tp/blogs/8/151935" official="http://www.recknitz-trebeltal.info/html/eixen.html">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
+          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -507,10 +507,10 @@
     <gebiet type="Landkreis" name="Landkreis Börde" gs="15083000" localpirates="http://www.piraten-boerde.de/">
       <gebiet type="Stadt" name="Oebisfelde-Weferlingen" gs="15083411">
         <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1">
-          <parlament name="Ortschafsrat" seats="20">
+          <parlament name="Ortschafsrat" seats="20" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/au020.asp?AULFDNR=35&amp;options=4">
             <mandat type="transfer" from="Einzelbewerber">Andrea Bogner</mandat>
             <fraktion type="impossible" />
-            <story press="http://www.volksstimme.de/nachrichten/lokal/haldensleben/1066591_Oebisfelderin-Andrea-Bogner-ist-Piraten-Kandidatin-fuer-den-Bundestag.html" official="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/kp020.asp?KPLFDNR=48&amp;options=4">Am 7. Juni 2009 wurde Andrea Bogner als parteilose Einzelkandidatin in den Ortschaftsrat Oebisfelde gewählt. Im Mai 2012 ist sie in die Piratenpartei eingetreten.</story>
+            <story source="http://www.volksstimme.de/nachrichten/lokal/haldensleben/1066591_Oebisfelderin-Andrea-Bogner-ist-Piraten-Kandidatin-fuer-den-Bundestag.html">Am 7. Juni 2009 wurde Andrea Bogner als parteilose Einzelkandidatin in den Ortschaftsrat Oebisfelde gewählt. Im Mai 2012 ist sie in die Piratenpartei eingetreten.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -518,10 +518,10 @@
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
       <gebiet type="Gemeinde" name="Elbe-Parey" gs="15086035">
         <gebiet type="Ortsteil" name="Ferchland" arbkey="1">
-          <parlament name="Ortschaftsrat" seats="5">
+          <parlament name="Ortschaftsrat" seats="5" ris="http://www.elbe-parey.de/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=52&amp;limit=1&amp;limitstart=1">
             <mandat type="transfer" from="SPD">Walter Henning</mandat>
             <fraktion type="impossible" />
-            <story press="http://www.volksstimme.de/nachrichten/lokal/genthin/794312_Piraten-entern-jetzt-die-Region.html" official="http://www.elbe-parey.de/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=52&amp;limit=1&amp;limitstart=1">Am 22. April 2007 wurde Walter Henning für die SPD in den Ortschaftsrat Ferchland gewählt. Dort ist er als Vorsitzender des Ortschaftsrats der Ortsbürgermeister. Im September 2011 ist er zur Piratenpartei übergetreten.</story>
+            <story source="http://www.volksstimme.de/nachrichten/lokal/genthin/794312_Piraten-entern-jetzt-die-Region.html">Am 22. April 2007 wurde Walter Henning für die SPD in den Ortschaftsrat Ferchland gewählt. Dort ist er als Vorsitzender des Ortschaftsrats der Ortsbürgermeister. Im September 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -531,19 +531,19 @@
   <bundesland name="Thüringen" gs="16000000">
     <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
       <gebiet type="Ortsteil" name="Stedtfeld" arbkey="1">
-        <parlament name="Ortsteilrat" seats="6">
+        <parlament name="Ortsteilrat" seats="6" ris="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">
           <mandat type="transfer" from="Einzelbewerber">Klaus Lütkenhues</mandat>
             <fraktion type="impossible" />
-          <story press="http://eisenach-net.de/index.php/en/89-politik/275-neuwahlen-bei-den-wartburgpiraten" official="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">Am 7. Juni 2009 wurde Klaus Lütkenhues als Einzelbewerber in den Ortsteilrat Eisenach-Stedtfeld gewählt. Er ist im November 2011 in die Piratenpartei eingetreten.</story>
+          <story source="http://eisenach-net.de/index.php/en/89-politik/275-neuwahlen-bei-den-wartburgpiraten">Am 7. Juni 2009 wurde Klaus Lütkenhues als Einzelbewerber in den Ortsteilrat Eisenach-Stedtfeld gewählt. Er ist im November 2011 in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Jena" gs="16053000" localpirates="http://jena.piraten-thueringen.de/">
       <gebiet type="Ortsteil" name="Jena-Nord" arbkey="1">
-        <parlament name="Ortsteilrat" seats="10">
+        <parlament name="Ortsteilrat" seats="10" ris="http://egov1.kommunenonline.de/sessionnet/buergerinfo//kp0040.php?__kgrnr=68&amp;">
           <mandat type="transfer" from="FDP">Michael Gruner</mandat>
             <fraktion type="impossible" />
-          <story official="http://www.jena.de/de/stadt_verwaltung/stadtrat/politische_gremien/243228">Am 7. Juni 2009 wurde Michael Gruner für die FDP in den Ortsteilrat Jena-Nord gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
+          <story source="http://www.jenapolis.de/2013/02/kreisparteitag-der-piraten-jena-2/">Am 7. Juni 2009 wurde Michael Gruner für die FDP in den Ortsteilrat Jena-Nord gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>

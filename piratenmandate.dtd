@@ -16,6 +16,7 @@
 <!ELEMENT parlament (mandat+, fraktion?, story?) >
 <!ATTLIST parlament name CDATA #REQUIRED >
 <!ATTLIST parlament seats CDATA #IMPLIED >
+<!ATTLIST parlament ris CDATA #IMPLIED >
 
 <!ELEMENT mandat (#PCDATA) >
 <!ATTLIST mandat multiplicity (none | double | triple) "none" >
@@ -28,8 +29,7 @@
 <!ATTLIST fraktion url CDATA #IMPLIED >
 
 <!ELEMENT story (#PCDATA) >
-<!ATTLIST story press CDATA #IMPLIED >
-<!ATTLIST story official CDATA #IMPLIED >
+<!ATTLIST story source CDATA #IMPLIED >
 
 <!ELEMENT partner EMPTY >
 <!ATTLIST partner partei CDATA #REQUIRED >
