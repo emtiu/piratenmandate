@@ -279,6 +279,22 @@
         <story source="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
+      <parlament name="Kreistag" seats="87">
+        <mandat type="pirat">Christoph Hampe</mandat>
+        <mandat type="pirat">Eduard Baumann</mandat>
+        <mandat type="transfer" from="GRÜNE" double="yes">Vecih Yaşaner</mandat>
+        <fraktion type="piraten" url="http://www.kreispiraten-of.de/content/fraktion-piraten-im-kreistag-offenbach-land"/>
+        <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die Grünen in den Kreistag gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und hat damit die bereits bestehende PIRATEN-Fraktion von zwei auf drei Abgeordnete vergrößert.</story>
+      </parlament>
+      <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
+        <parlament name="Stadtverordnetenversammlung" seats="45" ris="https://dietzenbach.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=2&amp;Bezeichnung=Stadtverordnetenversammlung&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
+          <mandat type="transfer" from="GRÜNE" double="yes">Vecih Yaşaner</mandat>
+          <fraktion type="none" />
+          <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und übt sein Mandat seitdem als fraktionsloser Pirat sein Mandat aus.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81">
         <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
@@ -293,6 +309,19 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Hochtaunuskreis" gs="06434000" localpirates="http://www.piratenpartei-hochtaunus.de/">
+      <parlament name="Kreistag" seats="71">
+        <mandat type="pirat">Michael Geurts</mandat>
+        <fraktion type="none" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Main-Kinzig-Kreis" gs="06435000" localpirates="http://www.kinzigpiraten.de/">
+      <parlament name="Kreistag" seats="87">
+        <mandat type="pirat">René Waller</mandat>
+        <mandat type="pirat">Sören Siegismund-Poschmann</mandat>
+        <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" />
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
       <parlament name="Kreistag" seats="81">
         <mandat type="pirat">Stephan Flindt</mandat>
@@ -304,6 +333,25 @@
           <fraktion type="none" />
         </parlament>
       </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Marburg-Biedenkopf" gs="06534000" localpirates="http://www.piratenpartei-marburg.de/">
+      <parlament name="Kreistag" seats="81">
+        <mandat type="pirat">Jens Fricke</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Stadt" name="Marburg" gs="06534014">
+        <parlament name="Stadtverordnetenversammlung" seats="59">
+          <mandat type="pirat">Michael Weber</mandat>
+          <fraktion type="none" />
+          <story source="http://www.piratenpartei-marburg.de/content/piraten-zur%C3%BCck-im-marburger-stadtparlament">Am 27. März 2011 war Sascha Klee für die Piratenpartei in die Stadtverordnetenversammlung gewählt worden. Im Juli 2012 trat er aus der Piratenpartei aus, legte aber zunächst das Mandat nicht nieder. Schließlich legte er es im Januar 2013 doch nieder, sodass Michael Weber als Pirat nachrücken konnte.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
+      <parlament name="Kreistag" seats="81">
+        <mandat type="pirat">Swen Schmidt</mandat>
+        <fraktion type="none" />
+      </parlament>
     </gebiet>
   </bundesland>
 
