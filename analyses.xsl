@@ -14,7 +14,7 @@
     <xsl:value-of select="count(//mandat[@type='transfer'])" />
     <xsl:text> Übertritte.</xsl:text>
 
-    <xsl:text>&#10;&#10;Übertritte von:&#10;</xsl:text>
+    <xsl:text>&#10;&#10;Übertritte (Menschen) von:&#10;</xsl:text>
     <xsl:for-each select="//mandat[@type='transfer'][generate-id() = generate-id(key('exparteien', @from)[1])]">
     <xsl:sort select="count(key('exparteien', @from)) - (count(//mandat[@from=current()/@from and @double='yes']) div 2)" data-type="number"  order="descending" />
       <xsl:value-of select="@from" /><xsl:text> </xsl:text><xsl:value-of select="count(key('exparteien', @from)) - (count(//mandat[@from=current()/@from and @double='yes']) div 2)" /><xsl:text>&#10;</xsl:text>
