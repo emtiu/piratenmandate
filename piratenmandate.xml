@@ -457,7 +457,7 @@
   <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
     <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Peitz" gs="12071304">
-        <parlament name="Stadtverordnetenversammlung" seats="16" ris="http://www.amtpeitz.de/sessionnet/buergerinfo/kp0040.php?__kgrnr=2&amp;">
+        <parlament name="Stadtverordnetenversammlung" seats="17" ris="http://www.amtpeitz.de/sessionnet/buergerinfo/kp0040.php?__kgrnr=2&amp;">
           <mandat type="transfer" from="Einzelbewerber">Bernd Schulze</mandat>
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Berndschulze">Am 28. September 2008 als parteiloser Bewerber über die Liste der FDP in die Stadtverordnetenversammlung Peitz gewählte Bernd Schulze trat im Juni 2012 der Piratenpartei bei. Als Vorsitzender der Stadtverordnetenversammlung ist er der Bürgermeister der Stadt.</story>
         </parlament>
@@ -474,12 +474,20 @@
         </gebiet>
       </gebiet>
     </gebiet>
-<!--    <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="gemeinde" name="Gramzow" gs="12073225">
+        <parlament name="Gemeindevertretung" seats="15" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1254">
+          <mandat type="transfer" from="CDU" double="yes">Wolfgang Herrmann</mandat>
+          <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in die Gemeindevertretung gewählt. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
+        </parlament>
         <gebiet type="Ortsteil" name="Meichow" arbkey="1">
+          <parlament name="Ortbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
+            <mandat type="transfer" from="CDU" double="yes">Wolfgang Herrmann</mandat>
+            <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
+          </parlament>
         </gebiet>
       </gebiet>
-    </gebiet>-->
+    </gebiet>
   </bundesland>
 
   <bundesland name="Mecklenburg-Vorpommern" gs="13000000">
