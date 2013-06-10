@@ -19,7 +19,7 @@
 <!ATTLIST parlament ris CDATA #IMPLIED >
 
 <!ELEMENT mandat (#PCDATA) >
-<!ATTLIST mandat multiplicity (none | double | triple) "none" >
+<!ATTLIST mandat double (no | yes) "no" >
 <!ATTLIST mandat type (pirat | transfer) #REQUIRED >
 <!ATTLIST mandat from CDATA #IMPLIED >
 
