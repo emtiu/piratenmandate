@@ -17,7 +17,7 @@
     <xsl:text>&#10;&#10;Übertritte von:&#10;</xsl:text>
     <xsl:for-each select="//mandat[@type='transfer'][generate-id() = generate-id(key('exparteien', @from)[1])]">
     <xsl:sort select="count(key('exparteien', @from))" data-type="number"  order="descending" />
-      <xsl:value-of select="@from" /><xsl:text> </xsl:text><xsl:value-of select="count(key('exparteien', @from))" /><xsl:text>&#10;</xsl:text>
+      <xsl:value-of select="@from" /><xsl:text> </xsl:text><xsl:value-of select="count(key('exparteien', @from)) -(count(//mandat[@from='CDU' and @double='yes']) div 2)" /><xsl:text>&#10;</xsl:text>
     </xsl:for-each>
 
     <xsl:text>&#10;-- Zahl der Fraktionen: </xsl:text>
