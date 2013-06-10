@@ -23,11 +23,11 @@
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
       <parlament name="Kreistag" seats="44">
-        <mandat type="pirat" multiplicity="double">Dr. Siegfried Hansen</mandat>
+        <mandat type="pirat" double="yes">Dr. Siegfried Hansen</mandat>
       </parlament>
       <gebiet type="Stadt" name="Glückstadt" gs="01061029" localpirates="http://landesportal.piratenpartei-sh.de/glueckstadt/">
         <parlament name="Stadtvertretung" seats="23">
-          <mandat type="pirat" multiplicity="double">Dr. Siegfried Hansen</mandat>
+          <mandat type="pirat" double="yes">Dr. Siegfried Hansen</mandat>
           <mandat type="pirat">Sebastian Kolpert</mandat>
         </parlament>
       </gebiet>
@@ -282,12 +282,12 @@
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81">
         <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
-        <mandat type="pirat" multiplicity="double">Christian Oechler</mandat>
+        <mandat type="pirat" double="yes">Christian Oechler</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Gießen" gs="06531005">
         <parlament name="Stadtverordnetenversammlung" seats="59">
-          <mandat type="pirat" multiplicity="double">Christian Oechler</mandat>
+          <mandat type="pirat" double="yes">Christian Oechler</mandat>
           <mandat type="pirat">Christian Jackelen</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" />
         </parlament>
@@ -454,6 +454,55 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Peitz" gs="12071304">
+        <parlament name="Stadtverordnetenversammlung" seats="16" ris="http://www.amtpeitz.de/sessionnet/buergerinfo/kp0040.php?__kgrnr=2&amp;">
+          <mandat type="transfer" from="Einzelbewerber">Bernd Schulze</mandat>
+          <story source="http://wiki.piratenbrandenburg.de/Benutzer:Berndschulze">Am 28. September 2008 als parteiloser Bewerber über die Liste der FDP in die Stadtverordnetenversammlung Peitz gewählte Bernd Schulze trat im Juni 2012 der Piratenpartei bei. Als Vorsitzender der Stadtverordnetenversammlung ist er der Bürgermeister der Stadt.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Märkisch-Oderland" gs="12064000" localpirates="http://mol.piratenbrandenburg.de/">
+      <gebiet type="Gemeinde" name="Neuhardenberg" gs="12064340">
+        <gebiet type="Ortsteil" name="Quappendorf" arbkey="1">
+          <parlament name="Ortsbeirat" seats="3" ris="https://amt-neuhardenberg.ratsinfomanagement.net/neuhardenberg/personen.do?submit=true&amp;gremium=4">
+            <mandat type="transfer" from="SPD">Rolf Ignaz</mandat>
+            <fraktion type="impossible" />
+            <story source="http://wiki.piratenbrandenburg.de/Benutzer:Ignatius">Rolf Ignaz wurde am 28. September 2008 als parteiloser Kandidat über die Liste der SPD in den Ortsbeirat gewählt. Im September 2011 ist er der Piratenpartei beigetreten.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+<!--    <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
+      <gebiet type="gemeinde" name="Gramzow" gs="12073225">
+        <gebiet type="Ortsteil" name="Meichow" arbkey="1">
+        </gebiet>
+      </gebiet>
+    </gebiet>-->
+  </bundesland>
+
+  <bundesland name="Mecklenburg-Vorpommern" gs="13000000">
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
+      <gebiet type="Stadt" name="Eggesin" gs="15075031">
+        <parlament name="Stadtvertretung" seats="17" ris="http://www.eggesin.de/start/buergerservice/stadtvertretung/">
+          <mandat type="transfer" from="LINKE">Ulf Glöde</mandat>
+          <fraktion type="none" />
+          <story source="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
+      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
+        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
+          <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
+          <fraktion type="impossible"/>
+          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
   <bundesland name="Sachsen" gs="14000000">
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
@@ -477,27 +526,6 @@
           <mandat type="transfer" from="Wählergemeinschaft">Tom Küchler</mandat>
           <fraktion type="fremd" name="Bürger für Olbernhau/SPD" />
           <story source="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-  </bundesland>
-
-  <bundesland name="Mecklenburg-Vorpommern" gs="15000000">
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
-      <gebiet type="Stadt" name="Eggesin" gs="15075031">
-        <parlament name="Stadtvertretung" seats="17" ris="http://www.eggesin.de/start/buergerservice/stadtvertretung/">
-          <mandat type="transfer" from="LINKE">Ulf Glöde</mandat>
-          <fraktion type="none" />
-          <story source="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
-      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
-        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
-          <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
-          <fraktion type="impossible"/>
-          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
