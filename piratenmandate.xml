@@ -113,7 +113,7 @@
       </gebiet>
       <gebiet type="Stadt" name="Eschweiler" gs="05334012">
         <parlament name="Stadtrat" seats="50" ris="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;item_id=855866">
-          <mandat type="transfer" from="CDU">Rudi E. Lennartz</mandat>
+          <mandat type="transfer" from="CDU/CSU">Rudi E. Lennartz</mandat>
           <fraktion type="gemeinsam" name="Fraktion aus Piratenpartei und Unabhängigem">
             <partner partei="Parteilose" num="1" />
           </fraktion>
@@ -177,7 +177,7 @@
     <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Borken">
       <gebiet type="Stadt" name="Rhede" gs="05554048">
         <parlament name="Stadtrat" seats="38" ris="http://www.rhede.de/Ratsmitglieder-A-Z.781.0.html">
-          <mandat type="transfer" from="CDU">Siegfried Kerkhoff</mandat>
+          <mandat type="transfer" from="CDU/CSU">Siegfried Kerkhoff</mandat>
           <fraktion type="none" />
           <story source="http://www.bbv-net.de/lokales/rhede_artikel,-Der-erste-Pirat-im-Rheder-Rat-_arid,108586.html">Siegfried Kerkhoff wurde am 30. August 2009 für die CDU in den Stadtrat Rhede gewählt und war deren stellvertretender Fraktionsvorsitzender. Er ist 2012 aus der CDU ausgetreten und in die Piratenpartei eingetreten, für die er nun als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
         </parlament>
@@ -394,6 +394,36 @@
   </bundesland>
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
+    <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
+      <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
+        <parlament name="Bezirksausschuss" seats="37">
+          <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
+          <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Feldmoching-Hasenbergl" localkey="24">
+        <parlament name="Bezirksausschuss" seats="27">
+          <mandat type="transfer" from="CDU/CSU">Wolfgang Schropp</mandat>
+          <mandat type="transfer" from="CDU/CSU">Tobias Wandinger</mandat>
+          <fraktion type="piraten" />
+          <story source="http://muenchen.piratenpartei.de/erste-eigene-fraktion-im-ba24/">Am 2. März 2008 wurden Tobias Wandinger und Wolfgang Schropp als zwei von insgesamt zehn Abgeordneten für die CSU in den Bezirksausschuss gewählt. Am 25. April 2012 sind sie der Piratenpartei beigetreten.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
+      <parlament name="Stadtrat" seats="50">
+        <mandat type="transfer" from="LINKE">Frank Heinze</mandat>
+        <fraktion type="none" />
+        <story source="http://piraten-erlangen.de/2012/05/01/erlanger-stadtratsmitglied-wechselt-zu-den-piraten/">Am 2. März 2008 wurde Frank Heinze für die Liste „Kommunalwahlverein erlanger linke“ in den Stadtrat gewählt und wurde stellvertretender Vorsitzender ihrer Fraktion. Ab Juni 2009 war er Mitglied sowohl in der Piratenpartei als auch der Partei DIE LINKE. Im April 2011 trat er aus der Partei DIE LINKE aus, blieb aber Mitglied der Fraktion des Kommunalwahlvereins. Im April 2012 trat er auch aus dem Kommunalwahlverein aus und ist fortan Einzelabgeordneter für die PIRATEN.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Fürth" gs="09563000" localpirates="http://www.piraten-fuerth.de/">
+      <parlament name="Stadtrat" seats="50" ris="http://stadtrat.fuerth.de/bi/kp0040.php?__kgrnr=1001">
+        <mandat type="transfer" from="LINKE">Mohamed Younis</mandat>
+        <fraktion type="none" />
+        <story source="http://www.piraten-fuerth.de/2012/09/14/stadtrat-tritt-der-piratenpartei-bei/">Am 2. März 2008 wurde Mohamed Younis als einer von zwei Abgeordneten für die LINKE in den Stadtrat gewählt. Im September 2009 trat er aus der Partei DIE LINKE aus, blieb aber fraktionsloses Einzelmitglied im Stadtrat. Im September 2012 ist er in die Piratenpartei eingetreten, tritt aber auf Wunsch seines Kreisverbandes weiter als „parteiloser“ Stadtrat auf.</story>
+      </parlament>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
@@ -547,12 +577,12 @@
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="gemeinde" name="Gramzow" gs="12073225">
         <parlament name="Gemeindevertretung" seats="15" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1254">
-          <mandat type="transfer" from="CDU" double="yes">Wolfgang Herrmann</mandat>
+          <mandat type="transfer" from="CDU/CSU" double="yes">Wolfgang Herrmann</mandat>
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in die Gemeindevertretung gewählt. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Meichow" arbkey="1">
           <parlament name="Ortbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
-            <mandat type="transfer" from="CDU" double="yes">Wolfgang Herrmann</mandat>
+            <mandat type="transfer" from="CDU/CSU" double="yes">Wolfgang Herrmann</mandat>
             <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
