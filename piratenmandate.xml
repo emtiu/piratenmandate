@@ -393,6 +393,43 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Baden-Württemberg" gs="08000000" localpirates="http://piratenpartei-bw.de/">
+    <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
+      <gebiet type="Stadt" name="Weikersheim" gs="08128126">
+        <parlament name="Gemeinderat" seats="21">
+          <mandat type="transfer" from="SPD">Rainer Nase</mandat>
+          <fraktion type="none" />
+          <story source="http://www.swp.de/bad_mergentheim/lokales/vorbach_und_taubertal/Piraten-Partei-SPD;art5640,1573531">Bei der Kommunalwahl am 7. Juni 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. Im Herbst 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin im Juli 2012 rückte er als Pirat in den Gemeinderat nach.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Heidenheim" gs="08135000" localpirates="http://piraten-hdh.de/">
+      <gebiet type="Stadt" name="Heidenheim an der Brenz" gs="08135019">
+        <parlament name="Gemeinderat" seats="36" ris="http://rishdh.heidenheim.de/e-komm/sitzung/ge_sourc.nsf/Committee01List?OpenView&amp;Count=-1">
+          <mandat type="transfer" from="FDP">Uwe Maiter</mandat>
+          <fraktion type="none" />
+          <story source="http://www.piratenpartei-bw.de/2011/02/16/fdp-gemeinderat-tritt-der-piratenpartei-bei/">Am 7. Juni 2009 wurde Uwe Maiter als einziger FDP-Abgeordneter in den Gemeinderat der Stadt Heidenheim an der Brenz gewählt. Am 16. Februar 2011 gab er seinen Übertritt zur Piratenpartei bekannt.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
+      <gebiet type="Stadt" name="Bruchsal" gs="08215009">
+        <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
+          <mandat type="transfer" from="Wählergemeinschaft">Hartmut Schönherr</mandat>
+          <fraktion type="fremd" name="Die Grünen/Neue Köpfe" />
+          <story source="http://www.landfunker.de/ktv/detail.php?rubric=182&amp;nr=33836">Bei der Kommunalwahl am 7. Juni 2009 wurde Hartmut Schönherr für die Wählervereinigung „Neue Köpfe“ über die Liste „Grüne/Neue Köpfe“ in den Gemeinderat der Stadt Bruchsal gewählt. Am 1. Oktober 2009 trat er der Piratenpartei bei, übt sein Mandat aber weiter in der Fraktion Die Grünen/Neue Köpfe aus.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
+      <parlament name="Kreistag" seats="68">
+        <mandat type="transfer" from="LINKE">Michael Krause</mandat>
+        <fraktion type="none" />
+        <story source="http://www.piratenpartei-bw.de/2012/03/23/konstanzer-kreisrat-michael-krause-wird-pirat/">Am 7. Juni 2009 wurde Michael Krause als einziger Abgeordneter für die Partei DIE LINKE in den Kreistag gewählt. Am 23. März 2012 ist er zur Piratenpartei übergetreten.</story>
+      </parlament>
+    </gebiet>
+  </bundesland>
+
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
     <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
       <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
