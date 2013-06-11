@@ -66,8 +66,8 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Hamburg" gs="02000000">
-    <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1" localpirates="http://wiki.piratenpartei.de/HH:Mitte">
+  <bundesland name="Hamburg" gs="02000000" localpirates="http://www.piratenpartei-hamburg.de/">
+    <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
       <parlament name="Bezirksversammlung" seats="51">
         <mandat type="pirat">Andreas Gerhold</mandat>
         <mandat type="pirat">Michael Büker</mandat>
@@ -213,6 +213,13 @@
   </bundesland>
 
   <bundesland name="Hessen" gs="06000000">
+    <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="71">
+        <mandat type="pirat">Claudia Stricker</mandat>
+        <mandat type="pirat">Bernhard Schubach</mandat>
+        <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" />
+      </parlament>
+    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
       <parlament name="Stadtverordnetenversammlung" seats="93">
         <mandat type="pirat">Herbert Förster</mandat>
@@ -236,13 +243,6 @@
           <mandat type="pirat">Markus Kairies</mandat>
         </parlament>
       </gebiet>
-    </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="71">
-        <mandat type="pirat">Claudia Stricker</mandat>
-        <mandat type="pirat">Bernhard Schubach</mandat>
-        <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" />
-      </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71">
@@ -328,7 +328,7 @@
         <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
       </parlament>
       <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="0644023" localpirates="http://www.piratenpartei-rosbach.de/">
-        <parlament name="Stadtverordnetenversammlung" seats="31">
+        <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
           <mandat type="pirat">Helge Welker</mandat>
           <fraktion type="none" />
         </parlament>
@@ -353,6 +353,25 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
+      <parlament name="Kreistag" seats="71">
+        <mandat type="pirat">Sascha Brandhoff</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Stadt" name="Frankenau" gs="06635010">
+        <parlament name="Stadtverordnetenversammlung" seats="23" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100018&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
+          <mandat type="pirat" double="yes">Alexander Kaufmann</mandat>
+          <fraktion type="none" />
+        </parlament>
+        <gebiet type="Ortsteil" name="Frankenau" arbkey="1">
+          <parlament name="Ortsbeirat" seats="7" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100017&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
+            <mandat type="pirat" double="yes">Alexander Kaufmann</mandat>
+            <fraktion type="impossible" />
+            <story source="http://www.piraten-wa-fkb.net/index.php/abgeordnete.html">Alexander Kaufmann ist als Vorsitzender des Ortsbeirates der Ortsvorsteher des Ortsteils Frankenau.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Rheinland-Pfalz" gs="07000000">
@@ -372,6 +391,9 @@
         </parlament>
       </gebiet>
     </gebiet>
+  </bundesland>
+
+  <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
   </bundesland>
 
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
