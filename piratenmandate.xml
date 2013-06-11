@@ -23,11 +23,11 @@
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
       <parlament name="Kreistag" seats="44">
-        <mandat type="pirat" double="yes">Dr. Siegfried Hansen</mandat>
+        <mandat type="pirat">Dr. Siegfried Hansen</mandat>
       </parlament>
       <gebiet type="Stadt" name="Glückstadt" gs="01061029" localpirates="http://landesportal.piratenpartei-sh.de/glueckstadt/">
         <parlament name="Stadtvertretung" seats="23">
-          <mandat type="pirat" double="yes">Dr. Siegfried Hansen</mandat>
+          <mandat type="pirat" multi="2">Dr. Siegfried Hansen</mandat>
           <mandat type="pirat">Sebastian Kolpert</mandat>
         </parlament>
       </gebiet>
@@ -283,13 +283,13 @@
       <parlament name="Kreistag" seats="87">
         <mandat type="pirat">Christoph Hampe</mandat>
         <mandat type="pirat">Eduard Baumann</mandat>
-        <mandat type="transfer" from="GRÜNE" double="yes">Vecih Yaşaner</mandat>
+        <mandat type="transfer" from="GRÜNE">Vecih Yaşaner</mandat>
         <fraktion type="piraten" url="http://www.kreispiraten-of.de/content/fraktion-piraten-im-kreistag-offenbach-land"/>
         <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die Grünen in den Kreistag gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und hat damit die bereits bestehende PIRATEN-Fraktion von zwei auf drei Abgeordnete vergrößert.</story>
       </parlament>
       <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
         <parlament name="Stadtverordnetenversammlung" seats="45" ris="https://dietzenbach.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=2&amp;Bezeichnung=Stadtverordnetenversammlung&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
-          <mandat type="transfer" from="GRÜNE" double="yes">Vecih Yaşaner</mandat>
+          <mandat type="transfer" from="GRÜNE" multi="2">Vecih Yaşaner</mandat>
           <fraktion type="none" />
           <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und übt sein Mandat seitdem als fraktionsloser Pirat sein Mandat aus.</story>
         </parlament>
@@ -298,12 +298,12 @@
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81">
         <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
-        <mandat type="pirat" double="yes">Christian Oechler</mandat>
+        <mandat type="pirat">Christian Oechler</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Gießen" gs="06531005">
         <parlament name="Stadtverordnetenversammlung" seats="59">
-          <mandat type="pirat" double="yes">Christian Oechler</mandat>
+          <mandat type="pirat" multi="2">Christian Oechler</mandat>
           <mandat type="pirat">Christian Jackelen</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" />
         </parlament>
@@ -360,12 +360,12 @@
       </parlament>
       <gebiet type="Stadt" name="Frankenau" gs="06635010">
         <parlament name="Stadtverordnetenversammlung" seats="23" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100018&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
-          <mandat type="pirat" double="yes">Alexander Kaufmann</mandat>
+          <mandat type="pirat">Alexander Kaufmann</mandat>
           <fraktion type="none" />
         </parlament>
         <gebiet type="Ortsteil" name="Frankenau" arbkey="1">
           <parlament name="Ortsbeirat" seats="7" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100017&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
-            <mandat type="pirat" double="yes">Alexander Kaufmann</mandat>
+            <mandat type="pirat" multi="2">Alexander Kaufmann</mandat>
             <fraktion type="impossible" />
             <story source="http://www.piraten-wa-fkb.net/index.php/abgeordnete.html">Alexander Kaufmann ist als Vorsitzender des Ortsbeirates der Ortsvorsteher des Ortsteils Frankenau.</story>
           </parlament>
@@ -614,12 +614,12 @@
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="gemeinde" name="Gramzow" gs="12073225">
         <parlament name="Gemeindevertretung" seats="15" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1254">
-          <mandat type="transfer" from="CDU/CSU" double="yes">Wolfgang Herrmann</mandat>
+          <mandat type="transfer" from="CDU/CSU">Wolfgang Herrmann</mandat>
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in die Gemeindevertretung gewählt. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Meichow" arbkey="1">
           <parlament name="Ortbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
-            <mandat type="transfer" from="CDU/CSU" double="yes">Wolfgang Herrmann</mandat>
+            <mandat type="transfer" from="CDU/CSU" multi="2">Wolfgang Herrmann</mandat>
             <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
