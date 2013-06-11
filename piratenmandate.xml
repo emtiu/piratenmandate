@@ -3,7 +3,7 @@
 
 <piratenmandate>
 
-  <bundesland name="Schleswig-Holstein" gs="01000000">
+  <bundesland name="Schleswig-Holstein" gs="01000000" localpirates="http://landesportal.piratenpartei-sh.de/">
     <gebiet type="Kreisfreie Stadt" name="Kiel" gs="01002000" localpirates="http://landesportal.piratenpartei-sh.de/kiel/">
       <parlament name="Ratsversammlung" seats="53">
         <mandat type="pirat">Sven Seele</mandat>
@@ -84,7 +84,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Bremen" gs="04000000">
+  <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48">
         <mandat type="pirat">Alexander Niedermeier</mandat>
@@ -103,7 +103,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Nordrhein-Westfalen" gs="05000000">
+  <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/">
     <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
       <gebiet type="Stadt" name="Aachen" gs="05334002">
         <parlament name="Stadtrat" seats="74">
@@ -212,7 +212,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Hessen" gs="06000000">
+  <bundesland name="Hessen" gs="06000000" localpirates="http://www.piratenpartei-hessen.de/">
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71">
         <mandat type="pirat">Claudia Stricker</mandat>
@@ -374,7 +374,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Rheinland-Pfalz" gs="07000000">
+  <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/">
     <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="04316000">
       <parlament name="Stadtrat" seats="44" ris="https://www2.neustadt.eu/ratsinfo/bi/kp0041.php">
         <mandat type="transfer" from="LINKE">Andreas Severidt</mandat>
@@ -627,7 +627,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Mecklenburg-Vorpommern" gs="13000000">
+  <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/">
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
       <gebiet type="Stadt" name="Eggesin" gs="15075031">
         <parlament name="Stadtvertretung" seats="17" ris="http://www.eggesin.de/start/buergerservice/stadtvertretung/">
@@ -648,7 +648,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Sachsen" gs="14000000">
+  <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/">
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
         <parlament name="Ortsbeirat" seats="15" ris="http://ratsinfo.dresden.de/kp0041.php">
@@ -701,7 +701,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Thüringen" gs="16000000">
+  <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/">
     <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
       <gebiet type="Ortsteil" name="Stedtfeld" arbkey="1">
         <parlament name="Ortsteilrat" seats="6" ris="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">
