@@ -86,11 +86,97 @@
 
   <bundesland name="Niedersachsen" gs="03000000" localpirates="http://piratenpartei-niedersachsen.de/">
     <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
+      <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Die-Region-Hannover-politisch/Regionsversammlung">
+        <mandat type="pirat">Ralf Kleyer</mandat>
+        <mandat type="pirat">Hans-Jürgen Hey</mandat>
+        <fraktion type="piraten" url="http://piraten-region-hannover.de/" />
+      </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64">
           <mandat type="pirat">Dr. Jür­gen Jung­hä­nel</mandat>
           <mandat type="pirat">Dirk Hillbrecht</mandat>
           <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/>
+        </parlament>
+        <gebiet type="Stadtbezirk" name="Vahrenwald-List" localkey="2">
+          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-2-Vahrenwald-List">
+            <mandat type="pirat">Reiner Budnick</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Misburg-Anderten" localkey="5">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-5-Misburg-Anderten">
+            <mandat type="pirat">Hannes Amelung</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Südstadt-Bult" localkey="7">
+          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-7-S%C3%BCdstadt-Bult">
+            <mandat type="pirat">Miriam Hadj Hassine</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Döhren-Wülfel" localkey="8">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-8-D%C3%B6hren-W%C3%BClfel">
+            <mandat type="pirat">Marc Herrmann</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Linden-Limmer" localkey="10">
+          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-10-Linden-Limmer">
+            <mandat type="pirat">Andis Rave</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Nord" localkey="13">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-13-Nord">
+            <mandat type="pirat">Thomas Grote</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Stadt" name="Hemmingen" gs="03241007">
+        <parlament name="Stadtrat" seats="26" ris="http://www.stadthemmingen.de/allris/kp041.asp">
+          <mandat type="pirat" multi="2">Ralf Kleyer</mandat>
+          <fraktion type="gemeinsam" name="BfH/Piraten">
+            <partner partei="Wählergemeinschaft" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Laatzen" gs="03241009" localpirates="http://www.piraten-laatzen.de/">
+        <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
+          <mandat type="pirat">Heiko Schönemann</mandat>
+          <fraktion type="none" />
+          <story source="http://www.piraten-laatzen.de/aktuelles/auflosung-der-gruppe-die-linke-und-piraten-glup">Zunächst hatte eine Fraktionsgemeinschaft (in Niedersachsen „Gruppe“) mit der Linken bestanden, die aber inzwischen nach Ausscheiden der Linken-Abgeordneten aufgelöst wurde.</story>
+        </parlament>
+        <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
+          <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
+            <mandat type="pirat" multi="2">Heiko Schönemann</mandat>
+          </parlament>
+        </gebiet>
+        </gebiet>
+      <gebiet type="Stadt" name="Lehrte" gs="03241011" localpirates="http://www.piratenpartei-lehrte.de/">
+        <parlament name="Stadtrat" seats="40" ris="https://sessionnet.krz.de/lehrte/bi/kp0041.asp">
+          <mandat type="pirat">Jan Nadaczinski</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Neustadt am Rübenberge" gs="03241012">
+        <gebiet type="Ortsteil" name="Mandelsloh" arbey="1">
+          <parlament name="Ortsrat" seats="11" ris="https://agendaservice.net/ratsinfo/neustadtamrbge/Committee.html?orgid=16&amp;o=1&amp;oc=0&amp;ob=1#current">
+            <mandat type="pirat">Friedrich Bohm</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Braunschweig" gs="06101000" localpirates="http://www.piratenpartei-braunschweig.de/">
+      <parlament name="Stadtrat" seats="54" ris="https://ratsinfo.braunschweig.de/">
+        <mandat type="pirat">Jens-Wolfhard Schicke-Uffmann</mandat>
+        <mandat type="pirat">Claudia Jonda</mandat>
+        <fraktion type="piraten" url="http://www.piratenpartei-braunschweig.de/startseite/ratsarbeit/fraktion-im-rat/" />
+      </parlament>
+      <gebiet type="Stadtbezirk" name="Östlicher Ring" localkey="12">
+        <parlament name="Stadtbezirksrat" seats="19" ris="http://www.braunschweig.de/politik_verwaltung/politik/stadtbezirksraete/sb120.html">
+          <mandat type="pirat">Merten Herms</mandat>
         </parlament>
       </gebiet>
     </gebiet>
