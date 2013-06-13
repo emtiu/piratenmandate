@@ -84,6 +84,18 @@
     </gebiet>
   </bundesland>
 
+  <bundesland name="Niedersachsen" gs="03000000" localpirates="http://piratenpartei-niedersachsen.de/">
+    <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
+      <gebiet type="Stadt" name="Hannover" gs="03241001">
+        <parlament name="Stadtrat" seats="64">
+          <mandat type="pirat">Dr. Jür­gen Jung­hä­nel</mandat>
+          <mandat type="pirat">Dirk Hillbrecht</mandat>
+          <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/>
+        </parlament>
+      </gebiet>
+    </gebiet>
+  </bundesland>
+
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48">
