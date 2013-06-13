@@ -161,14 +161,14 @@
         </parlament>
       </gebiet>
       <gebiet type="Stadt" name="Neustadt am Rübenberge" gs="03241012">
-        <gebiet type="Ortsteil" name="Mandelsloh" arbey="1">
+        <gebiet type="Ortsteil" name="Mandelsloh" arbkey="1">
           <parlament name="Ortsrat" seats="11" ris="https://agendaservice.net/ratsinfo/neustadtamrbge/Committee.html?orgid=16&amp;o=1&amp;oc=0&amp;ob=1#current">
             <mandat type="pirat">Friedrich Bohm</mandat>
           </parlament>
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Braunschweig" gs="06101000" localpirates="http://www.piratenpartei-braunschweig.de/">
+    <gebiet type="Kreisfreie Stadt" name="Braunschweig" gs="03101000" localpirates="http://www.piratenpartei-braunschweig.de/">
       <parlament name="Stadtrat" seats="54" ris="https://ratsinfo.braunschweig.de/">
         <mandat type="pirat">Jens-Wolfhard Schicke-Uffmann</mandat>
         <mandat type="pirat">Claudia Jonda</mandat>
@@ -177,6 +177,46 @@
       <gebiet type="Stadtbezirk" name="Östlicher Ring" localkey="12">
         <parlament name="Stadtbezirksrat" seats="19" ris="http://www.braunschweig.de/politik_verwaltung/politik/stadtbezirksraete/sb120.html">
           <mandat type="pirat">Merten Herms</mandat>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Delmenhorst" gs="03401000" localpirates="http://piratenpartei-delmenhorst.de/">
+      <parlament name="Stadtrat" seats="43" ris="http://www.delmenhorst.de/rat-politik/ratsinfo/index.php">
+        <mandat type="pirat">Andreas Neugebauer</mandat>
+        <mandat type="pirat">Florian Beyer</mandat>
+        <fraktion type="piraten" url="http://piratenpartei-delmenhorst.de/piratenfraktion/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Oldenburg" gs="03403000" localpirates="https://piratenpartei-oldenburg.de/">
+      <parlament name="Stadtrat" seats="50" ris="http://buergerinfo.oldenburg.de/kp0041.php">
+        <mandat type="pirat">Jan-Martin Meyer</mandat>
+        <fraktion type="gemeinsam" name="DIE.LINKE/Piratenpartei" url="https://wiki.piratenpartei.de/Oldenburg/Gruppe_DIE_LINKE.-Piratenpartei">
+          <partner partei="LINKE" num="3"/>
+        </fraktion>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Osnabrück" gs="03404000" localpirates="https://www.piraten-osnabrueck.de/">
+      <parlament name="Stadtrat" seats="50" ris="https://ris.osnabrueck.de/bi/pa021.asp">
+        <mandat type="pirat">Ralf ter Veer</mandat>
+        <fraktion type="gemeinsam" name="UWG und PIRATEN" url="http://www.uwg-und-piraten.de/">
+          <partner partei="Wählergemeinschaft" num="1"/>
+        </fraktion>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Wolfsburg" gs="03103000" localpirates="http://wolfsburg.piratenpartei-nds.de/">
+      <parlament name="Stadtrat" seats="46" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Rat/Ratsmitglieder">
+        <mandat type="pirat">Piroska Evenburg</mandat>
+        <mandat type="pirat">Svante Evenburg</mandat>
+        <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" />
+      </parlament>
+      <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
+        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
+          <mandat type="pirat">Helmuth Goldenstein</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
+        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
+          <mandat type="pirat" multi="2">Svante Evenburg</mandat>
         </parlament>
       </gebiet>
     </gebiet>
