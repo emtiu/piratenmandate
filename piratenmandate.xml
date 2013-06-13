@@ -259,6 +259,32 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
+      <parlament name="Kreistag" seats="46" ris="http://kreistag.lk-wf.de/sessionnet/bi/kp0040.php?__kgrnr=1">
+        <mandat type="pirat">Michael Leukert</mandat>
+        <fraktion type="gemeinsam" name="LINKE &amp; PIRATEN">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
+        <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
+          <mandat type="pirat">Werner Heise</mandat>
+          <mandat type="pirat">Arne Hattendorf</mandat>
+          <fraktion type="gemeinsam" name="PIRATEN und FDP" url="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">
+            <partner partei="FDP" num="1" />
+          </fraktion>
+          <story source="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">Anfangs bildeten die beiden Piraten im Stadtrat die PIRATEN-Fraktion. Nach etwa einem Jahr schlossen sie sich mit dem einigen FDP-Abgeordneten zu der Gruppe PIRATEN und FDP zusammen. Formal existiert die PIRATEN-Fraktion weiter, im Rat tritt jedoch nur noch Gruppe auf.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
+        <parlament name="Gemeinderat" seats="31" ris="http://www.sitzungsdienst-cremlingen.de/bi/pa021.asp">
+          <mandat type="pirat">Jens Golland</mandat>
+          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="http://gemeinderat.cremlingen.ratspiraten.de/">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
