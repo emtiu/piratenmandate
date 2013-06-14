@@ -28,7 +28,7 @@
     <xsl:value-of select="count(//fraktion[@type='gemeinsam'])" />
     <xsl:text> gemeinsame Fraktionen.</xsl:text>
 
-    <xsl:text>&#10;&#10;Gemeinsame Fraktionen mit:&#10;</xsl:text>
+    <xsl:text>&#10;&#10;</xsl:text><xsl:value-of select="count(//fraktion[@type='gemeinsam'])" /><xsl:text> gemeinsame Fraktionen mit:&#10;</xsl:text>
     <xsl:for-each select="//partner[generate-id() = generate-id(key('fraktionspartner', @partei)[1])]">
     <xsl:sort select="count(key('fraktionspartner', @partei))" data-type="number"  order="descending" />
       <xsl:value-of select="@partei" /><xsl:text> </xsl:text><xsl:value-of select="count(key('fraktionspartner', @partei))" /><xsl:text>&#10;</xsl:text>
