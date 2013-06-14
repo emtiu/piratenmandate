@@ -285,6 +285,37 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
+      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
+        <mandat type="pirat">Jason Peper</mandat>
+        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Hildesheim" gs="03254021">
+        <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
+          <mandat type="pirat">Ortwin Regel</mandat>
+          <fraktion type="gemeinsam" name="SPD, Grüne, Regel">
+            <partner partei="SPD" num="14" />
+            <partner partei="GRÜNE" num="9" />
+          </fraktion>
+          <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
+      <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0040.asp?__kgrnr=186&amp;__cgrname=Kreistag">
+        <mandat type="pirat">Andreas Schelper</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Stadt" name="Göttingen" gs="03152012">
+        <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
+          <mandat type="pirat">Martin Rieth</mandat>
+          <mandat type="pirat">Tobias Schleuß</mandat>
+          <fraktion type="piraten" url="http://www.piratenpartei-goettingen.de/ratsfraktion" />
+        </parlament>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
@@ -318,7 +349,7 @@
         <parlament name="Stadtrat" seats="50" ris="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;item_id=855866">
           <mandat type="transfer" from="CDU/CSU">Rudi E. Lennartz</mandat>
           <fraktion type="gemeinsam" name="Fraktion aus Piratenpartei und Unabhängigem">
-            <partner partei="Parteilose" num="1" />
+            <partner partei="Einzelbewerber" num="1" />
           </fraktion>
           <story source="http://www.aachener-zeitung.de/lokales/eschweiler/cdu-dissidenten-wollen-nun-als-fraktion-auftreten-1.518151">Am 30. August 2009 wurden Rudi E. Lennartz und Wolfram Stolz für die CDU in den Stadtrat von Eschweiler gewählt. Bereits 2011 trat Wolfram Stolz aus der CDU-Fraktion aus, im Januar 2013 schließlich auch Rudi E. Lennartz. Die beiden gründeten im Februar 2013 die „Fraktion aus Piratenpartei und Unabhängigem“.</story>
         </parlament>
