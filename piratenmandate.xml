@@ -158,6 +158,7 @@
         <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
           <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
             <mandat type="pirat" multi="2">Heiko Schönemann</mandat>
+            <fraktion type="none" />
           </parlament>
         </gebiet>
         </gebiet>
@@ -316,6 +317,62 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
+      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
+        <mandat type="pirat">Constantin Grosch</mandat>
+        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
+          <partner partei="SPD" num="20" />
+          <partner partei="GRÜNE" num="7" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Hameln" gs="03252006">
+        <parlament name="Stadtrat" seats="43" ris="https://www.pvrat.hameln.de/">
+          <mandat type="pirat">Lars Reineke</mandat>
+          <fraktion type="gemeinsam" name="Piraten / DIE LINKE" url="http://piraten-linke-hameln.de/">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Flecken" name="Coppenbrügge" gs="03252004">
+        <parlament name="Gemeinderat" seats="20" ris="http://www.coppenbruegge.de/gemeindeportal/gemeindevertreter.html">
+          <mandat type="pirat">Torben Friedrich</mandat>
+          <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
+            <partner partei="SPD" num="7" />
+            <partner partei="GRÜNE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
+<!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
+      <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
+        <story>It's complicated!</story>
+      </parlament>-->
+      <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
+        <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
+          <mandat type="pirat">Arne Ludwig</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
+        <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
+          <mandat type="pirat">Maik Bröse</mandat>
+          <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
+            <partner partei="GRÜNE" num="4" />
+            <partner partei="Wählergemeinschaft" num="1" />
+          </fraktion>
+        </parlament>
+        <gebiet type="Gemeinde" name="Tespe" gs="03353033">
+          <parlament name="Gemeinderat" seats="15" ris="http://gemeinde-tespe.de/gremien/gemeinderat/">
+            <mandat type="pirat" multi="2">Maik Bröse</mandat>
+            <fraktion type="gemeinsam" name="SPD/Grüne/Piraten">
+              <partner partei="SPD" num="6" />
+              <partner partei="GRÜNE" num="1" />
+            </fraktion>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
@@ -370,7 +427,6 @@
           <fraktion type="none" />
         </parlament>
       </gebiet>-->
-
     <gebiet type="Kreisfreie Stadt" name="Oberhausen" gs="05119000" localpirates="http://piratenpartei-oberhausen.de/">
       <gebiet type="Stadtbezirk" name="Alt-Oberhausen" arbkey="1">
         <parlament name="Bezirksvertretung" seats="19" ris="http://allris.oberhausen.de/bi/pa021.asp">
