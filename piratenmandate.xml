@@ -421,15 +421,33 @@
         </fraktion>
       </parlament>
       <gebiet type="Stadt" name="Gifhorn">
-        <parlament name="Stadtrat"></parlament>
+        <parlament name="Stadtrat" seats="36" ris="https://gifhorn.more-rubin1.de/gremien_pers.php?Kuerzel=1&amp;persnr=&amp;Bezeichnung=Rat+der+Stadt+Gifhorn&amp;entrygremien=0&amp;sortgremien=Bezeichnung&amp;sort=gm.Folge_Personen&amp;entrypers=0">
+          <mandat type="pirat">Matthias Stoll</mandat>
+          <fraktion type="none" />
+        </parlament>
       </gebiet>
-      <gebiet type="Samtgemeinde" name="Isenbüttel">
-        <parlament name="Samtgemeinderat"></parlament>
+      <gebiet type="Samtgemeinde" name="Isenbüttel" gs="031515404">
+        <parlament name="Samtgemeinderat" seats="30" ris="https://www.sitzungsdienst-isenbuettel.de/bi/pa020.asp?PALFDNR=1&amp;options=4">
+          <mandat type="pirat">Sören Tesch</mandat>
+          <fraktion type="gemeinsam" name="Gruppe SPD-Piraten">
+            <partner partei="SPD" num="10" />
+          </fraktion>
+        </parlament>
       </gebiet>
-      <gebiet type="Samtgemeinde" name="Papenteich">
-        <parlament name="Samtgemeinderat"></parlament>
-        <gebiet type="Gemeinde" name="Schwülper">
-          <parlament name="Gemeinderat"></parlament>
+      <gebiet type="Samtgemeinde" name="Papenteich" gs="031515406">
+        <parlament name="Samtgemeinderat" seats="34" ris="http://www.papenteich.de/ratsinfo/list_ratsinfo.php?menuid=221&amp;topmenu=25&amp;keepmenu=inactive">
+          <mandat type="pirat" multi="2">Stefan Domke</mandat>
+          <fraktion type="gemeinsam" name="GRÜNE/PIRATEN">
+            <partner partei="GRÜNE" num="4" />
+          </fraktion>
+        </parlament>
+        <gebiet type="Gemeinde" name="Schwülper" gs="03151027">
+          <parlament name="Gemeinderat" seats="19" ris="">
+            <mandat type="pirat" multi="3">Stefan Domke</mandat>
+            <fraktion type="gemeinsam" name="Grüne und Piraten">
+              <partner partei="GRÜNE" num="1" />
+            </fraktion>
+          </parlament>
         </gebiet>
       </gebiet>
     </gebiet>
