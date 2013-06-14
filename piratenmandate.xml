@@ -373,6 +373,66 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
+      <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Committee.html?orgid=14&amp;o=1&amp;oc=0&amp;ob=1#current">
+        <mandat type="pirat">Max Rother</mandat>
+        <fraktion type="gemeinsam" name="FDP und Piraten">
+          <partner partei="FDP" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Peine" gs="03157006">
+        <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <mandat type="pirat">Matthias Roll</mandat>
+          <fraktion type="gemeinsam" name="GuB/FDP/Piraten">
+            <partner partei="Wählergemeinschaft" num="1" />
+            <partner partei="FDP" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Edemissen" gs="03157001">
+        <parlament name="Gemeinderat" seats="31" ris="http://87.106.2.115:8080/ratsinfo/edemissen/Committee.html?orgid=12&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <mandat type="pirat">Carsten Bartels</mandat>
+          <fraktion type="gemeinsam" name="Piraten/Linke">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Ilsede">
+        <parlament name="Gemeinderat" seats="28" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=6&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <mandat type="pirat" multi="2">Max Rother</mandat>
+          <fraktion type="gemeinsam" name="Piraten und FDP">
+            <partner partei="FDP" num="1"></partner>
+          </fraktion>
+        </parlament>
+        <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
+          <parlament name="Ortsrat" seats="5" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=15&amp;o=1&amp;oc=0&amp;ob=1#current">
+            <mandat type="pirat">Stefan Grigat</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Gifhorn" gs="03151000" localpirates="http://piraten-gifhorn.de/">
+      <parlament name="Kreistag" seats="55" ris="http://www.gifhorn.de/staticsite/staticsite.php?menuid=451&amp;topmenu=450">
+        <mandat type="pirat">Stefan Domke</mandat>
+        <fraktion type="gemeinsam" name="Gruppe SPD / Grüne / Piraten / Linke">
+          <partner partei="SPD" num="19" />
+          <partner partei="GRÜNE" num="7" />
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Gifhorn">
+        <parlament name="Stadtrat"></parlament>
+      </gebiet>
+      <gebiet type="Samtgemeinde" name="Isenbüttel">
+        <parlament name="Samtgemeinderat"></parlament>
+      </gebiet>
+      <gebiet type="Samtgemeinde" name="Papenteich">
+        <parlament name="Samtgemeinderat"></parlament>
+        <gebiet type="Gemeinde" name="Schwülper">
+          <parlament name="Gemeinderat"></parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
