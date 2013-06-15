@@ -2,7 +2,7 @@
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output method="text" encoding="UTF-8" />
 
-  <xsl:key name="exparteien" match="mandat[@type='transfer']" use="@from" />
+  <xsl:key name="exparteien" match="mandat[@type='transfer' and not(@multi)]" use="@from" />
   <xsl:key name="fraktionspartner" match="partner" use="@partei" />
 
   <xsl:template match="/">
@@ -16,8 +16,8 @@
 
     <xsl:text>&#10;&#10;Übertritte (Menschen) von:&#10;</xsl:text>
     <xsl:for-each select="//mandat[@type='transfer'][generate-id() = generate-id(key('exparteien', @from)[1])]">
-    <xsl:sort select="count(key('exparteien', @from)) - count(//mandat[@multi and @from=current()/@from])" data-type="number"  order="descending" />
-      <xsl:value-of select="@from" /><xsl:text> </xsl:text><xsl:value-of select="count(key('exparteien', @from)) - count(//mandat[@multi and @from=current()/@from])" /><xsl:text>&#10;</xsl:text>
+    <xsl:sort select="count(key('exparteien', @from))" data-type="number"  order="descending" />
+      <xsl:value-of select="@from" /><xsl:text> </xsl:text><xsl:value-of select="count(key('exparteien', @from))" /><xsl:text>&#10;</xsl:text>
     </xsl:for-each>
 
     <xsl:text>&#10;-- Zahl der Fraktionen: </xsl:text>
