@@ -5,62 +5,62 @@
 
   <bundesland name="Schleswig-Holstein" gs="01000000" localpirates="http://landesportal.piratenpartei-sh.de/">
     <gebiet type="Kreisfreie Stadt" name="Kiel" gs="01002000" localpirates="http://landesportal.piratenpartei-sh.de/kiel/">
-      <parlament name="Ratsversammlung" seats="53">
+      <parlament name="Ratsversammlung" seats="53" ris="http://ratsinfo.kiel.de/bi/pa021.asp">
         <mandat type="pirat">Sven Seele</mandat>
         <mandat type="pirat">Marcel Schmidt</mandat>
         <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-kiel/" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Lübeck" gs="01003000" localpirates="http://landesportal.piratenpartei-sh.de/luebeck/">
-      <parlament name="Bürgerschaft" seats="49">
+      <parlament name="Bürgerschaft" seats="49" ris="http://luebeck.de/stadt_politik/buergerinfo/bi/pa021.asp">
         <mandat type="pirat">Oliver Dedow</mandat>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
-      <parlament name="Ratsversammlung" seats="42">
+      <parlament name="Ratsversammlung" seats="42" ris="https://w3.neumuenster.de/session/bi/kp0040.php?__kgrnr=1&amp;">
         <mandat type="pirat">Thomas Puls</mandat>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
-      <parlament name="Kreistag" seats="44">
+      <parlament name="Kreistag" seats="44" ris="https://www.steinburg.de/144_150.htm">
         <mandat type="pirat">Dr. Siegfried Hansen</mandat>
       </parlament>
       <gebiet type="Stadt" name="Glückstadt" gs="01061029" localpirates="http://landesportal.piratenpartei-sh.de/glueckstadt/">
-        <parlament name="Stadtvertretung" seats="23">
+        <parlament name="Stadtvertretung" seats="23" ris="http://glueckstadt.de/Verwaltung-Politik/Politik/Stadtvertretung">
           <mandat type="pirat" multi="2">Dr. Siegfried Hansen</mandat>
           <mandat type="pirat">Sebastian Kolpert</mandat>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
-      <parlament name="Kreistag" seats="52">
+      <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
         <mandat type="pirat">Christian Ott</mandat>
       </parlament>
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
-        <parlament name="Gemeindevertretung" seats="36">
+        <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Christian Thiessen</mandat>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
-      <parlament name="Kreistag" seats="56">
+      <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <mandat type="pirat">Thomas Wilken</mandat>
         <mandat type="pirat">Toni Köppen</mandat>
-        <fraktion type="piraten" />
+        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
-      <parlament name="Kreistag" seats="49">
+    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
+      <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
         <mandat type="pirat">Hans-Werner Last</mandat>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Kreis Pinneberg" gs="" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
-      <parlament name="Kreistag" seats="44">
+    <gebiet type="Landkreis" name="Kreis Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
+      <parlament name="Kreistag" seats="44" ris="http://www.kreis-pinneberg.de/Politik/Kreistagsinformationssystem/Kreistag.html">
         <mandat type="pirat">Sven Lange</mandat>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
-      <parlament name="Kreistag" seats="48">
+    <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
+      <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/index.phtml?mNavID=164.800&amp;sNavID=647.48&amp;La=1">
         <mandat type="pirat">Axel Sieck</mandat>
       </parlament>
     </gebiet>
@@ -68,7 +68,7 @@
 
   <bundesland name="Hamburg" gs="02000000" localpirates="http://www.piratenpartei-hamburg.de/">
     <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
-      <parlament name="Bezirksversammlung" seats="51">
+      <parlament name="Bezirksversammlung" seats="51" ris="http://www.hamburg.de/mitte/bezirksversammlung/">
         <mandat type="pirat">Andreas Gerhold</mandat>
         <mandat type="pirat">Michael Büker</mandat>
         <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
@@ -77,7 +77,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
-      <parlament name="Bezirksversammlung" seats="49">
+      <parlament name="Bezirksversammlung" seats="49" ris="http://www.hamburg.de/bergedorf/bezirksversammlung/3638882/beschreibung-bezirksversammlung.html">
         <mandat type="pirat">Jan Penz</mandat>
         <fraktion type="none" />
       </parlament>
@@ -92,7 +92,7 @@
         <fraktion type="piraten" url="http://piraten-region-hannover.de/" />
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
-        <parlament name="Stadtrat" seats="64">
+        <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
           <mandat type="pirat">Dr. Jür­gen Jung­hä­nel</mandat>
           <mandat type="pirat">Dirk Hillbrecht</mandat>
           <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/>
@@ -505,7 +505,7 @@
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="48">
+      <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
         <mandat type="pirat">Alexander Niedermeier</mandat>
         <fraktion type="gemeinsam" name="Bündnis 21 – PIRATEN" url="http://www.b21-piraten.de/">
           <partner partei="Bündnis 21/RRP" num="2" />
@@ -514,7 +514,7 @@
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
       <gebiet type="Stadtteil" name="Mitte" localkey="10">
-        <parlament name="Beirat" seats="13">
+        <parlament name="Beirat" seats="13" ris="http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.734.de">
           <mandat type="pirat">Siegfried Wegner-Kärsten</mandat>
           <fraktion type="none" />
         </parlament>
@@ -525,7 +525,7 @@
   <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/">
     <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
       <gebiet type="Stadt" name="Aachen" gs="05334002">
-        <parlament name="Stadtrat" seats="74">
+        <parlament name="Stadtrat" seats="74" ris="http://ratsinfo.aachen.de/bi/pa021.asp">
           <mandat type="pirat">Sait Başkaya</mandat>
           <fraktion type="none" />
         </parlament>
@@ -541,7 +541,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000" localpirates="http://www.piraten-muenster.de/">
-      <parlament name="Stadtrat" seats="80">
+      <parlament name="Stadtrat" seats="80" ris="https://www.stadt-muenster.de/sessionnet/sessionnetbi/kp0040.php?__kgrnr=258&amp;">
         <mandat type="pirat">Pascal Powroznik</mandat>
         <fraktion type="none" />
       </parlament>
@@ -575,7 +575,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
       <gebiet type="Stadt" name="Werl" gs="05974052">
-        <parlament name="Stadtrat" seats="40">
+        <parlament name="Stadtrat" seats="40" ris="http://www.werl.de/politik/ratsinfo/gremien/117010100000002814.php">
           <mandat type="transfer" from="LINKE">Matthias Fischer</mandat>
           <mandat type="transfer" from="LINKE">Ali Kaya</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-werl.de/" />
@@ -632,14 +632,14 @@
 
   <bundesland name="Hessen" gs="06000000" localpirates="http://www.piratenpartei-hessen.de/">
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="71">
+      <parlament name="Stadtverordnetenversammlung" seats="71" ris="https://darmstadt.more-rubin1.de/index.php">
         <mandat type="pirat">Claudia Stricker</mandat>
         <mandat type="pirat">Bernhard Schubach</mandat>
         <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="93">
+      <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
         <mandat type="pirat">Herbert Förster</mandat>
         <mandat type="pirat">Martin Kliehm</mandat>
         <fraktion type="gemeinsam" name="ELF Piraten" url="http://fw-pp.de/">
@@ -649,7 +649,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="81">
+      <parlament name="Stadtverordnetenversammlung" seats="81" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
         <mandat type="pirat">Hendrik Seipel-Rotter</mandat>
         <mandat type="pirat">Michael Göttenauer</mandat>
         <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
@@ -657,34 +657,34 @@
         </fraktion>
       </parlament>
       <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
-        <parlament name="Ortsbeirat" seats="15">
+        <parlament name="Ortsbeirat" seats="15" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
           <mandat type="pirat">Markus Kairies</mandat>
           <fraktion type="impossible" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="71">
+      <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet/gremien.do?mode=0&amp;gid=1">
         <mandat type="pirat">Jörg-Peter Bayer</mandat>
         <fraktion type="none" />
         <story>Die beiden in die Stadtverordnetenversammlung gewählten Piraten bildeten zunächst eine Fraktion mit mit einem parteilosen Stadtverordneten (ehemals SPD) als Fraktionschef. Diese wurde im März 2013 aufgelöst. Im Mai 2013 trat schließlich einer der beiden PIRATEN-Abgeordneten aus der Partei aus.</story>
       </parlament>
       <gebiet type="Ortsteil" name="Stadtteil Nord-Holland" arbkey="1">
-        <parlament name="Ortsbeirat" seats="13">
+        <parlament name="Ortsbeirat" seats="13" ris="http://wwwsvc1.stadt-kassel.de/sdnet/gremien.do?mode=1&amp;gid=22">
           <mandat type="pirat">Volker Berkhout</mandat>
           <fraktion type="impossible" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Offenbach am Main" gs="06413000" localpirates="http://www.piratenpartei-offenbach.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="71">
+      <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://pio.offenbach.de/">
         <mandat type="pirat">Gregory Engels</mandat>
         <mandat type="pirat">Helmut Eisenkolb</mandat>
         <fraktion type="piraten" url="http://www.piratenpartei-offenbach.de/content/fraktion-2011-2016" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
-      <parlament name="Kreistag" seats="71">
+      <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Norbert Rücker</mandat>
         <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
           <partner partei="Wählergemeinschaft" num="2" />
@@ -692,7 +692,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Bergstraße" gs="06431000" localpirates="http://www.piraten-bergstrasse.de/">
-      <parlament name="Kreistag" seats="81">
+      <parlament name="Kreistag" seats="81" ris="http://bis.kreis-bergstrasse.de/kp0040.asp?__kgrnr=2&amp;">
         <mandat type="pirat">Peter Dambier</mandat>
         <mandat type="transfer" from="LINKE">Veronika Zenker</mandat>
         <fraktion type="piraten" url="http://www.piraten-fraktion-bergstrasse.de/" />
@@ -700,7 +700,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
-      <parlament name="Kreistag" seats="87">
+      <parlament name="Kreistag" seats="87" ris="http://www.kreis-offenbach.de/index.phtml?mNavID=1856.545&amp;sNavID=1856.545&amp;La=1">
         <mandat type="pirat">Christoph Hampe</mandat>
         <mandat type="pirat">Eduard Baumann</mandat>
         <mandat type="transfer" from="GRÜNE">Vecih Yaşaner</mandat>
@@ -716,13 +716,13 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
-      <parlament name="Kreistag" seats="81">
+      <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
         <mandat type="pirat">Christian Oechler</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Gießen" gs="06531005">
-        <parlament name="Stadtverordnetenversammlung" seats="59">
+        <parlament name="Stadtverordnetenversammlung" seats="59" ris="http://giessen.de/Rathaus_und_Service/Stadtparlament/Parlamentsinfo/">
           <mandat type="pirat" multi="2">Christian Oechler</mandat>
           <mandat type="pirat">Christian Jackelen</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" />
@@ -730,20 +730,20 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Hochtaunuskreis" gs="06434000" localpirates="http://www.piratenpartei-hochtaunus.de/">
-      <parlament name="Kreistag" seats="71">
+      <parlament name="Kreistag" seats="71" ris="http://buergerinfo.hochtaunuskreis.de/kp0040.asp?__kgrnr=1&amp;">
         <mandat type="pirat">Michael Geurts</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Main-Kinzig-Kreis" gs="06435000" localpirates="http://www.kinzigpiraten.de/">
-      <parlament name="Kreistag" seats="87">
+      <parlament name="Kreistag" seats="87" ris="http://www.mkk.de/cms/de/politik/kreistag/kreistagsabgeordnete/kreistagsabgeordnete.html">
         <mandat type="pirat">René Waller</mandat>
         <mandat type="pirat">Sören Siegismund-Poschmann</mandat>
         <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
-      <parlament name="Kreistag" seats="81">
+      <parlament name="Kreistag" seats="81" ris="https://ramiris.wetteraukreis.org/context/ramiris/?op=ramirisGremiumDetails&amp;gremiumid=0MIQN68VDU">
         <mandat type="pirat">Stephan Flindt</mandat>
         <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
       </parlament>
@@ -755,26 +755,26 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Marburg-Biedenkopf" gs="06534000" localpirates="http://www.piratenpartei-marburg.de/">
-      <parlament name="Kreistag" seats="81">
+      <parlament name="Kreistag" seats="81" ris="https://marburg-biedenkopf.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MiyHavGau9TuCPj2NgzHauCWr8Um5Ol7MfyIduGGJ">
         <mandat type="pirat">Jens Fricke</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Marburg" gs="06534014">
-        <parlament name="Stadtverordnetenversammlung" seats="59">
+        <parlament name="Stadtverordnetenversammlung" seats="59" ris="http://www.svmr.de/pi/pa021.asp">
           <mandat type="pirat">Michael Weber</mandat>
           <fraktion type="none" />
-          <story source="http://www.piratenpartei-marburg.de/content/piraten-zur%C3%BCck-im-marburger-stadtparlament">Am 27. März 2011 war Sascha Klee für die Piratenpartei in die Stadtverordnetenversammlung gewählt worden. Im Juli 2012 trat er aus der Piratenpartei aus, legte aber zunächst das Mandat nicht nieder. Schließlich legte er es im Januar 2013 doch nieder, sodass Michael Weber als Pirat nachrücken konnte.</story>
+          <story source="http://www.piratenpartei-marburg.de/content/piraten-zur%C3%BCck-im-marburger-stadtparlament">Am 27. März 2011 war Sascha Klee für die Piratenpartei in die Stadtverordnetenversammlung gewählt worden. Im Juli 2012 trat er aus der Piratenpartei aus, legte aber zunächst das Mandat nicht nieder. Im Januar 2013 trat er schließlich doch zurück, sodass Michael Weber als Pirat nachrücken konnte.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Kreistag" seats="81">
+      <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/oponline/gremienAuswahl.do?idgremium=*0e0cEjtRZBiH0%296">
         <mandat type="pirat">Swen Schmidt</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
-      <parlament name="Kreistag" seats="71">
+      <parlament name="Kreistag" seats="71" ris="http://lk-wf.active-city.net/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
         <mandat type="pirat">Sascha Brandhoff</mandat>
         <fraktion type="none" />
       </parlament>
@@ -816,7 +816,7 @@
   <bundesland name="Baden-Württemberg" gs="08000000" localpirates="http://piratenpartei-bw.de/">
     <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
       <gebiet type="Stadt" name="Weikersheim" gs="08128126">
-        <parlament name="Gemeinderat" seats="21">
+        <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
           <mandat type="transfer" from="SPD">Rainer Nase</mandat>
           <fraktion type="none" />
           <story source="http://www.swp.de/bad_mergentheim/lokales/vorbach_und_taubertal/Piraten-Partei-SPD;art5640,1573531">Bei der Kommunalwahl am 7. Juni 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. Im Herbst 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin im Juli 2012 rückte er als Pirat in den Gemeinderat nach.</story>
@@ -842,7 +842,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
-      <parlament name="Kreistag" seats="68">
+      <parlament name="Kreistag" seats="68" ris="http://www.kn-kreistag.de/buergerinfo/kp0040.php?__kgrnr=1&amp;">
         <mandat type="transfer" from="LINKE">Michael Krause</mandat>
         <fraktion type="none" />
         <story source="http://www.piratenpartei-bw.de/2012/03/23/konstanzer-kreisrat-michael-krause-wird-pirat/">Am 7. Juni 2009 wurde Michael Krause als einziger Abgeordneter für die Partei DIE LINKE in den Kreistag gewählt. Am 23. März 2012 ist er zur Piratenpartei übergetreten.</story>
@@ -853,13 +853,13 @@
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
     <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
       <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
-        <parlament name="Bezirksausschuss" seats="37">
+        <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
           <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
           <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
         </parlament>
       </gebiet>
       <gebiet type="Stadtbezirk" name="Feldmoching-Hasenbergl" localkey="24">
-        <parlament name="Bezirksausschuss" seats="27">
+        <parlament name="Bezirksausschuss" seats="27" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=233&amp;Wahlperiode=1418368">
           <mandat type="transfer" from="CDU/CSU">Wolfgang Schropp</mandat>
           <mandat type="transfer" from="CDU/CSU">Tobias Wandinger</mandat>
           <fraktion type="piraten" />
@@ -868,7 +868,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
-      <parlament name="Stadtrat" seats="50">
+      <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
         <mandat type="transfer" from="LINKE">Frank Heinze</mandat>
         <fraktion type="none" />
         <story source="http://piraten-erlangen.de/2012/05/01/erlanger-stadtratsmitglied-wechselt-zu-den-piraten/">Am 2. März 2008 wurde Frank Heinze für die Liste „Kommunalwahlverein erlanger linke“ in den Stadtrat gewählt und wurde stellvertretender Vorsitzender ihrer Fraktion. Ab Juni 2009 war er Mitglied sowohl in der Piratenpartei als auch der Partei DIE LINKE. Im April 2011 trat er aus der Partei DIE LINKE aus, blieb aber Mitglied der Fraktion des Kommunalwahlvereins. Im April 2012 trat er auch aus dem Kommunalwahlverein aus und ist fortan Einzelabgeordneter für die PIRATEN.</story>
@@ -895,7 +895,7 @@
 
   <bundesland name="Berlin" gs="11000000" localpirates="http://berlin.piratenpartei.de/">
     <gebiet type="Bezirk" name="Mitte" localkey="01" localpirates="http://www.piraten-mitte.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-mitte/bvv-online/pa021.asp">
         <mandat type="pirat">Tobias Kriesel</mandat>
         <mandat type="pirat">Christopher Lang</mandat>
         <mandat type="pirat">David Kirchner</mandat>
@@ -905,7 +905,7 @@
       </parlament>
     </gebiet>
       <gebiet type="Bezirk" name="Friedrichshain-Kreuzberg" localkey="02" localpirates="http://piratenpartei-friedrichshain-kreuzberg.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/pa021.asp">
         <mandat type="pirat">Ralf Gerlich</mandat>
         <mandat type="pirat">Felix J. Just</mandat>
         <mandat type="pirat">Jessica Zinn</mandat>
@@ -916,7 +916,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Pankow" localkey="03" localpirates="http://piratenpartei-pankow.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-pankow/bvv-online/pa021.asp">
         <mandat type="pirat">Michael Mittelbach</mandat>
         <mandat type="pirat">Stephan Bliedung</mandat>
         <mandat type="pirat">Achim Bartsch</mandat>
@@ -927,7 +927,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Charlottenburg-Wilmersdorf" localkey="04" localpirates="http://piratenpartei-charlottenburg-wilmersdorf.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-charlottenburg-wilmersdorf/bvv-online/pa021.asp">
         <mandat type="pirat">Siegfried Schlosser</mandat>
         <mandat type="pirat">Holger Pabst</mandat>
         <mandat type="pirat">Gerlinde Behrendt</mandat>
@@ -936,7 +936,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Spandau" localkey="05" localpirates="http://piraten-spandau.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-spandau/bvv-online/pa021.asp">
         <mandat type="pirat">Emilio Paolini</mandat>
         <mandat type="pirat">Marion Schunke</mandat>
         <mandat type="pirat">Lasse Kosiol</mandat>
@@ -945,7 +945,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Steglitz-Zehlendorf" localkey="06" localpirates="http://piraten-steglitz-zehlendorf.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-steglitz-zehlendorf/bvv-online/pa021.asp">
         <mandat type="pirat">Georg von Boroviczeny</mandat>
         <mandat type="pirat">Eric Lüders</mandat>
         <mandat type="pirat">Arne Müller</mandat>
@@ -953,7 +953,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Tempelhof-Schöneberg" localkey="07" localpirates="http://piraten-tempelhof-schoeneberg.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/pa021.asp">
         <mandat type="pirat">Stefan Schulz-Günther</mandat>
         <mandat type="pirat">Michael Ickes</mandat>
         <mandat type="pirat">Jan-Ulrich Franz</mandat>
@@ -962,7 +962,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Neukölln" localkey="08" localpirates="http://piratenneukoelln.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-neukoelln/bvv-online/pa021.asp">
         <mandat type="pirat">Steffen Burger</mandat>
         <mandat type="pirat">Anne Helm</mandat>
         <mandat type="pirat">Mathias Zaech</mandat>
@@ -971,7 +971,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
         <mandat type="pirat">Cornelius Engelmann-Strauß</mandat>
         <mandat type="pirat">Monika Belz</mandat>
         <mandat type="pirat">Volker Schröder</mandat>
@@ -981,7 +981,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/pa021.asp">
         <mandat type="pirat">Steffen Ostehr</mandat>
         <mandat type="pirat">Volker Tanger</mandat>
         <mandat type="pirat">Steven Kelz</mandat>
@@ -991,7 +991,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Lichtenberg" localkey="11" localpirates="http://piraten-lichtenberg.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-lichtenberg/bvv-online/pa021.asp">
         <mandat type="pirat">Yannick Meyer</mandat>
         <mandat type="pirat">Steffen Bornfleth</mandat>
         <mandat type="pirat">Marvin Hemmerlein</mandat>
@@ -1001,7 +1001,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Reinickendorf" localkey="12" localpirates="http://www.piratenpartei-reinickendorf.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-reinickendorf/bvv-online/pa021.asp">
         <mandat type="pirat">Sascha Rudloff</mandat>
         <mandat type="pirat">Benjamin Adamski</mandat>
         <mandat type="pirat">Michael Windisch</mandat>
