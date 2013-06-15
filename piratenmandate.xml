@@ -451,6 +451,56 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
+      <gebiet type="Gemeinde" name="Schiffdorf" gs="03352050" localpirates="http://piratenpartei-schiffdorf.de/">
+        <parlament name="Gemeinderat" seats="30" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=2&amp;o=1&amp;oc=1&amp;ob=1#current">
+          <mandat type="transfer" from="CDU">Frank Schulz</mandat>
+          <fraktion type="none" />
+          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU in den Gemeinderat Schiffdorf gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
+        </parlament>
+        <gebiet type="Ortschaft" name="Schiffdorf" arbkey="1">
+          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=38&amp;o=1&amp;oc=1&amp;ob=1#current">
+            <mandat type="transfer" from="CDU">Thomas Behra</mandat>
+          <story source="http://82.198.220.84/ratsinfo/schiffdorf/401/UHVibGljX01pbnV0ZXNfRG9jdW1lbnQ=/9/n/15981.doc">Thomas Behra wurde am 11. September 2011 für CDU in den Ortsrat Schiffdorf gewählt. Im April 2012 trat zur der Piratenpartei über.</story>
+          </parlament>
+        </gebiet>
+        <gebiet type="Ortschaft" name="Sellstedt" arbkey="2">
+          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=39&amp;o=1&amp;oc=1&amp;ob=1#current">
+            <mandat type="transfer" from="CDU" multi="2">Frank Schulz</mandat>
+          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Rotenburg (Wümme)" gs="03357000">
+      <gebiet type="Samtgemeinde" name="Sottrum" gs="033575406">
+        <parlament name="Samtgemeinderat" seats="30" ris="http://www.sottrum.de/">
+          <mandat type="transfer" from="Wählergemeinschaft">Robert Abel</mandat>
+          <story source="http://www.kreiszeitung.de/nachrichten/landkreis-rotenburg/rotenburg/piraten-landtag-2282723.html">Robert Abel wurde am 11. September 2011 als einziger Abgeordneter für den Verein Politik ohne Partei e.V. in den Samtgemeinderat Sottrum gewählt. Am 15. April 2012 trat er der Piratenpartei bei.</story>
+        </parlament>
+        <gebiet type="Gemeinde" name="Ahausen" gs="03357001">
+          <parlament name="Gemeinderat" seats="11" ris="http://www.sottrum.de/">
+            <mandat type="transfer" from="Wählergemeinschaft" multi="2">Robert Abel</mandat>
+            <story source="http://www.kreiszeitung.de/nachrichten/landkreis-rotenburg/rotenburg/piraten-landtag-2282723.html">Robert Abel wurde am 11. September 2011 neben dem Samtgemeinderat Sottrum auch als einziger Abgeordneter für den Verein Politik ohne Partei e.V. in den Gemdeinderat Ahausen gewählt. Am 15. April 2012 trat er der Piratenpartei bei.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000">
+      <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
+        <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
+          <mandat type="transfer" from="GRÜNE">Tim Weber</mandat>
+          <fraktion type="fremd" name="Freie Grüne Bürgerliste Ottersberg"></fraktion>
+          <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 als einer von drei Abgeordneten für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Gemeinderat der Einheitsgemeinde Ottersberg gewählt und wurde ihr Fraktionsvorsitzender. Am 6. Januar 2012 ist er der Piratenpartei beigetreten, blieb aber Fraktionsvorsitzender der FGBO.</story>
+        </parlament>
+        <gebiet type="Ortschaft" name="Ottersberg" arbkey="1">
+          <parlament name="Ortsrat" seats="7" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawHWq8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsCSnGJ">
+            <mandat type="transfer" from="GRÜNE" multi="2">Tim Weber</mandat>
+            <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 neben dem Gemeinderat Flecken Ottersberg als einziger Abgeordneter für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Ortsrat ders Ortsteils Ottersberg gewählt. Am 6. Januar 2012 ist er der Piratenpartei beigetreten.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
