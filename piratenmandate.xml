@@ -489,13 +489,13 @@
     <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000">
       <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
         <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
-          <mandat type="transfer" from="GRÜNE">Tim Weber</mandat>
-          <fraktion type="fremd" name="Freie Grüne Bürgerliste Ottersberg"></fraktion>
+          <mandat type="transfer" from="Wählergemeinschaft">Tim Weber</mandat>
+          <fraktion type="fremd" name="Freie Grüne Bürgerliste Ottersberg" url="http://www.fgbo.de/" />
           <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 als einer von drei Abgeordneten für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Gemeinderat der Einheitsgemeinde Ottersberg gewählt und wurde ihr Fraktionsvorsitzender. Am 6. Januar 2012 ist er der Piratenpartei beigetreten, blieb aber Fraktionsvorsitzender der FGBO.</story>
         </parlament>
         <gebiet type="Ortschaft" name="Ottersberg" arbkey="1">
           <parlament name="Ortsrat" seats="7" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawHWq8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsCSnGJ">
-            <mandat type="transfer" from="GRÜNE" multi="2">Tim Weber</mandat>
+            <mandat type="transfer" from="Wählergemeinschaft" multi="2">Tim Weber</mandat>
             <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 neben dem Gemeinderat Flecken Ottersberg als einziger Abgeordneter für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Ortsrat ders Ortsteils Ottersberg gewählt. Am 6. Januar 2012 ist er der Piratenpartei beigetreten.</story>
           </parlament>
         </gebiet>
