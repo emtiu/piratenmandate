@@ -15,7 +15,7 @@
       <parlament name="Bürgerschaft" seats="49" ris="http://luebeck.de/stadt_politik/buergerinfo/bi/pa021.asp">
         <mandat type="pirat">Oliver Dedow</mandat>
         <fraktion type="gemeinsam" name="Die Partei-Piraten">
-          <partner partei="DIE PARTEI" num="1"/>
+          <partner partei="Die PARTEI" num="1"/>
         </fraktion>
       </parlament>
     </gebiet>
