@@ -14,6 +14,9 @@
     <gebiet type="Kreisfreie Stadt" name="Lübeck" gs="01003000" localpirates="http://landesportal.piratenpartei-sh.de/luebeck/">
       <parlament name="Bürgerschaft" seats="49" ris="http://luebeck.de/stadt_politik/buergerinfo/bi/pa021.asp">
         <mandat type="pirat">Oliver Dedow</mandat>
+        <fraktion type="gemeinsam" name="Die Partei-Piraten">
+          <partner partei="DIE PARTEI" num="1"/>
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
@@ -643,7 +646,7 @@
         <mandat type="pirat">Herbert Förster</mandat>
         <mandat type="pirat">Martin Kliehm</mandat>
         <fraktion type="gemeinsam" name="ELF Piraten" url="http://fw-pp.de/">
-          <partner partei="Europaliste für Frankfurt" num="1" />
+          <partner partei="Europaliste Frankfurt" num="1" />
         </fraktion>
         <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
       </parlament>
