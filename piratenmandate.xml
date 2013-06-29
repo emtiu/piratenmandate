@@ -404,7 +404,7 @@
           </fraktion>
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Ilsede">
+      <gebiet type="Gemeinde" name="Ilsede" gs="03157003">
         <parlament name="Gemeinderat" seats="28" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=6&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat" multi="2">Max Rother</mandat>
           <fraktion type="gemeinsam" name="Piraten und FDP">
@@ -427,7 +427,7 @@
           <partner partei="LINKE" num="1" />
         </fraktion>
       </parlament>
-      <gebiet type="Stadt" name="Gifhorn">
+      <gebiet type="Stadt" name="Gifhorn" gs="03151009">
         <parlament name="Stadtrat" seats="36" ris="https://gifhorn.more-rubin1.de/gremien_pers.php?Kuerzel=1&amp;persnr=&amp;Bezeichnung=Rat+der+Stadt+Gifhorn&amp;entrygremien=0&amp;sortgremien=Bezeichnung&amp;sort=gm.Folge_Personen&amp;entrypers=0">
           <mandat type="pirat">Matthias Stoll</mandat>
           <fraktion type="none" />
@@ -754,7 +754,7 @@
         <mandat type="pirat">Stephan Flindt</mandat>
         <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
       </parlament>
-      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="0644023" localpirates="http://www.piratenpartei-rosbach.de/">
+      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
         <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
           <mandat type="pirat">Helge Welker</mandat>
           <fraktion type="none" />
