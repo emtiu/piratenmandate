@@ -520,7 +520,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
-      <gebiet type="Stadtteil" name="Mitte" localkey="10">
+      <gebiet type="Stadtteil" name="Mitte" localkey="11">
         <parlament name="Beirat" seats="13" ris="http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.734.de">
           <mandat type="pirat">Siegfried Wegner-Kärsten</mandat>
           <fraktion type="none" />
