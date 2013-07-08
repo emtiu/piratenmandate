@@ -479,20 +479,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Rotenburg (Wümme)" gs="03357000">
-      <gebiet type="Samtgemeinde" name="Sottrum" gs="033575406">
-        <parlament name="Samtgemeinderat" seats="30" ris="http://www.sottrum.de/">
-          <mandat type="transfer" from="Wählergemeinschaft">Robert Abel</mandat>
-          <story source="http://www.kreiszeitung.de/nachrichten/landkreis-rotenburg/rotenburg/piraten-landtag-2282723.html">Robert Abel wurde am 11. September 2011 als einziger Abgeordneter für den Verein Politik ohne Partei e.V. in den Samtgemeinderat Sottrum gewählt. Am 15. April 2012 trat er der Piratenpartei bei.</story>
-        </parlament>
-        <gebiet type="Gemeinde" name="Ahausen" gs="03357001">
-          <parlament name="Gemeinderat" seats="11" ris="http://www.sottrum.de/">
-            <mandat type="transfer" from="Wählergemeinschaft" multi="2">Robert Abel</mandat>
-            <story source="http://www.kreiszeitung.de/nachrichten/landkreis-rotenburg/rotenburg/piraten-landtag-2282723.html">Robert Abel wurde am 11. September 2011 neben dem Samtgemeinderat Sottrum auch als einziger Abgeordneter für den Verein Politik ohne Partei e.V. in den Gemdeinderat Ahausen gewählt. Am 15. April 2012 trat er der Piratenpartei bei.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
+<!-- Tim Weber möchte nicht offiziell als Übergetretener geführt werden.
     <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000">
       <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
         <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
@@ -507,7 +494,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-    </gebiet>
+    </gebiet> -->
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
