@@ -800,7 +800,7 @@
   </bundesland>
 
   <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/">
-    <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="04316000">
+    <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="07316000">
       <parlament name="Stadtrat" seats="44" ris="https://www2.neustadt.eu/ratsinfo/bi/kp0041.php">
         <mandat type="transfer" from="LINKE">Andreas Severidt</mandat>
         <fraktion type="none" />
