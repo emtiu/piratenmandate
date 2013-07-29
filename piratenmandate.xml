@@ -22,6 +22,7 @@
     <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
       <parlament name="Ratsversammlung" seats="42" ris="https://w3.neumuenster.de/session/bi/kp0040.php?__kgrnr=1&amp;">
         <mandat type="pirat">Thomas Puls</mandat>
+        <fraktion type="unknown" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
@@ -36,16 +37,19 @@
         <parlament name="Stadtvertretung" seats="23" ris="http://glueckstadt.de/Verwaltung-Politik/Politik/Stadtvertretung">
           <mandat type="pirat" multi="2">Dr. Siegfried Hansen</mandat>
           <mandat type="pirat">Sebastian Kolpert</mandat>
+          <fraktion type="unknown" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
       <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
         <mandat type="pirat">Christian Ott</mandat>
+        <fraktion type="unknown" />
       </parlament>
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Christian Thiessen</mandat>
+          <fraktion type="unknown" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -59,16 +63,19 @@
     <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
       <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
         <mandat type="pirat">Hans-Werner Last</mandat>
+        <fraktion type="unknown" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
       <parlament name="Kreistag" seats="44" ris="http://www.kreis-pinneberg.de/Politik/Kreistagsinformationssystem/Kreistag.html">
         <mandat type="pirat">Sven Lange</mandat>
+        <fraktion type="unknown" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
       <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/index.phtml?mNavID=164.800&amp;sNavID=647.48&amp;La=1">
         <mandat type="pirat">Axel Sieck</mandat>
+        <fraktion type="unknown" />
       </parlament>
     </gebiet>
   </bundesland>
@@ -80,7 +87,7 @@
         <mandat type="pirat">Michael Büker</mandat>
         <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
         <fraktion type="piraten" url="http://hamburg-mitte.bezirkspiraten.de/" />
-        <story source="http://hamburg-mitte.bezirkspiraten.de/2012/06/verstarkung-fur-die-piratenpartei-in-der-bezirksversammlung-hamburg-mitte-piraten-grunden-fraktion/">Nach der Wahl zur Bezirksversammlung am 20. Februar 2011 arbeiteten Andreas Gerhold und Michael Büker zunächst als PIRATEN-Gruppe ohne Fraktionsstatus. Im Juni 2012 trat allerdings Gül Aydın von der GAL (heute Bündnis 90/Die Grünen) über und ermöglichte so die Gründung der PIRATEN-Fraktion.</story>
+        <story source="http://hamburg-mitte.bezirkspiraten.de/2012/06/verstarkung-fur-die-piratenpartei-in-der-bezirksversammlung-hamburg-mitte-piraten-grunden-fraktion/">Nach der Wahl zur Bezirksversammlung am 20. Februar 2011 arbeiteten Andreas Gerhold und Michael Büker zunächst als PIRATEN-Gruppe ohne Fraktionsstatus. Im Juni 2012 trat Gül Aydın von den Grünen über und ermöglichte so die Gründung der PIRATEN-Fraktion.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
@@ -179,6 +186,7 @@
         <gebiet type="Ortsteil" name="Mandelsloh" arbkey="1">
           <parlament name="Ortsrat" seats="11" ris="https://agendaservice.net/ratsinfo/neustadtamrbge/Committee.html?orgid=16&amp;o=1&amp;oc=0&amp;ob=1#current">
             <mandat type="pirat">Friedrich Bohm</mandat>
+            <fraktion type="unknown" />
           </parlament>
         </gebiet>
       </gebiet>
@@ -192,6 +200,7 @@
       <gebiet type="Stadtbezirk" name="Östlicher Ring" localkey="12">
         <parlament name="Stadtbezirksrat" seats="19" ris="http://www.braunschweig.de/politik_verwaltung/politik/stadtbezirksraete/sb120.html">
           <mandat type="pirat">Merten Herms</mandat>
+          <fraktion type="unknown" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -227,11 +236,13 @@
       <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
         <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
           <mandat type="pirat">Helmuth Goldenstein</mandat>
+          <fraktion type="unknown" />
         </parlament>
       </gebiet>
       <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
         <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
           <mandat type="pirat" multi="2">Svante Evenburg</mandat>
+          <fraktion type="unknown" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -414,6 +425,7 @@
         <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
           <parlament name="Ortsrat" seats="5" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=15&amp;o=1&amp;oc=0&amp;ob=1#current">
             <mandat type="pirat">Stefan Grigat</mandat>
+            <fraktion type="unknown" />
           </parlament>
         </gebiet>
       </gebiet>
@@ -468,12 +480,14 @@
         <gebiet type="Ortschaft" name="Schiffdorf" arbkey="1">
           <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=38&amp;o=1&amp;oc=1&amp;ob=1#current">
             <mandat type="transfer" from="CDU/CSU">Thomas Behra</mandat>
+            <fraktion type="unknown" />
           <story source="http://82.198.220.84/ratsinfo/schiffdorf/401/UHVibGljX01pbnV0ZXNfRG9jdW1lbnQ=/9/n/15981.doc">Thomas Behra wurde am 11. September 2011 für CDU in den Ortsrat Schiffdorf gewählt. Im April 2012 trat zur der Piratenpartei über.</story>
           </parlament>
         </gebiet>
         <gebiet type="Ortschaft" name="Sellstedt" arbkey="2">
           <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=39&amp;o=1&amp;oc=1&amp;ob=1#current">
             <mandat type="transfer" from="CDU/CSU" multi="2">Frank Schulz</mandat>
+            <fraktion type="unknown" />
           <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
           </parlament>
         </gebiet>
@@ -653,7 +667,6 @@
       <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
         <parlament name="Ortsbeirat" seats="15" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
           <mandat type="pirat">Markus Kairies</mandat>
-          <fraktion type="impossible" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -666,7 +679,6 @@
       <gebiet type="Ortsteil" name="Stadtteil Nord-Holland" arbkey="1">
         <parlament name="Ortsbeirat" seats="13" ris="http://wwwsvc1.stadt-kassel.de/sdnet/gremien.do?mode=1&amp;gid=22">
           <mandat type="pirat">Volker Berkhout</mandat>
-          <fraktion type="impossible" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -780,7 +792,6 @@
         <gebiet type="Ortsteil" name="Frankenau" arbkey="1">
           <parlament name="Ortsbeirat" seats="7" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100017&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
             <mandat type="pirat" multi="2">Alexander Kaufmann</mandat>
-            <fraktion type="impossible" />
             <story source="http://www.piraten-wa-fkb.net/index.php/abgeordnete.html">Alexander Kaufmann ist als Vorsitzender des Ortsbeirates der Ortsvorsteher des Ortsteils Frankenau.</story>
           </parlament>
         </gebiet>
@@ -849,6 +860,7 @@
       <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
         <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
           <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
+          <fraktion type="unknown" />
           <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
         </parlament>
       </gebiet>
@@ -1010,6 +1022,7 @@
       <gebiet type="Stadt" name="Peitz" gs="12071304">
         <parlament name="Stadtverordnetenversammlung" seats="17" ris="http://www.amtpeitz.de/sessionnet/buergerinfo/kp0040.php?__kgrnr=2&amp;">
           <mandat type="transfer" from="Einzelbewerber">Bernd Schulze</mandat>
+          <fraktion type="unknown" />
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Berndschulze">Am 28. September 2008 als parteiloser Bewerber über die Liste der FDP in die Stadtverordnetenversammlung Peitz gewählte Bernd Schulze trat im Juni 2012 der Piratenpartei bei. Als Vorsitzender der Stadtverordnetenversammlung ist er der Bürgermeister der Stadt.</story>
         </parlament>
       </gebiet>
@@ -1019,7 +1032,6 @@
         <gebiet type="Ortsteil" name="Quappendorf" arbkey="1">
           <parlament name="Ortsbeirat" seats="3" ris="https://amt-neuhardenberg.ratsinfomanagement.net/neuhardenberg/personen.do?submit=true&amp;gremium=4">
             <mandat type="transfer" from="SPD">Rolf Ignaz</mandat>
-            <fraktion type="impossible" />
             <story source="http://wiki.piratenbrandenburg.de/Benutzer:Ignatius">Rolf Ignaz wurde am 28. September 2008 als parteiloser Kandidat über die Liste der SPD in den Ortsbeirat gewählt. Im September 2011 ist er der Piratenpartei beigetreten.</story>
           </parlament>
         </gebiet>
@@ -1029,11 +1041,13 @@
       <gebiet type="gemeinde" name="Gramzow" gs="12073225">
         <parlament name="Gemeindevertretung" seats="15" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1254">
           <mandat type="transfer" from="CDU/CSU">Wolfgang Herrmann</mandat>
+          <fraktion type="unknown" />
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in die Gemeindevertretung gewählt. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Meichow" arbkey="1">
           <parlament name="Ortbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
             <mandat type="transfer" from="CDU/CSU" multi="2">Wolfgang Herrmann</mandat>
+            <fraktion type="unknown" />
             <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
@@ -1055,7 +1069,6 @@
       <gebiet type="Gemeinde" name="Eixen" gs="13073022">
         <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
           <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
-          <fraktion type="impossible"/>
           <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
@@ -1067,7 +1080,6 @@
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
         <parlament name="Ortsbeirat" seats="15" ris="http://ratsinfo.dresden.de/kp0041.php">
           <mandat type="transfer" from="Wählergemeinschaft">Martin Schulte-Wissermann</mandat>
-          <fraktion type="impossible" />
           <story source="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
         </parlament>
       </gebiet>
@@ -1096,7 +1108,6 @@
         <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1">
           <parlament name="Ortschafsrat" seats="20" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/au020.asp?AULFDNR=35&amp;options=4">
             <mandat type="transfer" from="Einzelbewerber">Andrea Bogner</mandat>
-            <fraktion type="impossible" />
             <story source="http://www.volksstimme.de/nachrichten/lokal/haldensleben/1066591_Oebisfelderin-Andrea-Bogner-ist-Piraten-Kandidatin-fuer-den-Bundestag.html">Am 7. Juni 2009 wurde Andrea Bogner als parteilose Einzelkandidatin in den Ortschaftsrat Oebisfelde gewählt. Im Mai 2012 ist sie in die Piratenpartei eingetreten.</story>
           </parlament>
         </gebiet>
@@ -1107,7 +1118,6 @@
         <gebiet type="Ortsteil" name="Ferchland" arbkey="1">
           <parlament name="Ortschaftsrat" seats="5" ris="http://www.elbe-parey.de/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=52&amp;limit=1&amp;limitstart=1">
             <mandat type="transfer" from="SPD">Walter Henning</mandat>
-            <fraktion type="impossible" />
             <story source="http://www.volksstimme.de/nachrichten/lokal/genthin/794312_Piraten-entern-jetzt-die-Region.html">Am 22. April 2007 wurde Walter Henning für die SPD in den Ortschaftsrat Ferchland gewählt. Dort ist er als Vorsitzender des Ortschaftsrats der Ortsbürgermeister. Im September 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
@@ -1120,7 +1130,6 @@
       <gebiet type="Ortsteil" name="Stedtfeld" arbkey="1">
         <parlament name="Ortsteilrat" seats="6" ris="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">
           <mandat type="transfer" from="Einzelbewerber">Klaus Lütkenhues</mandat>
-            <fraktion type="impossible" />
           <story source="http://eisenach-net.de/index.php/en/89-politik/275-neuwahlen-bei-den-wartburgpiraten">Am 7. Juni 2009 wurde Klaus Lütkenhues als Einzelbewerber in den Ortsteilrat Eisenach-Stedtfeld gewählt. Er ist im November 2011 in die Piratenpartei eingetreten.</story>
         </parlament>
       </gebiet>
@@ -1129,7 +1138,6 @@
       <gebiet type="Ortsteil" name="Jena-Nord" arbkey="1">
         <parlament name="Ortsteilrat" seats="10" ris="http://egov1.kommunenonline.de/sessionnet/buergerinfo//kp0040.php?__kgrnr=68&amp;">
           <mandat type="transfer" from="FDP">Michael Gruner</mandat>
-            <fraktion type="impossible" />
           <story source="http://www.jenapolis.de/2013/02/kreisparteitag-der-piraten-jena-2/">Am 7. Juni 2009 wurde Michael Gruner für die FDP in den Ortsteilrat Jena-Nord gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
         </parlament>
       </gebiet>

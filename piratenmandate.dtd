@@ -24,7 +24,7 @@
 <!ATTLIST mandat from CDATA #IMPLIED >
 
 <!ELEMENT fraktion (partner*) >
-<!ATTLIST fraktion type (piraten | gemeinsam | fremd | none | impossible) #REQUIRED >
+<!ATTLIST fraktion type (piraten | gemeinsam | fremd | none | unknown) #REQUIRED >
 <!ATTLIST fraktion name CDATA #IMPLIED >
 <!ATTLIST fraktion url CDATA #IMPLIED >
 

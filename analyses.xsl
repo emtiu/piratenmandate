@@ -40,9 +40,9 @@
     <xsl:text> in fremden Fraktionen) und </xsl:text>
     <xsl:value-of select="count(//parlament[fraktion[@type='none']]/mandat)" />
     <xsl:text> Fraktionslose.&#10;</xsl:text>
-    <xsl:value-of select="count(//parlament[fraktion[@type='impossible']]/mandat)" />
-    <xsl:text> Mandate in Vertretungen ohne Fraktionen.&#10;</xsl:text>
     <xsl:value-of select="count(//parlament[not(fraktion)]/mandat)" />
+    <xsl:text> Mandate in Vertretungen ohne Fraktionen.&#10;</xsl:text>
+    <xsl:value-of select="count(//parlament[fraktion[@type='unknown']]/mandat)" />
     <xsl:text> Mandate mit unbekanntem Fraktionsstatus.&#10;</xsl:text>
 
   </xsl:template>
