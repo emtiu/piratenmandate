@@ -1038,7 +1038,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
-      <gebiet type="gemeinde" name="Gramzow" gs="12073225">
+      <gebiet type="Gemeinde" name="Gramzow" gs="12073225">
         <parlament name="Gemeindevertretung" seats="15" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1254">
           <mandat type="transfer" from="CDU/CSU">Wolfgang Herrmann</mandat>
           <fraktion type="unknown" />
