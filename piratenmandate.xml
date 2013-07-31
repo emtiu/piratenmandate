@@ -856,36 +856,40 @@
   </bundesland>
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
-    <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
-      <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
-        <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
-          <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
-          <fraktion type="unknown" />
-          <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="Feldmoching-Hasenbergl" localkey="24">
-        <parlament name="Bezirksausschuss" seats="27" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=233&amp;Wahlperiode=1418368">
-          <mandat type="transfer" from="CDU/CSU">Wolfgang Schropp</mandat>
-          <mandat type="transfer" from="CDU/CSU">Tobias Wandinger</mandat>
-          <fraktion type="piraten" />
-          <story source="http://muenchen.piratenpartei.de/erste-eigene-fraktion-im-ba24/">Am 2. März 2008 wurden Tobias Wandinger und Wolfgang Schropp als zwei von insgesamt zehn Abgeordneten für die CSU in den Bezirksausschuss gewählt. Am 25. April 2012 sind sie der Piratenpartei beigetreten.</story>
-        </parlament>
+    <gebiet type="Bezirk" name="Oberbayern" gs="09100000" localpirates="http://piraten-oberbayern.de/">
+      <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
+        <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
+          <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
+            <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
+            <fraktion type="unknown" />
+            <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Feldmoching-Hasenbergl" localkey="24">
+          <parlament name="Bezirksausschuss" seats="27" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=233&amp;Wahlperiode=1418368">
+            <mandat type="transfer" from="CDU/CSU">Wolfgang Schropp</mandat>
+            <mandat type="transfer" from="CDU/CSU">Tobias Wandinger</mandat>
+            <fraktion type="piraten" />
+            <story source="http://muenchen.piratenpartei.de/erste-eigene-fraktion-im-ba24/">Am 2. März 2008 wurden Tobias Wandinger und Wolfgang Schropp als zwei von insgesamt zehn Abgeordneten für die CSU in den Bezirksausschuss gewählt. Am 25. April 2012 sind sie der Piratenpartei beigetreten.</story>
+          </parlament>
+        </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
-      <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
-        <mandat type="transfer" from="LINKE">Frank Heinze</mandat>
-        <fraktion type="none" />
-        <story source="http://piraten-erlangen.de/2012/05/01/erlanger-stadtratsmitglied-wechselt-zu-den-piraten/">Am 2. März 2008 wurde Frank Heinze für die Liste „Kommunalwahlverein erlanger linke“ in den Stadtrat gewählt und wurde stellvertretender Vorsitzender ihrer Fraktion. Ab Juni 2009 war er Mitglied sowohl in der Piratenpartei als auch der Partei DIE LINKE. Im April 2011 trat er aus der Partei DIE LINKE aus, blieb aber Mitglied der Fraktion des Kommunalwahlvereins. Im April 2012 trat er auch aus dem Kommunalwahlverein aus und ist fortan Einzelabgeordneter für die PIRATEN.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Fürth" gs="09563000" localpirates="http://www.piraten-fuerth.de/">
-      <parlament name="Stadtrat" seats="50" ris="http://stadtrat.fuerth.de/bi/kp0040.php?__kgrnr=1001">
-        <mandat type="transfer" from="LINKE">Mohamed Younis</mandat>
-        <fraktion type="none" />
-        <story source="http://www.piraten-fuerth.de/2012/09/14/stadtrat-tritt-der-piratenpartei-bei/">Am 2. März 2008 wurde Mohamed Younis als einer von zwei Abgeordneten für die LINKE in den Stadtrat gewählt. Im September 2009 trat er aus der Partei DIE LINKE aus, blieb aber fraktionsloses Einzelmitglied im Stadtrat. Im September 2012 ist er in die Piratenpartei eingetreten, tritt aber auf Wunsch seines Kreisverbandes weiter als „parteiloser“ Stadtrat auf.</story>
-      </parlament>
+    <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
+      <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
+        <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
+          <mandat type="transfer" from="LINKE">Frank Heinze</mandat>
+          <fraktion type="none" />
+          <story source="http://piraten-erlangen.de/2012/05/01/erlanger-stadtratsmitglied-wechselt-zu-den-piraten/">Am 2. März 2008 wurde Frank Heinze für die Liste „Kommunalwahlverein erlanger linke“ in den Stadtrat gewählt und wurde stellvertretender Vorsitzender ihrer Fraktion. Ab Juni 2009 war er Mitglied sowohl in der Piratenpartei als auch der Partei DIE LINKE. Im April 2011 trat er aus der Partei DIE LINKE aus, blieb aber Mitglied der Fraktion des Kommunalwahlvereins. Im April 2012 trat er auch aus dem Kommunalwahlverein aus und ist fortan Einzelabgeordneter für die PIRATEN.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Kreisfreie Stadt" name="Fürth" gs="09563000" localpirates="http://www.piraten-fuerth.de/">
+        <parlament name="Stadtrat" seats="50" ris="http://stadtrat.fuerth.de/bi/kp0040.php?__kgrnr=1001">
+          <mandat type="transfer" from="LINKE">Mohamed Younis</mandat>
+          <fraktion type="none" />
+          <story source="http://www.piraten-fuerth.de/2012/09/14/stadtrat-tritt-der-piratenpartei-bei/">Am 2. März 2008 wurde Mohamed Younis als einer von zwei Abgeordneten für die LINKE in den Stadtrat gewählt. Im September 2009 trat er aus der Partei DIE LINKE aus, blieb aber fraktionsloses Einzelmitglied im Stadtrat. Im September 2012 ist er in die Piratenpartei eingetreten, tritt aber auf Wunsch seines Kreisverbandes weiter als „parteiloser“ Stadtrat auf.</story>
+        </parlament>
+      </gebiet>
     </gebiet>
   </bundesland>
 
