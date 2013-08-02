@@ -1053,10 +1053,10 @@
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in die Gemeindevertretung gewählt. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Meichow" arbkey="1">
-          <parlament name="Ortbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
+          <parlament name="Ortsbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
             <mandat type="transfer" from="CDU/CSU" multi="2">Wolfgang Herrmann</mandat>
             <fraktion type="unknown" />
-            <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
+            <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortsbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
           </parlament>
         </gebiet>
       </gebiet>
