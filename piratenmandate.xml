@@ -22,7 +22,9 @@
     <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
       <parlament name="Ratsversammlung" seats="42" ris="https://w3.neumuenster.de/session/bi/kp0040.php?__kgrnr=1&amp;">
         <mandat type="pirat">Thomas Puls</mandat>
-        <fraktion type="unknown" />
+        <fraktion type="gemeinsam" name="BfB/PIRATEN">
+          <partner partei="Wählergemeinschaft" num="3"/>
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
@@ -43,13 +45,13 @@
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
       <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
-        <mandat type="pirat">Christian Ott</mandat>
-        <fraktion type="unknown" />
+        <mandat type="pirat">Timo Ploog</mandat>
+        <fraktion type="fremd" name="Bündnis 90/Die Grünen" url="http://www.gruene-nf.de/kreistagsfraktion-nf/" />
       </parlament>
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Christian Thiessen</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -63,19 +65,21 @@
     <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
       <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
         <mandat type="pirat">Hans-Werner Last</mandat>
-        <fraktion type="unknown" />
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
       <parlament name="Kreistag" seats="44" ris="http://www.kreis-pinneberg.de/Politik/Kreistagsinformationssystem/Kreistag.html">
         <mandat type="pirat">Sven Lange</mandat>
-        <fraktion type="unknown" />
+        <fraktion type="gemeinsam" name="DIE LINKE &amp; PIRATEN">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
       <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/index.phtml?mNavID=164.800&amp;sNavID=647.48&amp;La=1">
         <mandat type="pirat">Axel Sieck</mandat>
-        <fraktion type="unknown" />
+        <fraktion type="none" />
       </parlament>
     </gebiet>
   </bundesland>
