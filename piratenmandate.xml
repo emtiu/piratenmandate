@@ -136,7 +136,9 @@
         <gebiet type="Stadtbezirk" name="Döhren-Wülfel" localkey="8">
           <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-8-D%C3%B6hren-W%C3%BClfel">
             <mandat type="pirat">Marc Herrmann</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Linden-Limmer" localkey="10">
