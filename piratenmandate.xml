@@ -208,6 +208,25 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Wolfsburg" gs="03103000" localpirates="http://wolfsburg.piratenpartei-nds.de/">
+      <parlament name="Stadtrat" seats="46" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Rat/Ratsmitglieder">
+        <mandat type="pirat">Piroska Evenburg</mandat>
+        <mandat type="pirat">Svante Evenburg</mandat>
+        <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" />
+      </parlament>
+      <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
+        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
+          <mandat type="pirat">Helmuth Goldenstein</mandat>
+          <fraktion type="unknown" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
+        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
+          <mandat type="pirat" multi="2">Svante Evenburg</mandat>
+          <fraktion type="unknown" />
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Delmenhorst" gs="03401000" localpirates="http://piratenpartei-delmenhorst.de/">
       <parlament name="Stadtrat" seats="43" ris="http://www.delmenhorst.de/rat-politik/ratsinfo/index.php">
         <mandat type="pirat">Andreas Neugebauer</mandat>
@@ -230,209 +249,6 @@
           <partner partei="Wählergemeinschaft" num="1"/>
         </fraktion>
       </parlament>
-    </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Wolfsburg" gs="03103000" localpirates="http://wolfsburg.piratenpartei-nds.de/">
-      <parlament name="Stadtrat" seats="46" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Rat/Ratsmitglieder">
-        <mandat type="pirat">Piroska Evenburg</mandat>
-        <mandat type="pirat">Svante Evenburg</mandat>
-        <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" />
-      </parlament>
-      <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
-        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
-          <mandat type="pirat">Helmuth Goldenstein</mandat>
-          <fraktion type="unknown" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
-        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
-          <mandat type="pirat" multi="2">Svante Evenburg</mandat>
-          <fraktion type="unknown" />
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Northeim" gs="03155000" localpirates="http://www.piratenpartei-northeim.de/">
-      <gebiet type="Stadt" name="Uslar" gs="03155012">
-        <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
-          <mandat type="pirat">Aljoscha Rittner</mandat>
-          <fraktion type="gemeinsam" name="Bunte Ratsgruppe Uslar" url="http://www.bunte-ratsgruppe-uslar.de/">
-            <partner partei="GRÜNE" num="2"></partner>
-            <partner partei="LINKE" num="1"></partner>
-            <partner partei="Einzelbewerber" num="1"></partner>
-          </fraktion>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
-      <gebiet type="Stadt" name="Lüneburg" gs="03355022">
-        <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
-          <mandat type="pirat">Torbjörn Bartels</mandat>
-          <mandat type="pirat">Daniel Brügge</mandat>
-          <fraktion type="piraten" url="http://www.heide-piraten.de/hpblog/pirathaus/stadtrat-luneburg/" />
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Uelzen" gs="03360000" localpirates="http://www.heide-piraten.de/">
-      <gebiet type="Stadt" name="Uelzen" gs="03360025">
-        <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
-          <mandat type="pirat">Rolf Tischer</mandat>
-          <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
-            <partner partei="Wählergemeinschaft" num="2" />
-            <partner partei="Bündnis 21/RRP" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
-      <parlament name="Kreistag" seats="46" ris="http://kreistag.lk-wf.de/sessionnet/bi/kp0040.php?__kgrnr=1">
-        <mandat type="pirat">Michael Leukert</mandat>
-        <fraktion type="gemeinsam" name="LINKE &amp; PIRATEN">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
-        <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
-          <mandat type="pirat">Werner Heise</mandat>
-          <mandat type="pirat">Arne Hattendorf</mandat>
-          <fraktion type="gemeinsam" name="PIRATEN und FDP" url="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">
-            <partner partei="FDP" num="1" />
-          </fraktion>
-          <story source="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">Anfangs bildeten die beiden Piraten im Stadtrat die PIRATEN-Fraktion. Nach etwa einem Jahr schlossen sie sich mit dem einigen FDP-Abgeordneten zu der Gruppe PIRATEN und FDP zusammen. Formal existiert die PIRATEN-Fraktion weiter, im Rat tritt jedoch nur noch Gruppe auf.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
-        <parlament name="Gemeinderat" seats="31" ris="http://www.sitzungsdienst-cremlingen.de/bi/pa021.asp">
-          <mandat type="pirat">Jens Golland</mandat>
-          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="http://gemeinderat.cremlingen.ratspiraten.de/">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
-      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
-        <mandat type="pirat">Jason Peper</mandat>
-        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Hildesheim" gs="03254021">
-        <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
-          <mandat type="pirat">Ortwin Regel</mandat>
-          <fraktion type="gemeinsam" name="SPD, Grüne, Regel">
-            <partner partei="SPD" num="14" />
-            <partner partei="GRÜNE" num="9" />
-          </fraktion>
-          <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
-      <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0040.asp?__kgrnr=186&amp;__cgrname=Kreistag">
-        <mandat type="pirat">Andreas Schelper</mandat>
-        <fraktion type="none" />
-      </parlament>
-      <gebiet type="Stadt" name="Göttingen" gs="03152012">
-        <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
-          <mandat type="pirat">Martin Rieth</mandat>
-          <mandat type="pirat">Tobias Schleuß</mandat>
-          <fraktion type="piraten" url="http://www.piratenpartei-goettingen.de/ratsfraktion" />
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
-      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <mandat type="pirat">Constantin Grosch</mandat>
-        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-          <partner partei="SPD" num="20" />
-          <partner partei="GRÜNE" num="7" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Hameln" gs="03252006">
-        <parlament name="Stadtrat" seats="43" ris="https://www.pvrat.hameln.de/">
-          <mandat type="pirat">Lars Reineke</mandat>
-          <fraktion type="gemeinsam" name="Piraten / DIE LINKE" url="http://piraten-linke-hameln.de/">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-      <gebiet type="Flecken" name="Coppenbrügge" gs="03252004">
-        <parlament name="Gemeinderat" seats="20" ris="http://www.coppenbruegge.de/gemeindeportal/gemeindevertreter.html">
-          <mandat type="pirat">Torben Friedrich</mandat>
-          <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-            <partner partei="SPD" num="7" />
-            <partner partei="GRÜNE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
-<!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
-      <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
-        <story>It's complicated!</story>
-      </parlament>-->
-      <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
-        <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
-          <mandat type="pirat">Arne Ludwig</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
-        <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
-          <mandat type="pirat">Maik Bröse</mandat>
-          <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
-            <partner partei="GRÜNE" num="4" />
-            <partner partei="Wählergemeinschaft" num="1" />
-          </fraktion>
-        </parlament>
-        <gebiet type="Gemeinde" name="Tespe" gs="03353033">
-          <parlament name="Gemeinderat" seats="15" ris="http://gemeinde-tespe.de/gremien/gemeinderat/">
-            <mandat type="pirat" multi="2">Maik Bröse</mandat>
-            <fraktion type="gemeinsam" name="SPD/Grüne/Piraten">
-              <partner partei="SPD" num="6" />
-              <partner partei="GRÜNE" num="1" />
-            </fraktion>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
-      <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Committee.html?orgid=14&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <mandat type="pirat">Max Rother</mandat>
-        <fraktion type="gemeinsam" name="FDP und Piraten">
-          <partner partei="FDP" num="1" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Peine" gs="03157006">
-        <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
-          <mandat type="pirat">Matthias Roll</mandat>
-          <fraktion type="gemeinsam" name="GuB/FDP/Piraten">
-            <partner partei="Wählergemeinschaft" num="1" />
-            <partner partei="FDP" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Edemissen" gs="03157001">
-        <parlament name="Gemeinderat" seats="31" ris="http://87.106.2.115:8080/ratsinfo/edemissen/Committee.html?orgid=12&amp;o=1&amp;oc=0&amp;ob=1#current">
-          <mandat type="pirat">Carsten Bartels</mandat>
-          <fraktion type="gemeinsam" name="Piraten/Linke">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Ilsede" gs="03157003">
-        <parlament name="Gemeinderat" seats="28" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=6&amp;o=1&amp;oc=0&amp;ob=1#current">
-          <mandat type="pirat" multi="2">Max Rother</mandat>
-          <fraktion type="gemeinsam" name="Piraten und FDP">
-            <partner partei="FDP" num="1"></partner>
-          </fraktion>
-        </parlament>
-        <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
-          <parlament name="Ortsrat" seats="5" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=15&amp;o=1&amp;oc=0&amp;ob=1#current">
-            <mandat type="pirat">Stefan Grigat</mandat>
-            <fraktion type="unknown" />
-          </parlament>
-        </gebiet>
-      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gifhorn" gs="03151000" localpirates="http://piraten-gifhorn.de/">
       <parlament name="Kreistag" seats="55" ris="http://www.gifhorn.de/staticsite/staticsite.php?menuid=451&amp;topmenu=450">
@@ -474,6 +290,140 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
+      <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0040.asp?__kgrnr=186&amp;__cgrname=Kreistag">
+        <mandat type="pirat">Andreas Schelper</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Stadt" name="Göttingen" gs="03152012">
+        <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
+          <mandat type="pirat">Martin Rieth</mandat>
+          <mandat type="pirat">Tobias Schleuß</mandat>
+          <fraktion type="piraten" url="http://www.piratenpartei-goettingen.de/ratsfraktion" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Northeim" gs="03155000" localpirates="http://www.piratenpartei-northeim.de/">
+      <gebiet type="Stadt" name="Uslar" gs="03155012">
+        <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
+          <mandat type="pirat">Aljoscha Rittner</mandat>
+          <fraktion type="gemeinsam" name="Bunte Ratsgruppe Uslar" url="http://www.bunte-ratsgruppe-uslar.de/">
+            <partner partei="GRÜNE" num="2"></partner>
+            <partner partei="LINKE" num="1"></partner>
+            <partner partei="Einzelbewerber" num="1"></partner>
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
+      <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Committee.html?orgid=14&amp;o=1&amp;oc=0&amp;ob=1#current">
+        <mandat type="pirat">Max Rother</mandat>
+        <fraktion type="gemeinsam" name="FDP und Piraten">
+          <partner partei="FDP" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Peine" gs="03157006">
+        <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <mandat type="pirat">Matthias Roll</mandat>
+          <fraktion type="gemeinsam" name="GuB/FDP/Piraten">
+            <partner partei="Wählergemeinschaft" num="1" />
+            <partner partei="FDP" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Edemissen" gs="03157001">
+        <parlament name="Gemeinderat" seats="31" ris="http://87.106.2.115:8080/ratsinfo/edemissen/Committee.html?orgid=12&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <mandat type="pirat">Carsten Bartels</mandat>
+          <fraktion type="gemeinsam" name="Piraten/Linke">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Ilsede" gs="03157003">
+        <parlament name="Gemeinderat" seats="28" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=6&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <mandat type="pirat" multi="2">Max Rother</mandat>
+          <fraktion type="gemeinsam" name="Piraten und FDP">
+            <partner partei="FDP" num="1"></partner>
+          </fraktion>
+        </parlament>
+        <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
+          <parlament name="Ortsrat" seats="5" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=15&amp;o=1&amp;oc=0&amp;ob=1#current">
+            <mandat type="pirat">Stefan Grigat</mandat>
+            <fraktion type="unknown" />
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
+      <parlament name="Kreistag" seats="46" ris="http://kreistag.lk-wf.de/sessionnet/bi/kp0040.php?__kgrnr=1">
+        <mandat type="pirat">Michael Leukert</mandat>
+        <fraktion type="gemeinsam" name="LINKE &amp; PIRATEN">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
+        <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
+          <mandat type="pirat">Werner Heise</mandat>
+          <mandat type="pirat">Arne Hattendorf</mandat>
+          <fraktion type="gemeinsam" name="PIRATEN und FDP" url="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">
+            <partner partei="FDP" num="1" />
+          </fraktion>
+          <story source="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">Anfangs bildeten die beiden Piraten im Stadtrat die PIRATEN-Fraktion. Nach etwa einem Jahr schlossen sie sich mit dem einigen FDP-Abgeordneten zu der Gruppe PIRATEN und FDP zusammen. Formal existiert die PIRATEN-Fraktion weiter, im Rat tritt jedoch nur noch Gruppe auf.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
+        <parlament name="Gemeinderat" seats="31" ris="http://www.sitzungsdienst-cremlingen.de/bi/pa021.asp">
+          <mandat type="pirat">Jens Golland</mandat>
+          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="http://gemeinderat.cremlingen.ratspiraten.de/">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
+      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
+        <mandat type="pirat">Constantin Grosch</mandat>
+        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
+          <partner partei="SPD" num="20" />
+          <partner partei="GRÜNE" num="7" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Hameln" gs="03252006">
+        <parlament name="Stadtrat" seats="43" ris="https://www.pvrat.hameln.de/">
+          <mandat type="pirat">Lars Reineke</mandat>
+          <fraktion type="gemeinsam" name="Piraten / DIE LINKE" url="http://piraten-linke-hameln.de/">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Flecken" name="Coppenbrügge" gs="03252004">
+        <parlament name="Gemeinderat" seats="20" ris="http://www.coppenbruegge.de/gemeindeportal/gemeindevertreter.html">
+          <mandat type="pirat">Torben Friedrich</mandat>
+          <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
+            <partner partei="SPD" num="7" />
+            <partner partei="GRÜNE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
+      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
+        <mandat type="pirat">Jason Peper</mandat>
+        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Hildesheim" gs="03254021">
+        <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
+          <mandat type="pirat">Ortwin Regel</mandat>
+          <fraktion type="gemeinsam" name="SPD, Grüne, Regel">
+            <partner partei="SPD" num="14" />
+            <partner partei="GRÜNE" num="9" />
+          </fraktion>
+          <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
       <gebiet type="Gemeinde" name="Schiffdorf" gs="03352050" localpirates="http://piratenpartei-schiffdorf.de/">
         <parlament name="Gemeinderat" seats="30" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=2&amp;o=1&amp;oc=1&amp;ob=1#current">
@@ -495,6 +445,70 @@
           <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
           </parlament>
         </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
+<!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
+      <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
+        <story>It's complicated!</story>
+      </parlament>-->
+      <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
+        <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
+          <mandat type="pirat">Arne Ludwig</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
+        <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
+          <mandat type="pirat">Maik Bröse</mandat>
+          <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
+            <partner partei="GRÜNE" num="4" />
+            <partner partei="Wählergemeinschaft" num="1" />
+          </fraktion>
+        </parlament>
+        <gebiet type="Gemeinde" name="Tespe" gs="03353033">
+          <parlament name="Gemeinderat" seats="15" ris="http://gemeinde-tespe.de/gremien/gemeinderat/">
+            <mandat type="pirat" multi="2">Maik Bröse</mandat>
+            <fraktion type="gemeinsam" name="SPD/Grüne/Piraten">
+              <partner partei="SPD" num="6" />
+              <partner partei="GRÜNE" num="1" />
+            </fraktion>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
+      <gebiet type="Stadt" name="Lüneburg" gs="03355022">
+        <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
+          <mandat type="pirat">Torbjörn Bartels</mandat>
+          <mandat type="pirat">Daniel Brügge</mandat>
+          <fraktion type="piraten" url="http://www.heide-piraten.de/hpblog/pirathaus/stadtrat-luneburg/" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Uelzen" gs="03360000" localpirates="http://www.heide-piraten.de/">
+      <gebiet type="Stadt" name="Uelzen" gs="03360025">
+        <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
+          <mandat type="pirat">Rolf Tischer</mandat>
+          <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
+            <partner partei="Wählergemeinschaft" num="2" />
+            <partner partei="Bündnis 21/RRP" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
+      <parlament name="Kreistag" seats="42" ris="http://buergerinfo.friesland.de/kp0041.php">
+        <mandat type="transfer" from="Wählergemeinschaft">Janto Just</mandat>
+        <fraktion type="fremd" name="Bürger für Bürger" />
+        <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Kreistag Friesland gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
+      </parlament>
+      <gebiet type="Stadt" name="Schortens" gs="03455015">
+        <parlament name="Stadtrat" seats="34" ris="https://rat.schortens.de/buergerinfo/kp0041.php">
+          <mandat type="transfer" from="Wählergemeinschaft" multi="2">Janto Just</mandat>
+          <fraktion type="fremd" name="Bürger für Bürger" />
+          <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Stadtrat Schortens gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
+        </parlament>
       </gebiet>
     </gebiet>
 <!-- Tim Weber möchte nicht offiziell als Übergetretener geführt werden.
@@ -528,6 +542,12 @@
       <gebiet type="Stadtteil" name="Mitte" localkey="11">
         <parlament name="Beirat" seats="13" ris="http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.734.de">
           <mandat type="pirat">Siegfried Wegner-Kärsten</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtteil" name="Östliche Vorstadt" localkey="31">
+        <parlament name="Beirat" seats="17" ris="http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.736.de">
+          <mandat type="pirat">Arend Vogtländer</mandat>
           <fraktion type="none" />
         </parlament>
       </gebiet>
@@ -849,13 +869,6 @@
           <story source="http://www.landfunker.de/ktv/detail.php?rubric=182&amp;nr=33836">Bei der Kommunalwahl am 7. Juni 2009 wurde Hartmut Schönherr für die Wählervereinigung „Neue Köpfe“ über die Liste „Grüne/Neue Köpfe“ in den Gemeinderat der Stadt Bruchsal gewählt. Am 1. Oktober 2009 trat er der Piratenpartei bei, übt sein Mandat aber weiter in der Fraktion Die Grünen/Neue Köpfe aus.</story>
         </parlament>
       </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
-      <parlament name="Kreistag" seats="68" ris="http://www.kn-kreistag.de/buergerinfo/kp0040.php?__kgrnr=1&amp;">
-        <mandat type="transfer" from="LINKE">Michael Krause</mandat>
-        <fraktion type="none" />
-        <story source="http://www.piratenpartei-bw.de/2012/03/23/konstanzer-kreisrat-michael-krause-wird-pirat/">Am 7. Juni 2009 wurde Michael Krause als einziger Abgeordneter für die Partei DIE LINKE in den Kreistag gewählt. Am 23. März 2012 ist er zur Piratenpartei übergetreten.</story>
-      </parlament>
     </gebiet>
   </bundesland>
 
