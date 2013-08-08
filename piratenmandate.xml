@@ -807,17 +807,17 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
       <parlament name="Kreistag" seats="71" ris="http://lk-wf.active-city.net/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
-        <mandat type="pirat">Sascha Brandhoff</mandat>
+        <mandat type="pirat">Alexander Kaufmann</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Frankenau" gs="06635010">
         <parlament name="Stadtverordnetenversammlung" seats="23" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100018&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
           <mandat type="pirat">Alexander Kaufmann</mandat>
-          <fraktion type="none" />
+          <fraktion type="none"  multi="2"/>
         </parlament>
         <gebiet type="Ortsteil" name="Frankenau" arbkey="1">
           <parlament name="Ortsbeirat" seats="7" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100017&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
-            <mandat type="pirat" multi="2">Alexander Kaufmann</mandat>
+            <mandat type="pirat" multi="3">Alexander Kaufmann</mandat>
             <story source="http://www.piraten-wa-fkb.net/index.php/abgeordnete.html">Alexander Kaufmann ist als Vorsitzender des Ortsbeirates der Ortsvorsteher des Ortsteils Frankenau.</story>
           </parlament>
         </gebiet>
