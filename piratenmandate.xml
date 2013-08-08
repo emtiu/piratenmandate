@@ -32,14 +32,14 @@
         <mandat type="pirat">Dr. Siegfried Hansen</mandat>
         <mandat type="transfer" from="SPD">Ilona Adamski</mandat>
         <mandat type="transfer" from="SPD">Susann Laatz</mandat>
-        <fraktion type="piraten" />
+        <fraktion type="piraten" url="http://fraktion.piratenpartei-iz.de/" />
         <story source="http://www.shz.de/nachrichten/lokales/norddeutsche-rundschau/artikeldetails/artikel/spd-frauen-laufen-zu-den-piraten-ueber.html">Dr. Siegfried Hansen war als einziger Pirat in den Kreistag gewählt worden. Kurz vor der konstituierenden Sitzung gaben mit Ilona Adamski und Susann Laatz zwei der insgesamt dreizehn Abgeordneten der SPD ihren Übertritt zu den Piraten und die Gründung einer PIRATEN-Fraktion bekannt. Ilona Adamski übernahm den Vorsitz dieser Fraktion.</story>
       </parlament>
       <gebiet type="Stadt" name="Glückstadt" gs="01061029" localpirates="http://landesportal.piratenpartei-sh.de/glueckstadt/">
         <parlament name="Stadtvertretung" seats="23" ris="http://glueckstadt.de/Verwaltung-Politik/Politik/Stadtvertretung">
           <mandat type="pirat" multi="2">Dr. Siegfried Hansen</mandat>
           <mandat type="pirat">Sebastian Kolpert</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-glueckstadt/" />
         </parlament>
       </gebiet>
     </gebiet>
