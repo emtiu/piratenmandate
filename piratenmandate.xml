@@ -219,13 +219,13 @@
       <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
         <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
           <mandat type="pirat">Helmuth Goldenstein</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
         </parlament>
       </gebiet>
       <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
         <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
           <mandat type="pirat" multi="2">Svante Evenburg</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
