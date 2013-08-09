@@ -192,7 +192,7 @@
         <gebiet type="Ortsteil" name="Mandelsloh" arbkey="1">
           <parlament name="Ortsrat" seats="11" ris="https://agendaservice.net/ratsinfo/neustadtamrbge/Committee.html?orgid=16&amp;o=1&amp;oc=0&amp;ob=1#current">
             <mandat type="pirat">Friedrich Bohm</mandat>
-            <fraktion type="unknown" />
+            <fraktion type="none" />
           </parlament>
         </gebiet>
       </gebiet>
@@ -203,10 +203,10 @@
         <mandat type="pirat">Claudia Jonda</mandat>
         <fraktion type="piraten" url="http://www.piratenpartei-braunschweig.de/startseite/ratsarbeit/fraktion-im-rat/" />
       </parlament>
-      <gebiet type="Stadtbezirk" name="Östlicher Ring" localkey="12">
+      <gebiet type="Stadtbezirk" name="Östliches Ringgebiet" localkey="120">
         <parlament name="Stadtbezirksrat" seats="19" ris="http://www.braunschweig.de/politik_verwaltung/politik/stadtbezirksraete/sb120.html">
           <mandat type="pirat">Merten Herms</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -880,7 +880,7 @@
         <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
           <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
             <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
-            <fraktion type="unknown" />
+            <fraktion type="none" />
             <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
           </parlament>
         </gebiet>
@@ -1045,7 +1045,7 @@
       <gebiet type="Stadt" name="Peitz" gs="12071304">
         <parlament name="Stadtverordnetenversammlung" seats="17" ris="http://www.amtpeitz.de/sessionnet/buergerinfo/kp0040.php?__kgrnr=2&amp;">
           <mandat type="transfer" from="Einzelbewerber">Bernd Schulze</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
           <story source="http://wiki.piratenbrandenburg.de/Benutzer:Berndschulze">Am 28. September 2008 als parteiloser Bewerber über die Liste der FDP in die Stadtverordnetenversammlung Peitz gewählte Bernd Schulze trat im Juni 2012 der Piratenpartei bei. Als Vorsitzender der Stadtverordnetenversammlung ist er der Bürgermeister der Stadt.</story>
         </parlament>
       </gebiet>
