@@ -714,6 +714,9 @@
         <mandat type="pirat">Helmut Eisenkolb</mandat>
         <fraktion type="piraten" url="http://www.piratenpartei-offenbach.de/content/fraktion-2011-2016" />
       </parlament>
+      <parlament name="Ausländerbeirat" seats="25" ris="http://www.offenbach.de/offenbach/themen/rathaus/politik/auslaenderbeirat/">
+        <mandat type="pirat">Olga Eisenkolb</mandat>
+      </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">

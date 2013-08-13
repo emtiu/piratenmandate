@@ -5,7 +5,7 @@
 <!ATTLIST bundesland gs CDATA #REQUIRED >
 <!ATTLIST bundesland localpirates CDATA #IMPLIED >
 
-<!ELEMENT gebiet (parlament?, gebiet*) >
+<!ELEMENT gebiet (parlament*, gebiet*) >
 <!ATTLIST gebiet type CDATA #REQUIRED >
 <!ATTLIST gebiet name CDATA #REQUIRED >
 <!ATTLIST gebiet gs CDATA #IMPLIED >
