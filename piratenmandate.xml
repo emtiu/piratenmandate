@@ -750,7 +750,7 @@
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
-        <mandat type="pirat">Christian Oechler</mandat>
+        <mandat type="pirat">Isabel Martin</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Gießen" gs="06531005">
