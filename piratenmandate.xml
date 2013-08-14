@@ -147,13 +147,6 @@
             <fraktion type="none" />
           </parlament>
         </gebiet>
-        <gebiet type="Stadtbezirk" name="Herrenhausen-Stöcken" localkey="12">
-          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-12-Herrenhausen-St%C3%B6cken">
-            <mandat type="transfer" from="LINKE">Sabine Daniels</mandat>
-            <fraktion type="none" />
-            <story source="http://www.piratenhannover.de/2263/piraten-entern-bezirksrat-herrenhausen-sabine-daniels-wird-pirat/">Sabine Daniels wurde am 11. September 2011 als einzige Abgeordnete für die Partei DIE LINKE in den Bezirksrat Herrenhausen-Stöcken gewählt. Am 24. Mai 2012 trat sie zur Piratenpartei über.</story>
-          </parlament>
-        </gebiet>
         <gebiet type="Stadtbezirk" name="Nord" localkey="13">
           <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-13-Nord">
             <mandat type="pirat">Thomas Grote</mandat>
