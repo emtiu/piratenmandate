@@ -86,7 +86,7 @@
 
   <bundesland name="Hamburg" gs="02000000" localpirates="http://www.piratenpartei-hamburg.de/">
     <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
-      <parlament name="Bezirksversammlung" seats="51" ris="http://www.hamburg.de/mitte/bezirksversammlung/">
+      <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:84/bi/pa021.asp">
         <mandat type="pirat">Andreas Gerhold</mandat>
         <mandat type="pirat">Michael Büker</mandat>
         <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
@@ -95,7 +95,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
-      <parlament name="Bezirksversammlung" seats="49" ris="http://www.hamburg.de/bergedorf/bezirksversammlung/3638882/beschreibung-bezirksversammlung.html">
+      <parlament name="Bezirksversammlung" seats="49" ris="http://ratsinformation.web.hamburg.de:81/bi/pa021.asp">
         <mandat type="pirat">Jan Penz</mandat>
         <fraktion type="none" />
       </parlament>
