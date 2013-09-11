@@ -890,6 +890,15 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Bezirk" name="Oberpfalz" gs="09300000" localpirates="http://piraten-oberpfalz.de/">
+      <gebiet type="Kreisfreie Stadt" name="Regensburg" gs="09362000" localpirates="http://piraten-regensburg.de/">
+        <parlament name="Stadtrat" seats="51" ris="http://regensburg.de/rathaus/aemteruebersicht/wirtschafts-u-finanzreferat/informations-u-kommunikationstechnik/regensburger-sitzungsdienst/stadtratsplenum/63600">
+          <mandat type="transfer" from="GRÜNE">Dr. Ewa Tuora-Schwierskott</mandat>
+          <fraktion type="none" />
+          <story source="http://www.mittelbayerische.de/index.cfm?pid=10071&amp;pk=960197">Am 2. März 2008 wurde Dr. Ewa Tuora-Schwierskott als eine von insgesamt fünf Abgeordneten für die GRÜNEN in den Stadtrat gewählt. Am 10. September 2013 ist sie zur Piratenpartei übergetreten.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
       <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
         <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
