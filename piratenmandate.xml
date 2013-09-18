@@ -872,6 +872,10 @@
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
     <gebiet type="Bezirk" name="Oberbayern" gs="09100000" localpirates="http://piraten-oberbayern.de/">
+      <parlament name="Bezirkstag" seats="67" ris="https://sessionnet.edv-obb.de/bi/kp0040.asp?__kgrnr=1">
+        <mandat type="pirat">Martina Wenta</mandat>
+        <mandat type="pirat">Dr. Gabriela Berg</mandat>
+      </parlament>
       <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
         <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
           <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
@@ -900,6 +904,9 @@
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
+      <parlament name="Bezirkstag" seats="30" ris="http://www.bezirk-mittelfranken.de/index.php?id=53">
+        <mandat type="pirat">Daniel Gruber</mandat>
+      </parlament>
       <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
         <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
           <mandat type="transfer" from="LINKE">Frank Heinze</mandat>
@@ -914,6 +921,11 @@
           <story source="http://www.piraten-fuerth.de/2012/09/14/stadtrat-tritt-der-piratenpartei-bei/">Am 2. März 2008 wurde Mohamed Younis als einer von zwei Abgeordneten für die LINKE in den Stadtrat gewählt. Im September 2009 trat er aus der Partei DIE LINKE aus, blieb aber fraktionsloses Einzelmitglied im Stadtrat. Im September 2012 ist er in die Piratenpartei eingetreten, tritt aber auf Wunsch seines Kreisverbandes weiter als „parteiloser“ Stadtrat auf.</story>
         </parlament>
       </gebiet>
+    </gebiet>
+    <gebiet type="Bezirk" name="Schwaben" gs="09700000" localpirates="http://www.piraten-schwaben.de/">
+      <parlament name="Bezirkstag" seats="27" ris="https://www.bezirk-schwaben.de/bezirk/bezirkstag/bezirkstag/">
+        <mandat type="pirat">Fritz Effenberger</mandat>
+      </parlament>
     </gebiet>
   </bundesland>
 
