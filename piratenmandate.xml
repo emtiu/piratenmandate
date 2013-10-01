@@ -105,9 +105,9 @@
   <bundesland name="Niedersachsen" gs="03000000" localpirates="http://piratenpartei-niedersachsen.de/">
     <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
       <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Die-Region-Hannover-politisch/Regionsversammlung">
-        <mandat type="pirat">Ralf Kleyer</mandat>
         <mandat type="pirat">Hans-Jürgen Hey</mandat>
-        <fraktion type="piraten" url="http://piraten-region-hannover.de/" />
+        <fraktion type="none" />
+        <story source="http://popcornpiraten.de/austritt-des-fraktionsvorsitzenden-der-regionsversammlung-hannover-plus-video-mit-chickenburger/">Ralf Kleyer und Hans-Jürgen Hey waren im September 2011 auf der PIRATEN-Liste in die Regionsversammlung gewählt worden und hatten eine PIRATEN-Fraktion gebildet. Im September 2013 trat aber Ralf Kleyer aus der Piratenpartei aus, sodass die Fraktion aufeglöst werden musste.</story>
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
@@ -1120,7 +1120,7 @@
       <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
         <parlament name="Ortsbeirat" seats="15" ris="http://ratsinfo.dresden.de/kp0041.php">
           <mandat type="transfer" from="Wählergemeinschaft">Martin Schulte-Wissermann</mandat>
-          <story source="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er in die Piratenpartei ein, ist aber weiterhin auch für das Bürgerbündnis aktiv.</story>
+          <story source="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er zur Piratenpartei über.</story>
         </parlament>
       </gebiet>
     </gebiet>
