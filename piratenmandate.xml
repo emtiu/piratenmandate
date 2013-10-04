@@ -663,7 +663,7 @@
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="https://darmstadt.more-rubin1.de/index.php">
         <mandat type="pirat">Claudia Stricker</mandat>
-        <mandat type="pirat">Bernhard Schubach</mandat>
+        <mandat type="pirat">Markus Drenger</mandat>
         <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" />
       </parlament>
     </gebiet>
