@@ -106,8 +106,10 @@
     <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
       <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Die-Region-Hannover-politisch/Regionsversammlung">
         <mandat type="pirat">Hans-Jürgen Hey</mandat>
-        <fraktion type="none" />
-        <story source="http://popcornpiraten.de/austritt-des-fraktionsvorsitzenden-der-regionsversammlung-hannover-plus-video-mit-chickenburger/">Ralf Kleyer und Hans-Jürgen Hey waren im September 2011 auf der PIRATEN-Liste in die Regionsversammlung gewählt worden und hatten eine PIRATEN-Fraktion gebildet. Im September 2013 trat aber Ralf Kleyer aus der Piratenpartei aus, sodass die Fraktion aufeglöst werden musste.</story>
+        <fraktion type="gemeinsam" name="Linke &amp; Piraten">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+        <story source="http://www.piratenhannover.de/3659/neue-gruppe-in-der-regionsversammlung-fleischmann-die-linke-und-hey-piraten/">Ralf Kleyer und Hans-Jürgen Hey waren im September 2011 auf der PIRATEN-Liste in die Regionsversammlung gewählt worden und hatten eine PIRATEN-Fraktion gebildet. Im September 2013 trat aber Ralf Kleyer aus der Piratenpartei aus. Mit Auflösung der PIRATEN-Fraktion schloss sich Hans-Jürgen Hey mit einem Abgeordneten der Linken zu einer Gruppe zusammen.</story>
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
