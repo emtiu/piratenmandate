@@ -156,14 +156,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Stadt" name="Hemmingen" gs="03241007">
-        <parlament name="Stadtrat" seats="26" ris="http://www.stadthemmingen.de/allris/kp041.asp">
-          <mandat type="pirat" multi="2">Ralf Kleyer</mandat>
-          <fraktion type="gemeinsam" name="BfH/Piraten">
-            <partner partei="Wählergemeinschaft" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
       <gebiet type="Stadt" name="Laatzen" gs="03241009" localpirates="http://www.piraten-laatzen.de/">
         <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
           <mandat type="pirat">Heiko Schönemann</mandat>
