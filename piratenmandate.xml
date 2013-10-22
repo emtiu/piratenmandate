@@ -594,16 +594,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
-      <gebiet type="Stadt" name="Werl" gs="05974052">
-        <parlament name="Stadtrat" seats="40" ris="http://www.werl.de/politik/ratsinfo/gremien/117010100000002814.php">
-          <mandat type="transfer" from="LINKE">Matthias Fischer</mandat>
-          <mandat type="transfer" from="LINKE">Ali Kaya</mandat>
-          <fraktion type="piraten" url="http://www.piratenfraktion-werl.de/" />
-          <story source="http://www.soester-anzeiger.de/lokales/werl/ex-linke-sind-jetzt-piraten-erste-fraktion-1568571.html">Die beiden Abgeordneten Ali Kaya und Matthias Fischer waren am 30. August 2009 für die Partei DIE LINKE in den Stadtrat eingezogen. Im Januar 2012 traten sie zur Piratenpartei über und bilden mit zwei Abgeordneten nun eine Piratenfraktion.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinfurt" gs="05566000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Steinfurt">
       <gebiet type="Stadt" name="Lengerich" gs="05566040">
         <parlament name="Stadtrat" seats="32" ris="https://lengerich.ratsinfomanagement.net/personen/?__=Lg5PgvCYq9ToBUr1Le.LbuCWq8Vt6Pi2Ne0Gc0CfqBTpAOk4KfyIfuCWtAWv4Xm0Te5MayCZqAXm6Wi9Kg0GbuLeq9Sp5Ro0MkyHawLXw8Vn7Uj0KeyHayCaqHYm8Pi2KfyJcyLWsFSq5Oi0Ke-Hd.CYx8Wm6Ri4Kg5HgvCWq8SvCOj0MlyKa1IWu8Ut4SGJ">
