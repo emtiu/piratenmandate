@@ -2,7 +2,6 @@
 <!DOCTYPE piratenmandate SYSTEM "piratenmandate.dtd">
 
 <piratenmandate>
-
   <bundesland name="Schleswig-Holstein" gs="01000000" localpirates="http://landesportal.piratenpartei-sh.de/">
     <gebiet type="Kreisfreie Stadt" name="Kiel" gs="01002000" localpirates="http://landesportal.piratenpartei-sh.de/kiel/">
       <parlament name="Ratsversammlung" seats="53" ris="http://ratsinfo.kiel.de/bi/pa021.asp">
@@ -366,6 +365,7 @@
         <parlament name="Gemeinderat" seats="10" ris="http://www.sickte.de/dettum/gemeinderat">
 	  <mandat type="transfer" from="CDU/CSU">Ralf Möhle</mandat>
           <fraktion type="none" />
+          <story source="http://www.piratenpartei-wolfenbuettel.de/allgemein/cdu-ortsvorsitzender-wechselt-zu-den-piraten/">Im September 2013 wechselte Ralf Möhle von der CDU im Gemeinderat zur Piratenpartei.</story>
 	</parlament>
       </gebiet>
     </gebiet>
