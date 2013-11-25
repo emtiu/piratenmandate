@@ -344,12 +344,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
-      <parlament name="Kreistag" seats="46" ris="http://kreistag.lk-wf.de/sessionnet/bi/kp0040.php?__kgrnr=1">
-        <mandat type="pirat">Michael Leukert</mandat>
-        <fraktion type="gemeinsam" name="LINKE &amp; PIRATEN">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
       <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
         <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
           <mandat type="pirat">Werner Heise</mandat>
