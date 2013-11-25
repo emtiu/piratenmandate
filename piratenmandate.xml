@@ -362,6 +362,12 @@
           </fraktion>
         </parlament>
       </gebiet>
+      <gebiet type="Gemeinde" name="Dettum" gs="03158009">
+        <parlament name="Gemeinderat" seats="10" ris="http://www.sickte.de/dettum/gemeinderat">
+	  <mandat type="transfer" from="CDU/CSU">Ralf Möhle</mandat>
+          <fraktion type="none" />
+	</parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
       <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
