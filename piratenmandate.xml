@@ -115,6 +115,7 @@
           <mandat type="pirat">Dr. Jür­gen Jung­hä­nel</mandat>
           <mandat type="pirat">Dirk Hillbrecht</mandat>
           <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/>
+          <feed url="http://piraten-rat-hannover.de/feed/"/>
         </parlament>
         <gebiet type="Stadtbezirk" name="Vahrenwald-List" localkey="2">
           <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-2-Vahrenwald-List">
@@ -356,7 +357,7 @@
       <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
         <parlament name="Gemeinderat" seats="31" ris="http://www.sitzungsdienst-cremlingen.de/bi/pa021.asp">
           <mandat type="pirat">Jens Golland</mandat>
-          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="http://gemeinderat.cremlingen.ratspiraten.de/">
+	  <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="https://cremlingen.piraten-nds.de/">
             <partner partei="LINKE" num="1" />
           </fraktion>
         </parlament>
