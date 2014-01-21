@@ -891,9 +891,8 @@
     <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
       <parlament name="Bezirkstag" seats="30" ris="http://www.bezirk-mittelfranken.de/index.php?id=53">
         <mandat type="pirat">Daniel Gruber</mandat>
-        <fraktion type="gemeinsam" name="Die Linke / Piraten">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
+        <fraktion type="none" />
+        <story source="http://daniel-gruber.eu/2013/11/duerfen-auch-fraktionslose-bezirksraete-mitspielen/">Statt einer gemeinsamen Fraktion mit der LINKEN, wie ursprünglich geplant, besteht nur eine „Ausschussgemeinschaft“ ohne Fraktionsrechte.</story>
       </parlament>
       <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
         <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
