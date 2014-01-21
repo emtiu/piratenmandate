@@ -622,6 +622,15 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Kreis Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
+      <gebiet type="Stadt" name="Unna" gs="05978036">
+      	<parlament name="Stadtrat" seats="50" ris="http://www.unna.de/ratsinfo/index.php">
+          <mandat type="transfer" from="CDU/CSU">Christian Roß</mandat>
+          <fraktion type="none" />
+          <story source="http://www.lokalkompass.de/unna/politik/erster-pirat-im-stadtrat-der-kreisstadt-unna-d375294.html/action/recommend/1/">Christian Roß wurde am 30. August 2009 für die CDU in den Stadtrat Unna gewählt. Er trat im April 2013 aus der CDU aus und wurde im November 2013 Mitglied der Piratenpartei.</story>
+      	</parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Rhein-Kreis Neuss" gs="05162000">
       <gebiet type="Gemeinde" name="Jüchen" gs="05162012" localpirates="https://wiki.piratenpartei.de/NRW:Rhein-Kreis_Neuss/Stammtisch/Jüchen">
         <parlament name="Gemeinderat" seats="46" ris="http://www.juechen.de/start/politik/gemeinderat/ratsmitglieder/">
