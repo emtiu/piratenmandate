@@ -356,7 +356,7 @@
       <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
         <parlament name="Gemeinderat" seats="31" ris="http://www.sitzungsdienst-cremlingen.de/bi/pa021.asp">
           <mandat type="pirat">Jens Golland</mandat>
-          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="http://gemeinderat.cremlingen.ratspiraten.de/">
+          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="https://cremlingen.piraten-nds.de/">
             <partner partei="LINKE" num="1" />
           </fraktion>
         </parlament>
