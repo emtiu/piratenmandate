@@ -1049,7 +1049,7 @@
         <fraktion type="piraten" url="https://fraktion-piraten-lichtenberg.de/" />
       </parlament>
     </gebiet>
-    <gebiet type="Bezirk" name="Reinickendorf" localkey="12" localpirates="http://www.piratenpartei-reinickendorf.de/">
+<!--    <gebiet type="Bezirk" name="Reinickendorf" localkey="12" localpirates="http://www.piratenpartei-reinickendorf.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-reinickendorf/bvv-online/pa021.asp">
         <mandat type="pirat">Sascha Rudloff</mandat>
         <mandat type="pirat">Benjamin Adamski</mandat>
@@ -1057,7 +1057,7 @@
         <mandat type="pirat">Michael Schulz</mandat>
         <fraktion type="piraten" url="http://www.piratenfraktion-reinickendorf.eu/" />
       </parlament>
-    </gebiet>
+    </gebiet> -->
   </bundesland>
 
   <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
