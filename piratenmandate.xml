@@ -176,7 +176,7 @@
         <parlament name="Stadtrat" seats="40" ris="https://sessionnet.krz.de/lehrte/bi/kp0041.asp">
           <mandat type="pirat">Jan Nadaczinski</mandat>
           <fraktion type="gemeinsam" name="Gruppe CDU / FDP / Piraten">
-            <partner partei="CDU" num="14" />
+            <partner partei="CDU/CSU" num="14" />
             <partner partei="FDP" num="1" />
           </fraktion>
         </parlament>
