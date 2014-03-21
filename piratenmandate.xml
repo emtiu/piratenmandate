@@ -876,51 +876,85 @@
         <mandat type="pirat">Martina Wenta</mandat>
         <mandat type="pirat">Dr. Gabriela Berg</mandat>
       </parlament>
-      <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="http://muenchen.piratenpartei.de/">
-        <gebiet type="Stadtbezirk" name="Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln" localkey="19">
-          <parlament name="Bezirksausschuss" seats="37" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=228&amp;Wahlperiode=1418368">
-            <mandat type="transfer" from="CDU/CSU">Dominic Falter</mandat>
-            <fraktion type="none" />
-            <story source="http://www.wochenanzeiger-muenchen.de/redaktion/lokalredaktion-muenchen/aktuelle-nachrichten/Diese+Leute+sind+gef%C3%A4hrlich_52163.html">Am 2. März 2008 wurde Dominic Falter auf der Liste der CSU in den Bezirksausschuss gewählt. Im April 2012 ist er der Piratenpartei beigetreten.</story>
+      <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="https://muenchen.piratenpartei-bayern.de/">
+          <parlament name="Stadtrat" seats="81" ris="http://www.ris-muenchen.de/RII2/RII/ris_mitglieder_trefferliste.jsp?nav=1">
+            <mandat type="pirat">Thomas Ranft</mandat>
+            <fraktion type="unknown" />
+          </parlament>
+      </gebiet>
+      <gebiet type="Landkreis" name="Landkreis Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
+        <gebiet type="Stadt" name="Erding" gs="09177117">
+          <parlament name="Stadtrat" seats="41" ris="http://www.erding.de/cms/politik/stadtrat.html">
+            <mandat type="pirat">Stefan Lorenz</mandat>
+            <fraktion type="unknown" />
+            <story>Stefan Lorenz wurde auf der gemeinsamen Liste LINKE/PIRATEN gewählt.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadtbezirk" name="Feldmoching-Hasenbergl" localkey="24">
-          <parlament name="Bezirksausschuss" seats="27" ris="http://www.ris-muenchen.de/RII2/BA-RII/ba_bezirksausschuesse_details.jsp?Id=233&amp;Wahlperiode=1418368">
-            <mandat type="transfer" from="CDU/CSU">Wolfgang Schropp</mandat>
-            <mandat type="transfer" from="CDU/CSU">Tobias Wandinger</mandat>
-            <fraktion type="piraten" />
-            <story source="http://muenchen.piratenpartei.de/erste-eigene-fraktion-im-ba24/">Am 2. März 2008 wurden Tobias Wandinger und Wolfgang Schropp als zwei von insgesamt zehn Abgeordneten für die CSU in den Bezirksausschuss gewählt. Am 25. April 2012 sind sie der Piratenpartei beigetreten.</story>
+      </gebiet>
+      <gebiet type="Landkreis" name="Landkreis Fürstenfeldbruck" gs="09179000" localpirates="http://piraten-ffb.de/">
+        <gebiet type="Stadt" name="Fürstenfeldbruck" gs="09179121">
+          <parlament name="Stadtrat" seats="41" ris="http://www.ffbinfo.de/">
+            <mandat type="pirat">Andreas Ströhle</mandat>
+            <fraktion type="unknown" />
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Landkreis" Name="Landkreis Starnberg" gs="09188000" localpirates="http://starnberg.ppby.de/">
+        <gebiet type="Gemeinde" name="Gauting" gs="09188120">
+          <parlament name="Gemeinderat" seats="25" ris="http://www.gauting.de/index.php?id=877">
+            <mandat type="pirat">Tobias Mc Fadden</mandat>
+            <fraktion type="unknown" />
           </parlament>
         </gebiet>
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Oberpfalz" gs="09300000" localpirates="http://piraten-oberpfalz.de/">
-      <gebiet type="Kreisfreie Stadt" name="Regensburg" gs="09362000" localpirates="http://piraten-regensburg.de/">
-        <parlament name="Stadtrat" seats="51" ris="http://regensburg.de/rathaus/aemteruebersicht/wirtschafts-u-finanzreferat/informations-u-kommunikationstechnik/regensburger-sitzungsdienst/stadtratsplenum/63600">
-          <mandat type="transfer" from="GRÜNE">Dr. Ewa Tuora-Schwierskott</mandat>
-          <fraktion type="none" />
-          <story source="http://www.mittelbayerische.de/index.cfm?pid=10071&amp;pk=960197">Am 2. März 2008 wurde Dr. Ewa Tuora-Schwierskott als eine von insgesamt fünf Abgeordneten für die GRÜNEN in den Stadtrat gewählt. Am 10. September 2013 ist sie zur Piratenpartei übergetreten.</story>
+      <gebiet type="Kreisfreie Stadt" name="Regensburg" gs="09362000">
+        <parlament name="Stadtrat" seats="50" ris="http://www.regensburg.de/rathaus/stadtpolitik/regensburger-sitzungsdienst/stadtratsplenum/63600">
+          <mandat type="pirat">Tina Lorenz</mandat>
+          <fraktion type="unknown" />
         </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Bezirk" name="Oberfranken" gs="09400000" localpirates="http://piraten-oberfranken.de/">
+      <gebiet type="Landkreis" name="Landkreis Lichtenfels" gs="09478000">
+        <gebiet type="Stadt" name="Burgkunstadt" gs="09478116">
+          <parlament name="Stadtrat" seats="21" ris="http://www.burgkunstadt.de/2267_DEU_WWW.php">
+            <mandat type="pirat">Marcus Dinglreiter</mandat>
+            <fraktion type="unknown" />
+            <story>Marcus Dinglreiter wurde auf der Liste des Bürgervereins Burgkunstadt gewählt.</story>
+          </parlament>
+        </gebiet>
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
       <parlament name="Bezirkstag" seats="30" ris="http://www.bezirk-mittelfranken.de/index.php?id=53">
         <mandat type="pirat">Daniel Gruber</mandat>
         <fraktion type="none" />
-        <story source="http://daniel-gruber.eu/2013/11/duerfen-auch-fraktionslose-bezirksraete-mitspielen/">Statt einer gemeinsamen Fraktion mit der LINKEN, wie ursprünglich geplant, besteht nur eine „Ausschussgemeinschaft“ ohne Fraktionsrechte.</story>
+        <story source="http://daniel-gruber.eu/2013/11/duerfen-auch-fraktionslose-bezirksraete-mitspielen/">Anstelle einer gemeinsamen Fraktion mit der LINKEN, wie anfangs geplant, besteht nur eine „Ausschussgemeinschaft“ ohne Fraktionsrechte.</story>
       </parlament>
-      <gebiet type="Kreisfreie Stadt" name="Erlangen" gs="09562000" localpirates="http://piraten-erlangen.de/">
-        <parlament name="Stadtrat" seats="51" ris="http://ratsinfo.erlangen.de/bi/kp0040.php?__kgrnr=1">
-          <mandat type="transfer" from="LINKE">Frank Heinze</mandat>
-          <fraktion type="none" />
-          <story source="http://piraten-erlangen.de/2012/05/01/erlanger-stadtratsmitglied-wechselt-zu-den-piraten/">Am 2. März 2008 wurde Frank Heinze für die Liste „Kommunalwahlverein erlanger linke“ in den Stadtrat gewählt und wurde stellvertretender Vorsitzender ihrer Fraktion. Ab Juni 2009 war er Mitglied sowohl in der Piratenpartei als auch der Partei DIE LINKE. Im April 2011 trat er aus der Partei DIE LINKE aus, blieb aber Mitglied der Fraktion des Kommunalwahlvereins. Im April 2012 trat er auch aus dem Kommunalwahlverein aus und ist fortan Einzelabgeordneter für die PIRATEN.</story>
+      <gebiet type="Kreisfreie Stadt" name="Nürnberg" gs="09564000">
+        <parlament name="Stadtrat" seats="71" ris="http://online-service2.nuernberg.de/eris09/calendar.do">
+          <mandat type="pirat">Michael Bengl</mandat>
+          <fraktion type="unknown" />
         </parlament>
       </gebiet>
-      <gebiet type="Kreisfreie Stadt" name="Fürth" gs="09563000" localpirates="http://www.piraten-fuerth.de/">
-        <parlament name="Stadtrat" seats="50" ris="http://stadtrat.fuerth.de/bi/kp0040.php?__kgrnr=1001">
-          <mandat type="transfer" from="LINKE">Mohamed Younis</mandat>
-          <fraktion type="none" />
-          <story source="http://www.piraten-fuerth.de/2012/09/14/stadtrat-tritt-der-piratenpartei-bei/">Am 2. März 2008 wurde Mohamed Younis als einer von zwei Abgeordneten für die LINKE in den Stadtrat gewählt. Im September 2009 trat er aus der Partei DIE LINKE aus, blieb aber fraktionsloses Einzelmitglied im Stadtrat. Im September 2012 ist er in die Piratenpartei eingetreten, tritt aber auf Wunsch seines Kreisverbandes weiter als „parteiloser“ Stadtrat auf.</story>
+    </gebiet>
+    <gebiet type="Bezirk" name="Unterfranken" gs="09600000" localpirates="https://www.piraten-ufr.de/">
+      <gebiet type="Landkreis" name="Landkreis Bad Kissingen" gs="09672000">
+        <gebiet type="Stadt" name="Bad Brückenau" gs="09672113">
+          <parlament name="Stadtrat" seats="21" ris="http://www.bad-brueckenau.de/de/index.cfm?fuseaction=rathaus&amp;rubrik=ratsmitglieder">
+            <mandat type="pirat">Benjamin Wildenauer</mandat>
+            <story>Benjamin Wildenauer wurde auf der Liste der SPD gewählt, die 8,2% erlangte.</story>
+            <fraktion type="unknown" />
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Landkreis" name="Landkreis Main-Spessart" gs="09677000">
+        <parlament name="Kreistag" seats="60" ris="http://www.main-spessart.de/LandkreisOnline/Kreisorgane/Kreistag.aspx">
+          <mandat type="pirat">Jürgen Neuwirth</mandat>
+            <fraktion type="unknown" />
+            <story>Jürgen Neuwirth wurde auf der gemeinsamen Liste ÖDP/PIRATEN/LINKE gewählt, die 2,3% erlangte.</story>
         </parlament>
       </gebiet>
     </gebiet>
