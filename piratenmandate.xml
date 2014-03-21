@@ -97,6 +97,7 @@
       <parlament name="Bezirksversammlung" seats="49" ris="http://ratsinformation.web.hamburg.de:81/bi/pa021.asp">
         <mandat type="pirat">Jan Penz</mandat>
         <fraktion type="none" />
+        <story source="http://www.bergedorfer-zeitung.de/bergedorf/article185457/Ploetzliches-Aus-fuer-die-Fraktion-von-FDP-und-Piraten.html">Von März 2011 bis April 2013 bestand eine gemeinsame FDP/Piraten-Fraktion mit zwei Abgeordneten der FDP. Durch den Rückzug eines der FDP-Abgeordneten aus dieser Fraktion musste sie aufgelöst werden.</story>
       </parlament>
     </gebiet>
   </bundesland>
@@ -112,9 +113,11 @@
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
-          <mandat type="pirat">Dr. Jür­gen Jung­hä­nel</mandat>
+          <mandat type="pirat">Alexander Leineweber</mandat>
           <mandat type="pirat">Dirk Hillbrecht</mandat>
-          <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/>
+<!--      <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/> -->
+          <fraktion type="none" />
+          <story source="http://www.ihmebote.de/2014/03/20/piraten-verlieren-fraktionsstatus/">Nachdem Alexander Leineweber im März 2013 nachgerückt ist, verweigerte er die Fraktionszusammenarbeit mit Dirk Hillbrecht, sodass die Fraktion aufgelöst werden musste.</story>
           <feed url="http://piraten-rat-hannover.de/feed/"/>
         </parlament>
         <gebiet type="Stadtbezirk" name="Vahrenwald-List" localkey="2">
@@ -168,11 +171,14 @@
             <fraktion type="none" />
           </parlament>
         </gebiet>
-        </gebiet>
+      </gebiet>
       <gebiet type="Stadt" name="Lehrte" gs="03241011" localpirates="http://www.piratenpartei-lehrte.de/">
         <parlament name="Stadtrat" seats="40" ris="https://sessionnet.krz.de/lehrte/bi/kp0041.asp">
           <mandat type="pirat">Jan Nadaczinski</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Gruppe CDU / FDP / Piraten">
+            <partner partei="CDU" num="14" />
+            <partner partei="FDP" num="1" />
+          </fraktion>
         </parlament>
       </gebiet>
       <gebiet type="Stadt" name="Neustadt am Rübenberge" gs="03241012">
