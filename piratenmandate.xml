@@ -162,13 +162,17 @@
       <gebiet type="Stadt" name="Laatzen" gs="03241009" localpirates="http://www.piraten-laatzen.de/">
         <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
           <mandat type="pirat">Heiko Schönemann</mandat>
-          <fraktion type="none" />
-          <story source="http://www.piraten-laatzen.de/aktuelles/auflosung-der-gruppe-die-linke-und-piraten-glup">Zunächst hatte eine Fraktionsgemeinschaft (in Niedersachsen „Gruppe“) mit der Linken bestanden, die aber inzwischen nach Ausscheiden der Linken-Abgeordneten aufgelöst wurde.</story>
+          <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+<!--          <story source="http://www.piraten-laatzen.de/aktuelles/auflosung-der-gruppe-die-linke-und-piraten-glup">Zunächst hatte eine Fraktionsgemeinschaft (in Niedersachsen „Gruppe“) mit der Linken bestanden, die aber inzwischen nach Ausscheiden der Linken-Abgeordneten aufgelöst wurde.</story>-->
         </parlament>
         <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
           <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
             <mandat type="pirat" multi="2">Heiko Schönemann</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
           </parlament>
         </gebiet>
       </gebiet>
