@@ -113,37 +113,15 @@
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
-          <mandat type="pirat">Alexander Leineweber</mandat>
           <mandat type="pirat">Dirk Hillbrecht</mandat>
-<!--      <fraktion type="piraten" url="http://piraten-rat-hannover.de/"/> -->
           <fraktion type="none" />
-          <story source="http://www.ihmebote.de/2014/03/20/piraten-verlieren-fraktionsstatus/">Nachdem Alexander Leineweber im März 2013 nachgerückt ist, verweigerte er die Fraktionszusammenarbeit mit Dirk Hillbrecht, sodass die Fraktion aufgelöst werden musste.</story>
+          <story source="http://www.ihmebote.de/2014/03/20/piraten-verlieren-fraktionsstatus/">Im März 2013 ist ein Abgeordneter von der PIRATEN-Liste nachgerückt, der wenig später die Partei verlassen hat. So ist nur ein Sitz von einem Mitglied der Piratenpartei besetzt, die vorher bestehende Fraktion wurde aufgelöst.</story>
           <feed url="http://piraten-rat-hannover.de/feed/"/>
         </parlament>
         <gebiet type="Stadtbezirk" name="Vahrenwald-List" localkey="2">
           <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-2-Vahrenwald-List">
             <mandat type="pirat">Reiner Budnick</mandat>
             <fraktion type="none" />
-          </parlament>
-        </gebiet>
-        <gebiet type="Stadtbezirk" name="Misburg-Anderten" localkey="5">
-          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-5-Misburg-Anderten">
-            <mandat type="pirat">Hannes Amelung</mandat>
-            <fraktion type="none" />
-          </parlament>
-        </gebiet>
-        <gebiet type="Stadtbezirk" name="Südstadt-Bult" localkey="7">
-          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-7-S%C3%BCdstadt-Bult">
-            <mandat type="pirat">Miriam Hadj Hassine</mandat>
-            <fraktion type="none" />
-          </parlament>
-        </gebiet>
-        <gebiet type="Stadtbezirk" name="Döhren-Wülfel" localkey="8">
-          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-8-D%C3%B6hren-W%C3%BClfel">
-            <mandat type="pirat">Marc Herrmann</mandat>
-            <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
-              <partner partei="LINKE" num="1" />
-            </fraktion>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Linden-Limmer" localkey="10">
