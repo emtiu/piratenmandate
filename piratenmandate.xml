@@ -891,7 +891,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Oberpfalz" gs="09300000" localpirates="http://piraten-oberpfalz.de/">
-      <gebiet type="Kreisfreie Stadt" name="Regensburg" gs="09362000">
+      <gebiet type="Kreisfreie Stadt" name="Regensburg" gs="09362000" localpirates="http://www.piraten-regensburg.de/">
         <parlament name="Stadtrat" seats="50" ris="http://www.regensburg.de/rathaus/stadtpolitik/regensburger-sitzungsdienst/stadtratsplenum/63600">
           <mandat type="pirat">Tina Lorenz</mandat>
           <fraktion type="unknown" />
