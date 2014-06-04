@@ -83,7 +83,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/">
+  <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
       <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:84/bi/pa021.asp">
         <mandat type="pirat">Andreas Gerhold</mandat>
@@ -947,18 +947,95 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
-    <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000">
-      <parlament name="Kreistag" seats="39" ris="www.kreis-saarlouis.de/city_info/webaccessibility/index.cfm?region_id=389&amp;waid=210&amp;item_id=849546">
-        <mandat type="transfer" from="FDP">Jörg Arweiler</mandat>
+  <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Kommunalverband besonderer Art" name="Regionalverband Saarbrücken" gs="10041000" localpirates="https://kvsb.piratenpartei-saarland.de/">
+      <parlament name="Regionalversammlung" seats="45" ris="http://www.regionalverband-saarbruecken.de/staticsite/staticsite.php?menuid=547&amp;topmenu=2&amp;keepmenu=inactive">
+        <mandat type="pirat">Markus Hansen</mandat>
         <fraktion type="none" />
-        <story source="http://www.sr-online.de/sronline/nachrichten/politik_wirtschaft/arweiler_piraten100.html">Am 7. Juni 2009 wurde Jörg Arweiler als einer von drei FDP-Abgeordneten in den Kreistag gewählt. Seit Anfang 2012 war er partei- und fraktionslos, im Dezember 2012 ist er der Piratenpartei beigetreten.</story>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
       </parlament>
-      <gebiet type="Gemeinde" name="Wadgassen" gs="10044120">
-        <parlament name="Gemeinderat" seats="33" ris="http://wadgassen.de/politik/gremien/gemeinderat.html">
-          <mandat type="transfer" from="GRÜNE">Stephan Schneider</mandat>
+      <gebiet type="Stadt" name="Saarbrücken" gs="10041100">
+        <parlament name="Stadtrat" seats="63" ris="http://www.saarbruecken.de/rathaus/stadtpolitik/ratsinformationssystem">
+          <mandat type="pirat">José Ignacio Rodriguez Maicas</mandat>
+          <mandat type="pirat">Thomas Brass</mandat>
+          <fraktion type="piraten" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,6% der Stimmen erreicht.</story>
+        </parlament>
+        <gebiet type="Stadtbezirk" name="Bezirk Mitte" arbkey="1">
+          <parlament name="Bezirksrat" seats="21">
+            <mandat type="pirat">Markus Hansen</mandat>
+            <fraktion type="none" />
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 5,1% der Stimmen erreicht.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
+      <gebiet type="Stadt" name="Merzig" gs="10042113">
+        <parlament name="Stadtrat" seats="39">
+          <mandat type="pirat">Michael Grauer</mandat>
           <fraktion type="none" />
-          <story source="http://www.jarweiler.com/piratenprogramm-ueberzeugt-ex-gruenen-wadgasser-gemeinderatsmitglied-stephan-schneider-wechselt-zu-piraten/">Am 7. Juni 2009 wurde Stephan Schneider als einer von zwei Grünen-Abgeordneten in den Gemeinderat gewählt. Am 30. Januar 2013 ist er zur Piratenpartei übergetreten.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
+        </parlament>
+        <gebiet type="Ortsteil" name="Merchingen" arbkey="1">
+          <parlament name="Ortsrat" seats="9">
+            <mandat type="pirat">Michael Grauer</mandat>
+            <fraktion type="none" />
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 19,5% (<em>sic</em>) der Stimmen erreicht.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Weiskirchen" gs="10042117">
+        <parlament name="Gemeinderat" seats="27">
+          <mandat type="pirat">Wolfgang Barth</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,1% der Stimmen erreicht.</story>
+        </parlament>
+        <gebiet type="Ortsteil" name="Rappweiler-Zwalbach" arbkey="1">
+          <parlament name="Ortsrat" seats="9">
+            <mandat type="pirat">Hans Hirtz</mandat>
+            <mandat type="pirat">Roman Thielen</mandat>
+            <fraktion type="piraten" />
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 17,9% (<em>sic</em>) der Stimmen erreicht!</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Neunkirchen" gs="10043000" localpirates="https://kvspk.piratenpartei-saarland.de/">
+      <parlament name="Kreistag" seats="33">
+        <mandat type="pirat">Gerd Rainer Weber</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
+      </parlament>
+      <gebiet type="Gemeinde" name="Eppelborn" gs="10043111">
+        <parlament name="Gemeinderat" seats="33">
+          <mandat type="pirat">Ralf Petermann</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,3% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Neunkirchen" gs="10043114">
+        <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.neunkirchen.de/infobi.php">
+          <mandat type="pirat">Rudi Berhard</mandat>
+          <mandat type="pirat">Steven Latterner</mandat>
+          <fraktion type="piraten" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,7% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Schiffweiler" gs="10043116">
+        <parlament name="Gemeinderat" seats="33">
+          <mandat type="pirat">Ralf Petermann</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,2% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000" localpirates="http://piratenpartei-kvsaarlouis.de/">
+      <gebiet type="Stadt" name="Saarlouis" gs="10044115">
+        <parlament name="Stadtrat" seats="45">
+          <mandat type="pirat">Holger Gier</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
