@@ -979,7 +979,7 @@
         </parlament>
         <gebiet type="Ortsteil" name="Merchingen" arbkey="1">
           <parlament name="Ortsrat" seats="9">
-            <mandat type="pirat">Michael Grauer</mandat>
+            <mandat type="pirat" multi="2">Michael Grauer</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 19,5% (<em>sic</em>) der Stimmen erreicht.</story>
           </parlament>
