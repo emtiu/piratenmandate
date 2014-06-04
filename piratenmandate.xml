@@ -1217,28 +1217,78 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/">
-    <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000">
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="1" localpirates="http://www.neustadtpiraten.de/">
-        <parlament name="Ortsbeirat" seats="15" ris="http://ratsinfo.dresden.de/kp0041.php">
-          <mandat type="transfer" from="Wählergemeinschaft">Martin Schulte-Wissermann</mandat>
-          <story source="http://www.dnn-online.de/dresden/web/regional/politik/detail/-/specific/Piratenpartei-Dresden-erhaelt-erstes-Mandat-im-Neustaedter-Ortsbeirat-1803156653">Am 7. Juni 2009 wurde Martin Schulte-Wissermann für die Wählervereinigung „Bürgerbündnis Dresden“ in den Ortsbeirat Dresden-Neustadt gewählt. Im Juni 2012 trat er zur Piratenpartei über.</story>
+  <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000" localpirates="http://www.piraten-dresden.de/">
+      <parlament name="Stadtrat" seats="71" ris="http://ratsinfo.dresden.de/infobi.php">
+        <mandat type="pirat">Dr. Martin Schulte-Wissermann</mandat>
+        <mandat type="pirat">Norbert Engemaier</mandat>
+        <fraktion type="none" />
+        <story source="http://www.dnn-online.de/web/dnn/specials/stadtrat2014/detail/-/specific/Linke-Mehrheit-im-Dresdner-Stadtrat-bahnt-sich-an-Gruene-SPD-und-Linke-wollen-Politikwechsel-2296462">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,3% der Stimmen erreicht. Die PIRATEN könnten mit ihren 2 Sitzen zum Zünglein an der Waage werden und rot-rot-grün eine Regierungsmehrheit verschaffen.</story>
+      </parlament>
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Altstadt" arbkey="1">
+        <parlament name="Ortsbeirat" seats="17">
+          <mandat type="pirat">n.n.</mandat>
+          <story>Die Ortsbeiräte werden erst nach der Konstituierung vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
         </parlament>
       </gebiet>
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="2" localpirates="http://www.neustadtpiraten.de/">
+        <parlament name="Ortsbeirat" seats="15">
+          <mandat type="pirat">n.n.</mandat>
+           <story>Die Ortsbeiräte werden erst nach der Konstituierung vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
+        </parlament>
+      </gebiet> 
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Pieschen" arbkey="3">
+        <parlament name="Ortsbeirat" seats="15">
+          <mandat type="pirat">n.n.</mandat>
+           <story>Die Ortsbeiräte werden erst nach der Konstituierung vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
+        </parlament>
+      </gebiet> 
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Blasewitz" arbkey="4">
+        <parlament name="Ortsbeirat" seats="21">
+          <mandat type="pirat">n.n.</mandat>
+           <story>Die Ortsbeiräte werden erst nach der Konstituierung vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
+        </parlament>
+      </gebiet> 
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Plauen" arbkey="5">
+        <parlament name="Ortsbeirat" seats="17">
+          <mandat type="pirat">n.n.</mandat>
+           <story>Die Ortsbeiräte werden erst nach der Konstituierung vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
+        </parlament>
+      </gebiet> 
+      <gebiet type="Ortsteil" name="Ortsamtsbereich Cotta" arbkey="6">
+        <parlament name="Ortsbeirat" seats="19">
+          <mandat type="pirat">n.n.</mandat>
+           <story>Die Ortsbeiräte werden erst nach der Konstituierung vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
+        </parlament>
+      </gebiet> 
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Nordsachsen" gs="14730000" localpirates="http://piratenpartei-leipziger-umland.de/">
-      <parlament name="Kreistag" seats="80" ris="http://info.landkreis-nordsachsen.de/sessionnet/bi/kp0041.php">
-        <mandat type="transfer" from="LINKE">Veronika Petzold</mandat>
+    <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
+      <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
+        <mandat type="pirat">Toni Rotter</mandat>
         <fraktion type="none" />
-        <story source="http://www.torgauerzeitung.com/Default.aspx?t=NewsDetailModus%2863029%29">Am 8. Juni 2008 wurde Veronika Petzold für die LINKE in den Kreistag Nordsachsen gewählt. Im April 2012 trat sie aus der LINKEN aus und war für kurze Zeit fraktionslose Abgeordnete, bevor sie noch im April 2012 in die Piratenpartei eintrat.</story>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Erzgebirgskreis" gs="14521000" localpirates="http://www.piraten-erzgebirge.de/">
-      <gebiet type="Stadt" name="Olbernhau" gs="14521460">
-        <parlament name="Stadtrat" seats="22" ris="http://www.olbernhau.de/olbernhau/index1.htm">
-          <mandat type="transfer" from="Wählergemeinschaft">Tom Küchler</mandat>
-          <fraktion type="fremd" name="Bürger für Olbernhau/SPD" />
-          <story source="http://www.piraten-erzgebirge.de/tom-kuchler-pirat-im-stadtrat-olbernhau/">Am 7. Juni 2009 wurde Tom Küchler für die Wählervereinigung „Bürger für Olbernhau/SPD“ („Die Bunte Liste“) in den Stadtrat gewählt. Im April 2012 trat er in die Piratenpartei ein, ist aber weiterhin in der Fraktion „Bürger für Olbernhau/SPD“ aktiv.</story>
+    <gebiet type="Kreisfreie Stadt" name="Leipzig" gs="14713000" localpirates="http://www.piraten-leipzig.de/">
+      <parlament name="Stadtrat" seats="70" ris="http://notes.leipzig.de/eris/eris.nsf">
+        <mandat type="pirat">Ute Elisabeth Gabelmann</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+   <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
+      <parlament name="Kreistag" seats="92">
+        <mandat type="pirat">Sören Skalicks</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Görlitz" gs="14626000" localpirates="http://piraten-goerlitz.de/">
+      <gebiet type="Stadt" name="Görlitz" gs="14626110">
+        <parlament name="Stadtrat" seats="38" ris="https://sitzungsdienst.kin-sachsen.de/goerlitz/index.php">
+          <mandat type="pirat">Carolin Mahn-Gauseweg</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1267,20 +1317,62 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/">
-    <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
-      <gebiet type="Ortsteil" name="Stedtfeld" arbkey="1">
-        <parlament name="Ortsteilrat" seats="6" ris="http://ratsinfo.eisenach.de/sessionnet/bi/kp0040.php?__kgrnr=24">
-          <mandat type="transfer" from="Einzelbewerber">Klaus Lütkenhues</mandat>
-          <story source="http://eisenach-net.de/index.php/en/89-politik/275-neuwahlen-bei-den-wartburgpiraten">Am 7. Juni 2009 wurde Klaus Lütkenhues als Einzelbewerber in den Ortsteilrat Eisenach-Stedtfeld gewählt. Er ist im November 2011 in die Piratenpartei eingetreten.</story>
+  <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Kreisfreie Stadt" name="Erfurt" gs="16051000" localpirates="http://piraten-erfurt.de/">
+        <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.erfurt.de/bi/infobi.php">
+          <mandat type="pirat">Peter Städter</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Gera" gs="16052000" localpirates="http://piraten-gera.de/">
+        <parlament name="Stadtrat" seats="43" ris="https://gera.ratsinfomanagement.net/">
+          <mandat type="pirat">Uwe Rüdiger</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+        </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Jena" gs="16053000" localpirates="http://jena.piraten-thueringen.de/">
-      <gebiet type="Ortsteil" name="Jena-Nord" arbkey="1">
-        <parlament name="Ortsteilrat" seats="10" ris="http://egov1.kommunenonline.de/sessionnet/buergerinfo//kp0040.php?__kgrnr=68&amp;">
-          <mandat type="transfer" from="FDP">Michael Gruner</mandat>
-          <story source="http://www.jenapolis.de/2013/02/kreisparteitag-der-piraten-jena-2/">Am 30. August 2009 wurde Michael Gruner für die FDP in den Ortsteilrat Jena-Nord gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
+        <parlament name="Stadtrat" seats="47" ris="http://egov1.kommunenonline.de/sessionnet/buergerinfo//gr0040.php?__cwp=1&amp;__ccall=kp0040.php">
+          <mandat type="pirat">Prof. Dr. Clemens Beckstein</mandat>
+          <mandat type="pirat">Dr. Heidrun Jänchen</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,6% der Stimmen erreicht.</story>
+        </parlament>
+    </gebiet>
+   <gebiet type="Kreisfreie Stadt" name="Weimar" gs="16055000" localpirates="http://piraten-weimar.de/">
+        <parlament name="Stadtrat" seats="43">
+          <mandat type="pirat">Thomas Brückner</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
+        </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
+        <parlament name="Stadtrat" seats="37" ris="http://ratsinfo.eisenach.de/sessionnet/bi/infobi.php">
+          <mandat type="pirat">Johannes Erich Quentel</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
+        </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Weimarer Land" gs="16071000" localpirates="http://piraten-weimar.de/">
+        <parlament name="Kreistag" seats="47" ris="http://www.weimarer-land.de/landratsamt/kreistag/beschluss.html">
+          <mandat type="pirat">Lutz Gundlach</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
+        </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Gotha" gs="16067000" localpirates="http://piraten-gotha.de/">
+        <parlament name="Kreistag" seats="51">
+          <mandat type="pirat">Bernhard Koim</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+        </parlament>
+      <gebiet type="Stadt" name="Gotha" gs="10067029">
+        <parlament name="Stadtrat" seats="37" ris="http://www.gotha.de/index.php?id=1513">
+          <mandat type="pirat">Enrico Stiller</mandat>
+          <mandat type="pirat">Gerrit Walter Jeron</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 5,4% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
