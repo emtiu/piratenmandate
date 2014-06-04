@@ -83,21 +83,21 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Hamburg" gs="02000000" localpirates="http://www.piratenpartei-hamburg.de/">
+  <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/">
     <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
       <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:84/bi/pa021.asp">
         <mandat type="pirat">Andreas Gerhold</mandat>
-        <mandat type="pirat">Michael Büker</mandat>
-        <mandat type="transfer" from="GRÜNE">Gül Aydın</mandat>
-        <fraktion type="piraten" url="http://hamburg-mitte.bezirkspiraten.de/" />
-        <story source="http://hamburg-mitte.bezirkspiraten.de/2012/06/verstarkung-fur-die-piratenpartei-in-der-bezirksversammlung-hamburg-mitte-piraten-grunden-fraktion/">Nach der Wahl zur Bezirksversammlung am 20. Februar 2011 arbeiteten Andreas Gerhold und Michael Büker zunächst als PIRATEN-Gruppe ohne Fraktionsstatus. Im Juni 2012 trat Gül Aydın von den Grünen über und ermöglichte so die Gründung der PIRATEN-Fraktion.</story>
+        <mandat type="pirat">Wolfdietrich Thürnagel</mandat>
+         <fraktion type="none"/>
+        <story>Bei der Wahl zur Bezirksversammlung am 25. Mai 2014 wurden mit 4,4% der Stimmen 2 Mandate erzielt. Das notwendige 3. Mandat für die Gründung einer Fraktion wurde knapp verpasst. Andreas Gerhold konnte als erster Pirat deutschlandweit zum zweiten Mal in Folge das gleiche Mandat erringen.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Bezirk" name="Bergedorf" localkey="6" localpirates="http://bergedorf.piraten-hh.de/">
-      <parlament name="Bezirksversammlung" seats="49" ris="http://ratsinformation.web.hamburg.de:81/bi/pa021.asp">
-        <mandat type="pirat">Jan Penz</mandat>
+    <gebiet type="Bezirk" name="Hamburg-Nord" localkey="4" localpirates="http://nord.piraten-hh.de/">
+      <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:85/bi/pa021.asp">
+        <mandat type="pirat">Dorle Olszewski</mandat>
+        <mandat type="pirat">Markus Pöstinger</mandat>
         <fraktion type="none" />
-        <story source="http://www.bergedorfer-zeitung.de/bergedorf/article185457/Ploetzliches-Aus-fuer-die-Fraktion-von-FDP-und-Piraten.html">Von März 2011 bis April 2013 bestand eine gemeinsame FDP/Piraten-Fraktion mit zwei Abgeordneten der FDP. Durch den Rückzug eines der FDP-Abgeordneten aus dieser Fraktion musste sie aufgelöst werden.</story>
+        <story>Bei der Wahl zur Bezirksversammlung am 25. Mai 2014 wurden 3,5% der Stimmen erreicht. Die PIRATEN sind damit in der BV mit 2 Mandaten erstmals vertreten, nachdem sie 2011 noch an der 3%-Hürde gescheitert waren. </story>
       </parlament>
     </gebiet>
   </bundesland>
