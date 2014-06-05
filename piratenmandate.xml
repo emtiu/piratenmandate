@@ -803,20 +803,91 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/">
-    <gebiet type="Kreisfreie Stadt" name="Neustadt an der Weinstraße" gs="07316000">
-      <parlament name="Stadtrat" seats="44" ris="https://www2.neustadt.eu/ratsinfo/bi/kp0041.php">
-        <mandat type="transfer" from="LINKE">Andreas Severidt</mandat>
+  <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Landkreis" name="Landkreis Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
+      <parlament name="Kreistag" seats="46" ris="https://altenkirchen.more-rubin1.de/">
+        <mandat type="pirat">Hans-Peter König</mandat>
         <fraktion type="none" />
-        <story source="http://www.rheinpfalz.de/cgi-bin/cms2/cms.pl?cmd=showMsg&amp;tpl=rhpMsg_thickbox.html&amp;path=/rhp/welt/rheinland-pfalz&amp;id=9011323">Am 7. Juni 2009 wurde Andreas Severidt als einziger Abgeordneter für die Partei DIE LINKE in den Stadtrat gewählt. Im Mai 2012 ist er zur Piratenpartei übergetreten.</story>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Trier" gs="07211000" localpirates="http://www.piraten-trier.de/">
+      <parlament name="Stadtrat" seats="57" ris="https://info.trier.de/bi/allris.net.asp">
+        <mandat type="pirat">Dr. Darja Henseler</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
-      <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
-        <parlament name="Verbandsgemeinderat" seats="32" ris="http://www2.hermeskeil.de/bi/kp0041.php">
-          <mandat type="transfer" from="Wählergemeinschaft">Ottmar Muno</mandat>
+      <parlament name="Kreistag" seats="46">
+        <mandat type="pirat">Dr. Karl-Georg Schroll</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+      </parlament>
+      <gebiet type="Verbandsgemeinde" name="Verbandsgemeinde Hermeskeil" gs="07235001">
+        <parlament name="Verbandsgemeinderat" seats="29" ris="http://www2.hermeskeil.de/bi/infobi.php">
+          <mandat type="pirat">Ottmar Muno</mandat>
           <fraktion type="none" />
-          <story source="http://www.abgeordnetenwatch.de/ottmar_muno-840-42836--f283759.html#q283759">Am 7. Juni 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt. Inzwischen ist er zur Piratenpartei übergetreten.</story>
+          <story>Bereits 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt und trat später in die Piratenpartei ein. Bei der Kommunalwahl am 25. Mai 2014 konnte er sein Mandat mit 2,9% der Stimmen verteidigen.</story>
+        </parlament>
+        <gebiet type="Stadt" name="Hermeskeil" gs="07235045">
+          <parlament name="Stadtrat" seats="23" ris="http://www2.hermeskeil.de/bi/infobi.php">
+            <mandat type="pirat" multi="2">Ottmar Muno</mandat>
+            <fraktion type="none" />
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,3% der Stimmen erreicht. Ottmar Muno vertritt die Piraten auf Stadt- und Verbandsgemeindeebene.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
+      <parlament name="Stadtrat" seats="45">
+        <mandat type="pirat">Kim Julia Orth</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
+      <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
+        <mandat type="pirat">Heinz Zell</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
+      <parlament name="Stadtrat" seats="61" ris="https://bi.mainz.de/infobi.php">
+        <mandat type="pirat">Alexander Dorn</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Mainz-Bingen" gs="07339000" localpirates="http://www.piraten-rheinhessen.de/">
+      <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
+        <mandat type="pirat">Patrick Walter</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
+      <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
+        <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
+          <mandat type="pirat">Ralf Berger</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Quirnheim" gs="07332042">
+        <parlament name="Gemeinderat" seats="13" ris="">
+          <mandat type="pirat">Felix Würtz</mandat>
+          <story>Bei der  Kommunalwahl am 25. Mai 2014 kandidierte Felix Würtz erfolgreich auf  der Liste "Würtz", die mit 32% der Stimmen 4  Sitze erlangte.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
+      <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
+        <parlament name="Stadtrat" seats="25" ris="http://buergerinfo.hassloch.de/infobi.php">
+          <mandat type="pirat">Bernhard Furch</mandat>
+          <fraktion type="fremd" name="Bürgerverein Wonnegau e.V." />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 kandidierte Bernhard Furch erfolgreich auf der Liste des Bürgervereins Wonnegau e.V., die mit 21,7% der Stimmen 5 Sitze erlangte.</story>
         </parlament>
       </gebiet>
     </gebiet>
