@@ -1197,23 +1197,71 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/">
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
-      <gebiet type="Stadt" name="Eggesin" gs="15075031">
-        <parlament name="Stadtvertretung" seats="17" ris="http://www.eggesin.de/start/buergerservice/stadtvertretung/">
-          <mandat type="transfer" from="LINKE">Ulf Glöde</mandat>
-          <fraktion type="none" />
-          <story source="http://www.nordkurier.de/cmlink/nordkurier/lokales/ueckermuende/haff-piraten-stechen-in-politische-see-1.396266">Der am 7. Juni 2009 für die LINKE in die Stadtvertretung gewählte Abgeordnete Ulf Glöde ist im Februar 2012 in die Piratenpartei eingetreten, nachdem er zuvor aus der Linken ausgetreten war und sein Mandat als parteiloser Abgeordneter ausgeübt hatte.</story>
+  <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Landkreis" name="Landkreis Mecklenburgische Seenplatte" gs="13071000">
+      <parlament name="Kreistag" seats="77" ris="http://web.lk-seenplatte.de/ratsinfo/seenplatte">
+        <mandat type="pirat">Robert Schuldt</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+      </parlament>
+      <gebiet type="Stadt" name="Neubrandenburg" gs="13071107" localpirates="http://piratenpartei-mv.de/partei/stammtische/neubrandenburg/">
+        <parlament name="Stadtvertretung" seats="42" ris="http://62.159.150.6:8080/ratsinfo/neubrandenburg">
+          <mandat type="pirat">Lars Reime</mandat>
+           <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
-      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
-        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
-          <mandat type="transfer" from="Einzelbewerber">André Bonitz</mandat>
-          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten.</story>
+      <gebiet type="Stadt" name="Stralsund" gs="13073088">
+        <parlament name="Bürgerschaft" seats="43" ris="http://www2.stralsund.de/sitzung/sm_sourc.nsf">
+          <mandat type="pirat">Friedrich Smyra</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
+      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
+        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
+          <mandat type="pirat">André Bonitz</mandat>
+          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten. Bei der Kommunalwahl am 25. Mai 2014 wurde er für "Eine Liste für Eixen" in beiden Ämtern bestätigt.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Nordwestmecklenburg" gs="13074000" localpirates="http://www.piraten-westmecklenburg.de//">
+      <parlament name="Kreistag" seats="61" ris="http://ris.nordwestmecklenburg.de/sessionnet/buergerinfo/infobi.php">
+        <mandat type="pirat">Dennis Klüver</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht.</story>
+      </parlament>
+      <gebiet type="Stadt" name="Wismar" gs="13074087">
+        <parlament name="Bürgerschaft" seats="37" ris="http://www.wismar.sitzung-online.de/bi/allris.net.asp">
+          <mandat type="pirat">Dr. Bernhard Schubach</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
+        <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
+          <mandat type="pirat">Martin Banduch</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
+        </parlament>
+      <gebiet type="Stadt" name="Greifswald" gs="13075039">
+        <parlament name="Bürgerschaft" seats="43" ris="http://www.greifswald.de/politik/buergerschaft/ratsinformationssystem.html">
+          <mandat type="pirat">Milos Rodatos</mandat>
+          <mandat type="pirat">Petra Dörwald</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
+      <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
+        <mandat type="pirat">Matthias Reimann</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+      </parlament>
     </gebiet>
   </bundesland>
 
