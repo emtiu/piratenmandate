@@ -1080,7 +1080,7 @@
       </parlament>
       <gebiet type="Gemeinde" name="Eppelborn" gs="10043111">
         <parlament name="Gemeinderat" seats="33">
-          <mandat type="pirat">Dieter Schmidt</mandat>
+          <mandat type="pirat">Ralf Petermann</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,3% der Stimmen erreicht.</story>
         </parlament>
@@ -1396,7 +1396,7 @@
       </parlament>
     </gebiet>
    <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
-      <parlament name="Kreistag" seats="86">
+      <parlament name="Kreistag" seats="92">
         <mandat type="pirat">Sören Skalicks</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
@@ -1440,7 +1440,10 @@
     <gebiet type="Kreisfreie Stadt" name="Erfurt" gs="16051000" localpirates="http://piraten-erfurt.de/">
         <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.erfurt.de/bi/infobi.php">
           <mandat type="pirat">Peter Städter</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="FREIE WÄHLER / FDP / PIRATEN">
+            <partner partei="Wählergemeinschaft" num="2" />
+            <partner partei="FDP" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
         </parlament>
     </gebiet>
