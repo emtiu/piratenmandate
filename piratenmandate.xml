@@ -824,7 +824,7 @@
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
       </parlament>
-      <gebiet type="Verbandsgemeinde" name="Verbandsgemeinde Hermeskeil" gs="07235001">
+      <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
         <parlament name="Verbandsgemeinderat" seats="29" ris="http://www2.hermeskeil.de/bi/infobi.php">
           <mandat type="pirat">Ottmar Muno</mandat>
           <fraktion type="none" />
@@ -1229,39 +1229,139 @@
   </bundesland>
 
   <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
-    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Peitz" gs="12071304">
-        <parlament name="Stadtverordnetenversammlung" seats="17" ris="http://www.amtpeitz.de/sessionnet/buergerinfo/kp0040.php?__kgrnr=2&amp;">
-          <mandat type="transfer" from="Einzelbewerber">Bernd Schulze</mandat>
+    <gebiet type="Kreisfreie Stadt" name="Frankfurt (Oder)" gs="12053000" localpirates="http://dos.piratenbrandenburg.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="47" ris="https://www.sitzungsdienst-frankfurt-oder.de/tbi/pa021.asp">
+        <mandat type="pirat">Steffen Kern</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Barnim" gs="12060000" localpirates="http://barum.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Bernau bei Berlin" gs="12060020">
+        <parlament name="Stadtverordnetenversammlung" seats="37" ris="http://www.bernau-bei-berlin.de/de/buergerportal/rathaus/politische-gremien/stadtverordnetenversammlung.html">
+          <mandat type="pirat">Ulf Markarski</mandat>
           <fraktion type="none" />
-          <story source="http://wiki.piratenbrandenburg.de/Benutzer:Berndschulze">Am 28. September 2008 als parteiloser Bewerber über die Liste der FDP in die Stadtverordnetenversammlung Peitz gewählte Bernd Schulze trat im Juni 2012 der Piratenpartei bei. Als Vorsitzender der Stadtverordnetenversammlung ist er der Bürgermeister der Stadt.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Märkisch-Oderland" gs="12064000" localpirates="http://mol.piratenbrandenburg.de/">
-      <gebiet type="Gemeinde" name="Neuhardenberg" gs="12064340">
-        <gebiet type="Ortsteil" name="Quappendorf" arbkey="1">
-          <parlament name="Ortsbeirat" seats="3" ris="https://amt-neuhardenberg.ratsinfomanagement.net/neuhardenberg/personen.do?submit=true&amp;gremium=4">
-            <mandat type="transfer" from="SPD">Rolf Ignaz</mandat>
-            <story source="http://wiki.piratenbrandenburg.de/Benutzer:Ignatius">Rolf Ignaz wurde am 28. September 2008 als parteiloser Kandidat über die Liste der SPD in den Ortsbeirat gewählt. Im September 2011 ist er der Piratenpartei beigetreten.</story>
+    <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://ohv.piratenbrandenburg.de/">
+      <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
+        <mandat type="pirat">Thomas Bennühr</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+      </parlament>
+      <gebiet type="Gemeinde" name="Großwoltersdorf" gs="12065117">
+        <parlament name="Gemeindevertreterversammlung" seats="10" ris="http://www.gransee.de/politik/mitglieder.php?gremium=1646">
+          <mandat type="pirat">Markus Hoffmann</mandat>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Glienicke/Nordbahn" gs="12065096">
+        <parlament name="Gemeindevertretung" seats="22" ris="http://www.glienicke.eu/rathaus-politik/kommunalpolitik/">
+          <mandat type="pirat" multi="2">Thomas Bennühr</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Oder-Spree" gs="12067000" localpirates="https://dos.piratenbrandenburg.de/">
+      <parlament name="Kreistag" seats="56" ris="https://web.landkreis-oder-spree.de/somacos/sessionnet/bi/infobi.php">
+        <mandat type="pirat">Frank Behr</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
+      </parlament>
+      <gebiet type="Stadt" name="Eisenhüttenstadt" gs="12067120">
+        <parlament name="Stadtverordnetenversammlung" seats="32" ris="http://www.ratsinfo-online.net/eisenhuettenstadt-bi/allris.net.asp">
+          <mandat type="pirat" multi="2">Frank Behr</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,4% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Fürstenwalde/Spree" gs="12067144">
+        <parlament name="Stadtverordnetenversammlung" seats="32" ris="http://binfo.fuerstenwalde-spree.de/infobi.php">
+          <mandat type="pirat">Kai Hamacher</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Forst (Lausitz)" gs="12071076">
+        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www2.forst-lausitz.de/allrisbi/pa021.asp">
+          <mandat type="pirat">Thomas Friedrich</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Dahme-Spreewald" gs="12061000" localpirates="http://dos.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Königs Wusterhausen" gs="12061260">
+        <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.koenigs-wusterhausen.de/534163/svv">
+          <mandat type="pirat">Ronny Friedrich</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Lieberose" gs="12061308">
+        <gebiet type="Ortsteil" name="Doberburg" arbkey="1">
+          <parlament name="Ortsbeirat" seats="3">
+            <mandat type="pirat">Jürgen Willenberg</mandat>
+            <story source="http://www.amt-lieberose-oberspreewald.de/download/amt/Wahlen2014/Lieberose2.pdf">Für die 3 Sitze im Ortsbeirat Doberburg gab es 4 Bewerber, darunter Jürgen Willenberg für die PIRATEN. Er erhielt 76 von 194 Stimmen, was einem Wahlergebnis von 39,2% entspricht.</story>
           </parlament>
         </gebiet>
       </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Potsdam-Mittelmark" gs="12069000" localpirates="https://pm.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Teltow" gs="12069616">
+        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www.ratsinfo-online.de/teltow.bi/pa021.asp">
+          <mandat type="pirat">Jeannette Paech</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Kleinmachnow" gs="12069304">
+        <parlament name="Gemeindevertretung" seats="29" ris="http://www.kleinmachnow.de/staticsite/staticsite.php?menuid=58">
+          <mandat type="pirat">Raoul Schramm</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Ketzin/Havel" gs="12063148">
+        <gebiet type="Ortsteil" name="Etzin" arbkey="1">
+          <parlament>
+            <mandat type="pirat">Nicole Niemoth</mandat>
+            <story source="http://www.kita-ketzin.de/Wahlen/ob-et/index.html">Zu den 3 Sitzen im Ortsbeirat Etzin sind 3 Listen angetreten (CDU, PIRATEN, FREIE WÄHLER Etzin). Nicole Niemoth erhielt für die PIRATEN 69 von 437 Stimmen, was einem Wahlergebnis von 15,8% entspricht. Die anderen beiden Sitze gingen an die FREIE WÄHLER.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <!-- Gemeinsame Liste Frischer Wind/PIRATEN, aber kein Piratenpartei-Mitglied gewählt
+      <gebiet type="Stadt" name="Nauen" gs="12063208">
+        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://ris.nauen.de/instanz_1/index.htm">
+          <mandat type="pirat">Anke Bienwald</mandat>
+          <mandat type="pirat">Steffen Glagow</mandat>
+          <fraktion type="unknown" />
+        </parlament>
+      </gebiet> -->
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
-      <gebiet type="Gemeinde" name="Gramzow" gs="12073225">
-        <parlament name="Gemeindevertretung" seats="15" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1254">
-          <mandat type="transfer" from="CDU/CSU">Wolfgang Herrmann</mandat>
-          <fraktion type="unknown" />
-          <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in die Gemeindevertretung gewählt. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
+      <gebiet type="Stadt" name="Schwedt" gs="12073532">
+        <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.schwedt.eu/sixcms/detail.php/72193">
+          <mandat type="pirat">Nadine Heckendorn</mandat>
+          <fraktion type="none" />
+          <story>Nadine Heckendorn wurde als Mitglied der Piratenpartei auf der „Bunten Liste“ gewählt, die 1,6% der Stimmen erhielt.</story>
         </parlament>
-        <gebiet type="Ortsteil" name="Meichow" arbkey="1">
-          <parlament name="Ortsbeirat" seats="4" ris="http://www.amt-gramzow.de/politik/mitglieder.php?gremium=1298">
-            <mandat type="transfer" from="CDU/CSU" multi="2">Wolfgang Herrmann</mandat>
-            <fraktion type="unknown" />
-            <story source="http://wiki.piratenbrandenburg.de/Benutzer:Zigeuner">Wolfgang Herrmann wurde am 28. September 2008 für die CDU in den Ortsbeirat des Ortsteils Meichow gewählt und ist dort als Vorsitzender des Ortsbeirats der Ortsvorsteher. Im November 2011 ist er zur Piratenpartei übergetreten.</story>
-          </parlament>
-        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Elsterwerda" gs="12062124">
+        <parlament name="Stadtverordnetenversammlung" seats="19" ris="http://www.elsterwerda.de/svv/">
+          <mandat type="pirat">Kerstin Schenkel</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
+        </parlament>
       </gebiet>
     </gebiet>
   </bundesland>
@@ -1413,21 +1513,81 @@
 
   <bundesland name="Sachsen-Anhalt" gs="15000000" localpirates="http://www.piraten-lsa.de/">
     <gebiet type="Landkreis" name="Landkreis Börde" gs="15083000" localpirates="http://www.piraten-boerde.de/">
+      <parlament name="Kreistag" seats="54" ris="http://www.boerdekreis.de/bi/pa021.asp">
+        <mandat type="pirat">Andrea Bogner</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,0% der Stimmen erreicht.</story>
+      </parlament>
       <gebiet type="Stadt" name="Oebisfelde-Weferlingen" gs="15083411">
+        <parlament name="Gemeinderat" seats="28" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/pa021.asp">
+          <mandat type="pirat">Marc Blanck</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
+        </parlament>
         <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1">
           <parlament name="Ortschaftsrat" seats="20" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/au020.asp?AULFDNR=35&amp;options=4">
-            <mandat type="transfer" from="Einzelbewerber">Andrea Bogner</mandat>
-            <story source="http://www.volksstimme.de/nachrichten/lokal/haldensleben/1066591_Oebisfelderin-Andrea-Bogner-ist-Piraten-Kandidatin-fuer-den-Bundestag.html">Am 7. Juni 2009 wurde Andrea Bogner als parteilose Einzelkandidatin in den Ortschaftsrat Oebisfelde gewählt. Im Mai 2012 ist sie in die Piratenpartei eingetreten.</story>
+            <mandat type="pirat" multi="2">Andrea Bogner</mandat>
+            <story>Bereits 2009 wurde Andrea Bogner als parteilose Einzelkandidatin in den Ortschaftsrat Oebisfelde gewählt und trat später in die Piratenpartei ein. Bei der Kommunalwahl am 25. Mai 2014 konnte sie auf der PIRATEN-Liste ihr Mandat verteidigen.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Barleben" gs="15083040">
+        <parlament name="Gemeinderat" seats="21" ris="http://www.barleben.de/Startseite/Gemeinde/Politik-und-Verwaltung/Gemeinderat">
+          <mandat type="pirat">Jens Barthel</mandat>
+          <fraktion type="none" />
+        </parlament>
+        <gebiet type="Ortsteil" name="Ebendorf" arbkey="1">
+          <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37&amp;">
+            <mandat type="pirat" multi="2">Jens Barthel</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Verbandsgemeinde" name="Westliche Börde" gs="15083540">
+        <gebiet type="Gemeinde" name="Ausleben" gs="15083035">
+          <parlament name="Gemeinderat" seats="12" ris="http://www.verbgem-westlicheboerde.de/politik/mitglieder.php?gremium=1176">
+            <mandat type="pirat">Ernst Romoser</mandat>
+            <fraktion type="none" />
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Stendal" gs="15090000" localpirates="http://piraten-altmark.de/">
+      <gebiet type="Stadt" name="Stendal" gs="15090535">
+        <parlament name="Stadtrat" seats="41" ris="http://www.stendal.de/de/stadtrat.html">
+          <mandat type="pirat">Olaf Lincke</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,4% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Verbandsgemeinde" name="Arneburg-Goldbeck" gs="15090510">
+        <gebiet type="Gemeinde" name="Goldbeck" gs="15090180">
+          <parlament name="Gemeinderat" seats="13" ris="http://www.ratsinfo-online.net/arneburg-goldbeck-bi/pa020.asp?PALFDNR=22&amp;options=4">
+            <mandat type="pirat">René Schernikau</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Harz" gs="15085000" localpirates="http://piratenpartei-harz.de/">
+      <gebiet type="Stadt" name="Wernigerode" gs="15085370">
+        <parlament name="Stadtrat" seats="41" ris="http://www.wernigerode.de/de/ratsinformationssystem.html">
+          <mandat type="pirat">Denis Mau</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
-      <gebiet type="Gemeinde" name="Elbe-Parey" gs="15086035">
-        <gebiet type="Ortsteil" name="Ferchland" arbkey="1">
-          <parlament name="Ortschaftsrat" seats="5" ris="http://www.elbe-parey.de/index.php?option=com_content&amp;task=view&amp;id=70&amp;Itemid=52&amp;limit=1&amp;limitstart=1">
-            <mandat type="transfer" from="SPD">Walter Henning</mandat>
-            <story source="http://www.volksstimme.de/nachrichten/lokal/genthin/794312_Piraten-entern-jetzt-die-Region.html">Am 22. April 2007 wurde Walter Henning für die SPD in den Ortschaftsrat Ferchland gewählt. Dort ist er als Vorsitzender des Ortschaftsrats der Ortsbürgermeister. Im September 2011 ist er zur Piratenpartei übergetreten.</story>
+      <gebiet type="Gemeinde" name="Möser" gs="15086145">
+        <parlament name="Gemeinderat" seats="21" ris="https://www.gemeinde-moeser.de/sessionnet/bi/infobi.php">
+          <mandat type="pirat">Michel Vorsprach</mandat>
+          <fraktion type="none" />
+          <story>Michael Vorsprach ist Mitglied der Piratenpartei und wurde auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Gemeinderat Möser gewählt. Die Liste erzielte 5,9% der Stimmen.</story>
+        </parlament>
+        <gebiet type="Ortsteil" name="Lostau" arbkey="1">
+          <parlament name="Ortschaftsrat" seats="13" ris="https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/lostau/ortsbuergermeister/">
+            <mandat type="pirat" multi="2">Michel Vorsprach</mandat>
+            <story>Michael Vorsprach ist Mitglied der Piratenpartei und wurde zusammen mit einer weiteren Kandidatin auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Ortschaftsrat Lostau gewählt. Die Liste erzielte 22,2% der Stimmen.</story>
           </parlament>
         </gebiet>
       </gebiet>
