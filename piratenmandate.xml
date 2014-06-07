@@ -1043,30 +1043,28 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
       <gebiet type="Stadt" name="Merzig" gs="10042113">
-        <parlament name="Stadtrat" seats="39">
+        <parlament name="Stadtrat" seats="39" ris="http://merzig.de/rathaus/stadtpolitik">
           <mandat type="pirat">Michael Grauer</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Merchingen" arbkey="1">
-          <parlament name="Ortsrat" seats="9">
+          <parlament name="Ortsrat" seats="9" ris="http://merzig.de/rathaus/stadtpolitik">
             <mandat type="pirat" multi="2">Michael Grauer</mandat>
-            <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 19,5% (<em>sic</em>) der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
       </gebiet>
       <gebiet type="Gemeinde" name="Weiskirchen" gs="10042117">
-        <parlament name="Gemeinderat" seats="27">
+        <parlament name="Gemeinderat" seats="27" ris="http://www.weiskirchen.de/politik.html">
           <mandat type="pirat">Wolfgang Barth</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,1% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Rappweiler-Zwalbach" arbkey="1">
-          <parlament name="Ortsrat" seats="9">
+          <parlament name="Ortsrat" seats="9" ris="http://www.weiskirchen.de/politik.html">
             <mandat type="pirat">Hans Hirtz</mandat>
             <mandat type="pirat">Roman Thielen</mandat>
-            <fraktion type="piraten" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 17,9% (<em>sic</em>) der Stimmen erreicht!</story>
           </parlament>
         </gebiet>
