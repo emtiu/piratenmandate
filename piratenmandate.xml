@@ -22,7 +22,7 @@
       <parlament name="Ratsversammlung" seats="42" ris="https://w3.neumuenster.de/session/bi/kp0040.php?__kgrnr=1&amp;">
         <mandat type="pirat">Thomas Puls</mandat>
         <fraktion type="gemeinsam" name="BfB/PIRATEN">
-          <partner partei="FW/UWG/etc." num="3"/>
+          <partner name="Bündnis für Bürger" partei="FW/UWG/etc." num="3"/>
         </fraktion>
       </parlament>
     </gebiet>
@@ -204,7 +204,7 @@
       <parlament name="Stadtrat" seats="50" ris="https://ris.osnabrueck.de/bi/pa021.asp">
         <mandat type="pirat">Ralf ter Veer</mandat>
         <fraktion type="gemeinsam" name="UWG und PIRATEN" url="http://www.uwg-und-piraten.de/">
-          <partner partei="FW/UWG/etc." num="1"/>
+          <partner name="UWG Osnabrück-Stadt" partei="FW/UWG/etc." num="1"/>
         </fraktion>
       </parlament>
     </gebiet>
@@ -359,7 +359,7 @@
           <mandat type="pirat">Maik Bröse</mandat>
           <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
             <partner partei="GRÜNE" num="4" />
-            <partner partei="FW/UWG/etc." num="1" />
+            <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="1" />
           </fraktion>
         </parlament>
         <gebiet type="Gemeinde" name="Tespe" gs="03353033">
@@ -423,7 +423,7 @@
         <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat">Matthias Roll</mandat>
           <fraktion type="gemeinsam" name="GuB/FDP/Piraten">
-            <partner partei="FW/UWG/etc." num="1" />
+            <partner name="Gemeinschaft unabhängiger Bürger" partei="FW/UWG/etc." num="1" />
             <partner partei="FDP" num="1" />
           </fraktion>
         </parlament>
@@ -456,7 +456,7 @@
         <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Rolf Tischer</mandat>
           <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
-            <partner partei="FW/UWG/etc." num="2" />
+            <partner name="WIR für Uelzen" partei="FW/UWG/etc." num="2" />
             <partner partei="Bündnis 21/RRP" num="1" />
           </fraktion>
         </parlament>
@@ -545,7 +545,8 @@
           <parlament name="Stadtrat" seats="74" ris="http://www.duisburg.de/rathaus/rathaus/gremien/index.php">
               <mandat type="pirat">Britta Söntgerath</mandat>
               <fraktion type="geminsam" name ="PIRATEN SOZIAL LIBERAL">
-                <partner partei="Wählervereinigung" num="2" />
+                <partner name="Sozial Gerecht Unabhängig" partei="Offene/Bunte/Lokale Liste" num="1" />
+                <partner name="Bürgerlich-Liberale" partei="FW/UWG/etc." num="1" />
               </fraktion>
               <story source="http://www.piratenpartei-duisburg.de/piraten-sozial-liberal-das-neue-buendnis-fuer-duisburg/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht und eine Fraktionsgemeinschaft mit den Wählervereinigungen "Bürgerlich Liberale (BL)" und "Sozial Gerecht Unabhängig (SGU)" eingegangen.</story>
         </parlament>
@@ -812,7 +813,7 @@
           <parlament name="Stadtrat" seats="58" ris="https://www.hamm.de/rais/">
               <mandat type="pirat">Martin Kesztyüs</mandat>
               <fraktion type="gemeinsam" name="Pro Hamm / Piraten">
-                <partner partei="Wählergemeinschaft" num="1" />
+                <partner name="Pro Hamm" partei="Offene/Bunte/Lokale Liste" num="1" />
               </fraktion>
               <story source="https://blog.piratenpartei-nrw.de/hamm/2014/06/02/pressemitteilung-der-waehlergruppe-pro-hamm-piraten-hamm/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
         </parlament>
@@ -870,7 +871,7 @@
         <mandat type="pirat">Herbert Förster</mandat>
         <mandat type="pirat">Martin Kliehm</mandat>
         <fraktion type="gemeinsam" name="ELF Piraten" url="http://www.elf-piraten.de/">
-          <partner partei="Offene/Bunte/Lokale Liste" num="1" />
+          <partner name="Europaliste Frankfurt" partei="Offene/Bunte/Lokale Liste" num="1" />
         </fraktion>
         <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
       </parlament>
@@ -923,7 +924,7 @@
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Norbert Rücker</mandat>
         <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
-          <partner partei="FW/UWG/etc." num="2" />
+          <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="2" />
         </fraktion>
       </parlament>
     </gebiet>
@@ -1131,7 +1132,7 @@
         <mandat type="pirat">Uwe Lancier</mandat>
         <mandat type="pirat">Erik Wohlfeil</mandat>
         <fraktion type="gemeinsam" name="KAL/PIRATEN/Die PARTEI">
-          <partner partei="Offene/Bunte/Lokale Liste" num="2" />
+          <partner name="Karlsruher Liste" partei="Offene/Bunte/Lokale Liste" num="2" />
           <partner partei="Die PARTEI" num="1"/>
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
@@ -1909,7 +1910,7 @@
       <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.erfurt.de/bi/infobi.php">
         <mandat type="pirat">Peter Städter</mandat>
         <fraktion type="gemeinsam" name="FREIE WÄHLER / FDP / PIRATEN">
-          <partner partei="FW/UWG/etc." num="2" />
+          <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="2" />
           <partner partei="FDP" num="1" />
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
