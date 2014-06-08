@@ -790,8 +790,8 @@
       </parlament>
       <gebiet type="Stadt" name="Frankenau" gs="06635010">
         <parlament name="Stadtverordnetenversammlung" seats="23" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100018&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
-          <mandat type="pirat">Alexander Kaufmann</mandat>
-          <fraktion type="none"  multi="2"/>
+          <mandat type="pirat" multi="3">Alexander Kaufmann</mandat>
+          <fraktion type="none" />
         </parlament>
         <gebiet type="Ortsteil" name="Frankenau" arbkey="1">
           <parlament name="Ortsbeirat" seats="7" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100017&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
@@ -894,32 +894,111 @@
   </bundesland>
 
   <bundesland name="Baden-Württemberg" gs="08000000" localpirates="http://piratenpartei-bw.de/">
-    <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
-      <gebiet type="Stadt" name="Weikersheim" gs="08128126">
-        <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
-          <mandat type="transfer" from="SPD">Rainer Nase</mandat>
+    <gebiet type="Regionalverband" name="Region Stuttgart" gs="08110000" localpirates="http://piraten-region-stuttgart.de/">
+      <parlament name="Regionalversammlung" seats="87" ris="https://gecms.region-stuttgart.org/">
+        <mandat type="pirat">Ingo Mörl</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Stadtkreis" name="Karlsruhe" gs="08212000" localpirates="http://www.piraten-karlsruhe.de/">
+      <parlament name="Gemeinderat" seats="48" ris="http://web1.karlsruhe.de/Gemeinderat/ris/bi/kp0040.php?__kgrnr=32130&amp;">
+        <mandat type="pirat">Uwe Lancier</mandat>
+        <mandat type="pirat">Erik Wohlfeil</mandat>
+        <fraktion type="gemeinsam" name="KAL/PIRATEN/Die PARTEI">
+          <partner partei="Wählergemeinschaft" num="2" />
+          <partner partei="Die PARTEI" num="1"/>
+        </fraktion>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Stadtkreis" name="Heidelberg" gs="08221000" localpirates="http://www.piraten-rhein-neckar-heidelberg.de/">
+      <parlament name="Gemeinderat" seats="49" ris="http://ww1.heidelberg.de/buergerinfo/gr0040.asp">
+        <mandat type="pirat">Alexander Schestag</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Stadtkreis" name="Stuttgart" gs="08111000" localpirates="http://www.piratenpartei-stuttgart.de/">
+      <parlament name="Gemeinderat" seats="61" ris="http://www.stuttgart.de/external/show/ratsdokumente">
+        <mandat type="pirat">Stefan Urbat</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Stadtkreis" name="Ulm" gs="08421000" localpirates="http://www.piraten-ulm.de/">
+      <parlament name="Gemeinderat" seats="41" ris="http://buergerinfo.ulm.de/infobi.php">
+        <mandat type="pirat">Denise Elisa Niggemeier</mandat>
+        <fraktion type="none" />
+        <story>Als Mitglied der Piratenpartei ist Denise Niggemeier auf der Liste „Ulm hoch 3“ gewählt worden, die mit 1,9% der Stimmen einen Sitz gewinnen konnte.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Esslingen" gs="08116000" localpirates="http://www.piratenpartei-esslingen.de/">
+      <gebiet type="Stadt" name="Leinfelden-Echterdingen" gs="08116078" localpirates="http://filderpiraten.de/">
+        <parlament name="Gemeinderat" seats="27" ris="https://www.geocms.com/ris-leinfelden-echterdingen/">
+          <mandat type="pirat">Claudia Moosmann</mandat>
+          <story>In Leinfelden-Echterdingen sind Kandidaten der Piratenpartei als „Filderpiraten e.V.“ organisiert und mit der Liste „Freunde der Filderpiraten e.V.“ angetreten, die 2,2% der Stimmen erhielt.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Frickenhausen" gs="08116020">
+        <parlament name="Gemeinderat" seats="20" ris="http://frickenhausen.kdrs.de/,Lde/start/gemeinde/Gemeinderat.html">
+          <mandat type="pirat">Jochen Jansen</mandat>
           <fraktion type="none" />
-          <story source="http://www.swp.de/bad_mergentheim/lokales/vorbach_und_taubertal/Piraten-Partei-SPD;art5640,1573531">Bei der Kommunalwahl am 7. Juni 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. Im Herbst 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin im Juli 2012 rückte er als Pirat in den Gemeinderat nach.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 6,5% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Heidenheim" gs="08135000" localpirates="http://piraten-hdh.de/">
-      <gebiet type="Stadt" name="Heidenheim an der Brenz" gs="08135019">
-        <parlament name="Gemeinderat" seats="36" ris="http://rishdh.heidenheim.de/e-komm/sitzung/ge_sourc.nsf/Committee01List?OpenView&amp;Count=-1">
-          <mandat type="transfer" from="FDP">Uwe Maiter</mandat>
+    <gebiet type="Landkreis" name="Landkreis Göppingen" gs="08117000" localpirates="https://piratenpartei-gp.de/">
+      <gebiet type="Stadt" name="Göppingen" gs="08117026">
+        <parlament name="Gemeinderat" seats="41" ris="https://goeppingen.more-rubin1.de/index.php">
+          <mandat type="pirat">Michael Freche</mandat>
           <fraktion type="none" />
-          <story source="http://www.piratenpartei-bw.de/2011/02/16/fdp-gemeinderat-tritt-der-piratenpartei-bei/">Am 7. Juni 2009 wurde Uwe Maiter als einziger FDP-Abgeordneter in den Gemeinderat der Stadt Heidenheim an der Brenz gewählt. Am 16. Februar 2011 gab er seinen Übertritt zur Piratenpartei bekannt.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
+      <gebiet type="Stadt" name="Weikersheim" gs="08128126">
+        <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
+          <mandat type="pirat">Rainer Nase</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin 2012 rückte er als Pirat in den Gemeinderat nach. 2014 konnte er auf der PIRATEN-Liste sein Mandat verteidigen.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
       <gebiet type="Stadt" name="Bruchsal" gs="08215009">
         <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
-          <mandat type="transfer" from="Wählergemeinschaft">Hartmut Schönherr</mandat>
+          <mandat type="pirat">Hartmut Schönherr</mandat>
           <fraktion type="fremd" name="Die Grünen/Neue Köpfe" />
-          <story source="http://www.landfunker.de/ktv/detail.php?rubric=182&amp;nr=33836">Bei der Kommunalwahl am 7. Juni 2009 wurde Hartmut Schönherr für die Wählervereinigung „Neue Köpfe“ über die Liste „Grüne/Neue Köpfe“ in den Gemeinderat der Stadt Bruchsal gewählt. Am 1. Oktober 2009 trat er der Piratenpartei bei, übt sein Mandat aber weiter in der Fraktion Die Grünen/Neue Köpfe aus.</story>
+          <story>Bei der Kommunalwahl 2009 wurde Hartmut Schönherr für die Wählervereinigung „Neue Köpfe“ über die Liste „Grüne/Neue Köpfe“ in den Gemeinderat der Stadt Bruchsal gewählt. Noch im selben Jahr trat er der Piratenpartei bei, blieb aber in der Fraktion „Die Grünen/Neue Köpfe“. 2014 wurde er auf der gleichen Liste wiedergewählt und übt sein Mandat weiter aus wie zuvor.</story>
         </parlament>
       </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
+      <gebiet type="Stadt" name="Konstanz" gs="08335043">
+        <parlament name="Gemeinderat" seats="40" ris="http://www.konstanz.sitzung-online.de/bi/allris.net.asp">
+          <mandat type="pirat">Thomas Buck</mandat>
+          <fraktion type="fremd" name="Junges Forum Konstanz" />
+          <story>Thomas Buck ist Mitglied der Piratenpartei und kandidierte auf Platz 4 der Liste „Junges Forum Konstanz“. Er zog als einer von 3 Gewählten für die Liste in den Gemeinderat ein, die 6,9% der Stimmen erhielt und nun eine Fraktion stellt.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Tübingen" gs="08416000" localpirates="http://piratenpartei-reutlingen-tuebingen.de/">
+      <gebiet type="Stadt" name="Tübingen" gs="08416041">
+        <parlament name="Gemeinderat" seats="41" ris="http://www.tuebingen.de/gemeinderat">
+          <mandat type="pirat">Jürgen Steinhilber</mandat>
+          <fraktion type="none" />
+          <story>Jürgen Steinhilber war 2009 für die Unabhängige Freie Wählergemeinschaft (UFW) in den Gemeinderat gewählt worden. 2012 trat er zur Piratenpartei über und bildete mit der parteilosen Ilona Raiser eine PIRATEN-Fraktion. Bei der Gemeinderatswahl konnte Jürgen Steinhilber sein Mandat auf der PIRATEN-Liste verteidigen, die 2,4% der Stimmen gewann.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
+      <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
+        <mandat type="pirat">Markus Arnold</mandat>
+        <fraktion type="none" />
+        <story>Markus Arnold hat auf der Liste „DIE LINKE“ kandidiert und zog als einer von 3 gewählten Kandidaten in den Kreistag ein.</story>
+      </parlament>
     </gebiet>
   </bundesland>
 
@@ -998,8 +1077,8 @@
         <gebiet type="Stadt" name="Bad Brückenau" gs="09672113">
           <parlament name="Stadtrat" seats="21" ris="http://www.bad-brueckenau.de/de/index.cfm?fuseaction=rathaus&amp;rubrik=ratsmitglieder">
             <mandat type="pirat">Benjamin Wildenauer</mandat>
-            <story>Benjamin Wildenauer wurde auf der Liste der SPD gewählt, die 8,2% erlangte.</story>
             <fraktion type="unknown" />
+            <story>Benjamin Wildenauer wurde auf der Liste der SPD gewählt, die 8,2% erlangte.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -1051,7 +1130,7 @@
         <gebiet type="Ortsteil" name="Merchingen" arbkey="1">
           <parlament name="Ortsrat" seats="9" ris="http://merzig.de/rathaus/stadtpolitik">
             <mandat type="pirat" multi="2">Michael Grauer</mandat>
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 19,5% (<em>sic</em>) der Stimmen erreicht.</story>
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 19,5% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -1065,7 +1144,7 @@
           <parlament name="Ortsrat" seats="9" ris="http://www.weiskirchen.de/politik.html">
             <mandat type="pirat">Hans Hirtz</mandat>
             <mandat type="pirat">Roman Thielen</mandat>
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 17,9% (<em>sic</em>) der Stimmen erreicht!</story>
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 17,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -1331,7 +1410,7 @@
     <gebiet type="Landkreis" name="Landkreis Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Ketzin/Havel" gs="12063148">
         <gebiet type="Ortsteil" name="Etzin" arbkey="1">
-          <parlament>
+          <parlament name="Ortsbeirat" seats="3" ris="https://www.ketzin.de/ratsinfo/gremium/5360/ortsbeirat_etzin.html">
             <mandat type="pirat">Nicole Niemoth</mandat>
             <story source="http://www.kita-ketzin.de/Wahlen/ob-et/index.html">Zu den 3 Sitzen im Ortsbeirat Etzin sind 3 Listen angetreten (CDU, PIRATEN, FREIE WÄHLER Etzin). Nicole Niemoth erhielt für die PIRATEN 69 von 437 Stimmen, was einem Wahlergebnis von 15,8% entspricht. Die anderen beiden Sitze gingen an die FREIE WÄHLER.</story>
           </parlament>
