@@ -22,6 +22,7 @@
 <!ATTLIST mandat multi CDATA #IMPLIED >
 <!ATTLIST mandat type (pirat | transfer) #REQUIRED >
 <!ATTLIST mandat from CDATA #IMPLIED >
+<!ATTLIST mandat fremdliste CDATA #IMPLIED >
 
 <!ELEMENT fraktion (partner*) >
 <!ATTLIST fraktion type (piraten | gemeinsam | fremd | none | unknown) #REQUIRED >
@@ -35,5 +36,6 @@
 <!ATTLIST feed url CDATA #IMPLIED >
 
 <!ELEMENT partner EMPTY >
+<!ATTLIST partner name CDATA #IMPLIED >
 <!ATTLIST partner partei CDATA #REQUIRED >
 <!ATTLIST partner num CDATA #IMPLIED >
