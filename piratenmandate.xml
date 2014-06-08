@@ -26,6 +26,45 @@
         </fraktion>
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
+      <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/index.phtml?mNavID=164.800&amp;sNavID=647.48&amp;La=1">
+        <mandat type="pirat">Axel Sieck</mandat>
+        <fraktion type="none" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
+      <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
+        <mandat type="pirat">Timo Ploog</mandat>
+        <fraktion type="fremd" name="Bündnis 90/Die Grünen" url="http://www.gruene-nf.de/kreistagsfraktion-nf/" />
+      </parlament>
+      <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
+        <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
+          <mandat type="pirat">Christian Thiessen</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
+      <parlament name="Kreistag" seats="44" ris="http://www.kreis-pinneberg.de/Politik/Kreistagsinformationssystem/Kreistag.html">
+        <mandat type="pirat">Sven Lange</mandat>
+        <fraktion type="gemeinsam" name="DIE LINKE &amp; PIRATEN">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
+      <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
+        <mandat type="pirat">Hans-Werner Last</mandat>
+        <fraktion type="none" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
+      <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
+        <mandat type="pirat">Thomas Wilken</mandat>
+        <mandat type="pirat">Toni Köppen</mandat>
+        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
       <parlament name="Kreistag" seats="44" ris="https://www.steinburg.de/144_150.htm">
         <mandat type="pirat">Dr. Siegfried Hansen</mandat>
@@ -41,45 +80,6 @@
           <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-glueckstadt/" />
         </parlament>
       </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
-      <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
-        <mandat type="pirat">Timo Ploog</mandat>
-        <fraktion type="fremd" name="Bündnis 90/Die Grünen" url="http://www.gruene-nf.de/kreistagsfraktion-nf/" />
-      </parlament>
-      <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
-        <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
-          <mandat type="pirat">Christian Thiessen</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
-      <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
-        <mandat type="pirat">Thomas Wilken</mandat>
-        <mandat type="pirat">Toni Köppen</mandat>
-        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
-      <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
-        <mandat type="pirat">Hans-Werner Last</mandat>
-        <fraktion type="none" />
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
-      <parlament name="Kreistag" seats="44" ris="http://www.kreis-pinneberg.de/Politik/Kreistagsinformationssystem/Kreistag.html">
-        <mandat type="pirat">Sven Lange</mandat>
-        <fraktion type="gemeinsam" name="DIE LINKE &amp; PIRATEN">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
-      <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/index.phtml?mNavID=164.800&amp;sNavID=647.48&amp;La=1">
-        <mandat type="pirat">Axel Sieck</mandat>
-        <fraktion type="none" />
-      </parlament>
     </gebiet>
   </bundesland>
 
@@ -185,25 +185,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Wolfsburg" gs="03103000" localpirates="http://wolfsburg.piratenpartei-nds.de/">
-      <parlament name="Stadtrat" seats="46" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Rat/Ratsmitglieder">
-        <mandat type="pirat">Piroska Evenburg</mandat>
-        <mandat type="pirat">Svante Evenburg</mandat>
-        <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" />
-      </parlament>
-      <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
-        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
-          <mandat type="pirat">Helmuth Goldenstein</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
-        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
-          <mandat type="pirat" multi="2">Svante Evenburg</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Delmenhorst" gs="03401000" localpirates="http://piratenpartei-delmenhorst.de/">
       <parlament name="Stadtrat" seats="43" ris="http://www.delmenhorst.de/rat-politik/ratsinfo/index.php">
         <mandat type="pirat">Andreas Neugebauer</mandat>
@@ -226,6 +207,62 @@
           <partner partei="FW/UWG/etc." num="1"/>
         </fraktion>
       </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Wolfsburg" gs="03103000" localpirates="http://wolfsburg.piratenpartei-nds.de/">
+      <parlament name="Stadtrat" seats="46" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Rat/Ratsmitglieder">
+        <mandat type="pirat">Piroska Evenburg</mandat>
+        <mandat type="pirat">Svante Evenburg</mandat>
+        <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" />
+      </parlament>
+      <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
+        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
+          <mandat type="pirat">Helmuth Goldenstein</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
+        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
+          <mandat type="pirat" multi="2">Svante Evenburg</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
+      <gebiet type="Gemeinde" name="Schiffdorf" gs="03352050" localpirates="http://piratenpartei-schiffdorf.de/">
+        <parlament name="Gemeinderat" seats="30" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=2&amp;o=1&amp;oc=1&amp;ob=1#current">
+          <mandat type="transfer" from="CDU/CSU">Frank Schulz</mandat>
+          <fraktion type="none" />
+          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU in den Gemeinderat Schiffdorf gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
+        </parlament>
+        <gebiet type="Ortschaft" name="Schiffdorf" arbkey="1">
+          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=38&amp;o=1&amp;oc=1&amp;ob=1#current">
+            <mandat type="transfer" from="CDU/CSU">Thomas Behra</mandat>
+            <fraktion type="unknown" />
+          <story source="http://82.198.220.84/ratsinfo/schiffdorf/401/UHVibGljX01pbnV0ZXNfRG9jdW1lbnQ=/9/n/15981.doc">Thomas Behra wurde am 11. September 2011 für CDU in den Ortsrat Schiffdorf gewählt. Im April 2012 trat zur der Piratenpartei über.</story>
+          </parlament>
+        </gebiet>
+        <gebiet type="Ortschaft" name="Sellstedt" arbkey="2">
+          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=39&amp;o=1&amp;oc=1&amp;ob=1#current">
+            <mandat type="transfer" from="CDU/CSU" multi="2">Frank Schulz</mandat>
+            <fraktion type="unknown" />
+          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
+      <parlament name="Kreistag" seats="42" ris="http://buergerinfo.friesland.de/kp0041.php">
+        <mandat type="transfer" from="FW/UWG/etc.">Janto Just</mandat>
+        <fraktion type="fremd" name="Bürger für Bürger" />
+        <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Kreistag Friesland gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
+      </parlament>
+      <gebiet type="Stadt" name="Schortens" gs="03455015">
+        <parlament name="Stadtrat" seats="34" ris="https://rat.schortens.de/buergerinfo/kp0041.php">
+          <mandat type="transfer" from="FW/UWG/etc." multi="2">Janto Just</mandat>
+          <fraktion type="fremd" name="Bürger für Bürger" />
+          <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Stadtrat Schortens gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gifhorn" gs="03151000" localpirates="http://piraten-gifhorn.de/">
       <parlament name="Kreistag" seats="55" ris="http://www.gifhorn.de/staticsite/staticsite.php?menuid=451&amp;topmenu=450">
@@ -280,6 +317,89 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
+      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
+        <mandat type="pirat">Constantin Grosch</mandat>
+        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
+          <partner partei="SPD" num="20" />
+          <partner partei="GRÜNE" num="7" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Hameln" gs="03252006">
+        <parlament name="Stadtrat" seats="43" ris="https://www.pvrat.hameln.de/">
+          <mandat type="pirat">Lars Reineke</mandat>
+          <fraktion type="gemeinsam" name="Piraten / DIE LINKE" url="http://piraten-linke-hameln.de/">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+      <gebiet type="Flecken" name="Coppenbrügge" gs="03252004">
+        <parlament name="Gemeinderat" seats="20" ris="http://www.coppenbruegge.de/gemeindeportal/gemeindevertreter.html">
+          <mandat type="pirat">Torben Friedrich</mandat>
+          <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
+            <partner partei="SPD" num="7" />
+            <partner partei="GRÜNE" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
+<!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
+      <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
+        <story>It's complicated!</story>
+      </parlament>-->
+      <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
+        <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
+          <mandat type="pirat">Arne Ludwig</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
+        <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
+          <mandat type="pirat">Maik Bröse</mandat>
+          <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
+            <partner partei="GRÜNE" num="4" />
+            <partner partei="FW/UWG/etc." num="1" />
+          </fraktion>
+        </parlament>
+        <gebiet type="Gemeinde" name="Tespe" gs="03353033">
+          <parlament name="Gemeinderat" seats="15" ris="http://gemeinde-tespe.de/gremien/gemeinderat/">
+            <mandat type="pirat" multi="2">Maik Bröse</mandat>
+            <fraktion type="gemeinsam" name="SPD/Grüne/Piraten">
+              <partner partei="SPD" num="6" />
+              <partner partei="GRÜNE" num="1" />
+            </fraktion>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
+      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
+        <mandat type="pirat">Jason Peper</mandat>
+        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+      </parlament>
+      <gebiet type="Stadt" name="Hildesheim" gs="03254021">
+        <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
+          <mandat type="pirat">Ortwin Regel</mandat>
+          <fraktion type="gemeinsam" name="SPD, Grüne, Regel">
+            <partner partei="SPD" num="14" />
+            <partner partei="GRÜNE" num="9" />
+          </fraktion>
+          <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
+      <gebiet type="Stadt" name="Lüneburg" gs="03355022">
+        <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
+          <mandat type="pirat">Torbjörn Bartels</mandat>
+          <mandat type="pirat">Daniel Brügge</mandat>
+          <fraktion type="piraten" url="http://www.heide-piraten.de/hpblog/pirathaus/stadtrat-luneburg/" />
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Northeim" gs="03155000" localpirates="http://www.piratenpartei-northeim.de/">
       <gebiet type="Stadt" name="Uslar" gs="03155012">
         <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
@@ -331,6 +451,17 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Uelzen" gs="03360000" localpirates="http://www.heide-piraten.de/">
+      <gebiet type="Stadt" name="Uelzen" gs="03360025">
+        <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
+          <mandat type="pirat">Rolf Tischer</mandat>
+          <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
+            <partner partei="FW/UWG/etc." num="2" />
+            <partner partei="Bündnis 21/RRP" num="1" />
+          </fraktion>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
       <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
         <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
@@ -356,137 +487,6 @@
           <fraktion type="none" />
           <story source="http://www.piratenpartei-wolfenbuettel.de/allgemein/cdu-ortsvorsitzender-wechselt-zu-den-piraten/">Im September 2013 wechselte Ralf Möhle von der CDU im Gemeinderat zur Piratenpartei.</story>
 	</parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
-      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <mandat type="pirat">Constantin Grosch</mandat>
-        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-          <partner partei="SPD" num="20" />
-          <partner partei="GRÜNE" num="7" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Hameln" gs="03252006">
-        <parlament name="Stadtrat" seats="43" ris="https://www.pvrat.hameln.de/">
-          <mandat type="pirat">Lars Reineke</mandat>
-          <fraktion type="gemeinsam" name="Piraten / DIE LINKE" url="http://piraten-linke-hameln.de/">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-      <gebiet type="Flecken" name="Coppenbrügge" gs="03252004">
-        <parlament name="Gemeinderat" seats="20" ris="http://www.coppenbruegge.de/gemeindeportal/gemeindevertreter.html">
-          <mandat type="pirat">Torben Friedrich</mandat>
-          <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-            <partner partei="SPD" num="7" />
-            <partner partei="GRÜNE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
-      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
-        <mandat type="pirat">Jason Peper</mandat>
-        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Hildesheim" gs="03254021">
-        <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
-          <mandat type="pirat">Ortwin Regel</mandat>
-          <fraktion type="gemeinsam" name="SPD, Grüne, Regel">
-            <partner partei="SPD" num="14" />
-            <partner partei="GRÜNE" num="9" />
-          </fraktion>
-          <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
-      <gebiet type="Gemeinde" name="Schiffdorf" gs="03352050" localpirates="http://piratenpartei-schiffdorf.de/">
-        <parlament name="Gemeinderat" seats="30" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=2&amp;o=1&amp;oc=1&amp;ob=1#current">
-          <mandat type="transfer" from="CDU/CSU">Frank Schulz</mandat>
-          <fraktion type="none" />
-          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU in den Gemeinderat Schiffdorf gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
-        </parlament>
-        <gebiet type="Ortschaft" name="Schiffdorf" arbkey="1">
-          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=38&amp;o=1&amp;oc=1&amp;ob=1#current">
-            <mandat type="transfer" from="CDU/CSU">Thomas Behra</mandat>
-            <fraktion type="unknown" />
-          <story source="http://82.198.220.84/ratsinfo/schiffdorf/401/UHVibGljX01pbnV0ZXNfRG9jdW1lbnQ=/9/n/15981.doc">Thomas Behra wurde am 11. September 2011 für CDU in den Ortsrat Schiffdorf gewählt. Im April 2012 trat zur der Piratenpartei über.</story>
-          </parlament>
-        </gebiet>
-        <gebiet type="Ortschaft" name="Sellstedt" arbkey="2">
-          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=39&amp;o=1&amp;oc=1&amp;ob=1#current">
-            <mandat type="transfer" from="CDU/CSU" multi="2">Frank Schulz</mandat>
-            <fraktion type="unknown" />
-          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
-<!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
-      <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
-        <story>It's complicated!</story>
-      </parlament>-->
-      <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
-        <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
-          <mandat type="pirat">Arne Ludwig</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
-        <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
-          <mandat type="pirat">Maik Bröse</mandat>
-          <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
-            <partner partei="GRÜNE" num="4" />
-            <partner partei="FW/UWG/etc." num="1" />
-          </fraktion>
-        </parlament>
-        <gebiet type="Gemeinde" name="Tespe" gs="03353033">
-          <parlament name="Gemeinderat" seats="15" ris="http://gemeinde-tespe.de/gremien/gemeinderat/">
-            <mandat type="pirat" multi="2">Maik Bröse</mandat>
-            <fraktion type="gemeinsam" name="SPD/Grüne/Piraten">
-              <partner partei="SPD" num="6" />
-              <partner partei="GRÜNE" num="1" />
-            </fraktion>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
-      <gebiet type="Stadt" name="Lüneburg" gs="03355022">
-        <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
-          <mandat type="pirat">Torbjörn Bartels</mandat>
-          <mandat type="pirat">Daniel Brügge</mandat>
-          <fraktion type="piraten" url="http://www.heide-piraten.de/hpblog/pirathaus/stadtrat-luneburg/" />
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Uelzen" gs="03360000" localpirates="http://www.heide-piraten.de/">
-      <gebiet type="Stadt" name="Uelzen" gs="03360025">
-        <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
-          <mandat type="pirat">Rolf Tischer</mandat>
-          <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
-            <partner partei="FW/UWG/etc." num="2" />
-            <partner partei="Bündnis 21/RRP" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
-      <parlament name="Kreistag" seats="42" ris="http://buergerinfo.friesland.de/kp0041.php">
-        <mandat type="transfer" from="FW/UWG/etc.">Janto Just</mandat>
-        <fraktion type="fremd" name="Bürger für Bürger" />
-        <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Kreistag Friesland gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
-      </parlament>
-      <gebiet type="Stadt" name="Schortens" gs="03455015">
-        <parlament name="Stadtrat" seats="34" ris="https://rat.schortens.de/buergerinfo/kp0041.php">
-          <mandat type="transfer" from="FW/UWG/etc." multi="2">Janto Just</mandat>
-          <fraktion type="fremd" name="Bürger für Bürger" />
-          <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Stadtrat Schortens gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
-        </parlament>
       </gebiet>
     </gebiet>
 <!-- Tim Weber möchte nicht offiziell als Übergetretener geführt werden.
@@ -657,20 +657,6 @@
         <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="81" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
-        <mandat type="pirat">Hendrik Seipel-Rotter</mandat>
-        <mandat type="pirat">Michael Göttenauer</mandat>
-        <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
-          <partner partei="LINKE" num="2" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
-        <parlament name="Ortsbeirat" seats="15" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
-          <mandat type="pirat">Markus Kairies</mandat>
-        </parlament>
-      </gebiet>
-    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet/gremien.do?mode=0&amp;gid=1">
         <mandat type="pirat">Jörg-Peter Bayer</mandat>
@@ -693,13 +679,19 @@
         <mandat type="pirat">Olga Eisenkolb</mandat>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
-      <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
-        <mandat type="pirat">Norbert Rücker</mandat>
-        <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
-          <partner partei="FW/UWG/etc." num="2" />
+    <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
+      <parlament name="Stadtverordnetenversammlung" seats="81" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
+        <mandat type="pirat">Hendrik Seipel-Rotter</mandat>
+        <mandat type="pirat">Michael Göttenauer</mandat>
+        <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
+          <partner partei="LINKE" num="2" />
         </fraktion>
       </parlament>
+      <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
+        <parlament name="Ortsbeirat" seats="15" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
+          <mandat type="pirat">Markus Kairies</mandat>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Bergstraße" gs="06431000" localpirates="http://www.piraten-bergstrasse.de/">
       <parlament name="Kreistag" seats="81" ris="http://bis.kreis-bergstrasse.de/kp0040.asp?__kgrnr=2&amp;">
@@ -709,21 +701,13 @@
         <story source="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
-      <parlament name="Kreistag" seats="87" ris="http://www.kreis-offenbach.de/index.phtml?mNavID=1856.545&amp;sNavID=1856.545&amp;La=1">
-        <mandat type="pirat">Christoph Hampe</mandat>
-        <mandat type="pirat">Eduard Baumann</mandat>
-        <mandat type="transfer" from="GRÜNE">Vecih Yaşaner</mandat>
-        <fraktion type="piraten" url="http://www.kreispiraten-of.de/content/fraktion-piraten-im-kreistag-offenbach-land"/>
-        <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die Grünen in den Kreistag gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und hat damit die bereits bestehende PIRATEN-Fraktion von zwei auf drei Abgeordnete vergrößert.</story>
+    <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
+      <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
+        <mandat type="pirat">Norbert Rücker</mandat>
+        <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
+          <partner partei="FW/UWG/etc." num="2" />
+        </fraktion>
       </parlament>
-      <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
-        <parlament name="Stadtverordnetenversammlung" seats="45" ris="https://dietzenbach.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=2&amp;Bezeichnung=Stadtverordnetenversammlung&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
-          <mandat type="transfer" from="GRÜNE" multi="2">Vecih Yaşaner</mandat>
-          <fraktion type="none" />
-          <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und übt sein Mandat seitdem als fraktionsloser Pirat sein Mandat aus.</story>
-        </parlament>
-      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
@@ -745,24 +729,18 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
+      <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/oponline/gremienAuswahl.do?idgremium=*0e0cEjtRZBiH0%296">
+        <mandat type="pirat">Swen Schmidt</mandat>
+        <fraktion type="none" />
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Main-Kinzig-Kreis" gs="06435000" localpirates="http://www.kinzigpiraten.de/">
       <parlament name="Kreistag" seats="87" ris="http://www.mkk.de/cms/de/politik/kreistag/kreistagsabgeordnete/kreistagsabgeordnete.html">
         <mandat type="pirat">René Waller</mandat>
         <mandat type="pirat">Sören Siegismund-Poschmann</mandat>
         <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" />
       </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
-      <parlament name="Kreistag" seats="81" ris="https://ramiris.wetteraukreis.org/context/ramiris/?op=ramirisGremiumDetails&amp;gremiumid=0MIQN68VDU">
-        <mandat type="pirat">Stephan Flindt</mandat>
-        <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
-      </parlament>
-      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
-        <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
-          <mandat type="pirat">Helge Welker</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Marburg-Biedenkopf" gs="06534000" localpirates="http://www.piratenpartei-marburg.de/">
       <parlament name="Kreistag" seats="81" ris="https://marburg-biedenkopf.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MiyHavGau9TuCPj2NgzHauCWr8Um5Ol7MfyIduGGJ">
@@ -777,11 +755,21 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/oponline/gremienAuswahl.do?idgremium=*0e0cEjtRZBiH0%296">
-        <mandat type="pirat">Swen Schmidt</mandat>
-        <fraktion type="none" />
+    <gebiet type="Landkreis" name="Landkreis Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
+      <parlament name="Kreistag" seats="87" ris="http://www.kreis-offenbach.de/index.phtml?mNavID=1856.545&amp;sNavID=1856.545&amp;La=1">
+        <mandat type="pirat">Christoph Hampe</mandat>
+        <mandat type="pirat">Eduard Baumann</mandat>
+        <mandat type="transfer" from="GRÜNE">Vecih Yaşaner</mandat>
+        <fraktion type="piraten" url="http://www.kreispiraten-of.de/content/fraktion-piraten-im-kreistag-offenbach-land"/>
+        <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die Grünen in den Kreistag gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und hat damit die bereits bestehende PIRATEN-Fraktion von zwei auf drei Abgeordnete vergrößert.</story>
       </parlament>
+      <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
+        <parlament name="Stadtverordnetenversammlung" seats="45" ris="https://dietzenbach.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=2&amp;Bezeichnung=Stadtverordnetenversammlung&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
+          <mandat type="transfer" from="GRÜNE" multi="2">Vecih Yaşaner</mandat>
+          <fraktion type="none" />
+          <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und übt sein Mandat seitdem als fraktionsloser Pirat sein Mandat aus.</story>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
       <parlament name="Kreistag" seats="71" ris="http://lk-wf.active-city.net/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
@@ -801,14 +789,40 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
+      <parlament name="Kreistag" seats="81" ris="https://ramiris.wetteraukreis.org/context/ramiris/?op=ramirisGremiumDetails&amp;gremiumid=0MIQN68VDU">
+        <mandat type="pirat">Stephan Flindt</mandat>
+        <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
+      </parlament>
+      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
+        <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
+          <mandat type="pirat">Helge Welker</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/"> <!-- Danke @piratenproll für die Daten -->
-    <gebiet type="Landkreis" name="Landkreis Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
-      <parlament name="Kreistag" seats="46" ris="https://altenkirchen.more-rubin1.de/">
-        <mandat type="pirat">Hans-Peter König</mandat>
+    <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
+      <parlament name="Stadtrat" seats="45">
+        <mandat type="pirat">Kim Julia Orth</mandat>
         <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
+      <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
+        <mandat type="pirat">Heinz Zell</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
+      <parlament name="Stadtrat" seats="61" ris="https://bi.mainz.de/infobi.php">
+        <mandat type="pirat">Alexander Dorn</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Trier" gs="07211000" localpirates="http://www.piraten-trier.de/">
@@ -816,6 +830,44 @@
         <mandat type="pirat">Dr. Darja Henseler</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
+      <parlament name="Kreistag" seats="46" ris="https://altenkirchen.more-rubin1.de/">
+        <mandat type="pirat">Hans-Peter König</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
+      <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
+        <parlament name="Stadtrat" seats="25" ris="http://buergerinfo.hassloch.de/infobi.php">
+          <mandat type="pirat">Bernhard Furch</mandat>
+          <fraktion type="fremd" name="Bürgerverein Wonnegau e.V." />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 kandidierte Bernhard Furch erfolgreich auf der Liste des Bürgervereins Wonnegau e.V., die mit 21,7% der Stimmen 5 Sitze erlangte.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
+      <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
+        <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
+          <mandat type="pirat">Ralf Berger</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Quirnheim" gs="07332042">
+        <parlament name="Gemeinderat" seats="13" ris="">
+          <mandat type="pirat">Felix Würtz</mandat>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 kandidierte Felix Würtz erfolgreich auf der Liste "Würtz", die mit 32% der Stimmen 4 Sitze erlangte.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Mainz-Bingen" gs="07339000" localpirates="http://www.piraten-rheinhessen.de/">
+      <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
+        <mandat type="pirat">Patrick Walter</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
@@ -839,58 +891,6 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
-      <parlament name="Stadtrat" seats="45">
-        <mandat type="pirat">Kim Julia Orth</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
-      <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
-        <mandat type="pirat">Heinz Zell</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
-      <parlament name="Stadtrat" seats="61" ris="https://bi.mainz.de/infobi.php">
-        <mandat type="pirat">Alexander Dorn</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Mainz-Bingen" gs="07339000" localpirates="http://www.piraten-rheinhessen.de/">
-      <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
-        <mandat type="pirat">Patrick Walter</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
-      <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
-        <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
-          <mandat type="pirat">Ralf Berger</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Quirnheim" gs="07332042">
-        <parlament name="Gemeinderat" seats="13" ris="">
-          <mandat type="pirat">Felix Würtz</mandat>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 kandidierte Felix Würtz erfolgreich auf der Liste "Würtz", die mit 32% der Stimmen 4 Sitze erlangte.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
-      <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
-        <parlament name="Stadtrat" seats="25" ris="http://buergerinfo.hassloch.de/infobi.php">
-          <mandat type="pirat">Bernhard Furch</mandat>
-          <fraktion type="fremd" name="Bürgerverein Wonnegau e.V." />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 kandidierte Bernhard Furch erfolgreich auf der Liste des Bürgervereins Wonnegau e.V., die mit 21,7% der Stimmen 5 Sitze erlangte.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
   </bundesland>
 
   <bundesland name="Baden-Württemberg" gs="08000000" localpirates="http://piratenpartei-bw.de/">
@@ -899,6 +899,13 @@
         <mandat type="pirat">Ingo Mörl</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Stadtkreis" name="Heidelberg" gs="08221000" localpirates="http://www.piraten-rhein-neckar-heidelberg.de/">
+      <parlament name="Gemeinderat" seats="49" ris="http://ww1.heidelberg.de/buergerinfo/gr0040.asp">
+        <mandat type="pirat">Alexander Schestag</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadtkreis" name="Karlsruhe" gs="08212000" localpirates="http://www.piraten-karlsruhe.de/">
@@ -910,13 +917,6 @@
           <partner partei="Die PARTEI" num="1"/>
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Stadtkreis" name="Heidelberg" gs="08221000" localpirates="http://www.piraten-rhein-neckar-heidelberg.de/">
-      <parlament name="Gemeinderat" seats="49" ris="http://ww1.heidelberg.de/buergerinfo/gr0040.asp">
-        <mandat type="pirat">Alexander Schestag</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadtkreis" name="Stuttgart" gs="08111000" localpirates="http://www.piratenpartei-stuttgart.de/">
@@ -931,6 +931,13 @@
         <mandat type="pirat">Denise Elisa Niggemeier</mandat>
         <fraktion type="none" />
         <story>Als Mitglied der Piratenpartei ist Denise Niggemeier auf der Liste „Ulm hoch 3“ gewählt worden, die mit 1,9% der Stimmen einen Sitz gewinnen konnte.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
+      <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
+        <mandat type="pirat">Markus Arnold</mandat>
+        <fraktion type="none" />
+        <story>Markus Arnold hat auf der Liste „DIE LINKE“ kandidiert und zog als einer von 3 gewählten Kandidaten in den Kreistag ein.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Esslingen" gs="08116000" localpirates="http://www.piratenpartei-esslingen.de/">
@@ -957,15 +964,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
-      <gebiet type="Stadt" name="Weikersheim" gs="08128126">
-        <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
-          <mandat type="pirat">Rainer Nase</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin 2012 rückte er als Pirat in den Gemeinderat nach. 2014 konnte er auf der PIRATEN-Liste sein Mandat verteidigen.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
       <gebiet type="Stadt" name="Bruchsal" gs="08215009">
         <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
@@ -984,6 +982,15 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
+      <gebiet type="Stadt" name="Weikersheim" gs="08128126">
+        <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
+          <mandat type="pirat">Rainer Nase</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin 2012 rückte er als Pirat in den Gemeinderat nach. 2014 konnte er auf der PIRATEN-Liste sein Mandat verteidigen.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Tübingen" gs="08416000" localpirates="http://piratenpartei-reutlingen-tuebingen.de/">
       <gebiet type="Stadt" name="Tübingen" gs="08416041">
         <parlament name="Gemeinderat" seats="41" ris="http://www.tuebingen.de/gemeinderat">
@@ -992,13 +999,6 @@
           <story>Jürgen Steinhilber war 2009 für die Unabhängige Freie Wählergemeinschaft (UFW) in den Gemeinderat gewählt worden. 2012 trat er zur Piratenpartei über und bildete mit der parteilosen Ilona Raiser eine PIRATEN-Fraktion. Bei der Gemeinderatswahl konnte Jürgen Steinhilber sein Mandat auf der PIRATEN-Liste verteidigen, die 2,4% der Stimmen gewann.</story>
         </parlament>
       </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
-      <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
-        <mandat type="pirat">Markus Arnold</mandat>
-        <fraktion type="none" />
-        <story>Markus Arnold hat auf der Liste „DIE LINKE“ kandidiert und zog als einer von 3 gewählten Kandidaten in den Kreistag ein.</story>
-      </parlament>
     </gebiet>
   </bundesland>
 
@@ -1324,6 +1324,50 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Dahme-Spreewald" gs="12061000" localpirates="http://dos.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Königs Wusterhausen" gs="12061260">
+        <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.koenigs-wusterhausen.de/534163/svv">
+          <mandat type="pirat">Ronny Friedrich</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Lieberose" gs="12061308">
+        <gebiet type="Ortsteil" name="Doberburg" arbkey="1">
+          <parlament name="Ortsbeirat" seats="3">
+            <mandat type="pirat">Jürgen Willenberg</mandat>
+            <story source="http://www.amt-lieberose-oberspreewald.de/download/amt/Wahlen2014/Lieberose2.pdf">Für die 3 Sitze im Ortsbeirat Doberburg gab es 4 Bewerber, darunter Jürgen Willenberg für die PIRATEN. Er erhielt 76 von 194 Stimmen, was einem Wahlergebnis von 39,2% entspricht.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Elsterwerda" gs="12062124">
+        <parlament name="Stadtverordnetenversammlung" seats="19" ris="http://www.elsterwerda.de/svv/">
+          <mandat type="pirat">Kerstin Schenkel</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Ketzin/Havel" gs="12063148">
+        <gebiet type="Ortsteil" name="Etzin" arbkey="1">
+          <parlament name="Ortsbeirat" seats="3" ris="https://www.ketzin.de/ratsinfo/gremium/5360/ortsbeirat_etzin.html">
+            <mandat type="pirat">Nicole Niemoth</mandat>
+            <story source="http://www.kita-ketzin.de/Wahlen/ob-et/index.html">Zu den 3 Sitzen im Ortsbeirat Etzin sind 3 Listen angetreten (CDU, PIRATEN, FREIE WÄHLER Etzin). Nicole Niemoth erhielt für die PIRATEN 69 von 437 Stimmen, was einem Wahlergebnis von 15,8% entspricht. Die anderen beiden Sitze gingen an die FREIE WÄHLER.</story>
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <!-- Gemeinsame Liste Frischer Wind/PIRATEN, aber kein Piratenpartei-Mitglied gewählt
+      <gebiet type="Stadt" name="Nauen" gs="12063208">
+        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://ris.nauen.de/instanz_1/index.htm">
+          <mandat type="pirat">Anke Bienwald</mandat>
+          <mandat type="pirat">Steffen Glagow</mandat>
+          <fraktion type="unknown" />
+        </parlament>
+      </gebiet> -->
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://ohv.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
         <mandat type="pirat">Thomas Bennühr</mandat>
@@ -1365,32 +1409,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Forst (Lausitz)" gs="12071076">
-        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www2.forst-lausitz.de/allrisbi/pa021.asp">
-          <mandat type="pirat">Thomas Friedrich</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Dahme-Spreewald" gs="12061000" localpirates="http://dos.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Königs Wusterhausen" gs="12061260">
-        <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.koenigs-wusterhausen.de/534163/svv">
-          <mandat type="pirat">Ronny Friedrich</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadt" name="Lieberose" gs="12061308">
-        <gebiet type="Ortsteil" name="Doberburg" arbkey="1">
-          <parlament name="Ortsbeirat" seats="3">
-            <mandat type="pirat">Jürgen Willenberg</mandat>
-            <story source="http://www.amt-lieberose-oberspreewald.de/download/amt/Wahlen2014/Lieberose2.pdf">Für die 3 Sitze im Ortsbeirat Doberburg gab es 4 Bewerber, darunter Jürgen Willenberg für die PIRATEN. Er erhielt 76 von 194 Stimmen, was einem Wahlergebnis von 39,2% entspricht.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Potsdam-Mittelmark" gs="12069000" localpirates="https://pm.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Teltow" gs="12069616">
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www.ratsinfo-online.de/teltow.bi/pa021.asp">
@@ -1407,23 +1425,14 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Ketzin/Havel" gs="12063148">
-        <gebiet type="Ortsteil" name="Etzin" arbkey="1">
-          <parlament name="Ortsbeirat" seats="3" ris="https://www.ketzin.de/ratsinfo/gremium/5360/ortsbeirat_etzin.html">
-            <mandat type="pirat">Nicole Niemoth</mandat>
-            <story source="http://www.kita-ketzin.de/Wahlen/ob-et/index.html">Zu den 3 Sitzen im Ortsbeirat Etzin sind 3 Listen angetreten (CDU, PIRATEN, FREIE WÄHLER Etzin). Nicole Niemoth erhielt für die PIRATEN 69 von 437 Stimmen, was einem Wahlergebnis von 15,8% entspricht. Die anderen beiden Sitze gingen an die FREIE WÄHLER.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-      <!-- Gemeinsame Liste Frischer Wind/PIRATEN, aber kein Piratenpartei-Mitglied gewählt
-      <gebiet type="Stadt" name="Nauen" gs="12063208">
-        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://ris.nauen.de/instanz_1/index.htm">
-          <mandat type="pirat">Anke Bienwald</mandat>
-          <mandat type="pirat">Steffen Glagow</mandat>
-          <fraktion type="unknown" />
+    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
+      <gebiet type="Stadt" name="Forst (Lausitz)" gs="12071076">
+        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www2.forst-lausitz.de/allrisbi/pa021.asp">
+          <mandat type="pirat">Thomas Friedrich</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet> -->
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Schwedt" gs="12073532">
@@ -1434,18 +1443,16 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Elsterwerda" gs="12062124">
-        <parlament name="Stadtverordnetenversammlung" seats="19" ris="http://www.elsterwerda.de/svv/">
-          <mandat type="pirat">Kerstin Schenkel</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
   </bundesland>
 
   <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
+      <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
+        <mandat type="pirat">Matthias Reimann</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Mecklenburgische Seenplatte" gs="13071000">
       <parlament name="Kreistag" seats="77" ris="http://web.lk-seenplatte.de/ratsinfo/seenplatte">
         <mandat type="pirat">Robert Schuldt</mandat>
@@ -1457,21 +1464,6 @@
           <mandat type="pirat">Lars Reime</mandat>
            <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
-      <gebiet type="Stadt" name="Stralsund" gs="13073088">
-        <parlament name="Bürgerschaft" seats="43" ris="http://www2.stralsund.de/sitzung/sm_sourc.nsf">
-          <mandat type="pirat">Friedrich Smyra</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
-        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
-          <mandat type="pirat">André Bonitz</mandat>
-          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten. Bei der Kommunalwahl am 25. Mai 2014 wurde er für "Eine Liste für Eixen" in beiden Ämtern bestätigt.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1504,16 +1496,31 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
-      <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
-        <mandat type="pirat">Matthias Reimann</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
-      </parlament>
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
+      <gebiet type="Stadt" name="Stralsund" gs="13073088">
+        <parlament name="Bürgerschaft" seats="43" ris="http://www2.stralsund.de/sitzung/sm_sourc.nsf">
+          <mandat type="pirat">Friedrich Smyra</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
+        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
+          <mandat type="pirat">André Bonitz</mandat>
+          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten. Bei der Kommunalwahl am 25. Mai 2014 wurde er für "Eine Liste für Eixen" in beiden Ämtern bestätigt.</story>
+        </parlament>
+      </gebiet>
     </gebiet>
   </bundesland>
 
   <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
+      <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
+        <mandat type="pirat">Toni Rotter</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000" localpirates="http://www.piraten-dresden.de/">
       <parlament name="Stadtrat" seats="71" ris="http://ratsinfo.dresden.de/infobi.php">
         <mandat type="pirat">Dr. Martin Schulte-Wissermann</mandat>
@@ -1558,25 +1565,11 @@
         </parlament>
       </gebiet> 
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
-      <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
-        <mandat type="pirat">Toni Rotter</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Leipzig" gs="14713000" localpirates="http://www.piraten-leipzig.de/">
       <parlament name="Stadtrat" seats="70" ris="http://notes.leipzig.de/eris/eris.nsf">
         <mandat type="pirat">Ute Elisabeth Gabelmann</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-   <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
-      <parlament name="Kreistag" seats="86">
-        <mandat type="pirat">Sören Skalicks</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Görlitz" gs="14626000" localpirates="http://piraten-goerlitz.de/">
@@ -1587,6 +1580,13 @@
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
+      <parlament name="Kreistag" seats="86">
+        <mandat type="pirat">Sören Skalicks</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+      </parlament>
     </gebiet>
   </bundesland>
 
@@ -1631,22 +1631,6 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Stendal" gs="15090000" localpirates="http://piraten-altmark.de/">
-      <gebiet type="Stadt" name="Stendal" gs="15090535">
-        <parlament name="Stadtrat" seats="41" ris="http://www.stendal.de/de/stadtrat.html">
-          <mandat type="pirat">Olaf Lincke</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,4% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Verbandsgemeinde" name="Arneburg-Goldbeck" gs="15090510">
-        <gebiet type="Gemeinde" name="Goldbeck" gs="15090180">
-          <parlament name="Gemeinderat" seats="13" ris="http://www.ratsinfo-online.net/arneburg-goldbeck-bi/pa020.asp?PALFDNR=22&amp;options=4">
-            <mandat type="pirat">René Schernikau</mandat>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Harz" gs="15085000" localpirates="http://piratenpartei-harz.de/">
       <gebiet type="Stadt" name="Wernigerode" gs="15085370">
         <parlament name="Stadtrat" seats="41" ris="http://www.wernigerode.de/de/ratsinformationssystem.html">
@@ -1671,9 +1655,32 @@
         </gebiet>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Stendal" gs="15090000" localpirates="http://piraten-altmark.de/">
+      <gebiet type="Stadt" name="Stendal" gs="15090535">
+        <parlament name="Stadtrat" seats="41" ris="http://www.stendal.de/de/stadtrat.html">
+          <mandat type="pirat">Olaf Lincke</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,4% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Verbandsgemeinde" name="Arneburg-Goldbeck" gs="15090510">
+        <gebiet type="Gemeinde" name="Goldbeck" gs="15090180">
+          <parlament name="Gemeinderat" seats="13" ris="http://www.ratsinfo-online.net/arneburg-goldbeck-bi/pa020.asp?PALFDNR=22&amp;options=4">
+            <mandat type="pirat">René Schernikau</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
+      <parlament name="Stadtrat" seats="37" ris="http://ratsinfo.eisenach.de/sessionnet/bi/infobi.php">
+        <mandat type="pirat">Johannes Erich Quentel</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Erfurt" gs="16051000" localpirates="http://piraten-erfurt.de/">
       <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.erfurt.de/bi/infobi.php">
         <mandat type="pirat">Peter Städter</mandat>
@@ -1706,20 +1713,6 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
-      <parlament name="Stadtrat" seats="37" ris="http://ratsinfo.eisenach.de/sessionnet/bi/infobi.php">
-        <mandat type="pirat">Johannes Erich Quentel</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Weimarer Land" gs="16071000" localpirates="http://piraten-weimar.de/">
-      <parlament name="Kreistag" seats="47" ris="http://www.weimarer-land.de/landratsamt/kreistag/beschluss.html">
-        <mandat type="pirat">Lutz Gundlach</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gotha" gs="16067000" localpirates="http://piraten-gotha.de/">
       <parlament name="Kreistag" seats="51">
         <mandat type="pirat">Bernhard Koim</mandat>
@@ -1734,6 +1727,13 @@
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 5,4% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Weimarer Land" gs="16071000" localpirates="http://piraten-weimar.de/">
+      <parlament name="Kreistag" seats="47" ris="http://www.weimarer-land.de/landratsamt/kreistag/beschluss.html">
+        <mandat type="pirat">Lutz Gundlach</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
+      </parlament>
     </gebiet>
   </bundesland>
 
