@@ -533,109 +533,327 @@
   </bundesland>
 
   <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/">
-    <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
-      <gebiet type="Stadt" name="Aachen" gs="05334002">
-        <parlament name="Stadtrat" seats="74" ris="http://ratsinfo.aachen.de/bi/pa021.asp">
-          <mandat type="pirat">Sait Başkaya</mandat>
-          <fraktion type="none" />
+    <gebiet type="Bezirk" name="Regierungsbezirk Düsseldorf" gs="05100000">
+        <gebiet type="Kreisfreie Stadt" name="Düsseldorf" gs="05111000" localpirates="https://blog.piratenpartei-nrw.de/duesseldorf/">
+          <parlament name="Stadtrat" seats="82" ris="http://www.duesseldorf.de/rathaus/rat/index.shtml">
+              <mandat type="pirat">Frank Grenda</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-      <gebiet type="Stadt" name="Eschweiler" gs="05334012">
-        <parlament name="Stadtrat" seats="50" ris="http://www.eschweiler.de/city_info/webaccessibility/index.cfm?region_id=437&amp;waid=460&amp;item_id=855866">
-          <mandat type="transfer" from="CDU/CSU">Rudi E. Lennartz</mandat>
-          <fraktion type="gemeinsam" name="Fraktion aus Piratenpartei und Unabhängigem">
-            <partner partei="Einzelbewerber" num="1" />
-          </fraktion>
-          <story source="http://www.aachener-zeitung.de/lokales/eschweiler/cdu-dissidenten-wollen-nun-als-fraktion-auftreten-1.518151">Am 30. August 2009 wurden Rudi E. Lennartz und Wolfram Stolz für die CDU in den Stadtrat von Eschweiler gewählt. Bereits 2011 trat Wolfram Stolz aus der CDU-Fraktion aus, im Januar 2013 schließlich auch Rudi E. Lennartz, der in die Piratenpartei eintrat. Die beiden gründeten im Februar 2013 die „Fraktion aus Piratenpartei und Unabhängigem“.</story>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Duisburg" gs="05112000" localpirates="http://www.piratenpartei-duisburg.de/">
+          <parlament name="Stadtrat" seats="74" ris="http://www.duisburg.de/rathaus/rathaus/gremien/index.php">
+              <mandat type="pirat">Britta Söntgerath</mandat>
+              <fraktion type="geminsam" name ="PIRATEN SOZIAL LIBERAL">
+                <partner partei="Wählervereinigung" num="2" />
+              </fraktion>
+              <story source="http://www.piratenpartei-duisburg.de/piraten-sozial-liberal-das-neue-buendnis-fuer-duisburg/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht und eine Fraktionsgemeinschaft mit den Wählervereinigungen "Bürgerlich Liberale (BL)" und "Sozial Gerecht Unabhängig (SGU)" eingegangen.</story>
         </parlament>
-      </gebiet>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Essen" gs="05113000" localpirates="https://blog.piratenpartei-nrw.de/essen/">
+          <parlament name="Stadtrat" seats="90" ris="https://ris.essen.de/index.do;jsessionid=589B72FDD79068456DE70D9D7E9FB815">
+              <mandat type="pirat">Kai Hemsteeg</mandat>
+              <mandat type="pirat">Wilfried Adamy</mandat>
+              <fraktion type="gemeinsam" name="PARTEI-PIRATEN">
+                <partner partei="Die PARTEI" num="1" />
+                <partner partei="Einzelbewerber" num="1" />
+              </fraktion>
+              <story source="http://www.die-erle.de/index.php/information-und-beitrag/erlenschlagzeilen/830-essen-bekommt-mit-den-partei-piraten-eine-neue-ratsfraktion.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht und eine Fraktionsgemeinschaft mit einem Stadtverordneten der PARTEI und einer ausgetretenen Ex-Linken eingegangen.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Krefeld" gs="05114000" localpirates="http://www.seidenstadt-piraten.de/">
+          <parlament name="Stadtrat" seats="58" ris="http://www.ratsportal.krefeld.de/">
+              <mandat type="pirat">Peter Klein</mandat>
+              <fraktion type="gemeinsam" name="Die PARTEI-Piraten">
+                <partner partei="Die PARTEI" num="1" />
+              </fraktion>
+              <story source="http://www.seidenstadt-piraten.de/2014/06/01/die-partei-und-piraten-beschliessen-gemeinsame-ratsgruppe/">Bei  der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht und eine gemeinsame Gruppe mit einem Stadtverordneten der PARTEI gegründet.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Mönchengladbach" gs="05116000" localpirates="https://wiki.piratenpartei.de/NRW:M%C3%B6nchengladbach">
+          <parlament name="Stadtrat" seats="68" ris="http://www.moenchengladbach.de/index.php?id=rat_fraktionen">
+              <mandat type="pirat">Reiner Gutowski</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Mülheim an der Ruhr" gs="05117000" localpirates="http://www.piratenpartei-muelheim.de">
+          <parlament name="Stadtrat" seats="54" ris="http://ratsinfo.muelheim-ruhr.de/buerger/allris.net.asp">
+              <mandat type="pirat">Carsten Trojahn</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Solingen" gs="05122000" localpirates="https://blog.piratenpartei-nrw.de/solingen/">
+          <parlament name="Stadtrat" seats="52" ris="http://www2.solingen.de/C12572F80037DB19/0/2692B6EF8295A46CC1257392004927E8?OpenDocument">
+              <mandat type="pirat">Gerd Paul Schlupp</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Wuppertal" gs="05124000" localpirates="https://blog.piratenpartei-nrw.de/wuppertal/">
+          <parlament name="Stadtrat" seats="52" ris="https://www.wuppertal.de/rathaus-buergerservice/verwaltung/politik/102010100000002794.php">
+              <mandat type="pirat">Oliver Graf</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Kleve" gs="05154000" localpirates="http://www.piratenpartei-kleve.de/">
+          <parlament name="Kreistag" seats="58" ris="http://www.kreis-kleve.de/C125713400487381/html/F16A0094F580851BC12576330049400D?opendocument&amp;nid1=52024">
+              <mandat type="pirat">Tim Reuter</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Mettmann" gs="05158000" localpirates="https://blog.piratenpartei-nrw.de/mettmann/">
+          <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">
+              <mandat type="pirat">Thomas Küppers</mandat>
+              <mandat type="pirat">Ria Angelika Garcia Rodrigue</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Rhein-Kreis Neuss" gs="05162000" localpirates="http://wiki.piratenpartei.de/NRW:Rhein-Kreis_Neuss">
+          <parlament name="Kreistag" seats="74" ris="http://www.rhein-kreis-neuss.de/session/bi/infobi.php">
+              <mandat type="pirat">Kirsten Eickler</mandat>
+              <mandat type="pirat">Bianca Staubitz</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Viersen" gs="05166000" localpirates="https://wiki.piratenpartei.de/NRW:Kreis_Viersen">
+          <parlament name="Kreistag" seats="58">
+              <mandat type="pirat">Emanuel Mitromaras</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Wesel" gs="05170000" localpirates="http://www.piraten-kreiswesel.de/">
+          <parlament name="Kreistag" seats="66">
+              <mandat type="pirat" multi="2">Manfred Friedrich Schramm</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000" localpirates="http://www.piraten-muenster.de/">
-      <parlament name="Stadtrat" seats="80" ris="https://www.stadt-muenster.de/sessionnet/sessionnetbi/kp0040.php?__kgrnr=258&amp;">
-        <mandat type="pirat">Pascal Powroznik</mandat>
-        <fraktion type="none" />
+    <gebiet type="Bezirk" name="Regierungsbezirk Köln" gs="05300000">
+      <parlament name="Regionalrat" seats="41">
+            <mandat type="pirat">n.n.</mandat>
+            <fraktion type="none" />
+            <story>Die Piraten haben auf Grund der Ergebnisse der Kommunalwahl am 25. Mai 2014 Anrecht auf einen Sitz. Dieser muss noch besetzt werden.</story>
       </parlament>
-    </gebiet>
-<!--Gegen Günter Kleinpenning läuft ein Parteiausschlussverfahren:
-    http://popcornpiraten.de/angedrohter-parteiausschluss-wegen-fraktionsbildung-mit-mutmaslich-rechtem-politiker-im-rat-bad-salzuflen/
-    <gebiet type="Landkreis" name="Kreis Lippe" gs="05766000">
-      <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
-        <parlament name="Stadtrat" seats="48">
-          <mandat type="transfer" from="LINKE">Günter Kleinpenning</mandat>
-          <fraktion type="none" />
+      <gebiet type="Kreisfreie Stadt" name="Bonn" gs="05314000" localpirates="https://piratenpartei-bonn.de/">
+          <parlament name="Stadtrat" seats="86" ris="http://www2.bonn.de/bo_ris/ris_sql/agm_index.asp">
+              <mandat type="pirat">Felix Werner Ludwig Kopinski</mandat>
+              <mandat type="pirat">Dr. Carsten Euwens</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>-->
-    <gebiet type="Kreisfreie Stadt" name="Oberhausen" gs="05119000" localpirates="http://piratenpartei-oberhausen.de/">
-      <gebiet type="Stadtbezirk" name="Alt-Oberhausen" arbkey="1">
-        <parlament name="Bezirksvertretung" seats="19" ris="http://allris.oberhausen.de/bi/pa021.asp">
-          <mandat type="transfer" from="GRÜNE">Albert Karschti</mandat>
-          <fraktion type="none" />
-          <story source="http://docs.google.com/viewer?a=v&amp;q=cache:soNNX6Ym1oAJ:gruene-oberhausen.de/userspace/NW/kv_oberhausen/Dokumente/Texte/Pressemitteilung_Karschti.pdf+piraten+site:gruene-oberhausen.de&amp;hl=de&amp;gl=de&amp;pid=bl&amp;srcid=ADGEESiSDdnHpAF8lYSvM_c7JEoC3CFlBkB7N0SDoBDdMyPm3nkFfwBA1epcc17QEQyN6keq6zsgb0yaW2Gw2P_4MhGpyi6fM6f_Dyiw9CZ5XUFNgtq6kzDGF4m-TGnIinXjG_H5HL03&amp;sig=AHIEtbQhjxy4Zf9ggFJdEJJHW8OOnyY3sw">Albert Karschti ist am 4. November 2009 für die Grünen in die Bezirksvertretung Alt-Oberhausen nachgerückt und wurde dort als ihr stellvertretender Vorsitzender der stellvertretende Bezirksbürgermeister. Anfang 2010 trat er bei den Grünen aus und war parteiloser Abgeordneter, bevor er im Oktober 2011 in die Piratenpartei eintrat.</story>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Köln" gs="05315000" localpirates="https://www.piratenpartei-koeln.de/">
+          <parlament name="Stadtrat" seats="90" ris="http://ratsinformation.stadt-koeln.de/infobi.asp">
+              <mandat type="pirat">Thomas Hegenbarth</mandat>
+              <mandat type="pirat">Lisa Hanna Gerlach</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Höxter" gs="05762000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_H%C3%B6xter">
-      <gebiet type="Stadt" name="Höxter" gs="05762020">
-        <parlament name="Stadtrat" seats="44" ris="https://sessionnet.krz.de/hoexter/bi//kp0041.php">
-          <mandat type="transfer" from="LINKE">Erich Lehmann</mandat>
-          <fraktion type="none" />
-          <story source="http://www.nw-news.de/lokale_news/hoexter/hoexter/6379888_Linken-Ratsherr_heuert_bei_Piraten_an.html">Erich Lehmann wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Höxter gewählt. Im März 2012 trat er aus der Partei DIE LINKE aus und in die Piratenpartei ein.</story>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Leverkusen" gs="05316000" localpirates="https://www.piratenpartei-leverkusen.de/">
+          <parlament name="Stadtrat" seats="52" ris="http://ris.leverkusen.de/bi/infobi.asp">
+              <mandat type="pirat">Dietmar Schaller</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Steinfurt" gs="05566000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Steinfurt">
-      <gebiet type="Stadt" name="Lengerich" gs="05566040">
-        <parlament name="Stadtrat" seats="32" ris="https://lengerich.ratsinfomanagement.net/personen/?__=Lg5PgvCYq9ToBUr1Le.LbuCWq8Vt6Pi2Ne0Gc0CfqBTpAOk4KfyIfuCWtAWv4Xm0Te5MayCZqAXm6Wi9Kg0GbuLeq9Sp5Ro0MkyHawLXw8Vn7Uj0KeyHayCaqHYm8Pi2KfyJcyLWsFSq5Oi0Ke-Hd.CYx8Wm6Ri4Kg5HgvCWq8SvCOj0MlyKa1IWu8Ut4SGJ">
-          <mandat type="transfer" from="FW/UWG/etc.">Sandra Grotholtmann</mandat>
-          <fraktion type="none" />
-          <story source="http://www.wn.de/Muensterland/Kreis-Steinfurt/Lengerich/2012/03/WfL-Vorsitzende-wird-Mitglied-Piratenpartei-entert-Stadtrat">Sandra Grotholtmann wurde am 30. August 2009 für die Freie Wählergemeinschaft Lengerich (WfL) in den Stadtrat Lengerich gewählt. Im März 2012 ist sie in die Piratenpartei eingetreten, bleibt aber weiterhin auch Mitglied der WfL.</story>
+        </gebiet>
+        <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
+          <parlament name="Städteregionstag" seats="72" ris="http://gremieninfo.staedteregion-aachen.de/bi/allris.net.asp">
+              <mandat type="pirat" multi="2">Udo Rüttgers</mandat>
+              <mandat type="pirat" >Bertram Eckert</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Borken">
-      <gebiet type="Stadt" name="Rhede" gs="05554048">
-        <parlament name="Stadtrat" seats="38" ris="http://www.rhede.de/Ratsmitglieder-A-Z.781.0.html">
-          <mandat type="transfer" from="CDU/CSU">Siegfried Kerkhoff</mandat>
-          <fraktion type="none" />
-          <story source="http://www.bbv-net.de/lokales/rhede_artikel,-Der-erste-Pirat-im-Rheder-Rat-_arid,108586.html">Siegfried Kerkhoff wurde am 30. August 2009 für die CDU in den Stadtrat Rhede gewählt und war deren stellvertretender Fraktionsvorsitzender. Er ist 2012 aus der CDU ausgetreten und in die Piratenpartei eingetreten, für die er nun als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
+          <gebiet type="Stadt" name="Aachen" gs="05334002">
+            <parlament name="Stadtrat" seats="76" ris="http://ratsinfo.aachen.de/bi/pa021.asp">
+              <mandat type="pirat">Marc Teuku</mandat>
+              <mandat type="pirat">Udo Pütz</mandat>
+              <mandat type="pirat">Sait Başkaya</mandat>
+              <fraktion type="piraten" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,5% der Stimmen erreicht.</story>
+            </parlament>
+          </gebiet>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
+          <parlament name="Kreistag" seats="54" ris="http://www.sdnet.kreis-dueren.de/">
+              <mandat type="pirat">Dietmar Schwindt</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Ennepe-Ruhr-Kreis" gs="05945000" localpirates="http://wiki.piratenpartei.de/NRW:Ennepe-Ruhr-Kreis">
-      <gebiet type="Stadt" name="Ennepetal" gs="05945008">
-        <parlament name="Stadtrat" seats="40" ris="http://rat.ennepetal.de/ratsinfo/ennepetal/Person.html">
-          <mandat type="transfer" from="LINKE">Wilhelm Völlmecke</mandat>
-          <fraktion type="none" />
-          <story source="http://www.lokalkompass.de/ennepetal/politik/buergersprechstunde-der-piratenpartei-d281427.html">Wilhelm Völlmecke wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Stadtrat Ennepetal gewählt. Im Januar 2012 trat er aus der Partei DIE LINKE aus und im März 2012 in die Piratenpartei ein.</story>
+        </gebiet>
+        <gebiet type="Landkreis" name="Rhein-Erft-Kreis" gs="05362000" localpirates="https://piratenpartei-rhein-erft.de/">
+          <parlament name="Kreistag" seats="76" ris="http://www2.rhein-erft-kreis.de:8080/">
+              <mandat type="pirat">Ioannis Milios</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
-      <gebiet type="Stadt" name="Unna" gs="05978036">
-      	<parlament name="Stadtrat" seats="50" ris="http://www.unna.de/ratsinfo/index.php">
-          <mandat type="transfer" from="CDU/CSU">Christian Roß</mandat>
-          <fraktion type="none" />
-          <story source="http://www.lokalkompass.de/unna/politik/erster-pirat-im-stadtrat-der-kreisstadt-unna-d375294.html/action/recommend/1/">Christian Roß wurde am 30. August 2009 für die CDU in den Stadtrat Unna gewählt. Er trat im April 2013 aus der CDU aus und wurde im November 2013 Mitglied der Piratenpartei.</story>
-      	</parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Rhein-Kreis Neuss" gs="05162000">
-      <gebiet type="Gemeinde" name="Jüchen" gs="05162012" localpirates="https://wiki.piratenpartei.de/NRW:Rhein-Kreis_Neuss/Stammtisch/Jüchen">
-        <parlament name="Gemeinderat" seats="46" ris="http://www.juechen.de/start/politik/gemeinderat/ratsmitglieder/">
-          <mandat type="transfer" from="LINKE">Heiner Lindgens</mandat>
-          <fraktion type="none" />
-          <story source="http://www.rp-online.de/niederrhein-sued/juechen/nachrichten/ratsherr-heiner-lindgens-ist-jetzt-ein-pirat-1.2154460">Heiner Lindgens wurde am 30. August 2009 als einziges Mitglied der Partei DIE LINKE in den Gemeinderat Jüchen gewählt. Noch vor der Konstituierung des Gemeinderats trat er aus der Partei DIE LINKE aus und übte sein Mandat als partei- und fraktionsloser Abgeordneter aus. Im September 2011 trat er der Piratenpartei bei.</story>
+        </gebiet>
+        <gebiet type="Landkreis" name="Oberbergischer Kreis" gs="05374000">
+          <parlament name="Kreistag" seats="58" ris="http://session.obk.de/bi/infobi.php">
+              <mandat type="pirat">Knut Schumann</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
-      <gebiet type="Gemeinde" name="Kreuzau" gs="05358028">
-        <parlament name="Gemeinderat" seats="35" ris="https://sdnetrim.kdvz-frechen.de/rim4250/personen/?__=Lg5PgvCYq9ToBUr1Le.LbuCWq8Vt6Pi2Se5HayCaqBSo9Ok9LkyIeuDWsCSn4Rk4Te.Pb.CZqAXm7Qm9Kg-GeuFXtESvCOj0MjyGawLXw9Sq4Si3Lh2Gc.CXqAVm8Or8KfyIeuDWtAWv4Qr1Qe.JayCYz9Yn4Si4Le.GbuLaqHSp4Qn0MhyKawJWu8Uv5UGJ">
-          <mandat type="transfer" from="GRÜNE">Dr. Harald Süreth</mandat>
-          <fraktion type="none" />
-          <story source="http://www.aachener-zeitung.de/lokales/dueren/mandatsrueckgabe-harald-suereth-als-fraktionsloser-pirat-im-rat-1.469662">Dr. Harald Süreth wurde am 30. August 2009 für die Grünen in den Gemeinderat Kreuzau gewählt. Im November 2012 trat er bei den Grünen aus und in die Piratenpartei ein, für die er jetzt als fraktionsloser Abgeordneter sein Mandat ausübt.</story>
+        </gebiet>
+        <gebiet type="Landkreis" name="Rhein-Sieg-Kreis" gs="05382000" localpirates="http://www.piratenpartei-rhein-sieg.de/">
+          <parlament name="Kreistag" seats="80" ris="http://www.rhein-sieg-kreis.de/cms100/buergerservice/politik/intris/">
+              <mandat type="pirat">Anja Moersch</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
         </parlament>
-      </gebiet>
+        </gebiet>
+    </gebiet>
+    <gebiet type="Bezirk" name="Regierungsbezirk Münster" gs="05500000">
+        <gebiet type="Kreisfreie Stadt" name="Bottrop" gs="05512000" localpirates="https://www.piratenpartei-bottrop.de/">
+          <parlament name="Stadtrat" seats="54" ris="http://ratsinfo.bottrop.de/buergerinfo/infobi.asp">
+              <mandat type="pirat">Gabriele Schmeer</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Gelsenkirchen" gs="05513000" localpirates="https://wiki.piratenpartei.de/NRW:Gelsenkirchen">
+          <parlament name="Stadtrat" seats="66" ris="https://ratsinfo.gelsenkirchen.de/ratsinfo/gelsenkirchen.html">
+              <mandat type="pirat">Jürgen Hansen</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000" localpirates="http://www.piratenms.de/">
+          <parlament name="Stadtrat" seats="72" ris="https://www.stadt-muenster.de/sessionnet/sessionnetbi/infobi.php">
+              <mandat type="pirat">Pascal Powroznik</mandat>
+              <mandat type="pirat">Johannes Schmanck</mandat>
+              <fraktion type="gemeinsam" name="Piraten / ÖDP">
+                <partner partei="ÖDP" num="1" />
+              </fraktion>
+              <story source="http://www.muensterschezeitung.de/staedte/muenster/48143-M%FCnster~/Nach-der-Kommunalwahl-Parteien-suchen-nach-moeglichen-Buendnissen;art993,2381210">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht. Es wurde eine gemeinsame Fraktion mit dem Abgeordneten der ÖDP gegründet.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="https://wiki.piratenpartei.de/NRW:Kreis_Borken">
+          <parlament name="Kreistag" seats="60" ris="http://www.kreis-borken.de/sessionnet/infobi.php">
+              <mandat type="pirat">Maria Strestik</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Recklinghausen" gs="05562000" localpirates="http://blog.piratenpartei-nrw.de/recklinghausen/">
+          <parlament name="Kreistag" seats="72" ris="https://kvrecklinghausen.more-rubin1.de/">
+              <mandat type="pirat">Melanie Kalkowski</mandat>
+              <mandat type="pirat">Michael Herbert Levedag</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Warendorf" gs="05570000" localpirates="http://www.piratenpartei-warendorf.de/">
+          <parlament name="Kreistag" seats="56" ris="http://www.kreis-warendorf.de/w1/sessionnet2014/bi/infobi.php">
+              <mandat type="pirat">Pia Hermans</mandat>
+              <fraktion type="none" />
+              <story source="">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+    </gebiet>
+    <gebiet type="Bezirk" name="Regierungsbezirk Detmold" gs="05700000">
+        <gebiet type="Kreisfreie Stadt" name="Bielefeld" gs="05711000" localpirates="http://www.piraten-bielefeld.de/">
+          <parlament name="Stadtrat" seats="66" ris="https://anwendungen.bielefeld.de/bi/infobi.asp">
+              <mandat type="pirat">Michael Gugat</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Minden-Lübbecke" gs="05770000" localpirates="http://piratenpartei-milk.de/">
+          <parlament name="Kreistag" seats="60" ris="https://minden-luebbecke.ratsinfomanagement.net/">
+              <mandat type="pirat">Karl-Heinz Detert</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Paderborn" gs="05774000" localpirates="">
+          <parlament name="Kreistag" seats="60" ris="https://sessionnet.krz.de/kreis_paderborn/bi/infobi.asp">
+              <mandat type="pirat">Sabine Martiny</mandat>
+              <fraktion type="gemeinsam" name="Die Linke/Piraten">
+                <partner partei="LINKE" num="2" />
+              </fraktion>
+              <story source="http://www.nw-news.de/owl/kreis_paderborn/paderborn/paderborn/11146036_CDU_und_FDP_beraten_Koalitionsvertrag.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+    </gebiet>
+    <gebiet type="Bezirk" name="Regierungsbezirk Arnsberg" gs="05900000">
+        <gebiet type="Kreisfreie Stadt" name="Bochum" gs="05911000" localpirates="http://piratenbochum.de/">
+          <parlament name="Stadtrat" seats="84" ris="https://session.bochum.de/bi/infobi.php">
+              <mandat type="pirat">Melano Sascha Gärtner</mandat>
+              <mandat type="pirat">Andre Kasper</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Dortmund" gs="05913000" localpirates="http://piratenpartei-dortmund.de/">
+          <parlament name="Stadtrat" seats="94" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;Collapse=3#3">
+              <mandat type="pirat">Christian Gebel</mandat>
+              <mandat type="pirat">Nadja Reigl</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Hagen" gs="05914000" localpirates="http://piratenhagen.de/">
+          <parlament name="Stadtrat" seats="62" ris="https://www.hagen.de/irj/portal/AllrisB">
+              <mandat type="pirat">Thorsten Kiszkenow</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Kreisfreie Stadt" name="Hamm" gs="05915000" localpirates="https://blog.piratenpartei-nrw.de/hamm/">
+          <parlament name="Stadtrat" seats="58" ris="https://www.hamm.de/rais/">
+              <mandat type="pirat">Martin Kesztyüs</mandat>
+              <fraktion type="gemeinsam" name="Pro Hamm / Piraten">
+                <partner partei="Wählergemeinschaft" num="1" />
+              </fraktion>
+              <story source="https://blog.piratenpartei-nrw.de/hamm/2014/06/02/pressemitteilung-der-waehlergruppe-pro-hamm-piraten-hamm/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+      <gebiet type="Kreisfreie Stadt" name="Herne" gs="05916000" localpirates="http://www.piraten-herne.de/">
+          <parlament name="Stadtrat" seats="60" ris="http://www.herne.de/kommunen/herne/ttw.nsf/id/DE_Ratsinformationssystem">
+              <mandat type="pirat">Andreas Prennig</mandat>
+              <mandat type="pirat">Bernd Schroeder</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Hochsauerlandkreis" gs="05958000" localpirates="https://piratenpartei-hsk.de/">
+          <parlament name="Kreistag" seats="54" ris="https://sdoffice.hochsauerlandkreis.de/">
+              <mandat type="pirat">Daniel Wagner</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Märkischer Kreis" gs="05962000" localpirates="https://blog.piratenpartei-nrw.de/mk/">
+          <parlament name="Kreistag" seats="66" ris="http://www.maerkischer-kreis.de/der-kreis/landrat-politik/politik/kreistag.php">
+              <mandat type="pirat">Stefan Hermann Handzik</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+        <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
+          <parlament name="Kreistag" seats="66" ris="https://kreistag.kreis-soest.de/ratsinfo/soestlk">
+              <mandat type="pirat">Ali Kaya</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
+      <gebiet type="Landkreis" name="Kreis Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
+          <parlament name="Kreistag" seats="70" ris="https://security.kreis-unna.de/sessionnet/bi/infobi.php">
+              <mandat type="pirat">Ralf Schaefer</mandat>
+              <mandat type="pirat">Christian Roß</mandat>
+              <fraktion type="none" />
+              <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
+        </parlament>
+        </gebiet>
     </gebiet>
   </bundesland>
 
