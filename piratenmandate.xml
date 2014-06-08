@@ -922,7 +922,11 @@
     <gebiet type="Stadtkreis" name="Stuttgart" gs="08111000" localpirates="http://www.piratenpartei-stuttgart.de/">
       <parlament name="Gemeinderat" seats="61" ris="http://www.stuttgart.de/external/show/ratsdokumente">
         <mandat type="pirat">Stefan Urbat</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="SÖS/Linke/Piraten/Studentische Liste">
+          <partner name="Stuttgart Ökologisch Sozial (SÖS)" partei="Offene/Bunte/Lokale Liste" num="3" />
+          <partner partei="LINKE" num="3" />
+          <partner name="Studentische Liste – junges Stuttgart" partei="Offene/Bunte/Lokale Liste" num="1" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
@@ -1152,7 +1156,9 @@
     <gebiet type="Landkreis" name="Landkreis Neunkirchen" gs="10043000" localpirates="https://kvspk.piratenpartei-saarland.de/">
       <parlament name="Kreistag" seats="33">
         <mandat type="pirat">Gerd Rainer Weber</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="Grüne/Piraten">
+          <partner partei="GRÜNE" num="1" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Gemeinde" name="Eppelborn" gs="10043111">
