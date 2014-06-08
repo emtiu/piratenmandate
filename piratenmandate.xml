@@ -22,7 +22,7 @@
       <parlament name="Ratsversammlung" seats="42" ris="https://w3.neumuenster.de/session/bi/kp0040.php?__kgrnr=1&amp;">
         <mandat type="pirat">Thomas Puls</mandat>
         <fraktion type="gemeinsam" name="BfB/PIRATEN">
-          <partner partei="Wählergemeinschaft" num="3"/>
+          <partner partei="FW/UWG/etc." num="3"/>
         </fraktion>
       </parlament>
     </gebiet>
@@ -223,7 +223,7 @@
       <parlament name="Stadtrat" seats="50" ris="https://ris.osnabrueck.de/bi/pa021.asp">
         <mandat type="pirat">Ralf ter Veer</mandat>
         <fraktion type="gemeinsam" name="UWG und PIRATEN" url="http://www.uwg-und-piraten.de/">
-          <partner partei="Wählergemeinschaft" num="1"/>
+          <partner partei="FW/UWG/etc." num="1"/>
         </fraktion>
       </parlament>
     </gebiet>
@@ -303,7 +303,7 @@
         <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat">Matthias Roll</mandat>
           <fraktion type="gemeinsam" name="GuB/FDP/Piraten">
-            <partner partei="Wählergemeinschaft" num="1" />
+            <partner partei="FW/UWG/etc." num="1" />
             <partner partei="FDP" num="1" />
           </fraktion>
         </parlament>
@@ -441,7 +441,7 @@
           <mandat type="pirat">Maik Bröse</mandat>
           <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
             <partner partei="GRÜNE" num="4" />
-            <partner partei="Wählergemeinschaft" num="1" />
+            <partner partei="FW/UWG/etc." num="1" />
           </fraktion>
         </parlament>
         <gebiet type="Gemeinde" name="Tespe" gs="03353033">
@@ -469,7 +469,7 @@
         <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Rolf Tischer</mandat>
           <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
-            <partner partei="Wählergemeinschaft" num="2" />
+            <partner partei="FW/UWG/etc." num="2" />
             <partner partei="Bündnis 21/RRP" num="1" />
           </fraktion>
         </parlament>
@@ -477,13 +477,13 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
       <parlament name="Kreistag" seats="42" ris="http://buergerinfo.friesland.de/kp0041.php">
-        <mandat type="transfer" from="Wählergemeinschaft">Janto Just</mandat>
+        <mandat type="transfer" from="FW/UWG/etc.">Janto Just</mandat>
         <fraktion type="fremd" name="Bürger für Bürger" />
         <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Kreistag Friesland gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
       </parlament>
       <gebiet type="Stadt" name="Schortens" gs="03455015">
         <parlament name="Stadtrat" seats="34" ris="https://rat.schortens.de/buergerinfo/kp0041.php">
-          <mandat type="transfer" from="Wählergemeinschaft" multi="2">Janto Just</mandat>
+          <mandat type="transfer" from="FW/UWG/etc." multi="2">Janto Just</mandat>
           <fraktion type="fremd" name="Bürger für Bürger" />
           <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Stadtrat Schortens gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
         </parlament>
@@ -493,13 +493,13 @@
     <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000">
       <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
         <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
-          <mandat type="transfer" from="Wählergemeinschaft">Tim Weber</mandat>
+          <mandat type="transfer" from="FW/UWG/etc.">Tim Weber</mandat>
           <fraktion type="fremd" name="Freie Grüne Bürgerliste Ottersberg" url="http://www.fgbo.de/" />
           <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 als einer von drei Abgeordneten für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Gemeinderat der Einheitsgemeinde Ottersberg gewählt und wurde ihr Fraktionsvorsitzender. Am 6. Januar 2012 ist er der Piratenpartei beigetreten, blieb aber Fraktionsvorsitzender der FGBO.</story>
         </parlament>
         <gebiet type="Ortschaft" name="Ottersberg" arbkey="1">
           <parlament name="Ortsrat" seats="7" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawHWq8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsCSnGJ">
-            <mandat type="transfer" from="Wählergemeinschaft" multi="2">Tim Weber</mandat>
+            <mandat type="transfer" from="FW/UWG/etc." multi="2">Tim Weber</mandat>
             <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 neben dem Gemeinderat Flecken Ottersberg als einziger Abgeordneter für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Ortsrat ders Ortsteils Ottersberg gewählt. Am 6. Januar 2012 ist er der Piratenpartei beigetreten.</story>
           </parlament>
         </gebiet>
@@ -586,7 +586,7 @@
     <gebiet type="Landkreis" name="Kreis Steinfurt" gs="05566000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Steinfurt">
       <gebiet type="Stadt" name="Lengerich" gs="05566040">
         <parlament name="Stadtrat" seats="32" ris="https://lengerich.ratsinfomanagement.net/personen/?__=Lg5PgvCYq9ToBUr1Le.LbuCWq8Vt6Pi2Ne0Gc0CfqBTpAOk4KfyIfuCWtAWv4Xm0Te5MayCZqAXm6Wi9Kg0GbuLeq9Sp5Ro0MkyHawLXw8Vn7Uj0KeyHayCaqHYm8Pi2KfyJcyLWsFSq5Oi0Ke-Hd.CYx8Wm6Ri4Kg5HgvCWq8SvCOj0MlyKa1IWu8Ut4SGJ">
-          <mandat type="transfer" from="Wählergemeinschaft">Sandra Grotholtmann</mandat>
+          <mandat type="transfer" from="FW/UWG/etc.">Sandra Grotholtmann</mandat>
           <fraktion type="none" />
           <story source="http://www.wn.de/Muensterland/Kreis-Steinfurt/Lengerich/2012/03/WfL-Vorsitzende-wird-Mitglied-Piratenpartei-entert-Stadtrat">Sandra Grotholtmann wurde am 30. August 2009 für die Freie Wählergemeinschaft Lengerich (WfL) in den Stadtrat Lengerich gewählt. Im März 2012 ist sie in die Piratenpartei eingetreten, bleibt aber weiterhin auch Mitglied der WfL.</story>
         </parlament>
@@ -652,7 +652,7 @@
         <mandat type="pirat">Herbert Förster</mandat>
         <mandat type="pirat">Martin Kliehm</mandat>
         <fraktion type="gemeinsam" name="ELF Piraten" url="http://www.elf-piraten.de/">
-          <partner partei="Europaliste Frankfurt" num="1" />
+          <partner partei="Offene/Bunte/Lokale Liste" num="1" />
         </fraktion>
         <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
       </parlament>
@@ -697,7 +697,7 @@
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Norbert Rücker</mandat>
         <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
-          <partner partei="Wählergemeinschaft" num="2" />
+          <partner partei="FW/UWG/etc." num="2" />
         </fraktion>
       </parlament>
     </gebiet>
@@ -906,7 +906,7 @@
         <mandat type="pirat">Uwe Lancier</mandat>
         <mandat type="pirat">Erik Wohlfeil</mandat>
         <fraktion type="gemeinsam" name="KAL/PIRATEN/Die PARTEI">
-          <partner partei="Wählergemeinschaft" num="2" />
+          <partner partei="Offene/Bunte/Lokale Liste" num="2" />
           <partner partei="Die PARTEI" num="1"/>
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
@@ -1678,7 +1678,7 @@
       <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.erfurt.de/bi/infobi.php">
         <mandat type="pirat">Peter Städter</mandat>
         <fraktion type="gemeinsam" name="FREIE WÄHLER / FDP / PIRATEN">
-          <partner partei="Wählergemeinschaft" num="2" />
+          <partner partei="FW/UWG/etc." num="2" />
           <partner partei="FDP" num="1" />
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
