@@ -289,7 +289,7 @@
       </gebiet>
       <gebiet type="Samtgemeinde" name="Papenteich" gs="031515406">
         <parlament name="Samtgemeinderat" seats="34" ris="http://www.papenteich.de/ratsinfo/list_ratsinfo.php?menuid=221&amp;topmenu=25&amp;keepmenu=inactive">
-          <mandat type="pirat" multi="2">Stefan Domke</mandat>
+          <mandat type="pirat" multi="3">Stefan Domke</mandat>
           <fraktion type="gemeinsam" name="GRÜNE/PIRATEN">
             <partner partei="GRÜNE" num="4" />
           </fraktion>
@@ -535,7 +535,7 @@
   <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Landschaftsverband" name="Landschaftsverband Rheinland" arbkey="1">
       <parlament name="Landschaftsversammlung" seats="116" ris="https://dom.lvr.de/lvis/lvr_publik.nsf/WEB1LVers?ReadForm&amp;wp=13">
-        <mandat type="pirat">Thomas Hegenbarth</mandat>
+        <mandat type="pirat" multi="2">Thomas Hegenbarth</mandat>
         <mandat type="pirat">Andreas Graaf</mandat>
         <fraktion type="none" />
         <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Die beiden „Landschaftsverbände“ in Nordrhein-Westfalen, die jeweils grob die Hälfte des Gebiets und der Bevölkerung abdecken, sind Gebietskörperschaften der kommunalen Selbstverwaltung und haben je eine „Landschaftsversammlung“ als Parlament. Diese wird nicht direkt gewählt, sondern nach den Wahlergebnisse bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Ähnlich den Bezirkstagen in Bayern sind sie hauptsächlich für die Trägerschaft der Sozial-, Behinderten- und Jugendhilfe, insbesondere für Fach- und psychiatrische Krankenhäuser sowie Förderschulen zuständig.</story>
@@ -543,7 +543,7 @@
     </gebiet>
     <gebiet type="Landschaftsverband" name="Landschaftsverband Westfalen-Lippe" arbkey="2">
       <parlament name="Landschaftsversammlung" seats="125" ris="http://www.lwl.org/bi-lwl/_lwl_do011_x.asp">
-        <mandat type="pirat">Sven Sladek</mandat>
+        <mandat type="pirat" multi="2">Sven Sladek</mandat>
         <mandat type="pirat">Christina Worm</mandat>
         <fraktion type="none" />
         <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Die beiden „Landschaftsverbände“ in Nordrhein-Westfalen, die jeweils grob die Hälfte des Gebiets und der Bevölkerung abdecken, sind Gebietskörperschaften der kommunalen Selbstverwaltung und haben je eine „Landschaftsversammlung“ als Parlament. Diese wird nicht direkt gewählt, sondern nach den Wahlergebnisse bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Ähnlich den Bezirkstagen in Bayern sind sie hauptsächlich für die Trägerschaft der Sozial-, Behinderten- und Jugendhilfe, insbesondere für Fach- und psychiatrische Krankenhäuser sowie Förderschulen zuständig.</story>
@@ -809,7 +809,7 @@
           </parlament>
           <gebiet type="Stadtbezirk" name="Aachen-Mitte" arbkey="1">
             <parlament name="Bezirksvertretung" seats="18" ris="http://ratsinfo.aachen.de/bi/au020.asp?AULFDNR=17">
-              <mandat type="pirat">Bertram Eckert</mandat>
+              <mandat type="pirat" multi="2">Bertram Eckert</mandat>
               <fraktion type="none" />
               <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,4% der Stimmen erreicht.</story>
             </parlament>
@@ -1289,7 +1289,7 @@
         </parlament>
         <gebiet type="Stadt" name="Arnsberg" gs="05958004">
           <parlament name="Stadtrat" seats="48" ris="https://ratsinfo.arnsberg.de/news">
-            <mandat type="pirat">Daniel Wagner</mandat>
+            <mandat type="pirat" multi="2">Daniel Wagner</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
           </parlament>
@@ -1844,7 +1844,7 @@
         </parlament>
         <gebiet type="Stadtbezirk" name="Bezirk Mitte" arbkey="1">
           <parlament name="Bezirksrat" seats="21">
-            <mandat type="pirat">Markus Hansen</mandat>
+            <mandat type="pirat" multi="2">Markus Hansen</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 5,1% der Stimmen erreicht.</story>
           </parlament>
