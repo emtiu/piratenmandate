@@ -1738,13 +1738,13 @@
         <story source="http://de.wikipedia.org/wiki/Bezirkstag_%28Bayern%29">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen.</story>
       </parlament>
       <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="https://muenchen.piratenpartei-bayern.de/">
-          <parlament name="Stadtrat" seats="81" ris="http://www.ris-muenchen.de/RII2/RII/ris_mitglieder_trefferliste.jsp?nav=1">
-            <mandat type="pirat">Thomas Ranft</mandat>
-            <fraktion type="gemeinsam">
-              <partner partei="FDP" num="3" />
-              <partner name="Wählergruppe HUT" partei="Offene/Bunte/Lokal" num="1" />
-            </fraktion>
-          </parlament>
+        <parlament name="Stadtrat" seats="81" ris="http://www.ris-muenchen.de/RII2/RII/ris_mitglieder_trefferliste.jsp?nav=1">
+          <mandat type="pirat">Thomas Ranft</mandat>
+          <fraktion type="gemeinsam" name="Freiheitsrechte Transparenz Bürgerbeteiligung">
+            <partner partei="FDP" num="3" />
+            <partner name="Wählergruppe HUT" partei="Offene/Bunte/Lokal" num="1" />
+          </fraktion>
+        </parlament>
       </gebiet>
       <gebiet type="Landkreis" name="Landkreis Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
         <gebiet type="Stadt" name="Erding" gs="09177117">
@@ -1759,7 +1759,8 @@
         <gebiet type="Stadt" name="Fürstenfeldbruck" gs="09179121">
           <parlament name="Stadtrat" seats="41" ris="http://www.ffbinfo.de/">
             <mandat type="pirat">Andreas Ströhle</mandat>
-            <fraktion type="unknown" />
+            <fraktion type="none" />
+            <story>Andreas Ströhle hat im Rat eine Ausschussgemeinschaft mit FDP und ÖDP</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -1767,7 +1768,8 @@
         <gebiet type="Gemeinde" name="Gauting" gs="09188120">
           <parlament name="Gemeinderat" seats="25" ris="http://www.gauting.de/index.php?id=877">
             <mandat type="pirat">Tobias Mc Fadden</mandat>
-            <fraktion type="unknown" />
+            <fraktion type="none" />
+            <story source="http://starnberg.ppby.de/gemeinderat-aktuell-einzelkaempfer-im-vierebuendnis/">Ausschussgemeinschaft mit ÖDP, UBG und Einzelbewerber</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -1797,10 +1799,11 @@
         <fraktion type="none" />
         <story source="http://de.wikipedia.org/wiki/Bezirkstag_%28Bayern%29">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen.</story>
       </parlament>
-      <gebiet type="Kreisfreie Stadt" name="Nürnberg" gs="09564000">
+      <gebiet type="Kreisfreie Stadt" name="Nürnberg" gs="09564000" localpirates="http://piraten-nbg.de/">
         <parlament name="Stadtrat" seats="71" ris="http://online-service2.nuernberg.de/eris09/calendar.do">
           <mandat type="pirat">Michael Bengl</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
+          <story source="">Ausschussgemeinschaft mit Freien Wählern, FDP, ÖDP und den "Guten".</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1817,16 +1820,18 @@
       <gebiet type="Landkreis" name="Landkreis Main-Spessart" gs="09677000">
         <parlament name="Kreistag" seats="60" ris="http://www.main-spessart.de/LandkreisOnline/Kreisorgane/Kreistag.aspx">
           <mandat type="pirat">Jürgen Neuwirth</mandat>
-            <fraktion type="unknown" />
-            <story>Jürgen Neuwirth wurde auf der gemeinsamen Liste „Die Sonstigen“ von ÖDP, PIRATEN und LINKE gewählt, die 2,3% erlangte.</story>
+          <fraktion type="unknown" />
+          <story>Jürgen Neuwirth wurde auf der gemeinsamen Liste „Die Sonstigen“ von ÖDP, PIRATEN und LINKE gewählt, die 2,3% erlangte.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Schwaben" gs="09700000" localpirates="http://www.piraten-schwaben.de/">
       <parlament name="Bezirkstag" seats="27" ris="https://www.bezirk-schwaben.de/bezirk/bezirkstag/bezirkstag/">
         <mandat type="pirat">Fritz Effenberger</mandat>
-        <fraktion type="unknown" />
-        <story source="http://de.wikipedia.org/wiki/Bezirkstag_%28Bayern%29">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen.</story>
+        <fraktion type="gemeinsam">
+          <partner partei="LINKE" num="1" />
+        </fraktion>
+        <story source="https://piraten-augsburg.de/aktuelles/2013-19/piraten-und-linke-im-bezirkstag-schwaben-stimmen-gegen-haushalt-2014/">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen. Im Bezirkstag Schwaben bilden die zwei Abgeordneten von PIRATEN und LINKE eine Fraktionsgemeinschaft.</story>
       </parlament>
     </gebiet>
   </bundesland>
