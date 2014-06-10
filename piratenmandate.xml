@@ -1803,7 +1803,7 @@
         <parlament name="Stadtrat" seats="71" ris="http://online-service2.nuernberg.de/eris09/calendar.do">
           <mandat type="pirat">Michael Bengl</mandat>
           <fraktion type="none" />
-          <story source="">Ausschussgemeinschaft mit Freien Wählern, FDP, ÖDP und den "Guten".</story>
+          <story source="http://www.die-guten.de/presse/20140429_NN.jpg">Ausschussgemeinschaft mit Freien Wählern, FDP, ÖDP und den "Guten".</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1820,7 +1820,7 @@
       <gebiet type="Landkreis" name="Landkreis Main-Spessart" gs="09677000">
         <parlament name="Kreistag" seats="60" ris="http://www.main-spessart.de/LandkreisOnline/Kreisorgane/Kreistag.aspx">
           <mandat type="pirat">Jürgen Neuwirth</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
           <story>Jürgen Neuwirth wurde auf der gemeinsamen Liste „Die Sonstigen“ von ÖDP, PIRATEN und LINKE gewählt, die 2,3% erlangte.</story>
         </parlament>
       </gebiet>
