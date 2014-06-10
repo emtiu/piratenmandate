@@ -214,13 +214,7 @@
         <mandat type="pirat">Svante Evenburg</mandat>
         <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" />
       </parlament>
-      <gebiet type="Ortschaft" name="Stadtmitte" arbkey="1">
-        <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Stadtmitte">
-          <mandat type="pirat">Helmuth Goldenstein</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="2">
+      <gebiet type="Ortschaft" name="Vorsfelde" arbkey="1">
         <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
           <mandat type="pirat" multi="2">Svante Evenburg</mandat>
           <fraktion type="none" />
@@ -512,8 +506,8 @@
       <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
         <mandat type="pirat">Alexander Niedermeier</mandat>
         <fraktion type="none" />
+        <story source="http://de.wikipedia.org/wiki/Bremerhaven#Stadtverordnetenversammlung">Nach der Wahl am 22. Mai 2011 bildeten die Piraten zunächst mit zwei Abgeordneten der Linken einem und der RRP die Fraktion „RePiLi“. Im November 2012 traten die beiden Stadtverordneten der Linken zur RRP (inzwischen „Bündnis 21/RRP“) über, woraufhin die Fraktion in „B21-Piraten“ umbenannt wurde. Im März 2013 trat eine Abgeordnete aus dem Bündnis 21/RRP aus und der Wählervereinigung BIW bei, sodass die Fraktion aufgelöst werden musste. Die B21-Piraten arbeiten als Gruppe fraktionsloser Abgeordneter weiter.</story>
       </parlament>
-      <story source="http://de.wikipedia.org/wiki/Bremerhaven#Stadtverordnetenversammlung">Nach der Wahl am 22. Mai 2011 bildeten die Piraten zunächst mit zwei Abgeordneten der Linken einem und der RRP die Fraktion „RePiLi“. Im November 2012 traten die beiden Stadtverordneten der Linken zur RRP (inzwischen „Bündnis 21/RRP“) über, woraufhin die Fraktion in „B21-Piraten“ umbenannt wurde. Im März 2013 trat eine Abgeordnete aus dem Bündnis 21/RRP aus und der Wählervereinigung BIW bei, sodass die Fraktion aufgelöst werden musste. Die B21-Piraten arbeiten als Gruppe fraktionsloser Abgeordneter weiter.</story>
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
       <gebiet type="Stadtteil" name="Mitte" localkey="11">
@@ -628,7 +622,7 @@
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
         </parlament>
-        <gebiet type="Stadtbezirk" name="Bonn" localkey="Ost">
+        <gebiet type="Stadtbezirk" name="Ost" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://ratsinfo.moenchengladbach.de/ratsinfo/moenchengladbach/Committee.html?orgid=115&amp;o=1&amp;oc=1&amp;ob=1#current">
             <mandat type="pirat">Doris Kroll-Hartge</mandat>
             <fraktion type="none" />
@@ -1236,14 +1230,14 @@
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Wanne" arbkey="1"><parlament name="Bezirksvertretung" seats="17" ris="http://herne.ratsportal.net/bi2/au020.asp?AULFDNR=16&amp;options=4&amp;altoption=Ausschuss">
-            <mandat type="pirat">Michael James Eilebrecht</mandat>
+            <mandat type="pirat">Günter Nierstenhöfer</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Eickel" arbkey="1">
           <parlament name="Bezirksvertretung" seats="17" ris="http://herne.ratsportal.net/bi2/au020.asp?AULFDNR=15&amp;options=4&amp;altoption=Ausschuss">
-            <mandat type="pirat">Günter Nierstenhöfer</mandat>
+            <mandat type="pirat">Michael James Eilebrecht</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
           </parlament>
