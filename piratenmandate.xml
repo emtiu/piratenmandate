@@ -620,7 +620,7 @@
         <parlament name="Stadtrat" seats="68" ris="http://www.moenchengladbach.de/index.php?id=rat_fraktionen">
           <mandat type="pirat">Reiner Gutowski</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht. Es besteht eine Gruppe namens „Die-Piraten-PARTEI“ mit der PARTEI.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Ost" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://ratsinfo.moenchengladbach.de/ratsinfo/moenchengladbach/Committee.html?orgid=115&amp;o=1&amp;oc=1&amp;ob=1#current">
@@ -667,7 +667,9 @@
         <gebiet type="Stadt" name="Geldern" gs="05154012">
           <parlament name="Stadtrat" seats="40" ris="http://www.ratsinfoserver.de/ratsinfo/geldern">
             <mandat type="pirat">Markus Peukes</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="DIE LINKE/PIRATEN">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -944,7 +946,7 @@
         <parlament name="Kreistag" seats="80" ris="http://www.rhein-sieg-kreis.de/cms100/buergerservice/politik/intris/">
           <mandat type="pirat">Anja Moersch</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Es besteht eine Gruppe mit den Freien Wählern.</story>
         </parlament>
         <gebiet type="Stadt" name="Troisdorf" gs="05382068" localpirates="http://www.piratenpartei-troisdorf.de/">
           <parlament name="Stadtrat" seats="52" ris="https://agendaservice.net/ratsinfo/troisdorf">
@@ -1007,7 +1009,7 @@
         <parlament name="Kreistag" seats="60" ris="http://www.kreis-borken.de/sessionnet/infobi.php">
           <mandat type="pirat">Maria Strestik</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht. Es besteht eine gemeinsame Gruppe mit der Linken.</story>
         </parlament>
         <gebiet type="Stadt" name="Gronau (Westfalen)" gs="05554020" localpirates="http://www.piraten-gronau.de/">
           <parlament name="Stadtrat" seats="40" ris="http://www.gronau.de/index.phtml?mNavID=1486.38&amp;sNavID=1486.303&amp;La=1">
