@@ -1092,7 +1092,9 @@
         <gebiet type="Stadt" name="Lemgo" gs="05766044">
           <parlament name="Stadtrat" seats="40" ris="https://lemgo.ratsinfomanagement.net/">
             <mandat type="pirat">Christian Woelk</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Gemeinsam für Lemgo – Die Linke und Piraten" url="http://gemeinsamfuerlemgo.wordpress.com/">
+              <partner partei="LINKE" num="2" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1131,7 +1133,7 @@
     <gebiet type="Bezirk" name="Regierungsbezirk Arnsberg" gs="05900000">
       <gebiet type="Kreisfreie Stadt" name="Bochum" gs="05911000" localpirates="http://piratenbochum.de/">
         <parlament name="Stadtrat" seats="84" ris="https://session.bochum.de/bi/infobi.php">
-          <mandat type="pirat">Melano Sascha Gärtner</mandat>
+          <mandat type="pirat">Stephanie Kotalla</mandat>
           <mandat type="pirat">Andre Kasper</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
@@ -1364,8 +1366,9 @@
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="https://darmstadt.more-rubin1.de/index.php">
         <mandat type="pirat">Claudia Stricker</mandat>
-        <mandat type="pirat">Markus Drenger</mandat>
+        <mandat type="pirat">Roland Cuny</mandat>
         <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" />
+        <story>Im „Magistrat“, dem ausführenden und überwiegend ehrenamtlich besetzten Verwaltungsvorstand der Stadt Darmstadt, sitzt der Pirat Markus Drenger in der Funktion eines „Stadtrats“.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
@@ -1424,7 +1427,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
-        <mandat type="pirat">Norbert Rücker</mandat>
+        <mandat type="pirat">Markus Brechtel</mandat>
         <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/">
           <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="2" />
         </fraktion>
@@ -2185,7 +2188,9 @@
     <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
       <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
         <mandat type="pirat">Matthias Reimann</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="BÜNDNIS 90/Die GRÜNEN / Piraten">
+          <partner partei="GRÜNE" num="3" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
@@ -2218,16 +2223,20 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
-        <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
-          <mandat type="pirat">Martin Banduch</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
-        </parlament>
+      <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
+        <mandat type="pirat">Martin Banduch</mandat>
+        <fraktion type="gemeinsam" name="Kom­pe­tenz für Vorpommern/PIRATEN">
+          <partner name="Kom­pe­tenz für Vorpommern" partei="FW/UWG/etc." num="7" />
+        </fraktion>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
+      </parlament>
       <gebiet type="Stadt" name="Greifswald" gs="13075039">
         <parlament name="Bürgerschaft" seats="43" ris="http://www.greifswald.de/politik/buergerschaft/ratsinformationssystem.html">
           <mandat type="pirat">Milos Rodatos</mandat>
           <mandat type="pirat">Petra Dörwald</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Kom­pe­tenz für Vorpommern/PIRATEN">
+            <partner name="Kom­pe­tenz für Vorpommern" partei="FW/UWG/etc." num="3" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
