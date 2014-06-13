@@ -1031,8 +1031,10 @@
         <gebiet type="Stadt" name="Gladbeck" gs="05562014" localpirates="http://piratengladbeck.de/">
           <parlament name="Stadtrat" seats="46" ris="https://gladbeck.more-rubin1.de/">
             <mandat type="pirat">Thomas Weijers</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
+            <fraktion type="gemeinsam" name="Demokratische Soziale Liberale (DSL)">
+              <partner partei="FDP" num="1" />
+            </fraktion>
+            <story source="http://waz.m.derwesten.de/dw/staedte/gladbeck/fdp-und-piraten-wollen-in-gladbeck-eine-fraktion-dsl-bilden-id9465207.html?service=mobile">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Marl" gs="05562024" localpirates="http://blog.piratenpartei-nrw.de/marl">
