@@ -959,7 +959,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Bornheim" gs="05382012" localpirates="http://www.piratenpartei-bornheim.de/">
           <parlament name="Stadtrat" seats="52" ris="http://session.stadt-bornheim.de/bi/infobi.php">
-            <mandat type="pirat" fremdliste="Aktive Bürger Bornheim" from="FW/UWG/etc.">Jürgen Weiler</mandat>
+            <mandat type="fremdliste" name="Aktive Bürger Bornheim" from="FW/UWG/etc.">Jürgen Weiler</mandat>
             <fraktion type="fremd" name="Aktive Bürger Bornheim" />
             <story source="http://www.aktivebuergerbornheim.de/2014/05/abb-zieht-in-den-bornheimer-stadtrat-ein/">Pirat Jürgen Weiler kandidierte erfolgreich auf der Liste „Aktive Bürger Bornheim“ und ist jetzt Teil einer zweiköpfigen Fraktion.</story>
           </parlament>
@@ -1568,7 +1568,7 @@
     <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
       <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
         <parlament name="Stadtrat" seats="25" ris="http://www.osthofen.de/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=78">
-          <mandat type="pirat" fremdliste="Bürgerverein Wonnegau e.V." from="FW/UWG/etc.">Bernhard Furch</mandat>
+          <mandat type="fremdliste" name="Bürgerverein Wonnegau e.V." from="FW/UWG/etc.">Bernhard Furch</mandat>
           <fraktion type="fremd" name="Bürgerverein Wonnegau e.V." />
         </parlament>
       </gebiet>
@@ -1583,7 +1583,7 @@
       </gebiet>
       <gebiet type="Gemeinde" name="Quirnheim" gs="07332042">
         <parlament name="Gemeinderat" seats="13" ris="">
-          <mandat type="pirat" fremdliste="Würtz" from="Offene/Bunte/Lokal">Felix Würtz</mandat>
+          <mandat type="fremdliste" name="Würtz" from="Offene/Bunte/Lokal">Felix Würtz</mandat>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1656,13 +1656,13 @@
     </gebiet>
     <gebiet type="Stadtkreis" name="Ulm" gs="08421000" localpirates="http://www.piraten-ulm.de/">
       <parlament name="Gemeinderat" seats="41" ris="http://buergerinfo.ulm.de/infobi.php">
-        <mandat type="pirat" fremdliste="Ulm hoch 3" from="Offene/Bunte/Lokal">Denise Niggemeier</mandat>
+        <mandat type="fremdliste" name="Ulm hoch 3" from="Offene/Bunte/Lokal">Denise Niggemeier</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
       <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
-        <mandat type="pirat" fremdliste="DIE LINKE" from="LINKE">Markus Arnold</mandat>
+        <mandat type="fremdliste" from="LINKE">Markus Arnold</mandat>
         <fraktion type="gemeinsam" name="LINKE/Piraten">
           <partner partei="LINKE" num="2" />
         </fraktion>
@@ -1696,7 +1696,7 @@
     <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
       <gebiet type="Stadt" name="Bruchsal" gs="08215009">
         <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
-          <mandat type="pirat" fremdliste="Grüne/Neue Köpfe" from="GRÜNE">Hartmut Schönherr</mandat>
+          <mandat type="fremdliste" name="Grüne/Neue Köpfe" from="GRÜNE">Hartmut Schönherr</mandat>
           <fraktion type="fremd" name="Die Grünen/Neue Köpfe" />
           <story>Bei der Kommunalwahl 2009 wurde Hartmut Schönherr für die Wählervereinigung „Neue Köpfe“ über die Liste „Grüne/Neue Köpfe“ in den Gemeinderat der Stadt Bruchsal gewählt. Noch im selben Jahr trat er der Piratenpartei bei, blieb aber in der Fraktion „Die Grünen/Neue Köpfe“. 2014 wurde er auf der gleichen Liste wiedergewählt und übt sein Mandat seitdem aus wie zuvor.</story>
         </parlament>
@@ -1705,7 +1705,7 @@
     <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
       <gebiet type="Stadt" name="Konstanz" gs="08335043">
         <parlament name="Gemeinderat" seats="40" ris="http://www.konstanz.sitzung-online.de/bi/allris.net.asp">
-          <mandat type="pirat" fremdliste="Junges Forum Konstanz" from="Offene/Bunte/Lokal">Thomas Buck</mandat>
+          <mandat type="fremdliste" name="Junges Forum Konstanz" from="Offene/Bunte/Lokal">Thomas Buck</mandat>
           <fraktion type="fremd" name="Junges Forum Konstanz" />
         </parlament>
       </gebiet>
@@ -1788,7 +1788,7 @@
       <gebiet type="Landkreis" name="Landkreis Lichtenfels" gs="09478000">
         <gebiet type="Stadt" name="Burgkunstadt" gs="09478116">
           <parlament name="Stadtrat" seats="21" ris="http://www.burgkunstadt.de/2267_DEU_WWW.php">
-            <mandat type="pirat" fremdliste="Bürgerverein Burgkunstadt" from="FW/UWG/etc.">Marcus Dinglreiter</mandat>
+            <mandat type="fremdliste" name="Bürgerverein Burgkunstadt" from="FW/UWG/etc.">Marcus Dinglreiter</mandat>
             <fraktion type="fremd" name="Bürgerverein Burgkunstadt" />
           </parlament>
         </gebiet>
@@ -1812,7 +1812,7 @@
       <gebiet type="Landkreis" name="Landkreis Bad Kissingen" gs="09672000">
         <gebiet type="Stadt" name="Bad Brückenau" gs="09672113">
           <parlament name="Stadtrat" seats="21" ris="http://www.bad-brueckenau.de/de/index.cfm?fuseaction=rathaus&amp;rubrik=ratsmitglieder">
-            <mandat type="pirat" fremdliste="SPD" from="SPD">Benjamin Wildenauer</mandat>
+            <mandat type="fremdliste" from="SPD">Benjamin Wildenauer</mandat>
             <fraktion type="fremd" name="SPD" />
             <story>Benjamin Wildenauer wurde auf der Liste der SPD gewählt, die 8,2% erlangte.</story>
           </parlament>
@@ -2179,7 +2179,7 @@
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Schwedt" gs="12073532">
         <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.schwedt.eu/sixcms/detail.php/72193">
-          <mandat type="pirat" fremdliste="Bunte Liste" from="Offene/Bunte/Lokal">Nadine Heckendorn</mandat>
+          <mandat type="fremdliste" name="Bunte Liste" from="Offene/Bunte/Lokal">Nadine Heckendorn</mandat>
           <fraktion type="none" />
         </parlament>
       </gebiet>
@@ -2253,7 +2253,7 @@
       </gebiet>
       <gebiet type="Gemeinde" name="Eixen" gs="13073022">
         <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
-          <mandat type="pirat" fremdliste="Eine Liste für Eixen" from="FW/UWG/etc.">André Bonitz</mandat>
+          <mandat type="fremdliste" name="Eine Liste für Eixen" from="FW/UWG/etc.">André Bonitz</mandat>
           <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten. Bei der Kommunalwahl am 25. Mai 2014 wurde er für „Eine Liste für Eixen“ in beiden Ämtern bestätigt.</story>
         </parlament>
       </gebiet>
@@ -2390,12 +2390,12 @@
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
       <gebiet type="Gemeinde" name="Möser" gs="15086145">
         <parlament name="Gemeinderat" seats="21" ris="https://www.gemeinde-moeser.de/sessionnet/bi/infobi.php">
-          <mandat type="pirat" fremdliste="„Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal">Michel Vorsprach</mandat>
+          <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal">Michel Vorsprach</mandat>
           <fraktion type="none" />
         </parlament>
         <gebiet type="Ortsteil" name="Lostau" arbkey="1">
           <parlament name="Ortschaftsrat" seats="13" ris="https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/lostau/ortsbuergermeister/">
-            <mandat type="pirat" multi="2" fremdliste="„Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal">Michel Vorsprach</mandat>
+            <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal" multi="2">Michel Vorsprach</mandat>
             <story>Michael Vorsprach ist Mitglied der Piratenpartei und wurde zusammen mit einer weiteren Kandidatin auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Ortschaftsrat Lostau gewählt. Die Liste erzielte 22,2% der Stimmen.</story>
           </parlament>
         </gebiet>

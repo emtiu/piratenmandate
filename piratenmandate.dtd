@@ -19,10 +19,10 @@
 <!ATTLIST parlament ris CDATA #IMPLIED >
 
 <!ELEMENT mandat (#PCDATA) >
-<!ATTLIST mandat multi CDATA #IMPLIED >
-<!ATTLIST mandat type (pirat | transfer) #REQUIRED >
+<!ATTLIST mandat type (pirat | transfer | fremdliste) #REQUIRED >
+<!ATTLIST mandat name CDATA #IMPLIED >
 <!ATTLIST mandat from CDATA #IMPLIED >
-<!ATTLIST mandat fremdliste CDATA #IMPLIED >
+<!ATTLIST mandat multi CDATA #IMPLIED >
 
 <!ELEMENT fraktion (partner*) >
 <!ATTLIST fraktion type (piraten | gemeinsam | fremd | none | unknown) #REQUIRED >
