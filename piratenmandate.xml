@@ -19,7 +19,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
-      <parlament name="Ratsversammlung" seats="42" ris="https://w3.neumuenster.de/session/bi/kp0040.php?__kgrnr=1&amp;">
+      <parlament name="Ratsversammlung" seats="42" ris="https://w2.neumuenster.de/session/bi/infobi.php">
         <mandat type="pirat">Thomas Puls</mandat>
         <fraktion type="gemeinsam" name="BfB/PIRATEN">
           <partner name="Bündnis für Bürger" partei="FW/UWG/etc." num="3"/>
@@ -27,7 +27,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
-      <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/index.phtml?mNavID=164.800&amp;sNavID=647.48&amp;La=1">
+      <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/Informationen-beschaffen/Politik/Kreistag">
         <mandat type="pirat">Axel Sieck</mandat>
         <fraktion type="none" />
       </parlament>
@@ -165,7 +165,7 @@
       </gebiet>
       <gebiet type="Stadt" name="Neustadt am Rübenberge" gs="03241012">
         <gebiet type="Ortsteil" name="Mandelsloh" arbkey="1">
-          <parlament name="Ortsrat" seats="11" ris="https://agendaservice.net/ratsinfo/neustadtamrbge/Committee.html?orgid=16&amp;o=1&amp;oc=0&amp;ob=1#current">
+          <parlament name="Ortsrat" seats="11" ris="https://sessionnet.krz.de/neustadt/bi/kp0040.asp?__kgrnr=16&amp;">
             <mandat type="pirat">Friedrich Bohm</mandat>
             <fraktion type="none" />
           </parlament>
@@ -440,7 +440,6 @@
         <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
           <parlament name="Ortsrat" seats="5" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=15&amp;o=1&amp;oc=0&amp;ob=1#current">
             <mandat type="pirat">Stefan Grigat</mandat>
-            <fraktion type="unknown" />
           </parlament>
         </gebiet>
       </gebiet>
@@ -1110,7 +1109,10 @@
         <gebiet type="Stadt" name="Minden" gs="05770024">
           <parlament name="Stadtrat" seats="60" ris="https://minden.ratsinfomanagement.net/">
             <mandat type="pirat">Sven Brandhorst</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Liberale Fraktion">
+              <partner partei="FDP" num="2" />
+              <partner name="Bürger-Bündnis Minden e.V." partei="FW/UWG/etc." num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1250,6 +1252,12 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Ennepe-Ruhr-Kreis" gs="05954000" localpirates="https://blog.piratenpartei-nrw.de/enneperuhr/">
+        <parlament name="Kreistag" seats="66" ris="https://sessionnet.krz.de/en-kreis/bi/infobi.asp">
+          <mandat type="pirat">Chris Demmer</mandat>
+          <mandat type="pirat">Jörg Müller</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 (inkl. Nachwahlen in zwei Wahlkreisen am 15.6.) wurden 2,3% der Stimmen erreicht.</story>
+        </parlament>
         <gebiet type="Stadt" name="Ennepetal" gs="05954008">
           <parlament name="Stadtrat" seats="42" ris="http://rat.ennepetal.de/ratsinfo/ennepetal">
             <mandat type="pirat">Wilhelm Völlmecke</mandat>
@@ -1384,7 +1392,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet/gremien.do?mode=0&amp;gid=1">
+      <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet4/gremien/?__=LfyIfvCWq8SpBQj0MiyHavGau9TuCPj2NgzHauCWr8Um5Ol7MfyIduGGJ/">
         <mandat type="pirat">Jörg-Peter Bayer</mandat>
         <fraktion type="none" />
         <story>Die beiden in die Stadtverordnetenversammlung gewählten Piraten bildeten zunächst eine Fraktion mit mit einem parteilosen Stadtverordneten (ehemals SPD) als Fraktionschef. Diese wurde im März 2013 aufgelöst. Im Mai 2013 trat schließlich einer der beiden PIRATEN-Abgeordneten aus der Partei aus.</story>
@@ -1437,7 +1445,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
-        <mandat type="pirat">Matthias Tampe-Haverkock </mandat>
+        <mandat type="pirat">Christian Klein</mandat>
         <mandat type="pirat">Isabel Martin</mandat>
         <fraktion type="none" />
       </parlament>
@@ -1456,14 +1464,14 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/oponline/gremienAuswahl.do?idgremium=*0e0cEjtRZBiH0%296">
+      <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/">
         <mandat type="pirat">Swen Schmidt</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Main-Kinzig-Kreis" gs="06435000" localpirates="http://www.kinzigpiraten.de/">
       <parlament name="Kreistag" seats="87" ris="http://www.mkk.de/cms/de/politik/kreistag/kreistagsabgeordnete/kreistagsabgeordnete.html">
-        <mandat type="pirat">René Waller</mandat>
+        <mandat type="pirat">Birgit Simon</mandat>
         <mandat type="pirat">Sören Siegismund-Poschmann</mandat>
         <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" />
       </parlament>
@@ -1492,8 +1500,8 @@
       <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
         <parlament name="Stadtverordnetenversammlung" seats="45" ris="https://dietzenbach.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=2&amp;Bezeichnung=Stadtverordnetenversammlung&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="transfer" from="GRÜNE" multi="2">Vecih Yaşaner</mandat>
-          <fraktion type="none" />
-          <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und übt sein Mandat seitdem als fraktionsloser Pirat sein Mandat aus.</story>
+          <fraktion type="fremd" name="DIE LINKE" />
+          <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten.</story>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1657,7 +1665,7 @@
     <gebiet type="Stadtkreis" name="Ulm" gs="08421000" localpirates="http://www.piraten-ulm.de/">
       <parlament name="Gemeinderat" seats="41" ris="http://buergerinfo.ulm.de/infobi.php">
         <mandat type="fremdliste" name="Ulm hoch 3" from="Offene/Bunte/Lokal">Denise Niggemeier</mandat>
-        <fraktion type="none" />
+        <fraktion type="fremd" name="GRÜNE Fraktion Ulm" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
@@ -1688,7 +1696,9 @@
       <gebiet type="Stadt" name="Göppingen" gs="08117026">
         <parlament name="Gemeinderat" seats="41" ris="https://goeppingen.more-rubin1.de/index.php">
           <mandat type="pirat">Michael Freche</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Linke und Piraten">
+            <partner partei="LINKE" num="2" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
