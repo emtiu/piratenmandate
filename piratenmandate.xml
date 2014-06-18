@@ -1408,7 +1408,14 @@
         <oa url="http://openantrag.de/regionalversammlung-nordhessen" />
         <mandat type="pirat" multi="2">Volker Berkhout</mandat>
         <fraktion type="none" />
-        <story>Das Gebiet der Planungsregion Nordhessen ist identisch mit dem des Regierungsbezirks Kassel. Es umfasst die kreisfreie Stadt Kassel sowie die Landkreise Kassel, Werra-Meißner, Waldeck-Frankenberg, Schwalm-Eder, Hersfeld-Rotenburg und Fulda. Die Regionalversammlung der Planungsregion wird nicht direkt, sondern von den Vertretungen großer Mitgliedskörperschaften gewählt. Die Regionalversammlung ist vor allem für die Regionalplanung in Sachen Flächennutzung und Verkehr zuständig.</story>
+        <story>Das Gebiet der Planungsregion Nordhessen ist identisch mit dem des Regierungsbezirks Kassel. Es umfasst die kreisfreie Stadt Kassel sowie die Landkreise Kassel, Werra-Meißner, Waldeck-Frankenberg, Schwalm-Eder, Hersfeld-Rotenburg und Fulda. Die Regionalversammlung der Planungsregion wird nicht direkt, sondern von den Vertretungen großer Mitgliedskörperschaften gewählt. Derzeit wird ein Sitz von den PIRATEN gehalten. Die Regionalversammlung ist vor allem für die Regionalplanung in Sachen Flächennutzung und Verkehr zuständig.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Planungsregion" name="Planungsregion Südhessen" gs="06400000">
+      <parlament name="Regionalversammlung" seats="99" ris="http://www.rp-darmstadt.hessen.de/irj/RPDA_Internet?cid=cb11d3f6d009827552e4d84541adbde9">
+        <mandat type="pirat">Kristof Zerbe</mandat>
+        <fraktion type="none" />
+        <story>Das Gebiet der Planungsregion Südhessen ist identisch mit dem des Regierungsbezirks Darmstadt. Die Regionalversammlung der Planungsregion wird nicht direkt, sondern von den Vertretungen großer Mitgliedskörperschaften gewählt. Derzeit wird ein Sitz von den PIRATEN gehalten. Die Regionalversammlung ist vor allem für die Regionalplanung in Sachen Flächennutzung und Verkehr zuständig.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
@@ -1542,17 +1549,17 @@
         <oa url="http://openantrag.de/offenbach-land" />
         <mandat type="pirat">Christoph Hampe</mandat>
         <mandat type="pirat">Eduard Baumann</mandat>
-        <mandat type="transfer" from="GRÜNE">Vecih Yaşaner</mandat>
+<!--         <mandat type="transfer" from="GRÜNE">Vecih Yaşaner</mandat> -->
         <fraktion type="piraten" url="http://www.kreispiraten-of.de/content/fraktion-piraten-im-kreistag-offenbach-land"/>
-        <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die Grünen in den Kreistag gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und hat damit die bereits bestehende PIRATEN-Fraktion von zwei auf drei Abgeordnete vergrößert.</story>
+<!--         <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die Grünen in den Kreistag gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten und hat damit die bereits bestehende PIRATEN-Fraktion von zwei auf drei Abgeordnete vergrößert.</story> -->
       </parlament>
-      <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
+<!--      <gebiet type="Stadt" name="Dietzenbach" gs="06438001">
         <parlament name="Stadtverordnetenversammlung" seats="45" ris="https://dietzenbach.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=2&amp;Bezeichnung=Stadtverordnetenversammlung&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="transfer" from="GRÜNE" multi="2">Vecih Yaşaner</mandat>
           <fraktion type="fremd" name="DIE LINKE" />
           <story source="http://www.op-online.de/lokales/nachrichten/dietzenbach/piraten-kreistag-offenbach-gruene-vecih-yasaner-2291671.html">Der am 27. März 2011 für die „Grüne Dietzenbacher Liste“ in die Stadtverordnetenversammlung gewählte Vecih Yaşaner ist im April 2012 zur Piratenpartei übergetreten.</story>
         </parlament>
-      </gebiet>
+      </gebiet>-->
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
       <parlament name="Kreistag" seats="71" ris="http://lk-wf.active-city.net/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
