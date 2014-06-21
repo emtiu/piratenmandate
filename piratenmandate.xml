@@ -2351,7 +2351,9 @@
     <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
       <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
         <mandat type="pirat">Toni Rotter</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="VOSI / PIRATEN">
+          <partner name="Volkssolidarität (Vosi)" partei="Offene/Bunte/Lokal" num="2" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
@@ -2410,7 +2412,10 @@
       <gebiet type="Stadt" name="Görlitz" gs="14626110">
         <parlament name="Stadtrat" seats="38" ris="https://sitzungsdienst.kin-sachsen.de/goerlitz/index.php">
           <mandat type="pirat">Carolin Mahn-Gauseweg</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="BfG/Grüne/Piraten">
+            <partner name="Bürger für Görlitz" partei="FW/UWG/etc." num="8" />
+            <partner partei="GRÜNE" num="2" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
