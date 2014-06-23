@@ -1071,6 +1071,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Marl" gs="05562024" localpirates="http://blog.piratenpartei-nrw.de/marl">
           <parlament name="Stadtrat" seats="48" ris="https://marl.more-rubin1.de/">
+            <oa url="http://openantrag.de/marl" />
             <mandat type="pirat">Michael Levedag</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht.</story>
