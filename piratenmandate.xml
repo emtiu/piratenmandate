@@ -28,13 +28,13 @@
         </fraktion>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
+    <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
       <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/Informationen-beschaffen/Politik/Kreistag">
         <mandat type="pirat">Axel Sieck</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
+    <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
       <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
         <mandat type="pirat">Timo Ploog</mandat>
         <fraktion type="fremd" name="Bündnis 90/Die Grünen" url="http://www.gruene-nf.de/kreistagsfraktion-nf/" />
@@ -46,7 +46,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
+    <gebiet type="Landkreis" name="Kreis Pinneberg" gs="01056000" localpirates="http://landesportal.piratenpartei-sh.de/pinneberg/">
       <parlament name="Kreistag" seats="44" ris="http://www.kreis-pinneberg.de/Politik/Kreistagsinformationssystem/Kreistag.html">
         <mandat type="pirat">Sven Lange</mandat>
         <fraktion type="gemeinsam" name="DIE LINKE &amp; PIRATEN">
@@ -54,13 +54,13 @@
         </fraktion>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
+    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
       <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
         <mandat type="pirat">Hans-Werner Last</mandat>
         <fraktion type="none" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
+    <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
       <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <oa url="http://openantrag.de/segeberg" />
         <mandat type="pirat">Thomas Wilken</mandat>
@@ -68,7 +68,7 @@
         <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
+    <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
       <parlament name="Kreistag" seats="44" ris="https://www.steinburg.de/144_150.htm">
         <oa url="http://openantrag.de/steinburg" />
         <mandat type="pirat">Dr. Siegfried Hansen</mandat>
@@ -235,7 +235,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
+    <gebiet type="Landkreis" name="Landkreis Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
       <gebiet type="Gemeinde" name="Schiffdorf" gs="03352050" localpirates="http://piratenpartei-schiffdorf.de/">
         <parlament name="Gemeinderat" seats="30" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=2&amp;o=1&amp;oc=1&amp;ob=1#current">
           <mandat type="transfer" from="CDU/CSU">Frank Schulz</mandat>
@@ -258,7 +258,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
+    <gebiet type="Landkreis" name="Landkreis Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
       <parlament name="Kreistag" seats="42" ris="http://buergerinfo.friesland.de/kp0041.php">
         <mandat type="transfer" from="FW/UWG/etc.">Janto Just</mandat>
         <fraktion type="fremd" name="Bürger für Bürger" />
@@ -272,7 +272,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Gifhorn" gs="03151000" localpirates="http://piraten-gifhorn.de/">
+    <gebiet type="Landkreis" name="Landkreis Gifhorn" gs="03151000" localpirates="http://piraten-gifhorn.de/">
       <parlament name="Kreistag" seats="55" ris="http://www.gifhorn.de/staticsite/staticsite.php?menuid=451&amp;topmenu=450">
         <mandat type="pirat">Stefan Domke</mandat>
         <fraktion type="gemeinsam" name="Gruppe SPD / Grüne / Piraten / Linke">
@@ -313,7 +313,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
+    <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
       <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0040.asp?__kgrnr=186&amp;__cgrname=Kreistag">
         <oa url="http://openantrag.de/goettingen" />
         <mandat type="pirat">Andreas Schelper</mandat>
@@ -328,7 +328,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
+    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
       <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
         <oa url="http://openantrag.de/hameln-pyrmont" />
         <mandat type="pirat">Constantin Grosch</mandat>
@@ -356,7 +356,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
+    <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
 <!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
       <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
         <story>It's complicated!</story>
@@ -389,7 +389,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
+    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
       <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
         <oa url="http://openantrag.de/hildesheim" />
         <mandat type="pirat">Jason Peper</mandat>
@@ -409,7 +409,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
+    <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
       <gebiet type="Stadt" name="Lüneburg" gs="03355022">
         <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
           <oa url="http://openantrag.de/lueneburg" />
@@ -419,7 +419,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Northeim" gs="03155000" localpirates="http://www.piratenpartei-northeim.de/">
+    <gebiet type="Landkreis" name="Landkreis Northeim" gs="03155000" localpirates="http://www.piratenpartei-northeim.de/">
       <gebiet type="Stadt" name="Uslar" gs="03155012">
         <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
           <mandat type="pirat">Aljoscha Rittner</mandat>
@@ -431,7 +431,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
+    <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
       <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Committee.html?orgid=14&amp;o=1&amp;oc=0&amp;ob=1#current">
         <mandat type="pirat">Max Rother</mandat>
         <fraktion type="gemeinsam" name="FDP und Piraten">
@@ -469,7 +469,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Uelzen" gs="03360000" localpirates="http://www.heide-piraten.de/">
+    <gebiet type="Landkreis" name="Landkreis Uelzen" gs="03360000" localpirates="http://www.heide-piraten.de/">
       <gebiet type="Stadt" name="Uelzen" gs="03360025">
         <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <oa url="http://openantrag.de/uelzen" />
@@ -481,7 +481,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
+    <gebiet type="Landkreis" name="Landkreis Wolfenbüttel" gs="03158000" localpirates="http://www.piratenpartei-wolfenbuettel.de/">
       <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
         <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
           <oa url="http://openantrag.de/wolfenbuettel" />
@@ -510,7 +510,7 @@
       </gebiet>
     </gebiet>
 <!-- Tim Weber möchte nicht offiziell als Übergetretener geführt werden.
-    <gebiet type="Landkreis" name="Verden" gs="03361000">
+    <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000">
       <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
         <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
           <mandat type="transfer" from="FW/UWG/etc.">Tim Weber</mandat>
@@ -684,7 +684,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Kleve" gs="05154000" localpirates="http://www.piratenpartei-kleve.de/">
+      <gebiet type="Landkreis" name="Kreis Kleve" gs="05154000" localpirates="http://www.piratenpartei-kleve.de/">
         <parlament name="Kreistag" seats="58" ris="http://www.kreis-kleve.de/C125713400487381/html/F16A0094F580851BC12576330049400D?opendocument&amp;nid1=52024">
           <mandat type="pirat">Tim Reuter</mandat>
           <fraktion type="none" />
@@ -700,7 +700,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Mettmann" gs="05158000" localpirates="https://blog.piratenpartei-nrw.de/mettmann/">
+      <gebiet type="Landkreis" name="Kreis Mettmann" gs="05158000" localpirates="https://blog.piratenpartei-nrw.de/mettmann/">
         <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">
           <mandat type="pirat">Thomas Küppers</mandat>
           <mandat type="pirat">Ria Angelika Garcia Rodriguez</mandat>
@@ -779,14 +779,14 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Viersen" gs="05166000" localpirates="https://wiki.piratenpartei.de/NRW:Kreis_Viersen">
+      <gebiet type="Landkreis" name="Kreis Viersen" gs="05166000" localpirates="https://wiki.piratenpartei.de/NRW:Kreis_Viersen">
         <parlament name="Kreistag" seats="58">
           <mandat type="pirat">Emanuel Mitromaras</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
-      <gebiet type="Landkreis" name="Wesel" gs="05170000" localpirates="http://www.piraten-kreiswesel.de/">
+      <gebiet type="Landkreis" name="Kreis Wesel" gs="05170000" localpirates="http://www.piraten-kreiswesel.de/">
         <parlament name="Kreistag" seats="66">
           <mandat type="pirat">Manfred Friedrich Schramm</mandat>
           <fraktion type="none" />
@@ -907,7 +907,7 @@
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
-      <gebiet type="Landkreis" name="Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
+      <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
         <parlament name="Kreistag" seats="54" ris="http://www.sdnet.kreis-dueren.de/">
           <mandat type="pirat">Dietmar Schwindt</mandat>
           <fraktion type="fremd" name="Unabhängige Wählergemeinschaft (UWG)" />
@@ -1036,7 +1036,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Borken" gs="05554000" localpirates="https://wiki.piratenpartei.de/NRW:Kreis_Borken">
+      <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="https://wiki.piratenpartei.de/NRW:Kreis_Borken">
         <parlament name="Kreistag" seats="60" ris="http://www.kreis-borken.de/sessionnet/infobi.php">
           <mandat type="pirat">Maria Strestik</mandat>
           <fraktion type="none" />
@@ -1052,7 +1052,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Recklinghausen" gs="05562000" localpirates="http://blog.piratenpartei-nrw.de/recklinghausen/">
+      <gebiet type="Landkreis" name="Kreis Recklinghausen" gs="05562000" localpirates="http://blog.piratenpartei-nrw.de/recklinghausen/">
         <parlament name="Kreistag" seats="72" ris="https://kvrecklinghausen.more-rubin1.de/">
           <oa url="http://openantrag.de/recklinghausen" />
           <mandat type="pirat">Melanie Kalkowski</mandat>
@@ -1078,7 +1078,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Warendorf" gs="05570000" localpirates="http://www.piratenpartei-warendorf.de/">
+      <gebiet type="Landkreis" name="Kreis Warendorf" gs="05570000" localpirates="http://www.piratenpartei-warendorf.de/">
         <parlament name="Kreistag" seats="56" ris="http://www.kreis-warendorf.de/w1/sessionnet2014/bi/infobi.php">
           <mandat type="pirat">Pia Hermans</mandat>
           <fraktion type="none" />
@@ -1115,7 +1115,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Lippe" gs="05766000" localpirates="https://blog.piratenpartei-nrw.de/lippe/">
+      <gebiet type="Landkreis" name="Kreis Lippe" gs="05766000" localpirates="https://blog.piratenpartei-nrw.de/lippe/">
         <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
           <parlament name="Stadtrat" seats="48" ris="https://bad-salzuflen.ratsinfomanagement.net/">
             <mandat type="pirat">Mirjam Sturman-Püttcher</mandat>
@@ -1134,7 +1134,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Minden-Lübbecke" gs="05770000" localpirates="http://piratenpartei-milk.de/">
+      <gebiet type="Landkreis" name="Kreis Minden-Lübbecke" gs="05770000" localpirates="http://piratenpartei-milk.de/">
         <parlament name="Kreistag" seats="60" ris="https://minden-luebbecke.ratsinfomanagement.net/">
           <mandat type="pirat">Karl-Heinz Detert</mandat>
           <fraktion type="none" />
@@ -1151,7 +1151,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Paderborn" gs="05774000" localpirates="http://www.piratenpartei-paderborn.de/">
+      <gebiet type="Landkreis" name="Kreis Paderborn" gs="05774000" localpirates="http://www.piratenpartei-paderborn.de/">
         <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_paderborn/bi/infobi.asp">
           <mandat type="pirat">Sabine Martiny</mandat>
           <fraktion type="gemeinsam" name="Die Linke/Piraten">
@@ -1366,7 +1366,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
+      <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
         <parlament name="Kreistag" seats="66" ris="https://kreistag.kreis-soest.de/ratsinfo/soestlk">
           <mandat type="pirat">Ali Kaya</mandat>
           <fraktion type="none" />
@@ -1380,7 +1380,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
+      <gebiet type="Landkreis" name="Kreis Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
         <parlament name="Kreistag" seats="70" ris="https://security.kreis-unna.de/sessionnet/bi/infobi.php">
           <mandat type="pirat">Ralf Schaefer</mandat>
           <mandat type="pirat">Christian Roß</mandat>
@@ -1481,7 +1481,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Bergstraße" gs="06431000" localpirates="http://www.piraten-bergstrasse.de/">
+    <gebiet type="Landkreis" name="Kreis Bergstraße" gs="06431000" localpirates="http://www.piraten-bergstrasse.de/">
       <parlament name="Kreistag" seats="81" ris="http://bis.kreis-bergstrasse.de/kp0040.asp?__kgrnr=2&amp;">
         <mandat type="pirat">Peter Dambier</mandat>
         <mandat type="transfer" from="LINKE">Veronika Zenker</mandat>
@@ -1489,7 +1489,7 @@
         <story source="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
+    <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <oa url="http://openantrag.de/darmstadt-dieburg" />
         <mandat type="pirat">Markus Brechtel</mandat>
@@ -1498,7 +1498,7 @@
         </fraktion>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
+    <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Christian Klein</mandat>
         <mandat type="pirat">Isabel Martin</mandat>
@@ -1518,7 +1518,7 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
+    <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
       <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/">
         <oa url="http://openantrag.de/kassel-land" />
         <mandat type="pirat">Swen Schmidt</mandat>
@@ -1533,7 +1533,7 @@
         <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Marburg-Biedenkopf" gs="06534000" localpirates="http://www.piratenpartei-marburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Marburg-Biedenkopf" gs="06534000" localpirates="http://www.piratenpartei-marburg.de/">
       <parlament name="Kreistag" seats="81" ris="https://marburg-biedenkopf.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MiyHavGau9TuCPj2NgzHauCWr8Um5Ol7MfyIduGGJ">
         <oa url="http://openantrag.de/marburg-biedenkopf" />
         <mandat type="pirat">Jens Fricke</mandat>
@@ -1548,7 +1548,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
+    <gebiet type="Landkreis" name="Landkreis Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
       <parlament name="Kreistag" seats="87" ris="http://www.kreis-offenbach.de/index.phtml?mNavID=1856.545&amp;sNavID=1856.545&amp;La=1">
         <oa url="http://openantrag.de/offenbach-land" />
         <mandat type="pirat">Christoph Hampe</mandat>
@@ -1565,7 +1565,7 @@
         </parlament>
       </gebiet>-->
     </gebiet>
-    <gebiet type="Landkreis" name="Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
+    <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
       <parlament name="Kreistag" seats="71" ris="http://lk-wf.active-city.net/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
         <mandat type="pirat">Alexander Kaufmann</mandat>
         <fraktion type="none" />
@@ -1628,14 +1628,14 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
+    <gebiet type="Landkreis" name="Landkreis Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
       <parlament name="Kreistag" seats="46" ris="https://altenkirchen.more-rubin1.de/">
         <mandat type="pirat">Hans-Peter König</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Alzey-Worms" gs="07331000">
+    <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
       <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
         <parlament name="Stadtrat" seats="25" ris="http://www.osthofen.de/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=78">
           <mandat type="fremdliste" name="Bürgerverein Wonnegau e.V." from="FW/UWG/etc.">Bernhard Furch</mandat>
@@ -1643,7 +1643,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
+    <gebiet type="Landkreis" name="Landkreis Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
       <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
         <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
           <mandat type="pirat">Ralf Berger</mandat>
@@ -1657,7 +1657,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Mainz-Bingen" gs="07339000" localpirates="http://www.piraten-rheinhessen.de/">
+    <gebiet type="Landkreis" name="Landkreis Mainz-Bingen" gs="07339000" localpirates="http://www.piraten-rheinhessen.de/">
       <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
         <oa url="http://openantrag.de/mainz-bingen" />
         <mandat type="pirat">Patrick Walter</mandat>
@@ -1665,7 +1665,7 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
+    <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
       <parlament name="Kreistag" seats="46">
         <oa url="http://openantrag.de/trier-saarburg" />
         <mandat type="pirat">Dr. Karl-Georg Schroll</mandat>
@@ -1733,7 +1733,7 @@
         <fraktion type="fremd" name="GRÜNE Fraktion Ulm" />
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
+    <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
       <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
         <mandat type="fremdliste" from="LINKE">Markus Arnold</mandat>
         <fraktion type="gemeinsam" name="LINKE/Piraten">
@@ -1742,7 +1742,7 @@
         <story source="http://linke-bw.de/kv-bb/">Mit dem auf der Liste der LINKEN gewählten Piraten konnte eine Fraktion gebildet werden, nachdem zwei LINKE durch Ausgleichsmandate zusätzlich eingezogen sind.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Esslingen" gs="08116000" localpirates="http://www.piratenpartei-esslingen.de/">
+    <gebiet type="Landkreis" name="Landkreis Esslingen" gs="08116000" localpirates="http://www.piratenpartei-esslingen.de/">
       <gebiet type="Stadt" name="Leinfelden-Echterdingen" gs="08116078" localpirates="http://filderpiraten.de/">
         <parlament name="Gemeinderat" seats="27" ris="https://www.geocms.com/ris-leinfelden-echterdingen/">
           <mandat type="pirat">Claudia Moosmann</mandat>
@@ -1757,7 +1757,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Göppingen" gs="08117000" localpirates="https://piratenpartei-gp.de/">
+    <gebiet type="Landkreis" name="Landkreis Göppingen" gs="08117000" localpirates="https://piratenpartei-gp.de/">
       <gebiet type="Stadt" name="Göppingen" gs="08117026">
         <parlament name="Gemeinderat" seats="41" ris="https://goeppingen.more-rubin1.de/index.php">
           <mandat type="pirat">Michael Freche</mandat>
@@ -1768,7 +1768,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
+    <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
       <gebiet type="Stadt" name="Bruchsal" gs="08215009">
         <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
           <mandat type="fremdliste" name="Grüne/Neue Köpfe" from="GRÜNE">Hartmut Schönherr</mandat>
@@ -1777,7 +1777,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
+    <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
       <gebiet type="Stadt" name="Konstanz" gs="08335043">
         <parlament name="Gemeinderat" seats="40" ris="http://www.konstanz.sitzung-online.de/bi/allris.net.asp">
           <mandat type="fremdliste" name="Junges Forum Konstanz" from="Offene/Bunte/Lokal">Thomas Buck</mandat>
@@ -1794,7 +1794,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Tübingen" gs="08416000" localpirates="http://piratenpartei-reutlingen-tuebingen.de/">
+    <gebiet type="Landkreis" name="Landkreis Tübingen" gs="08416000" localpirates="http://piratenpartei-reutlingen-tuebingen.de/">
       <gebiet type="Stadt" name="Tübingen" gs="08416041">
         <parlament name="Gemeinderat" seats="41" ris="http://www.tuebingen.de/gemeinderat">
           <mandat type="pirat">Jürgen Steinhilber</mandat>
@@ -1823,7 +1823,7 @@
           </fraktion>
         </parlament>
       </gebiet>
-      <gebiet type="Landkreis" name="Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
+      <gebiet type="Landkreis" name="Landkreis Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
         <gebiet type="Stadt" name="Erding" gs="09177117">
           <parlament name="Stadtrat" seats="41" ris="http://www.erding.de/cms/politik/stadtrat.html">
             <oa url="http://openantrag.de/erding" />
@@ -1833,7 +1833,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Fürstenfeldbruck" gs="09179000" localpirates="http://piraten-ffb.de/">
+      <gebiet type="Landkreis" name="Landkreis Fürstenfeldbruck" gs="09179000" localpirates="http://piraten-ffb.de/">
         <gebiet type="Stadt" name="Fürstenfeldbruck" gs="09179121">
           <parlament name="Stadtrat" seats="41" ris="http://www.ffbinfo.de/">
             <mandat type="pirat">Andreas Ströhle</mandat>
@@ -1842,7 +1842,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Starnberg" gs="09188000" localpirates="http://starnberg.ppby.de/">
+      <gebiet type="Landkreis" name="Landkreis Starnberg" gs="09188000" localpirates="http://starnberg.ppby.de/">
         <gebiet type="Gemeinde" name="Gauting" gs="09188120">
           <parlament name="Gemeinderat" seats="25" ris="http://www.gauting.de/index.php?id=877">
             <mandat type="pirat">Tobias Mc Fadden</mandat>
@@ -1863,7 +1863,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Oberfranken" gs="09400000" localpirates="http://piraten-oberfranken.de/">
-      <gebiet type="Landkreis" name="Lichtenfels" gs="09478000">
+      <gebiet type="Landkreis" name="Landkreis Lichtenfels" gs="09478000">
         <gebiet type="Stadt" name="Burgkunstadt" gs="09478116">
           <parlament name="Stadtrat" seats="21" ris="http://www.burgkunstadt.de/2267_DEU_WWW.php">
             <mandat type="fremdliste" name="Bürgerverein Burgkunstadt" from="FW/UWG/etc.">Marcus Dinglreiter</mandat>
@@ -1888,7 +1888,7 @@
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Unterfranken" gs="09600000" localpirates="https://www.piraten-ufr.de/">
-      <gebiet type="Landkreis" name="Bad Kissingen" gs="09672000">
+      <gebiet type="Landkreis" name="Landkreis Bad Kissingen" gs="09672000">
         <gebiet type="Stadt" name="Bad Brückenau" gs="09672113">
           <parlament name="Stadtrat" seats="21" ris="http://www.bad-brueckenau.de/de/index.cfm?fuseaction=rathaus&amp;rubrik=ratsmitglieder">
             <mandat type="fremdliste" from="SPD">Benjamin Wildenauer</mandat>
@@ -1897,7 +1897,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Main-Spessart" gs="09677000">
+      <gebiet type="Landkreis" name="Landkreis Main-Spessart" gs="09677000">
         <parlament name="Kreistag" seats="60" ris="http://www.main-spessart.de/LandkreisOnline/Kreisorgane/Kreistag.aspx">
           <mandat type="pirat">Jürgen Neuwirth</mandat>
           <fraktion type="none" />
@@ -1941,7 +1941,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
+    <gebiet type="Landkreis" name="Landkreis Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
       <gebiet type="Stadt" name="Merzig" gs="10042113">
         <parlament name="Stadtrat" seats="39" ris="http://merzig.de/rathaus/stadtpolitik">
           <mandat type="pirat">Michael Grauer</mandat>
@@ -1970,7 +1970,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Neunkirchen" gs="10043000" localpirates="https://kvspk.piratenpartei-saarland.de/">
+    <gebiet type="Landkreis" name="Landkreis Neunkirchen" gs="10043000" localpirates="https://kvspk.piratenpartei-saarland.de/">
       <parlament name="Kreistag" seats="33">
         <oa url="http://openantrag.de/neunkirchen-kreis" />
         <mandat type="pirat">Gerd Rainer Weber</mandat>
@@ -2003,7 +2003,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Saarlouis" gs="10044000" localpirates="http://piratenpartei-kvsaarlouis.de/">
+    <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000" localpirates="http://piratenpartei-kvsaarlouis.de/">
       <gebiet type="Stadt" name="Saarlouis" gs="10044115">
         <parlament name="Stadtrat" seats="45">
           <mandat type="pirat">Holger Gier</mandat>
@@ -2148,7 +2148,7 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Barnim" gs="12060000" localpirates="http://barum.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Barnim" gs="12060000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Bernau bei Berlin" gs="12060020">
         <parlament name="Stadtverordnetenversammlung" seats="37" ris="http://www.bernau-bei-berlin.de/de/buergerportal/rathaus/politische-gremien/stadtverordnetenversammlung.html">
           <mandat type="pirat">Ulf Markarski</mandat>
@@ -2157,7 +2157,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Dahme-Spreewald" gs="12061000" localpirates="http://dos.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Dahme-Spreewald" gs="12061000" localpirates="http://dos.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Königs Wusterhausen" gs="12061260">
         <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.koenigs-wusterhausen.de/534163/svv">
           <mandat type="pirat">Ronny Friedrich</mandat>
@@ -2174,7 +2174,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Elsterwerda" gs="12062124">
         <parlament name="Stadtverordnetenversammlung" seats="19" ris="http://www.elsterwerda.de/svv/">
           <mandat type="pirat">Kerstin Schenkel</mandat>
@@ -2183,7 +2183,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Ketzin/Havel" gs="12063148">
         <gebiet type="Ortsteil" name="Etzin" arbkey="1">
           <parlament name="Ortsbeirat" seats="3" ris="https://www.ketzin.de/ratsinfo/gremium/5360/ortsbeirat_etzin.html">
@@ -2201,7 +2201,7 @@
         </parlament>
       </gebiet> -->
     </gebiet>
-    <gebiet type="Landkreis" name="Oberhavel" gs="12065000" localpirates="http://ohv.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://ohv.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
         <mandat type="pirat">Thomas Bennühr</mandat>
         <fraktion type="none" />
@@ -2221,7 +2221,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Oder-Spree" gs="12067000" localpirates="https://dos.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Oder-Spree" gs="12067000" localpirates="https://dos.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="https://web.landkreis-oder-spree.de/somacos/sessionnet/bi/infobi.php">
         <mandat type="pirat">Frank Behr</mandat>
         <fraktion type="gemeinsam" name="Bündnis 90/Die Grünen &amp; Piraten">
@@ -2244,7 +2244,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Potsdam-Mittelmark" gs="12069000" localpirates="https://pm.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Potsdam-Mittelmark" gs="12069000" localpirates="https://pm.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Teltow" gs="12069616">
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www.ratsinfo-online.de/teltow.bi/pa021.asp">
           <mandat type="pirat">Jeannette Paech</mandat>
@@ -2260,7 +2260,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Forst (Lausitz)" gs="12071076">
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www2.forst-lausitz.de/allrisbi/pa021.asp">
           <mandat type="pirat">Thomas Friedrich</mandat>
@@ -2269,7 +2269,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Schwedt" gs="12073532">
         <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.schwedt.eu/sixcms/detail.php/72193">
           <oa url="http://openantrag.de/schwedt" />
@@ -2281,7 +2281,7 @@
   </bundesland>
 
   <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/"> <!-- Danke @piratenproll für die Daten -->
-    <gebiet type="Landkreis" name="Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
       <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
         <mandat type="pirat">Matthias Reimann</mandat>
         <fraktion type="gemeinsam" name="BÜNDNIS 90/Die GRÜNEN / Piraten">
@@ -2290,7 +2290,7 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Mecklenburgische Seenplatte" gs="13071000">
+    <gebiet type="Landkreis" name="Landkreis Mecklenburgische Seenplatte" gs="13071000">
       <parlament name="Kreistag" seats="77" ris="http://web.lk-seenplatte.de/ratsinfo/seenplatte">
         <mandat type="pirat">Robert Schuldt</mandat>
         <fraktion type="none" />
@@ -2304,7 +2304,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Nordwestmecklenburg" gs="13074000" localpirates="http://www.piraten-westmecklenburg.de//">
+    <gebiet type="Landkreis" name="Landkreis Nordwestmecklenburg" gs="13074000" localpirates="http://www.piraten-westmecklenburg.de//">
       <parlament name="Kreistag" seats="61" ris="http://ris.nordwestmecklenburg.de/sessionnet/buergerinfo/infobi.php">
         <mandat type="pirat">Dennis Klüver</mandat>
         <fraktion type="none" />
@@ -2318,7 +2318,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
       <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
         <mandat type="pirat">Martin Banduch</mandat>
         <fraktion type="gemeinsam" name="Kom­pe­tenz für Vorpommern/PIRATEN">
@@ -2337,7 +2337,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
+    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
       <gebiet type="Stadt" name="Stralsund" gs="13073088">
         <parlament name="Bürgerschaft" seats="43" ris="http://www2.stralsund.de/sitzung/sm_sourc.nsf">
           <mandat type="pirat">Friedrich Smyra</mandat>
@@ -2415,7 +2415,7 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Görlitz" gs="14626000" localpirates="http://piraten-goerlitz.de/">
+    <gebiet type="Landkreis" name="Landkreis Görlitz" gs="14626000" localpirates="http://piraten-goerlitz.de/">
       <gebiet type="Stadt" name="Görlitz" gs="14626110">
         <parlament name="Stadtrat" seats="38" ris="https://sitzungsdienst.kin-sachsen.de/goerlitz/index.php">
           <mandat type="pirat">Carolin Mahn-Gauseweg</mandat>
@@ -2427,7 +2427,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
+    <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
       <parlament name="Kreistag" seats="86">
         <mandat type="pirat">Sören Skalicks</mandat>
         <fraktion type="none" />
@@ -2437,7 +2437,7 @@
   </bundesland>
 
   <bundesland name="Sachsen-Anhalt" gs="15000000" localpirates="http://www.piraten-lsa.de/">
-    <gebiet type="Landkreis" name="Börde" gs="15083000" localpirates="http://www.piraten-boerde.de/">
+    <gebiet type="Landkreis" name="Landkreis Börde" gs="15083000" localpirates="http://www.piraten-boerde.de/">
       <parlament name="Kreistag" seats="54" ris="http://www.boerdekreis.de/bi/pa021.asp">
         <oa url="http://openantrag.de/boerde" />
         <mandat type="pirat">Marc Blanck</mandat>
@@ -2480,7 +2480,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Harz" gs="15085000" localpirates="http://piratenpartei-harz.de/">
+    <gebiet type="Landkreis" name="Landkreis Harz" gs="15085000" localpirates="http://piratenpartei-harz.de/">
       <gebiet type="Stadt" name="Wernigerode" gs="15085370">
         <parlament name="Stadtrat" seats="41" ris="http://www.wernigerode.de/de/ratsinformationssystem.html">
           <mandat type="pirat">Denis Mau</mandat>
@@ -2489,7 +2489,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Jerichower Land" gs="15086000">
+    <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
       <gebiet type="Gemeinde" name="Möser" gs="15086145">
         <parlament name="Gemeinderat" seats="21" ris="https://www.gemeinde-moeser.de/sessionnet/bi/infobi.php">
           <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal">Michel Vorsprach</mandat>
@@ -2503,7 +2503,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Stendal" gs="15090000" localpirates="http://piraten-altmark.de/">
+    <gebiet type="Landkreis" name="Landkreis Stendal" gs="15090000" localpirates="http://piraten-altmark.de/">
       <gebiet type="Stadt" name="Stendal" gs="15090535">
         <parlament name="Stadtrat" seats="41" ris="http://www.stendal.de/de/stadtrat.html">
           <mandat type="pirat">Olaf Lincke</mandat>
@@ -2562,7 +2562,7 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Gotha" gs="16067000" localpirates="http://piraten-gotha.de/">
+    <gebiet type="Landkreis" name="Landkreis Gotha" gs="16067000" localpirates="http://piraten-gotha.de/">
       <parlament name="Kreistag" seats="51">
         <mandat type="pirat">Bernhard Koim</mandat>
         <fraktion type="none" />
@@ -2577,7 +2577,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Weimarer Land" gs="16071000" localpirates="http://piraten-weimar.de/">
+    <gebiet type="Landkreis" name="Landkreis Weimarer Land" gs="16071000" localpirates="http://piraten-weimar.de/">
       <parlament name="Kreistag" seats="47" ris="http://www.weimarer-land.de/landratsamt/kreistag/beschluss.html">
         <mandat type="pirat">Lutz Gundlach</mandat>
         <fraktion type="none" />
