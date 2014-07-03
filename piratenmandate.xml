@@ -490,7 +490,7 @@
           <fraktion type="gemeinsam" name="PIRATEN und FDP" url="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">
             <partner partei="FDP" num="1" />
           </fraktion>
-          <story source="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">Anfangs bildeten die beiden Piraten im Stadtrat die PIRATEN-Fraktion. Nach etwa einem Jahr schlossen sie sich mit dem einigen FDP-Abgeordneten zu der Gruppe PIRATEN und FDP zusammen. Formal existiert die PIRATEN-Fraktion weiter, im Rat tritt jedoch nur noch Gruppe auf.</story>
+          <story source="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">Anfangs bildeten die beiden Piraten im Stadtrat die PIRATEN-Fraktion. Nach etwa einem Jahr schlossen sie sich mit dem einzigen FDP-Abgeordneten zu der Gruppe PIRATEN und FDP zusammen. Die PIRATEN-Fraktion ist damit praktisch in der Gruppe aufgegangen.</story>
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
@@ -688,7 +688,9 @@
       <gebiet type="Landkreis" name="Kreis Kleve" gs="05154000" localpirates="http://www.piratenpartei-kleve.de/">
         <parlament name="Kreistag" seats="58" ris="http://www.kreis-kleve.de/C125713400487381/html/F16A0094F580851BC12576330049400D?opendocument&amp;nid1=52024">
           <mandat type="pirat">Tim Reuter</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Die Linke / Piraten">
+            <partner partei="LINKE" num="2" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Geldern" gs="05154012">
@@ -956,7 +958,9 @@
         <gebiet type="Stadt" name="Kerpen" gs="05362032">
           <parlament name="Stadtrat" seats="46" ris="https://sdnetrim.kdvz-frechen.de/rim4770/">
             <mandat type="pirat">Bernd Christian Gerhard Janotta</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="BBK/Piraten">
+              <partner name="Bürgerbündnis Kerpen" partei="FW/UWG/etc." num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1271,7 +1275,9 @@
         <parlament name="Stadtrat" seats="60" ris="http://www.herne.de/kommunen/herne/ttw.nsf/id/DE_Ratsinformationssystem">
           <mandat type="pirat">Andreas Prennig</mandat>
           <mandat type="pirat">Bernd Schroeder</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="PIRATEN-AL">
+            <partner name="Alternative Liste" partei="Offene/Bunte/Lokal" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Wanne" arbkey="1"><parlament name="Bezirksvertretung" seats="17" ris="http://herne.ratsportal.net/bi2/au020.asp?AULFDNR=16&amp;options=4&amp;altoption=Ausschuss">
@@ -1305,8 +1311,10 @@
         <gebiet type="Stadt" name="Hattingen" gs="05954016">
           <parlament name="Stadtrat" seats="46" ris="https://sitzungsinfo.hattingen.de/">
             <mandat type="pirat">Sascha Kursawe</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+            <fraktion type="gemeinsam" name="die linke.Hattingen">
+              <partner partei="LINKE" num="3" />
+            </fraktion>
+            <story source="http://www.derwesten.de/staedte/hattingen/linke-und-piraten-bilden-gemeinsame-ratsfraktion-id9457666.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Sprockhövel" gs="05954028">
@@ -1349,7 +1357,9 @@
       <gebiet type="Landkreis" name="Märkischer Kreis" gs="05962000" localpirates="https://blog.piratenpartei-nrw.de/mk/">
         <parlament name="Kreistag" seats="66" ris="http://www.maerkischer-kreis.de/der-kreis/landrat-politik/politik/kreistag.php">
           <mandat type="pirat">Stefan Hermann Handzik</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Die Linke/Piraten">
+            <partner partei="LINKE" num="3" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Iserlohn" gs="05962024">
@@ -1664,8 +1674,10 @@
       <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
         <oa url="http://openantrag.de/mainz-bingen" />
         <mandat type="pirat">Patrick Walter</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
+        <fraktion type="gemeinsam" name="Die Piraten">
+          <partner partei="Einzelbewerber" num="1" />
+        </fraktion>
+        <story source="http://www.piratenfraktion-mzbi.de/2014/06/30/pressemitteilung-gruendung-der-piratenfraktion/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht. Kurz nach der Wahl trat Michael Stüber, gewählt als einer von sechs Abgeorndeten auf der Liste der Grünen, aus seiner Partei aus und bildet fortan als Parteiloser eine Fraktion mit dem einzigen Piraten der Versammlung.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
@@ -1948,7 +1960,10 @@
       <gebiet type="Stadt" name="Merzig" gs="10042113">
         <parlament name="Stadtrat" seats="39" ris="http://merzig.de/rathaus/stadtpolitik">
           <mandat type="pirat">Michael Grauer</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Bündnis für mehr Miteinander in Merzig">
+            <partner partei="GRÜNE" num="1" />
+            <partner name="Freie Wähler" partei="FW/UWG/etc." num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Merchingen" arbkey="1">
@@ -1961,7 +1976,10 @@
       <gebiet type="Gemeinde" name="Weiskirchen" gs="10042117">
         <parlament name="Gemeinderat" seats="27" ris="http://www.weiskirchen.de/politik.html">
           <mandat type="pirat">Wolfgang Barth</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Bunte Fraktion" url="https://kvmw.piratenpartei-saarland.de/mandate/gemeinderat-weiskirchen/">
+            <partner partei="LINKE" num="1" />
+            <partner name="Grün-Alternative Liste Weiskirchen" partei="Offene/Bunte/Lokal" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,1% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Rappweiler-Zwalbach" arbkey="1">
@@ -2156,7 +2174,9 @@
       <gebiet type="Stadt" name="Bernau bei Berlin" gs="12060020">
         <parlament name="Stadtverordnetenversammlung" seats="37" ris="http://www.bernau-bei-berlin.de/de/buergerportal/rathaus/politische-gremien/stadtverordnetenversammlung.html">
           <mandat type="pirat">Ulf Markarski</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Bündnis90-Grüne/Piraten">
+            <partner partei="GRÜNE" num="2" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
@@ -2220,7 +2240,9 @@
       <gebiet type="Gemeinde" name="Glienicke/Nordbahn" gs="12065096">
         <parlament name="Gemeindevertretung" seats="22" ris="http://www.glienicke.eu/rathaus-politik/kommunalpolitik/">
           <mandat type="pirat" multi="2">Thomas Bennühr</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Bündnis 90/Die Grünen / PIRATEN">
+            <partner partei="GRÜNE" num="3" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
@@ -2516,7 +2538,11 @@
       <gebiet type="Stadt" name="Stendal" gs="15090535">
         <parlament name="Stadtrat" seats="41" ris="http://www.stendal.de/de/stadtrat.html">
           <mandat type="pirat">Olaf Lincke</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Die Mitte – SPD/FDP/Piraten" url="http://www.stendal.de/de/stadtrat/fraktion-die-mitte-spd-fdp-piraten-20013568.html" >
+            <partner partei="SPD" num="8" />
+            <partner partei="FDP" num="2" />
+            <partner partei="Einzelbewerber" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,4% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
