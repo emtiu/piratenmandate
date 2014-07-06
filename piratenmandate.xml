@@ -1733,7 +1733,7 @@
     <gebiet type="Stadtkreis" name="Stuttgart" gs="08111000" localpirates="http://www.piratenpartei-stuttgart.de/">
       <parlament name="Gemeinderat" seats="61" ris="http://www.stuttgart.de/external/show/ratsdokumente">
         <mandat type="pirat">Stefan Urbat</mandat>
-        <fraktion type="gemeinsam" name="SÖS/Linke/Piraten/Studentische Liste">
+        <fraktion type="gemeinsam" name="SÖS-LINKE-PluS">
           <partner name="Stuttgart Ökologisch Sozial (SÖS)" partei="Offene/Bunte/Lokal" num="3" />
           <partner partei="LINKE" num="3" />
           <partner name="Studentische Liste – junges Stuttgart" partei="Offene/Bunte/Lokal" num="1" />
@@ -1809,6 +1809,7 @@
         </parlament>
       </gebiet>
     </gebiet>
+<!-- Mandatsträger fall down go boom: http://www.tagblatt.de/Home/nachrichten/tuebingen_artikel,-Juergen-Steinhilber-trat-bei-den-Piraten-aus-_arid,264308.html
     <gebiet type="Landkreis" name="Landkreis Tübingen" gs="08416000" localpirates="http://piratenpartei-reutlingen-tuebingen.de/">
       <gebiet type="Stadt" name="Tübingen" gs="08416041">
         <parlament name="Gemeinderat" seats="41" ris="http://www.tuebingen.de/gemeinderat">
@@ -1817,7 +1818,7 @@
           <story>Jürgen Steinhilber war 2009 für die Unabhängige Freie Wählergemeinschaft (UFW) in den Gemeinderat gewählt worden. 2012 trat er zur Piratenpartei über und bildete mit der parteilosen Ilona Raiser eine PIRATEN-Fraktion. Bei der Gemeinderatswahl konnte Jürgen Steinhilber sein Mandat auf der PIRATEN-Liste verteidigen, die 2,4% der Stimmen gewann.</story>
         </parlament>
       </gebiet>
-    </gebiet>
+    </gebiet>-->
   </bundesland>
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
