@@ -1265,10 +1265,8 @@
       <gebiet type="Kreisfreie Stadt" name="Hamm" gs="05915000" localpirates="https://blog.piratenpartei-nrw.de/hamm/">
         <parlament name="Stadtrat" seats="58" ris="https://www.hamm.de/rais/">
           <mandat type="pirat">Martin Kesztyüs</mandat>
-          <fraktion type="gemeinsam" name="Pro Hamm / Piraten">
-            <partner name="Pro Hamm" partei="Offene/Bunte/Lokal" num="1" />
-          </fraktion>
-          <story source="https://blog.piratenpartei-nrw.de/hamm/2014/06/02/pressemitteilung-der-waehlergruppe-pro-hamm-piraten-hamm/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht und später eine gemeinsame Fraktion mit der Liste „Pro Hamm“ (kein Zusammenhang mit Pro NRW!) gegründet.</story>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Herne" gs="05916000" localpirates="http://www.piraten-herne.de/">
@@ -2492,8 +2490,10 @@
       <gebiet type="Gemeinde" name="Barleben" gs="15083040">
         <parlament name="Gemeinderat" seats="21" ris="http://www.barleben.de/Startseite/Gemeinde/Politik-und-Verwaltung/Gemeinderat">
           <oa url="http://openantrag.de/barleben" />
-          <mandat type="pirat">Jens Barthel</mandat>
-          <fraktion type="none" />
+          <mandat type="pirat">Thomas Pfeffer</mandat>
+          <fraktion type="gemeinsam" name="FWG/PIRATEN">
+            <partner name="Freie Wählergemeinschaft Barleben" partei="FW/UWG/etc." num="4" />
+          </fraktion>
         </parlament>
         <gebiet type="Ortsteil" name="Ebendorf" arbkey="1">
           <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37&amp;">
