@@ -957,7 +957,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Kerpen" gs="05362032">
           <parlament name="Stadtrat" seats="46" ris="https://sdnetrim.kdvz-frechen.de/rim4770/">
-            <mandat type="pirat">Bernd Christian Gerhard Janotta</mandat>
+            <mandat type="pirat">Bernd Janotta</mandat>
             <fraktion type="gemeinsam" name="BBK/Piraten">
               <partner name="Bürgerbündnis Kerpen" partei="FW/UWG/etc." num="1" />
             </fraktion>
