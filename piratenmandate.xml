@@ -666,6 +666,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Solingen" gs="05122000" localpirates="https://blog.piratenpartei-nrw.de/solingen/">
         <parlament name="Stadtrat" seats="52" ris="http://www2.solingen.de/C12572F80037DB19/0/2692B6EF8295A46CC1257392004927E8?OpenDocument">
+          <oa url="http://openantrag.de/solingen" />
           <mandat type="pirat">Gerd Paul Schlupp</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
