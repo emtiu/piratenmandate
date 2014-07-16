@@ -635,6 +635,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Krefeld" gs="05114000" localpirates="http://www.seidenstadt-piraten.de/">
         <parlament name="Stadtrat" seats="58" ris="http://www.ratsportal.krefeld.de/">
+          <oa url="http://openantrag.de/krefeld" />
           <mandat type="pirat">Peter Klein</mandat>
           <fraktion type="gemeinsam" name="Die PARTEI-Piraten">
             <partner partei="Die PARTEI" num="1" />
