@@ -635,7 +635,6 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Krefeld" gs="05114000" localpirates="http://www.seidenstadt-piraten.de/">
         <parlament name="Stadtrat" seats="58" ris="http://www.ratsportal.krefeld.de/">
-          <oa url="http://openantrag.de/krefeld" />
           <mandat type="pirat">Peter Klein</mandat>
           <fraktion type="gemeinsam" name="Die PARTEI-Piraten">
             <partner partei="Die PARTEI" num="1" />
@@ -667,7 +666,6 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Solingen" gs="05122000" localpirates="https://blog.piratenpartei-nrw.de/solingen/">
         <parlament name="Stadtrat" seats="52" ris="http://www2.solingen.de/C12572F80037DB19/0/2692B6EF8295A46CC1257392004927E8?OpenDocument">
-          <oa url="http://openantrag.de/solingen" />
           <mandat type="pirat">Gerd Paul Schlupp</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
@@ -1089,7 +1087,6 @@
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Warendorf" gs="05570000" localpirates="http://www.piratenpartei-warendorf.de/">
         <parlament name="Kreistag" seats="56" ris="http://www.kreis-warendorf.de/w1/sessionnet2014/bi/infobi.php">
-          <oa url="http://openantrag.de/warendorf" />
           <mandat type="pirat">Pia Hermans</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
@@ -1103,7 +1100,6 @@
         </gebiet>
         <gebiet type="Stadt" name="Sendenhorst" gs="05570040">
           <parlament name="Stadtrat" seats="26" ris="https://www.sendenhorst.de/rais/">
-            <oa url="http://openantrag.de/sendenhorst" />
             <mandat type="pirat">Thomas Lohmann</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,9% der Stimmen erreicht.</story>
@@ -1300,8 +1296,10 @@
         <parlament name="Kreistag" seats="66" ris="https://sessionnet.krz.de/en-kreis/bi/infobi.asp">
           <mandat type="pirat">Chris Demmer</mandat>
           <mandat type="pirat">Jörg Müller</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 (inkl. Nachwahlen in zwei Wahlkreisen am 15.6.) wurden 2,3% der Stimmen erreicht.</story>
+          <fraktion type="gemeinsam" name="Freie Wähler und PIRATEN">
+            <partner name="Freie Wähler Ennepe-Ruhr" partei="FW/UWG/etc." num="2" />
+          </fraktion>
+          <story url="http://www.derwesten.de/staedte/schwelm/gemeinsame-sache-von-piraten-und-freien-waehlern-id9548780.html#">Bei der Kommunalwahl am 25. Mai 2014 (inkl. Nachwahlen in zwei Wahlkreisen am 15.6.) wurden 2,3% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Ennepetal" gs="05954008">
           <parlament name="Stadtrat" seats="42" ris="http://rat.ennepetal.de/ratsinfo/ennepetal">
@@ -1676,7 +1674,7 @@
       <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
         <oa url="http://openantrag.de/mainz-bingen" />
         <mandat type="pirat">Patrick Walter</mandat>
-        <fraktion type="gemeinsam" name="Die Piraten">
+        <fraktion type="gemeinsam" name="Die Piraten" url="http://www.piratenfraktion-mzbi.de/">
           <partner partei="Einzelbewerber" num="1" />
         </fraktion>
         <story source="http://www.piratenfraktion-mzbi.de/2014/06/30/pressemitteilung-gruendung-der-piratenfraktion/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht. Kurz nach der Wahl trat Michael Stüber, gewählt als einer von sechs Abgeorndeten auf der Liste der Grünen, aus seiner Partei aus und bildet fortan als Parteiloser eine Fraktion mit dem einzigen Piraten der Versammlung.</story>
@@ -1710,7 +1708,7 @@
     <gebiet type="Regionalverband" name="Region Stuttgart" gs="08110000" localpirates="http://piraten-region-stuttgart.de/">
       <parlament name="Regionalversammlung" seats="87" ris="https://gecms.region-stuttgart.org/">
         <mandat type="pirat">Ingo Mörl</mandat>
-        <fraktion type="none" />
+        <fraktion type="fremd" name="Die Linke" />
         <story>Als einziger der 12 Regionalverbände in Baden-Württemberg hat die Region Stauttgart eine politische Vertretung. Sie wird bei allgemeinen Kommunalwahlen direkt gewählt. Ihre Zuständigkeiten liegen in der Regionalplanung, insbesondere in den Bereichen Verkehr, Wirtschaft und Verwaltung. Bei der Kommunalwahl am 25. Mai 2014 erreichten die PIRATEN 1,1% der Stimmen.</story>
       </parlament>
     </gebiet>
@@ -2237,7 +2235,10 @@
     <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://ohv.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
         <mandat type="pirat">Thomas Bennühr</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="SPD/LGU/PIRATEN">
+          <partner partei="SPD" num="15" />
+          <partner name="Wählergruppe Landwirtschaft, Gartenbau und Umwelt (LGU)" partei="FW/UWG/etc." num="1" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Gemeinde" name="Großwoltersdorf" gs="12065117">
