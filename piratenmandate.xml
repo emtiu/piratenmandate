@@ -2204,8 +2204,12 @@
     <gebiet type="Landkreis" name="Landkreis Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
       <gebiet type="Stadt" name="Elsterwerda" gs="12062124">
         <parlament name="Stadtverordnetenversammlung" seats="19" ris="http://www.elsterwerda.de/svv/">
+          <oa url="http://openantrag.de/elsterwerda" />
           <mandat type="pirat">Kerstin Schenkel</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="G.E.L.P">
+            <partner name="LUN- Landwirtschaft/Umwelt/Natur" partei="FW/UWG/etc." num="1"/>
+            <partner partei="Einzelbewerber" num="2"/>
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
