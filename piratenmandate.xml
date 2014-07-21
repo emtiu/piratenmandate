@@ -695,6 +695,7 @@
         </parlament>
         <gebiet type="Stadt" name="Geldern" gs="05154012">
           <parlament name="Stadtrat" seats="40" ris="http://www.ratsinfoserver.de/ratsinfo/geldern">
+            <oa url="http://openantrag.de/geldern" />
             <mandat type="pirat">Markus Peukes</mandat>
             <fraktion type="gemeinsam" name="DIE LINKE/PIRATEN">
               <partner partei="LINKE" num="1" />
