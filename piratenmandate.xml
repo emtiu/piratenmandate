@@ -2334,13 +2334,13 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Mecklenburgische Seenplatte" gs="13071000">
       <parlament name="Kreistag" seats="77" ris="http://web.lk-seenplatte.de/ratsinfo/seenplatte">
-        <mandat type="pirat">Robert Schuldt</mandat>
+        <mandat type="pirat">Theodor Luttmer</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Stadt" name="Neubrandenburg" gs="13071107" localpirates="http://piratenpartei-mv.de/partei/stammtische/neubrandenburg/">
         <parlament name="Stadtvertretung" seats="42" ris="http://62.159.150.6:8080/ratsinfo/neubrandenburg">
-          <mandat type="pirat">Lars Reime</mandat>
+          <mandat type="pirat">Robert Schuldt</mandat>
            <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
         </parlament>
