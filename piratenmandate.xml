@@ -1094,6 +1094,7 @@
         </parlament>
         <gebiet type="Stadt" name="Beckum" gs="05570008">
           <parlament name="Stadtrat" seats="38" ris="https://www.beckum.de/sessionnet/sessionnetbi/infobi.php">
+            <oa url="http://openantrag.de/beckum" />
             <mandat type="pirat">Michael Ortner</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
@@ -2536,13 +2537,18 @@
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
       <gebiet type="Gemeinde" name="Möser" gs="15086145">
         <parlament name="Gemeinderat" seats="21" ris="https://www.gemeinde-moeser.de/sessionnet/bi/infobi.php">
+          <oa url="http://openantrag.de/moeser" />
           <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal">Michel Vorsprach</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Ehrlich / Grüne">
+            <partner partei="GRÜNE" name="Bündnis 90/Die Grünen" num="1"></partner>
+          </fraktion>
+          <story>Bei der Kommunalwahl am 25.5.2014 wurden in den Gemeinderat Michel Vorsprach (Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“, Mitglied der Piratenpartei) und Dr. Maik Barthel (Bündnis 90/Grüne) gewählt. Am 29.06.2014 bildeten Sie die Fraktion Ehrlich / Grüne.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Lostau" arbkey="1">
           <parlament name="Ortschaftsrat" seats="13" ris="https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/lostau/ortsbuergermeister/">
+            <oa url="http://openantrag.de/lostau" />
             <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal" multi="2">Michel Vorsprach</mandat>
-            <story>Michael Vorsprach ist Mitglied der Piratenpartei und wurde zusammen mit einer weiteren Kandidatin auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Ortschaftsrat Lostau gewählt. Die Liste erzielte 22,2% der Stimmen.</story>
+            <story>Michael Vorsprach ist Mitglied der Piratenpartei und wurde zusammen mit einer weiteren Kandidatin auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Ortschaftsrat Lostau gewählt. Die Liste erzielte 22,2% der Stimmen. Am 14.07.2014 bildeten Sie die Fraktion Ehrlich / Grüne.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -2573,6 +2579,7 @@
   <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
       <parlament name="Stadtrat" seats="37" ris="http://ratsinfo.eisenach.de/sessionnet/bi/infobi.php">
+        <oa url="http://openantrag.de/eisenach" />
         <mandat type="pirat">Johannes Erich Quentel</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
