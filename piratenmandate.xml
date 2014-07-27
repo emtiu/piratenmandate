@@ -2484,42 +2484,49 @@
       <parlament name="Kreistag" seats="54" ris="http://www.boerdekreis.de/bi/pa021.asp">
         <oa url="http://openantrag.de/boerde" />
         <mandat type="pirat">Marc Blanck</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="DIE GRÜNEN/PIRATEN">
+          <partner name="Bündnis 90/Die Grünen" partei="FW/UWG/etc." num="2" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,0% der Stimmen erreicht.</story>
       </parlament>
-      <gebiet type="Stadt" name="Oebisfelde-Weferlingen" gs="15083411">
+      <gebiet type="Stadt" name="Oebisfelde-Weferlingen" gs="15083411" localpirates="http://www.piraten-boerde.de/category/stadtrat-oebisfelde-weferlingen/">
         <parlament name="Gemeinderat" seats="28" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/pa021.asp">
           <oa url="http://openantrag.de/oebisfelde-weferlingen" />
           <mandat type="pirat">Thomas May</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="PIRATEN/GRÜNE">
+            <partner name="Bündnis 90/Die Grünen" partei="FW/UWG/etc." num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
         </parlament>
-        <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1">
+        <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1" localpirates="http://www.piraten-boerde.de/category/ortschaftsrat-oebisfelde/">
           <parlament name="Ortschaftsrat" seats="20" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/au020.asp?AULFDNR=35&amp;options=4">
             <mandat type="pirat">Alexander Harms</mandat>
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Gemeinde" name="Barleben" gs="15083040">
-        <parlament name="Gemeinderat" seats="21" ris="http://www.barleben.de/Startseite/Gemeinde/Politik-und-Verwaltung/Gemeinderat">
+      <gebiet type="Gemeinde" name="Barleben" gs="15083040" localpirates="http://www.piraten-boerde.de/category/gemeinderat-barleben/">
+        <parlament name="Gemeinderat" seats="21" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=1">
           <oa url="http://openantrag.de/barleben" />
           <mandat type="pirat">Thomas Pfeffer</mandat>
           <fraktion type="gemeinsam" name="FWG/PIRATEN">
             <partner name="Freie Wählergemeinschaft Barleben" partei="FW/UWG/etc." num="4" />
           </fraktion>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
         </parlament>
-        <gebiet type="Ortsteil" name="Ebendorf" arbkey="1">
-          <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37&amp;">
+        <gebiet type="Ortsteil" name="Ebendorf" arbkey="1" localpirates="http://www.piraten-boerde.de/category/ortschaftsrat-ebendorf/">
+          <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37">
             <mandat type="pirat" multi="2">Jens Barthel</mandat>
           </parlament>
         </gebiet>
       </gebiet>
       <gebiet type="Verbandsgemeinde" name="Westliche Börde" gs="15083540">
-        <gebiet type="Gemeinde" name="Ausleben" gs="15083035">
+        <gebiet type="Gemeinde" name="Ausleben" gs="15083035"  localpirates="http://www.piraten-boerde.de/category/gemeinderat-ausleben/">
           <parlament name="Gemeinderat" seats="12" ris="http://www.verbgem-westlicheboerde.de/politik/mitglieder.php?gremium=1176">
             <oa url="http://openantrag.de/ausleben" />
             <mandat type="pirat">Ernst Romoser</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="PIRATLINKE">
+              <partner name="DIE LINKE" partei="FW/UWG/etc." num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
