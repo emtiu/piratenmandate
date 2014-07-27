@@ -2349,6 +2349,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Nordwestmecklenburg" gs="13074000" localpirates="http://www.piraten-westmecklenburg.de//">
       <parlament name="Kreistag" seats="61" ris="http://ris.nordwestmecklenburg.de/sessionnet/buergerinfo/infobi.php">
+        <oa url="http://openantrag.de/nordwestmecklenburg" />
         <mandat type="pirat">Dennis Klüver</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht.</story>
@@ -2496,6 +2497,7 @@
         </parlament>
         <gebiet type="Ortsteil" name="Oebisfelde" arbkey="1">
           <parlament name="Ortschaftsrat" seats="20" ris="https://ratsinfo-online.de/oebisfelde-weferlingen-bi/au020.asp?AULFDNR=35&amp;options=4">
+            <oa url="http://openantrag.de/oebisfelde" />
             <mandat type="pirat">Alexander Harms</mandat>
           </parlament>
         </gebiet>
@@ -2510,6 +2512,7 @@
         </parlament>
         <gebiet type="Ortsteil" name="Ebendorf" arbkey="1">
           <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37&amp;">
+            <oa url="http://openantrag.de/barleben-ebendorf" />
             <mandat type="pirat" multi="2">Jens Barthel</mandat>
           </parlament>
         </gebiet>
