@@ -2518,6 +2518,7 @@
         </parlament>
         <gebiet type="Ortsteil" name="Ebendorf" arbkey="1" localpirates="http://www.piraten-boerde.de/category/ortschaftsrat-ebendorf/">
           <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37">
+            <oa url="http://openantrag.de/barleben-ebendorf" />
             <mandat type="pirat">Jens Barthel</mandat>
           </parlament>
         </gebiet>
