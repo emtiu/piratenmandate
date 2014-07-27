@@ -2515,16 +2515,10 @@
           </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
         </parlament>
-<<<<<<< HEAD
-        <gebiet type="Ortsteil" name="Ebendorf" arbkey="1">
-          <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37&amp;">
-            <oa url="http://openantrag.de/barleben-ebendorf" />
-            <mandat type="pirat" multi="2">Jens Barthel</mandat>
-=======
         <gebiet type="Ortsteil" name="Ebendorf" arbkey="1" localpirates="http://www.piraten-boerde.de/category/ortschaftsrat-ebendorf/">
           <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37">
+            <oa url="http://openantrag.de/barleben-ebendorf" />
             <mandat type="pirat">Jens Barthel</mandat>
->>>>>>> 698b387bb3a9eeedda8067b6c5e145efba2095c7
           </parlament>
         </gebiet>
       </gebiet>
