@@ -1979,6 +1979,7 @@
       </gebiet>
       <gebiet type="Gemeinde" name="Weiskirchen" gs="10042117">
         <parlament name="Gemeinderat" seats="27" ris="http://www.weiskirchen.de/politik.html">
+          <oa url="http://openantrag.de/weiskirchen" />
           <mandat type="pirat">Wolfgang Barth</mandat>
           <fraktion type="gemeinsam" name="Bunte Fraktion" url="https://kvmw.piratenpartei-saarland.de/mandate/gemeinderat-weiskirchen/">
             <partner partei="LINKE" num="1" />
