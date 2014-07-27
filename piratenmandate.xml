@@ -2485,7 +2485,7 @@
         <oa url="http://openantrag.de/boerde" />
         <mandat type="pirat">Marc Blanck</mandat>
         <fraktion type="gemeinsam" name="DIE GRÜNEN/PIRATEN">
-          <partner name="Bündnis 90/Die Grünen" partei="FW/UWG/etc." num="2" />
+          <partner partei="GRÜNE" num="2" />
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,0% der Stimmen erreicht.</story>
       </parlament>
@@ -2494,7 +2494,7 @@
           <oa url="http://openantrag.de/oebisfelde-weferlingen" />
           <mandat type="pirat">Thomas May</mandat>
           <fraktion type="gemeinsam" name="PIRATEN/GRÜNE">
-            <partner name="Bündnis 90/Die Grünen" partei="FW/UWG/etc." num="1" />
+            <partner partei="GRÜNE" num="1" />
           </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
         </parlament>
@@ -2515,7 +2515,7 @@
         </parlament>
         <gebiet type="Ortsteil" name="Ebendorf" arbkey="1" localpirates="http://www.piraten-boerde.de/category/ortschaftsrat-ebendorf/">
           <parlament name="Ortschaftsrat" seats="9" ris="http://bi.barleben.de/kp0040.asp?__kgrnr=37">
-            <mandat type="pirat" multi="2">Jens Barthel</mandat>
+            <mandat type="pirat">Jens Barthel</mandat>
           </parlament>
         </gebiet>
       </gebiet>
@@ -2524,8 +2524,8 @@
           <parlament name="Gemeinderat" seats="12" ris="http://www.verbgem-westlicheboerde.de/politik/mitglieder.php?gremium=1176">
             <oa url="http://openantrag.de/ausleben" />
             <mandat type="pirat">Ernst Romoser</mandat>
-            <fraktion type="gemeinsam" name="PIRATLINKE">
-              <partner name="DIE LINKE" partei="FW/UWG/etc." num="1" />
+            <fraktion type="gemeinsam" name="PIRATLINKE" url="http://www.piraten-boerde.de/tag/piratlinke/">
+              <partner partei="LINKE" num="1" />
             </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
           </parlament>
@@ -2546,16 +2546,15 @@
         <parlament name="Gemeinderat" seats="21" ris="https://www.gemeinde-moeser.de/sessionnet/bi/infobi.php">
           <oa url="http://openantrag.de/moeser" />
           <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal">Michel Vorsprach</mandat>
-          <fraktion type="gemeinsam" name="Ehrlich / Grüne">
-            <partner partei="GRÜNE" name="Bündnis 90/Die Grünen" num="1"></partner>
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25.5.2014 wurden in den Gemeinderat Michel Vorsprach (Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“, Mitglied der Piratenpartei) und Dr. Maik Barthel (Bündnis 90/Grüne) gewählt. Am 29.06.2014 bildeten Sie die Fraktion Ehrlich / Grüne.</story>
+          <fraktion type="fremd" name="Ehrlich/Grüne" />
+          <story>Bei der Kommunalwahl am 25.5.2014 wurde der Pirat Michel Vorsprach auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Gemeinderat gewählt. Zusammen mit Dr. Maik Barthel (Bündnis 90/Grüne) wurde am 29.06.2014 die Fraktion Ehrlich/Grüne gebildet.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Lostau" arbkey="1">
           <parlament name="Ortschaftsrat" seats="13" ris="https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/lostau/ortsbuergermeister/">
             <oa url="http://openantrag.de/lostau" />
             <mandat type="fremdliste" name="Transparenz und Demokratie für ganz Möser (EHRLICH)" from="Offene/Bunte/Lokal" multi="2">Michel Vorsprach</mandat>
-            <story>Michael Vorsprach ist Mitglied der Piratenpartei und wurde zusammen mit einer weiteren Kandidatin auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Ortschaftsrat Lostau gewählt. Die Liste erzielte 22,2% der Stimmen. Am 14.07.2014 bildeten Sie die Fraktion Ehrlich / Grüne.</story>
+            <fraktion type="fremd" name="Ehrlich/Grüne" />
+            <story>Michael Vorsprach wurde als Pirat zusammen mit einer weiteren Kandidatin auf der Liste der Wählergruppe „Transparenz und Demokratie für ganz Möser (EHRLICH)“ in den Ortschaftsrat Lostau gewählt. Die Liste erzielte 22,2% der Stimmen. Am 14.07.2014 wurde die Fraktion Ehrlich/Grüne gebildet.</story>
           </parlament>
         </gebiet>
       </gebiet>
