@@ -909,8 +909,10 @@
         <parlament name="Stadtrat" seats="52" ris="http://ris.leverkusen.de/bi/infobi.asp">
           <oa url="http://openantrag.de/leverkusen" />
           <mandat type="pirat">Dietmar Schaller</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+          <fraktion type="gemeinsam" name="Gruppe Piraten im Stadtrat" url="http://www.gruppe.piraten-leverkusen.de">
+            <partner partei="Einzelbewerber" num="1" />
+          </fraktion>            
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Der parteilose Ratsherr Uwe Bastian entschied sich nach der Kommunalwahl 2014 dazu, gemeinsam mit Dietmar Schaller von den PIRATEN die Gruppe PIRATEN im Rat der Stadt Leverkusen zu bilden.</story>
         </parlament>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
@@ -1127,6 +1129,7 @@
       <gebiet type="Landkreis" name="Kreis Lippe" gs="05766000" localpirates="https://blog.piratenpartei-nrw.de/lippe/">
         <gebiet type="Stadt" name="Bad Salzuflen" gs="05766008">
           <parlament name="Stadtrat" seats="48" ris="https://bad-salzuflen.ratsinfomanagement.net/">
+            <oa url="http://openantrag.de/bad-salzuflen" />
             <mandat type="pirat">Mirjam Sturman-Püttcher</mandat>
             <mandat type="transfer" from="Offene/Bunte/Lokal">Matthias Obenhaus</mandat>
             <fraktion type="piraten" />
@@ -1979,12 +1982,13 @@
       </gebiet>
       <gebiet type="Gemeinde" name="Weiskirchen" gs="10042117">
         <parlament name="Gemeinderat" seats="27" ris="http://www.weiskirchen.de/politik.html">
+          <oa url="http://openantrag.de/weiskirchen" />
           <mandat type="pirat">Wolfgang Barth</mandat>
           <fraktion type="gemeinsam" name="Bunte Fraktion" url="https://kvmw.piratenpartei-saarland.de/mandate/gemeinderat-weiskirchen/">
             <partner partei="LINKE" num="1" />
             <partner name="Grün-Alternative Liste Weiskirchen" partei="Offene/Bunte/Lokal" num="1" />
           </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,1% der Stimmen erreicht.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,0% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Ortsteil" name="Rappweiler-Zwalbach" arbkey="1">
           <parlament name="Ortsrat" seats="9" ris="http://www.weiskirchen.de/politik.html">
