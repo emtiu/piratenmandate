@@ -800,7 +800,9 @@
         <gebiet type="Stadt" name="Neukirchen-Vluyn" gs="05170028" localpirates="http://www.piraten-neukirchen-vluyn.de/">
           <parlament name="Stadtrat" seats="38" ris="http://www.neukirchen-vluyn.de/C12576540024DF00/html/97560FD399F17C79C1257674003C88CB?opendocument&amp;nid1=93266">
             <mandat type="pirat">Jochen Lobnig</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="FDP / Piraten" url="https://www.neukirchen-vluyn.de/C125767300615A3E/html/3F883DC857CF9CD4C1257674002C67BE?opendocument&amp;nid1=41165">
+              <partner partei="FDP" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
