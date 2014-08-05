@@ -1628,8 +1628,10 @@
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
       <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
         <mandat type="pirat">Heinz Zell</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
+        <fraktion type="fremd" name="B90/Grüne Ludwigshafen" url="http://www.gruene-lu.de/">
+	  <partner partei="Grüne" num="5" />
+        </fraktion>
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht. Heinz Zell schloss sich daraufhin der Grünen Fraktion an.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
@@ -1665,7 +1667,9 @@
       <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
         <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
           <mandat type="pirat">Ralf Berger</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="PiraDiLi">
+	    <partner partei="Die Linke" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
