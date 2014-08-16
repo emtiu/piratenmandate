@@ -824,13 +824,17 @@
       </parlament>
       <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
         <parlament name="Städteregionstag" seats="72" ris="http://gremieninfo.staedteregion-aachen.de/bi/allris.net.asp">
+          <oa url="http://openantrag.de/aachen-region" />
           <mandat type="pirat" multi="2">Udo Rüttgers</mandat>
           <mandat type="pirat" >Bertram Eckert</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Fraktion Piraten/UFW">
+            <partner name="Unabhängige und freie Wähler" partei="FW/UWG/etc." num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Aachen" gs="05334002">
           <parlament name="Stadtrat" seats="76" ris="http://ratsinfo.aachen.de/bi/pa021.asp">
+            <oa url="http://openantrag.de/aachen" />
             <mandat type="pirat">Marc Teuku</mandat>
             <mandat type="pirat">Udo Pütz</mandat>
             <mandat type="pirat">Sait Başkaya</mandat>
@@ -1641,6 +1645,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Trier" gs="07211000" localpirates="http://www.piraten-trier.de/">
       <parlament name="Stadtrat" seats="57" ris="https://info.trier.de/bi/allris.net.asp">
+        <oa url="http://openantrag.de/trier" />
         <mandat type="pirat">Dr. Darja Henseler</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
