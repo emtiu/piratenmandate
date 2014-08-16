@@ -800,7 +800,9 @@
         <gebiet type="Stadt" name="Neukirchen-Vluyn" gs="05170028" localpirates="http://www.piraten-neukirchen-vluyn.de/">
           <parlament name="Stadtrat" seats="38" ris="http://www.neukirchen-vluyn.de/C12576540024DF00/html/97560FD399F17C79C1257674003C88CB?opendocument&amp;nid1=93266">
             <mandat type="pirat">Jochen Lobnig</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="FDP / Piraten" url="https://www.neukirchen-vluyn.de/C125767300615A3E/html/3F883DC857CF9CD4C1257674002C67BE?opendocument&amp;nid1=41165">
+              <partner partei="FDP" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1632,8 +1634,8 @@
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
       <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
         <mandat type="pirat">Heinz Zell</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
+        <fraktion type="fremd" name="B90/GRÜNE Ludwigshafen" url="http://www.gruene-lu.de/" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht. Heinz Zell schloss sich daraufhin der Grünen-Fraktion an.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
@@ -1670,7 +1672,9 @@
       <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
         <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
           <mandat type="pirat">Ralf Berger</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="PiraDiLi">
+            <partner partei="LINKE" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
