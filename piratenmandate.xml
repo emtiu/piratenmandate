@@ -644,6 +644,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Mönchengladbach" gs="05116000" localpirates="https://wiki.piratenpartei.de/NRW:M%C3%B6nchengladbach">
         <parlament name="Stadtrat" seats="68" ris="http://www.moenchengladbach.de/index.php?id=rat_fraktionen">
+          <oa url="http://openantrag.de/moenchengladbach" />
           <mandat type="pirat">Reiner Gutowski</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht. Es besteht eine Gruppe namens „Die-Piraten-PARTEI“ mit der PARTEI.</story>
@@ -1847,6 +1848,7 @@
       </parlament>
       <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="https://muenchen.piratenpartei-bayern.de/">
         <parlament name="Stadtrat" seats="81" ris="http://www.ris-muenchen.de/RII2/RII/ris_mitglieder_trefferliste.jsp?nav=1">
+          <oa url="http://openantrag.de/muenchen" />
           <mandat type="pirat">Thomas Ranft</mandat>
           <fraktion type="gemeinsam" name="Freiheitsrechte Transparenz Bürgerbeteiligung">
             <partner partei="FDP" num="3" />
@@ -2377,6 +2379,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
       <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
+        <oa url="http://openantrag.de/vorpommern-greifswald" />
         <mandat type="pirat">Martin Banduch</mandat>
         <fraktion type="gemeinsam" name="Kom­pe­tenz für Vorpommern/PIRATEN">
           <partner name="Kom­pe­tenz für Vorpommern" partei="FW/UWG/etc." num="7" />
@@ -2385,6 +2388,7 @@
       </parlament>
       <gebiet type="Stadt" name="Greifswald" gs="13075039">
         <parlament name="Bürgerschaft" seats="43" ris="http://www.greifswald.de/politik/buergerschaft/ratsinformationssystem.html">
+          <oa url="http://openantrag.de/greifswald" />
           <mandat type="pirat">Milos Rodatos</mandat>
           <mandat type="pirat">Petra Dörwald</mandat>
           <fraktion type="gemeinsam" name="Kom­pe­tenz für Vorpommern/PIRATEN">
@@ -2414,6 +2418,7 @@
   <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
       <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
+        <oa url="http://openantrag.de/chemnitz" />
         <mandat type="pirat">Toni Rotter</mandat>
         <fraktion type="gemeinsam" name="VOSI / PIRATEN">
           <partner name="Volkssolidarität (Vosi)" partei="Offene/Bunte/Lokal" num="2" />
@@ -2423,6 +2428,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000" localpirates="http://www.piraten-dresden.de/">
       <parlament name="Stadtrat" seats="71" ris="http://ratsinfo.dresden.de/infobi.php">
+        <oa url="http://openantrag.de/dresden" />
         <mandat type="pirat">Dr. Martin Schulte-Wissermann</mandat>
         <mandat type="pirat">Norbert Engemaier</mandat>
         <fraktion type="none" />
