@@ -1755,6 +1755,41 @@
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
       </parlament>
+      <gebiet type="Stadtbezirk" name="Süd" arbkey="04">
+        <parlament name="Bezirksbeirat" seats="16">
+          <mandat type="pirat">Michael Knödler</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="West" arbkey="05">
+        <parlament name="Bezirksbeirat" seats="20">
+          <mandat type="pirat">David Münzing</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Bad Cannstatt" arbkey="11">
+        <parlament name="Bezirksbeirat" seats="20">
+          <mandat type="pirat">Roland Morlock</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Birkach" arbkey="12">
+        <parlament name="Bezirksbeirat" seats="9">
+          <mandat type="pirat">László Peters</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Möhringen" arbkey="17">
+        <parlament name="Bezirksbeirat" seats="17">
+          <mandat type="pirat">Christian Brugger-Burg</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Plieningen" arbkey="111">
+        <parlament name="Bezirksbeirat" seats="11">
+          <mandat type="pirat">Jochen Buchholz</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Vaihingen" arbkey="115">
+        <parlament name="Bezirksbeirat" seats="17">
+          <mandat type="pirat">Dr. Rainer Blind</mandat>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Stadtkreis" name="Ulm" gs="08421000" localpirates="http://www.piraten-ulm.de/">
       <parlament name="Gemeinderat" seats="41" ris="http://buergerinfo.ulm.de/infobi.php">
