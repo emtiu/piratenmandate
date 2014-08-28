@@ -715,7 +715,9 @@
         <gebiet type="Stadt" name="Mettmann" gs="05158024">
           <parlament name="Stadtrat" seats="44" ris="https://mettmann.more-rubin1.de/">
             <mandat type="pirat" multi="2">Ria Angelika Garcia Rodriguez</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="PIRATEN/LINKE" url="http://www.mettmann.de/rat/parteien/piraten-linke.php">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
