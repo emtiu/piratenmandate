@@ -1915,6 +1915,7 @@
       <gebiet type="Landkreis" name="Landkreis Starnberg" gs="09188000" localpirates="http://starnberg.ppby.de/">
         <gebiet type="Gemeinde" name="Gauting" gs="09188120">
           <parlament name="Gemeinderat" seats="25" ris="http://www.gauting.de/index.php?id=877">
+            <oa url="http://openantrag.de/gauting" />
             <mandat type="pirat">Tobias Mc Fadden</mandat>
             <fraktion type="none" />
             <story source="http://starnberg.ppby.de/gemeinderat-aktuell-einzelkaempfer-im-vierebuendnis/">Ausschussgemeinschaft mit ÖDP, UBG und Einzelbewerber</story>
