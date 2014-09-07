@@ -1340,6 +1340,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Witten" gs="05954036">
           <parlament name="Stadtrat" seats="72" ris="https://secure.stadt-witten.de/session/bis/infobi.asp">
+            <oa url="http://openantrag.de/witten" />
             <mandat type="pirat">Roland Löpke</mandat>
             <mandat type="pirat">Stefan Borggraefe</mandat>
             <fraktion type="piraten" />
