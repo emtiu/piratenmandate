@@ -1147,6 +1147,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Lemgo" gs="05766044">
           <parlament name="Stadtrat" seats="40" ris="https://lemgo.ratsinfomanagement.net/">
+            <oa url="http://openantrag.de/lemgo" />
             <mandat type="pirat">Christian Woelk</mandat>
             <fraktion type="gemeinsam" name="Gemeinsam für Lemgo – Die Linke und Piraten" url="http://gemeinsamfuerlemgo.wordpress.com/">
               <partner partei="LINKE" num="2" />
