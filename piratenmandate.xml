@@ -3,14 +3,6 @@
 
 <piratenmandate>
   <bundesland name="Schleswig-Holstein" gs="01000000" localpirates="http://landesportal.piratenpartei-sh.de/">
-    <gebiet type="Kreisfreie Stadt" name="Kiel" gs="01002000" localpirates="http://landesportal.piratenpartei-sh.de/kiel/">
-      <parlament name="Ratsversammlung" seats="53" ris="http://ratsinfo.kiel.de/bi/pa021.asp">
-        <oa url="http://openantrag.de/kiel" />
-        <mandat type="pirat">Sven Seele</mandat>
-        <mandat type="pirat">Marcel Schmidt</mandat>
-        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-kiel/" />
-      </parlament>
-    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Lübeck" gs="01003000" localpirates="http://landesportal.piratenpartei-sh.de/luebeck/">
       <parlament name="Bürgerschaft" seats="49" ris="http://luebeck.de/stadt_politik/buergerinfo/bi/pa021.asp">
         <oa url="http://openantrag.de/luebeck" />
@@ -337,30 +329,8 @@
           <partner partei="GRÜNE" num="7" />
         </fraktion>
       </parlament>
-      <gebiet type="Stadt" name="Hameln" gs="03252006">
-        <parlament name="Stadtrat" seats="43" ris="https://www.pvrat.hameln.de/">
-          <oa url="http://openantrag.de/hameln" />
-          <mandat type="pirat">Lars Reineke</mandat>
-          <fraktion type="gemeinsam" name="Piraten / DIE LINKE" url="http://piraten-linke-hameln.de/">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-      <gebiet type="Flecken" name="Coppenbrügge" gs="03252004">
-        <parlament name="Gemeinderat" seats="20" ris="http://www.coppenbruegge.de/gemeindeportal/gemeindevertreter.html">
-          <mandat type="pirat">Torben Friedrich</mandat>
-          <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-            <partner partei="SPD" num="7" />
-            <partner partei="GRÜNE" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
-<!-- Das Mandat im Kreistag wurde mit der PIRATEN-Liste gewonnen, wird aber (noch?) von einem Ausgetretenen ausgeübt.
-      <parlament name="Kreistag" seats="63" url="http://www.landkreis-harburg.de/allris/pa021.asp">
-        <story>It's complicated!</story>
-      </parlament>-->
       <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
         <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
           <oa url="http://openantrag.de/buchholz" />
@@ -1466,7 +1436,6 @@
       <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
         <oa url="http://openantrag.de/frankfurt-am-main" />
         <mandat type="pirat">Herbert Förster</mandat>
-        <mandat type="pirat">Martin Kliehm</mandat>
         <fraktion type="gemeinsam" name="ELF Piraten" url="http://www.elf-piraten.de/">
           <partner name="Europaliste Frankfurt" partei="Offene/Bunte/Lokal" num="1" />
         </fraktion>
@@ -2100,7 +2069,7 @@
 
   <bundesland name="Berlin" gs="11000000" localpirates="http://berlin.piratenpartei.de/">
     <gebiet type="Bezirk" name="Mitte" localkey="01" localpirates="http://www.piraten-mitte.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-mitte/bvv-online/pa021.asp">
+      <parlament name="Bezirksverordnetenversammlung" seats="53" ris="http://www.berlin.de/ba-mitte/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-mitte" />
         <mandat type="pirat">Tobias Kriesel</mandat>
         <mandat type="pirat">Christopher Lang</mandat>
@@ -2111,7 +2080,7 @@
       </parlament>
     </gebiet>
       <gebiet type="Bezirk" name="Friedrichshain-Kreuzberg" localkey="02" localpirates="http://piratenpartei-friedrichshain-kreuzberg.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/pa021.asp">
+      <parlament name="Bezirksverordnetenversammlung" seats="51" ris="http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-friedrichshain-kreuzberg" />
         <mandat type="pirat">Ralf Gerlich</mandat>
         <mandat type="pirat">Felix J. Just</mandat>
@@ -2165,17 +2134,15 @@
     <gebiet type="Bezirk" name="Tempelhof-Schöneberg" localkey="07" localpirates="http://piraten-tempelhof-schoeneberg.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/pa021.asp">
         <mandat type="pirat">Sven Wehrend</mandat>
-        <mandat type="pirat">Michael Ickes</mandat>
         <mandat type="pirat">Jan-Ulrich Franz</mandat>
-        <fraktion type="piraten" url="http://fraktion.piraten-ts.de/" />
-        <story source="http://piratenpartei-tempelhof-schoeneberg.de/?page_id=253">Im Februar 2013 hat eine parteilose Bezirksverordnete die PIRATEN-Fraktion verlassen, die auf der PIRATEN-Liste gewählt worden und seit der Konstituierung Mitglied der Fraktion gewesen war. Sie ist seitdem fraktions- und parteiloses Mitglied der Versammlung.</story>
+        <fraktion type="none" />
+        <story source="http://wiki.piratenpartei.de/BE:Tempelhof-Sch%C3%B6neberg/BVV">Zwei der ursprünglich vier auf der PIRATEN-Liste gewählten Mandatsträger sind inzwischen aus der Fraktion bzw. der Piratenpartei ausgetreten, sodass statt einer Fraktion nur noch eine Gruppe besteht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Neukölln" localkey="08" localpirates="http://piratenneukoelln.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-neukoelln/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-neukoelln" />
         <mandat type="pirat">Steffen Burger</mandat>
-        <mandat type="pirat">Anne Helm</mandat>
         <mandat type="pirat">Mathias Zaech</mandat>
         <mandat type="pirat">Semih Kasap</mandat>
         <fraktion type="piraten" url="http://piratenneukoelln.de/fraktion/" />
