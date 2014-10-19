@@ -1443,17 +1443,9 @@
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
       <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
         <oa url="http://openantrag.de/frankfurt-am-main" />
-<<<<<<< HEAD
         <mandat type="pirat">Herbert Förster</mandat>       
         <fraktion type="none" />
         <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“. Im September 2014 ist Martin Kliehm aus der Piratenpartei ausgetreten und hat sich zusammen mit Luigi Brillante der LINKE-Fraktion angeschlossen. Herbert Förster führt sein Mandat nun ohne Fraktion weiter.</story>
-=======
-        <mandat type="pirat">Herbert Förster</mandat>
-        <fraktion type="gemeinsam" name="ELF Piraten" url="http://www.elf-piraten.de/">
-          <partner name="Europaliste Frankfurt" partei="Offene/Bunte/Lokal" num="1" />
-        </fraktion>
-        <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
->>>>>>> 177db8060c208101f1aa26a3349bb7c8521ca7a3
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
@@ -1725,9 +1717,10 @@
     </gebiet>
     <gebiet type="Stadtkreis" name="Karlsruhe" gs="08212000" localpirates="http://www.piraten-karlsruhe.de/">
       <parlament name="Gemeinderat" seats="48" ris="http://web1.karlsruhe.de/Gemeinderat/ris/bi/kp0040.php?__kgrnr=32130&amp;">
+        <oa url="http://openantrag.de/karlsruhe" />
         <mandat type="pirat">Uwe Lancier</mandat>
         <mandat type="pirat">Erik Wohlfeil</mandat>
-        <fraktion type="gemeinsam" name="KAL/PIRATEN/Die PARTEI">
+        <fraktion type="gemeinsam" name="KULTFraktion">
           <partner name="Karlsruher Liste" partei="Offene/Bunte/Lokal" num="2" />
           <partner partei="Die PARTEI" num="1"/>
         </fraktion>
