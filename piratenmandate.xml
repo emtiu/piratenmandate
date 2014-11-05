@@ -563,6 +563,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Essen" gs="05113000" localpirates="https://blog.piratenpartei-nrw.de/essen/">
         <parlament name="Stadtrat" seats="90" ris="https://ris.essen.de/">
+          <oa url="http://openantrag.de/essen" />
           <mandat type="pirat">Kai Hemsteeg</mandat>
           <mandat type="pirat">Wilfried Adamy</mandat>
           <fraktion type="gemeinsam" name="PARTEI-PIRATEN">
@@ -847,6 +848,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Bonn" gs="05314000" localpirates="https://piratenpartei-bonn.de/">
         <parlament name="Stadtrat" seats="86" ris="http://www2.bonn.de/bo_ris/ris_sql/agm_index.asp">
+          <oa url="http://openantrag.de/bonn" />
           <mandat type="pirat">Felix Werner Ludwig Kopinski</mandat>
           <mandat type="pirat">Dr. Carsten Euwens</mandat>
           <fraktion type="none" />
@@ -862,6 +864,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Köln" gs="05315000" localpirates="https://www.piratenpartei-koeln.de/">
         <parlament name="Stadtrat" seats="90" ris="http://ratsinformation.stadt-koeln.de/infobi.asp">
+          <oa url="http://openantrag.de/koeln" />
           <mandat type="pirat">Thomas Hegenbarth</mandat>
           <mandat type="pirat">Lisa Hanna Gerlach</mandat>
           <fraktion type="none" />
@@ -939,6 +942,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Kerpen" gs="05362032">
           <parlament name="Stadtrat" seats="46" ris="https://sdnetrim.kdvz-frechen.de/rim4770/">
+            <oa url="http://openantrag.de/kerpen" />
             <mandat type="pirat">Bernd Janotta</mandat>
             <fraktion type="gemeinsam" name="BBK/Piraten">
               <partner name="Bürgerbündnis Kerpen" partei="FW/UWG/etc." num="1" />
@@ -971,6 +975,7 @@
         </parlament>
         <gebiet type="Stadt" name="Troisdorf" gs="05382068" localpirates="http://www.piratenpartei-troisdorf.de/">
           <parlament name="Stadtrat" seats="52" ris="https://agendaservice.net/ratsinfo/troisdorf">
+            <oa url="http://openantrag.de/troisdorf" />
             <mandat type="pirat">Wolfgang Roth</mandat>
             <fraktion type="gemeinsam" name="REGENBOGENPIRATEN">
               <partner partei="Offene/Bunte/Lokal" num="1" name="UWG Regenbogen" />
@@ -1097,12 +1102,16 @@
     <gebiet type="Bezirk" name="Regierungsbezirk Detmold" gs="05700000">
       <gebiet type="Kreisfreie Stadt" name="Bielefeld" gs="05711000" localpirates="http://www.piraten-bielefeld.de/">
         <parlament name="Stadtrat" seats="66" ris="https://anwendungen.bielefeld.de/bi/infobi.asp">
+          <oa url="http://openantrag.de/bielefeld" />
           <mandat type="pirat">Michael Gugat</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
+          <fraktion type="gemeinsam" name="Ratsgruppe Bürgernähe/Piraten" url="">
+            <partner partei="FW/UWG/etc." num="1" name="Wählergemeinschaft Bürgernähe" />
+          </fraktion>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 3.9.2014 hat sich Michael Gugat mit Christian Heißenberg von der Wählergemeinschaft Bürgernähe zur Ratsgruppe Bürgernähe/Piraten zusammengeschlossen, der vom Oberbürgermeister weiterhin die Anerkennung versagt bleibt.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Mitte" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://anwendungen.bielefeld.de/bi/kp0040.asp?__kgrnr=895910&amp;">
+            <oa url="http://openantrag.de/bielefeld-mitte" />
             <mandat type="pirat">Rüdiger Linde</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,2% der Stimmen erreicht.</story>
@@ -1268,6 +1277,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Herne" gs="05916000" localpirates="http://www.piraten-herne.de/">
         <parlament name="Stadtrat" seats="60" ris="http://www.herne.de/kommunen/herne/ttw.nsf/id/DE_Ratsinformationssystem">
+          <oa url="http://openantrag.de/herne" />
           <mandat type="pirat">Andreas Prennig</mandat>
           <mandat type="pirat">Bernd Schroeder</mandat>
           <fraktion type="gemeinsam" name="PIRATEN-AL">
@@ -1446,10 +1456,8 @@
       <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
         <oa url="http://openantrag.de/frankfurt-am-main" />
         <mandat type="pirat">Herbert Förster</mandat>
-        <fraktion type="gemeinsam" name="ELF Piraten" url="http://www.elf-piraten.de/">
-          <partner name="Europaliste Frankfurt" partei="Offene/Bunte/Lokal" num="1" />
-        </fraktion>
-        <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“.</story>
+        <fraktion type="none" />
+        <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“. Im September 2014 ist Martin Kliehm aus der Piratenpartei ausgetreten und hat sich zusammen mit Luigi Brillante der LINKE-Fraktion angeschlossen. Herbert Förster führt sein Mandat nun ohne Fraktion weiter.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
@@ -1619,6 +1627,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
       <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
+        <oa url="http://openantrag.de/ludwigshafen" />
         <mandat type="pirat">Heinz Zell</mandat>
         <fraktion type="fremd" name="B90/GRÜNE Ludwigshafen" url="http://www.gruene-lu.de/" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht. Heinz Zell schloss sich daraufhin der Grünen-Fraktion an.</story>
@@ -1721,9 +1730,10 @@
     </gebiet>
     <gebiet type="Stadtkreis" name="Karlsruhe" gs="08212000" localpirates="http://www.piraten-karlsruhe.de/">
       <parlament name="Gemeinderat" seats="48" ris="http://web1.karlsruhe.de/Gemeinderat/ris/bi/kp0040.php?__kgrnr=32130&amp;">
+        <oa url="http://openantrag.de/karlsruhe" />
         <mandat type="pirat">Uwe Lancier</mandat>
         <mandat type="pirat">Erik Wohlfeil</mandat>
-        <fraktion type="gemeinsam" name="KAL/PIRATEN/Die PARTEI">
+        <fraktion type="gemeinsam" name="KULT-Fraktion" url="http://www.kult-fraktion.de/">
           <partner name="Karlsruher Liste" partei="Offene/Bunte/Lokal" num="2" />
           <partner partei="Die PARTEI" num="1"/>
         </fraktion>
@@ -1732,6 +1742,7 @@
     </gebiet>
     <gebiet type="Stadtkreis" name="Stuttgart" gs="08111000" localpirates="http://www.piratenpartei-stuttgart.de/">
       <parlament name="Gemeinderat" seats="61" ris="http://www.stuttgart.de/external/show/ratsdokumente">
+        <oa url="http://openantrag.de/stuttgart" />
         <mandat type="pirat">Stefan Urbat</mandat>
         <fraktion type="gemeinsam" name="SÖS-LINKE-PluS">
           <partner name="Stuttgart Ökologisch Sozial (SÖS)" partei="Offene/Bunte/Lokal" num="3" />
@@ -2576,10 +2587,13 @@
     <gebiet type="Landkreis" name="Landkreis Harz" gs="15085000" localpirates="http://piratenpartei-harz.de/">
       <gebiet type="Stadt" name="Wernigerode" gs="15085370">
         <parlament name="Stadtrat" seats="41" ris="http://www.wernigerode.de/de/ratsinformationssystem.html">
+          <oa url="http://openantrag.de/wernigerode" />
           <mandat type="pirat">Denis Mau</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
-        </parlament>
+          <fraktion type="gemeinsam" name="B90/Die Grünen/Piraten-Fraktion" url="http://www.stadtratsfraktion-b90-die-gruenen-piraten.de">
+            <partner partei="GRÜNE" num="3" />
+          </fraktion>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 25.06.2014 haben wir Piraten zusammen mit Bündnis 90/Die Grünen eine Fraktion gebildet mit dem Namen: B90/Die Grünen/Piraten-Fraktion</story>
+</parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
