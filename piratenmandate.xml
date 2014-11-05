@@ -46,12 +46,6 @@
         </fraktion>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Kreis Rendsburg-Eckernförde" gs="01058000" localpirates="http://landesportal.piratenpartei-sh.de/rendsburg-eckernfoerde/">
-      <parlament name="Kreistag" seats="49" ris="http://www.kreis-rendsburg-eckernfoerde.de/politik/gremien_risoinfo_index__3_31_1_mitgliedergremium_detail.html">
-        <mandat type="pirat">Hans-Werner Last</mandat>
-        <fraktion type="none" />
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
       <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <oa url="http://openantrag.de/segeberg" />
@@ -526,7 +520,9 @@
       <parlament name="Landschaftsversammlung" seats="116" ris="https://dom.lvr.de/lvis/lvr_publik.nsf/WEB1LVers?ReadForm&amp;wp=13">
         <mandat type="pirat" multi="2">Rudi Ernst Lennartz</mandat>
         <mandat type="pirat" multi="2">Kai Hemsteeg</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="FREIE WÄHLER/PIRATEN">
+          <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="3" />
+        </fraktion>
         <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Die beiden „Landschaftsverbände“ in Nordrhein-Westfalen, die jeweils grob die Hälfte des Gebiets und der Bevölkerung abdecken, sind Gebietskörperschaften der kommunalen Selbstverwaltung und haben je eine „Landschaftsversammlung“ als Parlament. Diese wird nicht direkt gewählt, sondern nach den Wahlergebnissen bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten haben nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Ähnlich den Bezirkstagen in Bayern sind sie hauptsächlich für die Trägerschaft der Sozial-, Behinderten- und Jugendhilfe, insbesondere für Fach- und psychiatrische Krankenhäuser sowie Förderschulen zuständig.</story>
       </parlament>
     </gebiet>
@@ -539,11 +535,12 @@
       </parlament>
     </gebiet>
     <gebiet type="Regionalverband" name="Regionalverband Ruhr" arbkey="0">
-      <parlament name="Ruhrparlament" seats="83" ris="https://rvr-online.more-rubin1.de/recherche.php">
-        <mandat type="pirat">Dirk Pullem</mandat>
+      <parlament name="Ruhrparlament" seats="138" ris="https://rvr-online.more-rubin1.de/recherche.php">
+        <mandat type="pirat">Frank Fitzke</mandat>
         <mandat type="pirat">Dieter McDevitt</mandat>
+        <mandat type="pirat">Kai Hemsteeg</mandat>
         <fraktion type="piraten" />
-        <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Der Regionalverband Ruhr ist ein Zusammenschluss einiger kreisfreier Städte und Landkreise im Ruhrgebiet, dessen Gebietsgrenzen weder mit denen der fünf Regierungsbezirke noch mit denen der beiden Landschaftsverbände in Nordrhein-Westfalen übereinstimmen. Das Ruhrparlament wird nicht direkt gewählt, sondern nach den Wahlergebnissen bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten haben nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Das Ruhrparlament war historisch für die Planung der Kohleabbaus zuständig, heute befasst es sich hauptsächlich mit Regionsmarketing, Umwelt- und Freizeitförderung sowie Raumplanung und Geodaten.</story>
+        <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Der Regionalverband Ruhr ist ein Zusammenschluss einiger kreisfreier Städte und Landkreise im Ruhrgebiet, dessen Gebietsgrenzen weder mit denen der fünf Regierungsbezirke noch mit denen der beiden Landschaftsverbände in Nordrhein-Westfalen übereinstimmen. Das Ruhrparlament wird nicht direkt gewählt, sondern nach den Wahlergebnissen bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten haben nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Das Ruhrparlament war historisch für die Planung der Kohleabbaus zuständig, heute befasst es sich hauptsächlich mit Regionsmarketing, Umwelt- und Freizeitförderung sowie Raumplanung und Geodaten. Wegen enorm vieler Überhangmandate ist das Ruhrparlament aktuell extrem groß.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Regierungsbezirk Düsseldorf" gs="05100000">
@@ -565,7 +562,7 @@
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Essen" gs="05113000" localpirates="https://blog.piratenpartei-nrw.de/essen/">
-        <parlament name="Stadtrat" seats="90" ris="https://ris.essen.de/index.do;jsessionid=589B72FDD79068456DE70D9D7E9FB815">
+        <parlament name="Stadtrat" seats="90" ris="https://ris.essen.de/">
           <mandat type="pirat">Kai Hemsteeg</mandat>
           <mandat type="pirat">Wilfried Adamy</mandat>
           <fraktion type="gemeinsam" name="PARTEI-PIRATEN">
@@ -575,30 +572,27 @@
           <story source="http://www.die-erle.de/index.php/information-und-beitrag/erlenschlagzeilen/830-essen-bekommt-mit-den-partei-piraten-eine-neue-ratsfraktion.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht und eine Fraktionsgemeinschaft mit einem Stadtverordneten der PARTEI und einer ausgetretenen Ex-Linken eingegangen.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Essen I" localkey="1">
-          <parlament name="Bezirksvertretung" seats="19" ris="http://ris.essen.de/gremien.do?mode=0&amp;gid=577">
+          <parlament name="Bezirksvertretung" seats="19" ris="https://ris.essen.de/gremien/?__=LfyIfvCWq8SpBQj0MmyPaxCYv8Vm6Ti1Oi0Hb0KXrAVo5Pi0KezGcuDWtFUn4Ql0OGJ">
             <mandat type="pirat">Nils Malescha</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden im Stadtbezirk Essen I (Mitte, Frillendorf, Huttrop) 3,8% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadtbezirk" name="Essen III" localkey="3">
-          <parlament name="Bezirksvertretung" seats="19" ris="http://ris.essen.de/gremien.do?mode=0&amp;gid=579">
-            <mandat type="pirat">Gero Kühn</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden im Stadtbezirk Essen III (West) 2,9% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
         <gebiet type="Stadtbezirk" name="Essen VI" localkey="6">
-          <parlament name="Bezirksvertretung" seats="19" ris="http://ris.essen.de/gremien.do?mode=0&amp;gid=583">
+          <parlament name="Bezirksvertretung" seats="19" ris="https://ris.essen.de/gremien/?__=LfyIfvCWq8SpBQj0MmyPaxDZw8Us4Pi1Oi0Hb0KXrAVo5Pi0KezGcuDWtFUn4Ql0OGJ">
             <mandat type="pirat">Markus Hansmeier</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="BÜRGERFRAKTION">
+              <partner num="1" name="Essener Bürgerbündnis EBB" partei="FW/UWG/etc." />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden im Stadtbezirk Essen VI (Katernberg, Schonnebeck, Stoppenberg) 2,5% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Essen VIII" localkey="8">
-          <parlament name="Bezirksvertretung" seats="19" ris="http://ris.essen.de/gremien.do?mode=0&amp;gid=585">
+          <parlament name="Bezirksvertretung" seats="19" ris="https://ris.essen.de/gremien/?__=LfyIfvCWq8SpBQj0MmyPaxDZw8Uu4Xi1Oi0Hb0KXrAVo5Pi0KezGcuDWtFUn4Ql0OGJ">
             <mandat type="pirat">Andreas Hering</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="BÜRGERFRAKTION">
+              <partner num="1" name="Essener Bürgerbündnis EBB" partei="FW/UWG/etc." />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden im Stadtbezirk Essen VIII (Ruhrhalbinsel) 2,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -606,9 +600,7 @@
       <gebiet type="Kreisfreie Stadt" name="Krefeld" gs="05114000" localpirates="http://www.seidenstadt-piraten.de/">
         <parlament name="Stadtrat" seats="58" ris="http://www.ratsportal.krefeld.de/">
           <mandat type="pirat">Peter Klein</mandat>
-          <fraktion type="gemeinsam" name="Die PARTEI-Piraten">
-            <partner partei="Die PARTEI" num="1" />
-          </fraktion>
+          <fraktion type="none" />
           <story source="http://www.seidenstadt-piraten.de/2014/06/01/die-partei-und-piraten-beschliessen-gemeinsame-ratsgruppe/">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht und eine gemeinsame Gruppe mit einem Stadtverordneten der PARTEI gegründet.</story>
         </parlament>
       </gebiet>
@@ -722,14 +714,18 @@
         <gebiet type="Stadt" name="Dormagen" gs="05162004">
           <parlament name="Stadtrat" seats="44" ris="http://www.buergerinfo.dormagen.de/infobi.php">
             <mandat type="pirat">Rafael Kazior</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="PIRATEN/DIE LINKE">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Grevenbroich" gs="05162008" localpirates="https://blog.piratenpartei-nrw.de/grevenbroich/">
           <parlament name="Stadtrat" seats="50" ris="http://pvr.itk-rheinland.de/ratsinfo/grevenbroich">
             <mandat type="pirat">Sandra Schäfer</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="DIE LINKE/Piraten">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -744,7 +740,9 @@
         <gebiet type="Stadt" name="Meerbusch" gs="05162022" localpirates="http://www.piratenpartei-meerbusch.de/">
           <parlament name="Stadtrat" seats="52" ris="https://ratsinfo.meerbusch.de/bi/infobi.php">
             <mandat type="pirat">Marc Janßen</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="DIE LINKE und Piraten">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -888,10 +886,8 @@
         <parlament name="Stadtrat" seats="52" ris="http://ris.leverkusen.de/bi/infobi.asp">
           <oa url="http://openantrag.de/leverkusen" />
           <mandat type="pirat">Dietmar Schaller</mandat>
-          <fraktion type="gemeinsam" name="Gruppe Piraten im Stadtrat" url="http://www.gruppe.piraten-leverkusen.de">
-            <partner partei="Einzelbewerber" num="1" />
-          </fraktion>            
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Der parteilose Ratsherr Uwe Bastian entschied sich nach der Kommunalwahl 2014 dazu, gemeinsam mit Dietmar Schaller von den PIRATEN die Gruppe PIRATEN im Rat der Stadt Leverkusen zu bilden.</story>
+          <fraktion type="none" />
+          <story source="http://gruppe.piraten-leverkusen.de/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Der parteilose Ratsherr Uwe Bastian entschied sich nach der Kommunalwahl 2014 dazu, gemeinsam mit Dietmar Schaller von den PIRATEN die Gruppe PIRATEN im Rat der Stadt Leverkusen zu bilden.</story>
         </parlament>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
@@ -913,7 +909,9 @@
       <gebiet type="Landkreis" name="Rhein-Erft-Kreis" gs="05362000" localpirates="https://piratenpartei-rhein-erft.de/">
         <parlament name="Kreistag" seats="76" ris="http://www2.rhein-erft-kreis.de:8080/">
           <mandat type="pirat">Ioannis Milios</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Freie Wähler Rhein-Erft/Piratenpartei">
+            <partner name="Freie Wähler Rhein-Erft" partei="FW/UWG/etc." num="2" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Brühl" gs="05362012" localpirates="http://piratenpartei-bruehl.de/">
@@ -933,7 +931,9 @@
         <gebiet type="Stadt" name="Hürth" gs="05362028">
           <parlament name="Stadtrat" seats="44" ris="https://sdnetrim.kdvz-frechen.de/rim4390/">
             <mandat type="pirat">Alexandra Osburg</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="FDP-Piraten Fraktion">
+              <partner partei="FDP" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -950,13 +950,15 @@
       <gebiet type="Landkreis" name="Oberbergischer Kreis" gs="05374000">
         <parlament name="Kreistag" seats="58" ris="http://session.obk.de/bi/infobi.php">
           <mandat type="pirat">Knut Schumann</mandat>
-          <fraktion type="none" />
+          <fraktion type="fremd" name="DIE LINKE" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Gummersbach" gs="05374012">
           <parlament name="Stadtrat" seats="44" ris="http://ratsinfo.gummersbach.de/bi/infobi.php">
             <mandat type="pirat">Astrid Schumann</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Linke/Die Piraten">
+              <partner partei="LINKE" num="2" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1156,7 +1158,7 @@
         <gebiet type="Stadt" name="Paderborn" gs="05774032">
           <parlament name="Stadtrat" seats="64" ris="https://stadt-paderborn.rim.gkdpb.de/startseite">
             <mandat type="pirat">Arndt Heuvel</mandat>
-            <fraktion type="none" />
+            <fraktion type="fremd" name="Demokratische Initiative Paderborn" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1196,7 +1198,9 @@
         <parlament name="Stadtrat" seats="94" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;Collapse=3#3">
           <mandat type="pirat">Christian Gebel</mandat>
           <mandat type="pirat">Nadja Reigl</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
+            <partner num="6" partei="LINKE" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Innenstadt-Nord" arbkey="1">
@@ -1209,14 +1213,18 @@
         <gebiet type="Stadtbezirk" name="Innenstadt-West" arbkey="2">
           <parlament name="Bezirksvertretung" seats="19" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;CollapseView">
             <mandat type="pirat">Uwe Martinschledde</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
+              <partner num="2" partei="LINKE" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Innenstadt-Ost" arbkey="3">
           <parlament name="Bezirksvertretung" seats="19" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;CollapseView">
             <mandat type="pirat">Frank Rupprecht</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
+              <partner num="1" partei="LINKE" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1236,8 +1244,10 @@
         </gebiet>
         <gebiet type="Stadtbezirk" name="Mengede" arbkey="6">
           <parlament name="Bezirksvertretung" seats="19" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;CollapseView">
-            <mandat type="pirat">Rouven Dalmar</mandat>
-            <fraktion type="none" />
+            <mandat type="pirat">Dieter McDevitt</mandat>
+            <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
+              <partner num="1" partei="LINKE" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1345,9 +1355,7 @@
       <gebiet type="Landkreis" name="Märkischer Kreis" gs="05962000" localpirates="https://blog.piratenpartei-nrw.de/mk/">
         <parlament name="Kreistag" seats="66" ris="http://www.maerkischer-kreis.de/der-kreis/landrat-politik/politik/kreistag.php">
           <mandat type="pirat">Stefan Hermann Handzik</mandat>
-          <fraktion type="gemeinsam" name="Die Linke/Piraten">
-            <partner partei="LINKE" num="3" />
-          </fraktion>
+          <fraktion type="none" />>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Iserlohn" gs="05962024">
@@ -1391,7 +1399,9 @@
         <gebiet type="Stadt" name="Lünen" gs="05978024" localpirates="http://blog.piratenpartei-nrw.de/luenen/">
           <parlament name="Stadtrat" seats="54" ris="https://luenen.ratsinfomanagement.net/">
             <mandat type="pirat" multi="2">Ralf Schaefer</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Piraten/Freie Wähler Lünen">
+              <partner name="Freie Wähler Lünen" partei="FW/UWG/etc." num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
