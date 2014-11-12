@@ -2103,12 +2103,11 @@
       <parlament name="Bezirksverordnetenversammlung" seats="51" ris="http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-friedrichshain-kreuzberg" />
         <mandat type="pirat">Ralf Gerlich</mandat>
-        <mandat type="pirat">Felix J. Just</mandat>
         <mandat type="pirat">Jessica Zinn</mandat>
         <mandat type="pirat">Barbara Wisniowska</mandat>
         <mandat type="pirat">Michael Herbst</mandat>
         <fraktion type="piraten" url="http://piraten-xhain.de/" />
-        <story>Von 9 gewonnenen Sitzen konnten nur 5 besetzt werden, da es nur 8 Listenkandidaten gab, von denen zudem ein Teil gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit sind vier Sitze in der Versammlung unbesetzt.</story>
+        <story>Von 9 gewonnenen Sitzen konnten nur 5 besetzt werden, da es nur 8 Listenkandidaten gab, von denen zudem ein Teil gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit sind vier Sitze in der Versammlung unbesetzt. Ein Mandatsträger ist inzwischen aus der Piratenpartei ausgetreten.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Pankow" localkey="03" localpirates="http://piratenpartei-pankow.de/">
