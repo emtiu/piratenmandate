@@ -652,6 +652,7 @@
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Kleve" gs="05154000" localpirates="http://www.piratenpartei-kleve.de/">
         <parlament name="Kreistag" seats="58" ris="http://www.kreis-kleve.de/C125713400487381/html/F16A0094F580851BC12576330049400D?opendocument&amp;nid1=52024">
+          <oa url="http://openantrag.de/kleve" />
           <mandat type="pirat">Tim Reuter</mandat>
           <fraktion type="gemeinsam" name="Die Linke / Piraten">
             <partner partei="LINKE" num="2" />
@@ -1407,6 +1408,7 @@
         </parlament>
         <gebiet type="Stadt" name="Lünen" gs="05978024" localpirates="http://blog.piratenpartei-nrw.de/luenen/">
           <parlament name="Stadtrat" seats="54" ris="https://luenen.ratsinfomanagement.net/">
+            <oa url="http://openantrag.de/luenen" />
             <mandat type="pirat" multi="2">Ralf Schaefer</mandat>
             <fraktion type="gemeinsam" name="Piraten/Freie Wähler Lünen">
               <partner name="Freie Wähler Lünen" partei="FW/UWG/etc." num="1" />
@@ -1454,7 +1456,7 @@
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
       <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
         <oa url="http://openantrag.de/frankfurt-am-main" />
-        <mandat type="pirat">Herbert Förster</mandat>
+        <mandat type="pirat">Herbert Förster</mandat>       
         <fraktion type="none" />
         <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“. Im September 2014 ist Martin Kliehm aus der Piratenpartei ausgetreten und hat sich zusammen mit Luigi Brillante der LINKE-Fraktion angeschlossen. Herbert Förster führt sein Mandat nun ohne Fraktion weiter.</story>
       </parlament>
@@ -2169,12 +2171,14 @@
     </gebiet>
     <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
+        <oa url="http://openantrag.de/berlin-treptow-koepenick" />
         <mandat type="pirat">Cornelius Engelmann-Strauß</mandat>
-        <mandat type="pirat">Monika Belz</mandat>
         <mandat type="pirat">Volker Schröder</mandat>
         <mandat type="pirat">René Pönitz</mandat>
-        <fraktion type="piraten" url="http://pf-tk.de/" />
-        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
+        <fraktion type="piraten" url="http://pf-tk.de/">
+          <partner partei="Einzelbewerber" num="1" />
+        </fraktion>
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt. Monika Belz ist 2014 aus der Piratenpartei ausgetreten.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
@@ -2588,10 +2592,10 @@
           <oa url="http://openantrag.de/wernigerode" />
           <mandat type="pirat">Denis Mau</mandat>
           <fraktion type="gemeinsam" name="B90/Die Grünen/Piraten-Fraktion" url="http://www.stadtratsfraktion-b90-die-gruenen-piraten.de">
-            <partner partei="GRÜNE" num="3" />
+            <partner partei="B90/GRÜNE" num="3" />
           </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 25.06.2014 haben wir Piraten zusammen mit Bündnis 90/Die Grünen eine Fraktion gebildet mit dem Namen: B90/Die Grünen/Piraten-Fraktion</story>
-</parlament>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 25.06.2014 haben wir Piraten zusammen mit Bündis 90/ Die Grünen eine Fraktion gebildet, mit der Bezeichung: B90/Die Grünen /Piraten-Fraktion</story>
+        </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Jerichower Land" gs="15086000">
