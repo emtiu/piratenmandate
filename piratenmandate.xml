@@ -1104,7 +1104,7 @@
         <parlament name="Stadtrat" seats="66" ris="https://anwendungen.bielefeld.de/bi/infobi.asp">
           <oa url="http://openantrag.de/bielefeld" />
           <mandat type="pirat">Michael Gugat</mandat>
-          <fraktion type="gemeinsam" name="Ratsgruppe Bürgernähe/Piraten" url="">
+          <fraktion type="gemeinsam" name="Ratsgruppe Bürgernähe/Piraten">
             <partner partei="FW/UWG/etc." num="1" name="Wählergemeinschaft Bürgernähe" />
           </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 3.9.2014 hat sich Michael Gugat mit Christian Heißenberg von der Wählergemeinschaft Bürgernähe zur Ratsgruppe Bürgernähe/Piraten zusammengeschlossen, der vom Oberbürgermeister weiterhin die Anerkennung versagt bleibt.</story>
@@ -2175,10 +2175,8 @@
         <mandat type="pirat">Cornelius Engelmann-Strauß</mandat>
         <mandat type="pirat">Volker Schröder</mandat>
         <mandat type="pirat">René Pönitz</mandat>
-        <fraktion type="piraten" url="http://pf-tk.de/">
-          <partner partei="Einzelbewerber" num="1" />
-        </fraktion>
-        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt. Monika Belz ist 2014 aus der Piratenpartei ausgetreten.</story>
+        <fraktion type="piraten" url="http://pf-tk.de/" />
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt. Zudem ist eine Mandatsträgerin 2014 aus der Piratenpartei ausgetreten. Der PIRATEN-Fraktion gehört auch ein parteiloser Einzelbewerber an.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
@@ -2594,7 +2592,7 @@
           <fraktion type="gemeinsam" name="B90/Die Grünen/Piraten-Fraktion" url="http://www.stadtratsfraktion-b90-die-gruenen-piraten.de">
             <partner partei="B90/GRÜNE" num="3" />
           </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 25.06.2014 haben wir Piraten zusammen mit Bündis 90/ Die Grünen eine Fraktion gebildet, mit der Bezeichung: B90/Die Grünen /Piraten-Fraktion</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Im Juni 2014 hat der Piraten-Mandatsträger zusammen mit den Grünen eine Fraktion gebildet.</story>
         </parlament>
       </gebiet>
     </gebiet>
