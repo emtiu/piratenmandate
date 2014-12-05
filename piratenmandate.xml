@@ -1627,7 +1627,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
-      <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
+      <parlament name="Stadtrat" seats="60" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
         <oa url="http://openantrag.de/ludwigshafen" />
         <mandat type="pirat">Heinz Zell</mandat>
         <fraktion type="fremd" name="B90/GRÜNE Ludwigshafen" url="http://www.gruene-lu.de/" />
@@ -1635,14 +1635,14 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
-      <parlament name="Stadtrat" seats="61" ris="https://bi.mainz.de/infobi.php">
+      <parlament name="Stadtrat" seats="60" ris="https://bi.mainz.de/infobi.php">
         <mandat type="pirat">Xander Dorn</mandat>
         <fraktion type="fremd" name="DIE LINKE" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Trier" gs="07211000" localpirates="http://www.piraten-trier.de/">
-      <parlament name="Stadtrat" seats="57" ris="https://info.trier.de/bi/allris.net.asp">
+      <parlament name="Stadtrat" seats="56" ris="https://info.trier.de/bi/allris.net.asp">
         <oa url="http://openantrag.de/trier" />
         <mandat type="pirat">Dr. Darja Henseler</mandat>
         <fraktion type="none" />
@@ -1650,7 +1650,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
-      <parlament name="Kreistag" seats="46" ris="https://altenkirchen.more-rubin1.de/">
+      <parlament name="Kreistag" seats="45" ris="https://altenkirchen.more-rubin1.de/">
         <mandat type="pirat">Hans-Peter König</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
@@ -1658,7 +1658,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
       <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
-        <parlament name="Stadtrat" seats="25" ris="http://www.osthofen.de/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=78">
+        <parlament name="Stadtrat" seats="24" ris="http://www.osthofen.de/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=78">
           <mandat type="fremdliste" name="Bürgerverein Wonnegau e.V." from="FW/UWG/etc.">Bernhard Furch</mandat>
           <fraktion type="fremd" name="Bürgerverein Wonnegau e.V." />
         </parlament>
@@ -1666,7 +1666,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
       <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
-        <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
+        <parlament name="Gemeinderat" seats="36" ris="http://buergerinfo.hassloch.de/infobi.php">
           <mandat type="pirat">Ralf Berger</mandat>
           <fraktion type="gemeinsam" name="PiraDiLi">
             <partner partei="LINKE" num="1" />
@@ -1675,7 +1675,7 @@
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Quirnheim" gs="07332042">
-        <parlament name="Gemeinderat" seats="13" ris="">
+        <parlament name="Gemeinderat" seats="12" ris="">
           <mandat type="fremdliste" name="Würtz" from="Offene/Bunte/Lokal">Felix Würtz</mandat>
         </parlament>
       </gebiet>
@@ -1698,13 +1698,13 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
-        <parlament name="Verbandsgemeinderat" seats="29" ris="http://www2.hermeskeil.de/bi/infobi.php">
+        <parlament name="Verbandsgemeinderat" seats="28" ris="http://www2.hermeskeil.de/bi/infobi.php">
           <mandat type="pirat">Ottmar Muno</mandat>
           <fraktion type="none" />
           <story>Bereits 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt und trat später in die Piratenpartei ein. Bei der Kommunalwahl am 25. Mai 2014 konnte er sein Mandat mit 2,9% der Stimmen verteidigen.</story>
         </parlament>
         <gebiet type="Stadt" name="Hermeskeil" gs="07235045">
-          <parlament name="Stadtrat" seats="23" ris="http://www2.hermeskeil.de/bi/infobi.php">
+          <parlament name="Stadtrat" seats="22" ris="http://www2.hermeskeil.de/bi/infobi.php">
             <mandat type="pirat" multi="2">Ottmar Muno</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,3% der Stimmen erreicht. Ottmar Muno vertritt die Piraten auf Stadt- und Verbandsgemeindeebene.</story>
