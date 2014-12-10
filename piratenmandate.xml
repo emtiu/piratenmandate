@@ -2172,11 +2172,10 @@
     <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-treptow-koepenick" />
-        <mandat type="pirat">Cornelius Engelmann-Strauß</mandat>
         <mandat type="pirat">Volker Schröder</mandat>
         <mandat type="pirat">René Pönitz</mandat>
         <fraktion type="piraten" url="http://pf-tk.de/" />
-        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt. Zudem ist eine Mandatsträgerin 2014 aus der Piratenpartei ausgetreten. Der PIRATEN-Fraktion gehört auch ein parteiloser Einzelbewerber an.</story>
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab, ein Sitz in der Versammlung ist damit unbesetzt. Zwei Mandatsträger sind im Jahr 2014 aus der Piratenpartei ausgetreten, bleiben aber Mitglieder der Fraktion.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
