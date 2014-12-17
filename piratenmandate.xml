@@ -49,9 +49,10 @@
     <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
       <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <oa url="http://openantrag.de/segeberg" />
-        <mandat type="pirat">Thomas Wilken</mandat>
         <mandat type="pirat">Toni Köppen</mandat>
-        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
+        <fraktion type="gemeinsam" name="PIRATEN/Neue Liberale" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/">
+					<partner partei="Neue Liberale" num="1" />
+				</fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
@@ -2589,7 +2590,7 @@
           <oa url="http://openantrag.de/wernigerode" />
           <mandat type="pirat">Denis Mau</mandat>
           <fraktion type="gemeinsam" name="B90/Die Grünen/Piraten-Fraktion" url="http://www.stadtratsfraktion-b90-die-gruenen-piraten.de">
-            <partner partei="B90/GRÜNE" num="3" />
+            <partner partei="GRÜNE" num="3" />
           </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Im Juni 2014 hat der Piraten-Mandatsträger zusammen mit den Grünen eine Fraktion gebildet.</story>
         </parlament>
