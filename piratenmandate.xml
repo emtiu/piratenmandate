@@ -34,7 +34,9 @@
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Christian Thiessen</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Insulaner/PIRATEN" url="http://insulaner-piraten.de/">
+						<partner name="Die Insulaner" partei="Offene/Bunte/Lokal" num="1" />
+					</fraktion>
         </parlament>
       </gebiet>
     </gebiet>
