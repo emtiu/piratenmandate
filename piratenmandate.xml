@@ -376,9 +376,9 @@
         <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
           <mandat type="pirat">Aljoscha Rittner</mandat>
           <fraktion type="gemeinsam" name="Bunte Ratsgruppe Uslar" url="http://www.bunte-ratsgruppe-uslar.de/">
-            <partner partei="GRÜNE" num="2"></partner>
-            <partner partei="LINKE" num="1"></partner>
-            <partner partei="Einzelbewerber" num="1"></partner>
+            <partner partei="GRÜNE" num="2" />
+            <partner partei="LINKE" num="1" />
+            <partner partei="Einzelbewerber" num="1" />
           </fraktion>
         </parlament>
       </gebiet>
@@ -411,7 +411,7 @@
         <parlament name="Gemeinderat" seats="28" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=6&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat" multi="2">Max Rother</mandat>
           <fraktion type="gemeinsam" name="Piraten und FDP">
-            <partner partei="FDP" num="1"></partner>
+            <partner partei="FDP" num="1" />
           </fraktion>
         </parlament>
         <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
