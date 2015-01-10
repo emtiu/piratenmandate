@@ -105,6 +105,7 @@
         <mandat type="pirat">Hans-Jürgen Hey</mandat>
         <fraktion type="gemeinsam" name="Linke &amp; Piraten">
           <partner partei="LINKE" num="1" />
+          <partner partei="Einzelbewerber" num="1" />
         </fraktion>
         <story source="http://www.piratenhannover.de/3659/neue-gruppe-in-der-regionsversammlung-fleischmann-die-linke-und-hey-piraten/">Ralf Kleyer und Hans-Jürgen Hey waren im September 2011 auf der PIRATEN-Liste in die Regionsversammlung gewählt worden und hatten eine PIRATEN-Fraktion gebildet. Im September 2013 trat aber Ralf Kleyer aus der Piratenpartei aus. Mit Auflösung der PIRATEN-Fraktion schloss sich Hans-Jürgen Hey mit einem Abgeordneten der Linken zu einer Gruppe zusammen.</story>
       </parlament>
@@ -139,10 +140,11 @@
         <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
           <oa url="http://openantrag.de/laatzen" />
           <mandat type="pirat">Heiko Schönemann</mandat>
-          <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
+          <fraktion type="gemeinsam" name="Mehrheitsgruppe SPD, Grünen, Linke Piraten">
+            <partner partei="SPD" num="15" />
+            <partner partei="GRÜNE" num="5" />
             <partner partei="LINKE" num="1" />
           </fraktion>
-<!--          <story source="http://www.piraten-laatzen.de/aktuelles/auflosung-der-gruppe-die-linke-und-piraten-glup">Zunächst hatte eine Fraktionsgemeinschaft (in Niedersachsen „Gruppe“) mit der Linken bestanden, die aber inzwischen nach Ausscheiden der Linken-Abgeordneten aufgelöst wurde.</story>-->
         </parlament>
         <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
           <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
@@ -312,20 +314,10 @@
         <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
           <oa url="http://openantrag.de/goettingen" />
           <mandat type="pirat">Martin Rieth</mandat>
-          <mandat type="pirat">Tobias Schleuß</mandat>
+          <mandat type="pirat">Meinhart Ramaswamy</mandat>
           <fraktion type="piraten" url="http://www.piratenpartei-goettingen.de/ratsfraktion" />
         </parlament>
       </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
-      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <oa url="http://openantrag.de/hameln-pyrmont" />
-        <mandat type="pirat">Constantin Grosch</mandat>
-        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-          <partner partei="SPD" num="20" />
-          <partner partei="GRÜNE" num="7" />
-        </fraktion>
-      </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
       <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
@@ -357,13 +349,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
-      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
-        <oa url="http://openantrag.de/hildesheim" />
-        <mandat type="pirat">Jason Peper</mandat>
-        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
       <gebiet type="Stadt" name="Hildesheim" gs="03254021">
         <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
           <oa url="http://openantrag.de/hildesheim-stadt" />
@@ -441,9 +426,9 @@
         <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <oa url="http://openantrag.de/uelzen" />
           <mandat type="pirat">Rolf Tischer</mandat>
-          <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
-            <partner name="WIR für Uelzen" partei="FW/UWG/etc." num="2" />
+          <fraktion type="gemeinsam" name="Piraten / Bündnis 21/RRP / Freies Ratsmitglied">
             <partner partei="Bündnis 21/RRP" num="1" />
+            <partner partei="Einzelbewerber" num="1" />
           </fraktion>
         </parlament>
       </gebiet>
