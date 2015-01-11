@@ -34,7 +34,9 @@
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat">Christian Thiessen</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="Insulaner/PIRATEN" url="http://insulaner-piraten.de/">
+						<partner name="Die Insulaner" partei="Offene/Bunte/Lokal" num="1" />
+					</fraktion>
         </parlament>
       </gebiet>
     </gebiet>
@@ -49,9 +51,10 @@
     <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
       <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <oa url="http://openantrag.de/segeberg" />
-        <mandat type="pirat">Thomas Wilken</mandat>
         <mandat type="pirat">Toni Köppen</mandat>
-        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
+        <fraktion type="gemeinsam" name="PIRATEN/Neue Liberale" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/">
+					<partner partei="Neue Liberale" num="1" />
+				</fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
@@ -102,6 +105,7 @@
         <mandat type="pirat">Hans-Jürgen Hey</mandat>
         <fraktion type="gemeinsam" name="Linke &amp; Piraten">
           <partner partei="LINKE" num="1" />
+          <partner partei="Einzelbewerber" num="1" />
         </fraktion>
         <story source="http://www.piratenhannover.de/3659/neue-gruppe-in-der-regionsversammlung-fleischmann-die-linke-und-hey-piraten/">Ralf Kleyer und Hans-Jürgen Hey waren im September 2011 auf der PIRATEN-Liste in die Regionsversammlung gewählt worden und hatten eine PIRATEN-Fraktion gebildet. Im September 2013 trat aber Ralf Kleyer aus der Piratenpartei aus. Mit Auflösung der PIRATEN-Fraktion schloss sich Hans-Jürgen Hey mit einem Abgeordneten der Linken zu einer Gruppe zusammen.</story>
       </parlament>
@@ -136,10 +140,11 @@
         <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
           <oa url="http://openantrag.de/laatzen" />
           <mandat type="pirat">Heiko Schönemann</mandat>
-          <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
+          <fraktion type="gemeinsam" name="Mehrheitsgruppe SPD, Grünen, Linke Piraten">
+            <partner partei="SPD" num="15" />
+            <partner partei="GRÜNE" num="5" />
             <partner partei="LINKE" num="1" />
           </fraktion>
-<!--          <story source="http://www.piraten-laatzen.de/aktuelles/auflosung-der-gruppe-die-linke-und-piraten-glup">Zunächst hatte eine Fraktionsgemeinschaft (in Niedersachsen „Gruppe“) mit der Linken bestanden, die aber inzwischen nach Ausscheiden der Linken-Abgeordneten aufgelöst wurde.</story>-->
         </parlament>
         <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
           <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
@@ -309,20 +314,10 @@
         <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
           <oa url="http://openantrag.de/goettingen" />
           <mandat type="pirat">Martin Rieth</mandat>
-          <mandat type="pirat">Tobias Schleuß</mandat>
+          <mandat type="pirat">Meinhart Ramaswamy</mandat>
           <fraktion type="piraten" url="http://www.piratenpartei-goettingen.de/ratsfraktion" />
         </parlament>
       </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hameln-Pyrmont" gs="03252000" localpirates="http://www.piraten-hameln.de/">
-      <parlament name="Kreistag" seats="54" ris="https://agendaservice.net/ratsinfo/hamelnpyrmont/Committee.html?orgid=25&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <oa url="http://openantrag.de/hameln-pyrmont" />
-        <mandat type="pirat">Constantin Grosch</mandat>
-        <fraktion type="gemeinsam" name="SPD/GRÜNE/PIRATEN">
-          <partner partei="SPD" num="20" />
-          <partner partei="GRÜNE" num="7" />
-        </fraktion>
-      </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
       <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
@@ -354,13 +349,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
-      <parlament name="Kreistag" seats="63" ris="http://87.106.2.115:8080/ratsinfo/hildesheimlk/Committee.html?orgid=7&amp;o=1&amp;oc=1&amp;ob=1#current">
-        <oa url="http://openantrag.de/hildesheim" />
-        <mandat type="pirat">Jason Peper</mandat>
-        <fraktion type="gemeinsam" name="PiraDiLi" url="http://www.piratenpartei-hildesheim.de/kommunalpolitik/piradili-im-kreistag/">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
       <gebiet type="Stadt" name="Hildesheim" gs="03254021">
         <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
           <oa url="http://openantrag.de/hildesheim-stadt" />
@@ -388,9 +376,9 @@
         <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
           <mandat type="pirat">Aljoscha Rittner</mandat>
           <fraktion type="gemeinsam" name="Bunte Ratsgruppe Uslar" url="http://www.bunte-ratsgruppe-uslar.de/">
-            <partner partei="GRÜNE" num="2"></partner>
-            <partner partei="LINKE" num="1"></partner>
-            <partner partei="Einzelbewerber" num="1"></partner>
+            <partner partei="GRÜNE" num="2" />
+            <partner partei="LINKE" num="1" />
+            <partner partei="Einzelbewerber" num="1" />
           </fraktion>
         </parlament>
       </gebiet>
@@ -423,7 +411,7 @@
         <parlament name="Gemeinderat" seats="28" ris="http://87.106.223.12:8080/ratsinfo/ilsede/Committee.html?orgid=6&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat" multi="2">Max Rother</mandat>
           <fraktion type="gemeinsam" name="Piraten und FDP">
-            <partner partei="FDP" num="1"></partner>
+            <partner partei="FDP" num="1" />
           </fraktion>
         </parlament>
         <gebiet type="Ortsteil" name="Klein Ilsede" arbkey="1">
@@ -438,9 +426,9 @@
         <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <oa url="http://openantrag.de/uelzen" />
           <mandat type="pirat">Rolf Tischer</mandat>
-          <fraktion type="gemeinsam" name="WIR für Uelzen/Piraten/Bündnis 21/RRP-Gruppe">
-            <partner name="WIR für Uelzen" partei="FW/UWG/etc." num="2" />
+          <fraktion type="gemeinsam" name="Piraten / Bündnis 21/RRP / Freies Ratsmitglied">
             <partner partei="Bündnis 21/RRP" num="1" />
+            <partner partei="Einzelbewerber" num="1" />
           </fraktion>
         </parlament>
       </gebiet>
@@ -1108,7 +1096,7 @@
         <parlament name="Stadtrat" seats="66" ris="https://anwendungen.bielefeld.de/bi/infobi.asp">
           <oa url="http://openantrag.de/bielefeld" />
           <mandat type="pirat">Michael Gugat</mandat>
-          <fraktion type="gemeinsam" name="Ratsgruppe Bürgernähe/Piraten" url="">
+          <fraktion type="gemeinsam" name="Ratsgruppe Bürgernähe/Piraten">
             <partner partei="FW/UWG/etc." num="1" name="Wählergemeinschaft Bürgernähe" />
           </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 3.9.2014 hat sich Michael Gugat mit Christian Heißenberg von der Wählergemeinschaft Bürgernähe zur Ratsgruppe Bürgernähe/Piraten zusammengeschlossen, der vom Oberbürgermeister weiterhin die Anerkennung versagt bleibt.</story>
@@ -1632,7 +1620,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
-      <parlament name="Stadtrat" seats="61" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
+      <parlament name="Stadtrat" seats="60" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
         <oa url="http://openantrag.de/ludwigshafen" />
         <mandat type="pirat">Heinz Zell</mandat>
         <fraktion type="fremd" name="B90/GRÜNE Ludwigshafen" url="http://www.gruene-lu.de/" />
@@ -1640,14 +1628,14 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
-      <parlament name="Stadtrat" seats="61" ris="https://bi.mainz.de/infobi.php">
+      <parlament name="Stadtrat" seats="60" ris="https://bi.mainz.de/infobi.php">
         <mandat type="pirat">Xander Dorn</mandat>
         <fraktion type="fremd" name="DIE LINKE" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Trier" gs="07211000" localpirates="http://www.piraten-trier.de/">
-      <parlament name="Stadtrat" seats="57" ris="https://info.trier.de/bi/allris.net.asp">
+      <parlament name="Stadtrat" seats="56" ris="https://info.trier.de/bi/allris.net.asp">
         <oa url="http://openantrag.de/trier" />
         <mandat type="pirat">Dr. Darja Henseler</mandat>
         <fraktion type="none" />
@@ -1655,7 +1643,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Altenkirchen" gs="07132000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_Altenkirchen-Westerwald">
-      <parlament name="Kreistag" seats="46" ris="https://altenkirchen.more-rubin1.de/">
+      <parlament name="Kreistag" seats="45" ris="https://altenkirchen.more-rubin1.de/">
         <mandat type="pirat">Hans-Peter König</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
@@ -1663,7 +1651,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Alzey-Worms" gs="07331000">
       <gebiet type="Stadt" name="Osthofen" gs="07331055" localpirates="">
-        <parlament name="Stadtrat" seats="25" ris="http://www.osthofen.de/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=78">
+        <parlament name="Stadtrat" seats="24" ris="http://www.osthofen.de/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=78">
           <mandat type="fremdliste" name="Bürgerverein Wonnegau e.V." from="FW/UWG/etc.">Bernhard Furch</mandat>
           <fraktion type="fremd" name="Bürgerverein Wonnegau e.V." />
         </parlament>
@@ -1671,7 +1659,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Bad Dürkheim" gs="07332000" localpirates="http://www.piratenpartei-mittelhaardt.de/">
       <gebiet type="Gemeinde" name="Haßloch" gs="07332025">
-        <parlament name="Gemeinderat" seats="37" ris="http://buergerinfo.hassloch.de/infobi.php">
+        <parlament name="Gemeinderat" seats="36" ris="http://buergerinfo.hassloch.de/infobi.php">
           <mandat type="pirat">Ralf Berger</mandat>
           <fraktion type="gemeinsam" name="PiraDiLi">
             <partner partei="LINKE" num="1" />
@@ -1680,7 +1668,7 @@
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Quirnheim" gs="07332042">
-        <parlament name="Gemeinderat" seats="13" ris="">
+        <parlament name="Gemeinderat" seats="12" ris="">
           <mandat type="fremdliste" name="Würtz" from="Offene/Bunte/Lokal">Felix Würtz</mandat>
         </parlament>
       </gebiet>
@@ -1703,13 +1691,13 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Verbandsgemeinde" name="Hermeskeil" gs="07235001">
-        <parlament name="Verbandsgemeinderat" seats="29" ris="http://www2.hermeskeil.de/bi/infobi.php">
+        <parlament name="Verbandsgemeinderat" seats="28" ris="http://www2.hermeskeil.de/bi/infobi.php">
           <mandat type="pirat">Ottmar Muno</mandat>
           <fraktion type="none" />
           <story>Bereits 2009 wurde Ottmar Muno für die Wählergruppe „Bürger für Bürger“ in den Verbandsgemeinderat Hermeskeil gewählt und trat später in die Piratenpartei ein. Bei der Kommunalwahl am 25. Mai 2014 konnte er sein Mandat mit 2,9% der Stimmen verteidigen.</story>
         </parlament>
         <gebiet type="Stadt" name="Hermeskeil" gs="07235045">
-          <parlament name="Stadtrat" seats="23" ris="http://www2.hermeskeil.de/bi/infobi.php">
+          <parlament name="Stadtrat" seats="22" ris="http://www2.hermeskeil.de/bi/infobi.php">
             <mandat type="pirat" multi="2">Ottmar Muno</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,3% der Stimmen erreicht. Ottmar Muno vertritt die Piraten auf Stadt- und Verbandsgemeindeebene.</story>
@@ -2177,13 +2165,10 @@
     <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-treptow-koepenick" />
-        <mandat type="pirat">Cornelius Engelmann-Strauß</mandat>
         <mandat type="pirat">Volker Schröder</mandat>
         <mandat type="pirat">René Pönitz</mandat>
-        <fraktion type="piraten" url="http://pf-tk.de/">
-          <partner partei="Einzelbewerber" num="1" />
-        </fraktion>
-        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt. Monika Belz ist 2014 aus der Piratenpartei ausgetreten.</story>
+        <fraktion type="piraten" url="http://pf-tk.de/" />
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab, ein Sitz in der Versammlung ist damit unbesetzt. Zwei Mandatsträger sind im Jahr 2014 aus der Piratenpartei ausgetreten, bleiben aber Mitglieder der Fraktion.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
@@ -2597,9 +2582,9 @@
           <oa url="http://openantrag.de/wernigerode" />
           <mandat type="pirat">Denis Mau</mandat>
           <fraktion type="gemeinsam" name="B90/Die Grünen/Piraten-Fraktion" url="http://www.stadtratsfraktion-b90-die-gruenen-piraten.de">
-            <partner partei="B90/GRÜNE" num="3" />
+            <partner partei="GRÜNE" num="3" />
           </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 25.06.2014 haben wir Piraten zusammen mit Bündis 90/ Die Grünen eine Fraktion gebildet, mit der Bezeichung: B90/Die Grünen /Piraten-Fraktion</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Im Juni 2014 hat der Piraten-Mandatsträger zusammen mit den Grünen eine Fraktion gebildet.</story>
         </parlament>
       </gebiet>
     </gebiet>
