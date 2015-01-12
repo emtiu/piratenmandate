@@ -2657,6 +2657,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Jena" gs="16053000" localpirates="http://jena.piraten-thueringen.de/">
       <parlament name="Stadtrat" seats="47" ris="http://egov1.kommunenonline.de/sessionnet/buergerinfo//gr0040.php?__cwp=1&amp;__ccall=kp0040.php">
+        <oa url="http://openantrag.de/jena" />
         <mandat type="pirat">Prof. Dr. Clemens Beckstein</mandat>
         <mandat type="pirat">Dr. Heidrun Jänchen</mandat>
         <fraktion type="none" />
