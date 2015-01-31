@@ -963,9 +963,7 @@
         <parlament name="Kreistag" seats="80" ris="http://www.rhein-sieg-kreis.de/cms100/buergerservice/politik/intris/">
           <oa url="http://openantrag.de/rhein-sieg" />
           <mandat type="pirat">Anja Moersch</mandat>
-          <fraktion type="gemeinsam" name="Kreistagsgruppe FUW-Piraten">
-            <partner name="Freie Unabhängige Wählergemeinschaft Rhein-Sieg" partei="FW/UWG/etc." num="1" />
-          </fraktion>
+          <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Es besteht eine Gruppe mit den Freien Wählern.</story>
         </parlament>
         <gebiet type="Stadt" name="Troisdorf" gs="05382068" localpirates="http://www.piratenpartei-troisdorf.de/">
