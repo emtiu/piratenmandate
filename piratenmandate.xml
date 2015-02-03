@@ -660,7 +660,7 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Mettmann" gs="05158000" localpirates="https://blog.piratenpartei-nrw.de/mettmann/">
-        <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">
+        <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">          
           <mandat type="pirat">Thomas Küppers</mandat>
           <mandat type="pirat">Ria Angelika Garcia Rodriguez</mandat>
           <fraktion type="none" />
@@ -668,8 +668,9 @@
         </parlament>
         <gebiet type="Stadt" name="Mettmann" gs="05158024">
           <parlament name="Stadtrat" seats="44" ris="https://mettmann.more-rubin1.de/">
+            <oa url="http://openantrag.de/mettmann" />
             <mandat type="pirat" multi="2">Ria Angelika Garcia Rodriguez</mandat>
-            <fraktion type="gemeinsam" name="PIRATEN/LINKE" url="http://www.mettmann.de/rat/parteien/piraten-linke.php">
+            <fraktion type="gemeinsam" name="PIRATEN/LINKE" url="http://www.piraten-linke.me">
               <partner partei="LINKE" num="1" />
             </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
@@ -1708,9 +1709,10 @@
   <bundesland name="Baden-Württemberg" gs="08000000" localpirates="http://piratenpartei-bw.de/">
     <gebiet type="Regionalverband" name="Region Stuttgart" gs="08110000" localpirates="http://piraten-region-stuttgart.de/">
       <parlament name="Regionalversammlung" seats="87" ris="https://gecms.region-stuttgart.org/">
+        <oa url="http://openantrag.de/stuttgart-region" />
         <mandat type="pirat">Ingo Mörl</mandat>
         <fraktion type="fremd" name="Die Linke" />
-        <story>Als einziger der 12 Regionalverbände in Baden-Württemberg hat die Region Stauttgart eine politische Vertretung. Sie wird bei allgemeinen Kommunalwahlen direkt gewählt. Ihre Zuständigkeiten liegen in der Regionalplanung, insbesondere in den Bereichen Verkehr, Wirtschaft und Verwaltung. Bei der Kommunalwahl am 25. Mai 2014 erreichten die PIRATEN 1,1% der Stimmen.</story>
+        <story>Als einziger der 12 Regionalverbände in Baden-Württemberg hat die Region Stuttgart eine politische Vertretung. Sie wird bei allgemeinen Kommunalwahlen direkt gewählt. Ihre Zuständigkeiten liegen in der Regionalplanung, insbesondere in den Bereichen Verkehr, Wirtschaft und Verwaltung. Bei der Kommunalwahl am 25. Mai 2014 erreichten die PIRATEN 1,1% der Stimmen.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadtkreis" name="Heidelberg" gs="08221000" localpirates="http://www.piraten-rhein-neckar-heidelberg.de/">
