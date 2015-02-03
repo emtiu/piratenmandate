@@ -660,7 +660,7 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Mettmann" gs="05158000" localpirates="https://blog.piratenpartei-nrw.de/mettmann/">
-        <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">          
+        <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">
           <mandat type="pirat">Thomas Küppers</mandat>
           <mandat type="pirat">Ria Angelika Garcia Rodriguez</mandat>
           <fraktion type="none" />
