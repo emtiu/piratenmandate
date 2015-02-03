@@ -1206,16 +1206,16 @@
         <gebiet type="Stadtbezirk" name="Innenstadt-Nord" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;CollapseView">
             <mandat type="pirat">David Grade</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
+              <partner num="1" partei="LINKE" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,5% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Innenstadt-West" arbkey="2">
           <parlament name="Bezirksvertretung" seats="19" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;CollapseView">
             <mandat type="pirat">Uwe Martinschledde</mandat>
-            <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
-              <partner num="2" partei="LINKE" />
-            </fraktion>
+            <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1238,7 +1238,9 @@
         <gebiet type="Stadtbezirk" name="Hörde" arbkey="5">
           <parlament name="Bezirksvertretung" seats="19" ris="https://dosys01.digistadtdo.de/dosys/gremniedweb1.nsf/NiederschriftenWeb?OpenView&amp;Start=1&amp;Count=30&amp;CollapseView">
             <mandat type="pirat" multi="2">Nadja Reigl</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Linke &amp; Piraten">
+              <partner num="1" partei="LINKE" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
