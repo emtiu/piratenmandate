@@ -482,8 +482,8 @@
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
         <mandat type="pirat" email="alexander.niedermeier@b21-piraten.de">Alexander Niedermeier</mandat>
-        <fraktion type="none" />
-        <story source="http://de.wikipedia.org/wiki/Bremerhaven#Stadtverordnetenversammlung">Nach der Wahl am 22. Mai 2011 bildeten die Piraten zunächst mit zwei Abgeordneten der Linken einem und der RRP die Fraktion „RePiLi“. Im November 2012 traten die beiden Stadtverordneten der Linken zur RRP (inzwischen „Bündnis 21/RRP“) über, woraufhin die Fraktion in „B21-Piraten“ umbenannt wurde. Im März 2013 trat eine Abgeordnete aus dem Bündnis 21/RRP aus und der Wählervereinigung BIW bei, sodass die Fraktion aufgelöst werden musste. Die B21-Piraten arbeiten als Gruppe fraktionsloser Abgeordneter weiter.</story>
+        <fraktion type="gruppe" name="B21-PIRATEN" url="http://www.b21-piraten.de/" email="info@b21-piraten.de" />
+        <story source="http://de.wikipedia.org/wiki/Bremerhaven#Stadtverordnetenversammlung">Nach der Wahl am 22. Mai 2011 bildeten die Piraten zunächst mit zwei Abgeordneten der Linken einem und der RRP die Fraktion „RePiLi“. Im November 2012 traten die beiden Stadtverordneten der Linken zur RRP (inzwischen „Bündnis 21/RRP“) über, woraufhin die Fraktion in „B21-Piraten“ umbenannt wurde. Im März 2013 trat eine Abgeordnete aus dem Bündnis 21/RRP aus und der Wählervereinigung BIW bei, sodass die Fraktion aufgelöst werden musste. Die B21-Piraten arbeiten als Gruppe weiter.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
@@ -2130,7 +2130,7 @@
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-tempelhof-schoeneberg/bvv-online/pa021.asp">
         <mandat type="pirat">Sven Wehrend</mandat>
         <mandat type="pirat">Jan-Ulrich Franz</mandat>
-        <fraktion type="none" />
+        <fraktion type="gruppe" name="Piraten" />
         <story source="http://wiki.piratenpartei.de/BE:Tempelhof-Sch%C3%B6neberg/BVV">Zwei der ursprünglich vier auf der PIRATEN-Liste gewählten Mandatsträger sind inzwischen aus der Fraktion bzw. der Piratenpartei ausgetreten, sodass statt einer Fraktion nur noch eine Gruppe besteht.</story>
       </parlament>
     </gebiet>
