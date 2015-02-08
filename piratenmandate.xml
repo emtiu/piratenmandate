@@ -235,14 +235,14 @@
         <gebiet type="Ortschaft" name="Schiffdorf" arbkey="1">
           <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=38&amp;o=1&amp;oc=1&amp;ob=1#current">
             <mandat type="transfer" from="CDU/CSU">Thomas Behra</mandat>
-            <fraktion type="unknown" />
+            <fraktion type="none" />
           <story source="http://82.198.220.84/ratsinfo/schiffdorf/401/UHVibGljX01pbnV0ZXNfRG9jdW1lbnQ=/9/n/15981.doc">Thomas Behra wurde am 11. September 2011 für CDU in den Ortsrat Schiffdorf gewählt. Im April 2012 trat zur der Piratenpartei über.</story>
           </parlament>
         </gebiet>
         <gebiet type="Ortschaft" name="Sellstedt" arbkey="2">
           <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=39&amp;o=1&amp;oc=1&amp;ob=1#current">
             <mandat type="transfer" from="CDU/CSU" multi="2">Frank Schulz</mandat>
-            <fraktion type="unknown" />
+            <fraktion type="none" />
           <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
           </parlament>
         </gebiet>
@@ -2248,7 +2248,7 @@
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://ris.nauen.de/instanz_1/index.htm">
           <mandat type="pirat">Anke Bienwald</mandat>
           <mandat type="pirat">Steffen Glagow</mandat>
-          <fraktion type="unknown" />
+          <fraktion type="none" />
         </parlament>
       </gebiet> -->
     </gebiet>
