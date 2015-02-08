@@ -80,11 +80,10 @@
   <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
       <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:84/bi/pa021.asp">
-        <oa url="http://openantrag.de/hamburg-mitte" />
         <mandat type="pirat" email="andreas.gerhold@hamburg-mitte.bezirkspiraten.de">Andreas Gerhold</mandat>
         <mandat type="pirat">Wolfdietrich Thürnagel</mandat>
-         <fraktion type="none"/>
-        <story>Bei der Wahl zur Bezirksversammlung am 25. Mai 2014 wurden mit 4,4% der Stimmen 2 Mandate erzielt. Das notwendige 3. Mandat für die Gründung einer Fraktion wurde knapp verpasst. Andreas Gerhold konnte als erster Pirat deutschlandweit zum zweiten Mal in Folge das gleiche Mandat erringen.</story>
+        <fraktion type="gruppe" name="PIRATEN"/>
+        <story>2011 zogen die PIRATEN erstmals mit 2 Mandaten in die Bezirksversammlung Hamburg-Mitte ein. Ab 2012 bestand eine Fraktion nach dem Übertritt einer Grünen-Abgeordneten. Bei der folgenden Wahl zur Bezirksversammlung am 25. Mai 2014 wurden mit 4,4% der Stimmen erneut 2 Mandate errungen, aber das notwendige 3. Mandat für den Fortbestand der Fraktion knapp verpasst. Andreas Gerhold konnte als erster Pirat deutschlandweit zum zweiten Mal in Folge das gleiche Mandat erringen.</story>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Hamburg-Nord" localkey="4" localpirates="http://nord.piraten-hh.de/">
@@ -92,7 +91,7 @@
         <oa url="http://openantrag.de/hamburg-nord" />
         <mandat type="pirat" email="dorle.olszewski@piraten-bv-nord.de">Dorle Olszewski</mandat>
         <mandat type="pirat" email="markus.poestinger@piraten-bv-nord.de">Markus Pöstinger</mandat>
-        <fraktion type="none" />
+        <fraktion type="gruppe" name="PIRATEN" url="http://www.piraten-bv-nord.de/" email="info@piraten-bv-nord.de" />
         <story>Bei der Wahl zur Bezirksversammlung am 25. Mai 2014 wurden 3,5% der Stimmen erreicht. Die PIRATEN sind damit in der BV mit 2 Mandaten erstmals vertreten, nachdem sie 2011 noch an der 3%-Hürde gescheitert waren. </story>
       </parlament>
     </gebiet>
@@ -519,7 +518,7 @@
         <oa url="http://openantrag.de/westfalen-lippe" />
         <mandat type="pirat" multi="2">Sven Sladek</mandat>
         <mandat type="pirat">Christina Worm</mandat>
-        <fraktion type="none" />
+        <fraktion type="gruppe" name="Piraten" url="http://www.lwl-piraten.de/" email="hallo@lwl-piraten.de" />
         <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Die beiden „Landschaftsverbände“ in Nordrhein-Westfalen, die jeweils grob die Hälfte des Gebiets und der Bevölkerung abdecken, sind Gebietskörperschaften der kommunalen Selbstverwaltung und haben je eine „Landschaftsversammlung“ als Parlament. Diese wird nicht direkt gewählt, sondern nach den Wahlergebnissen bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten haben nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Ähnlich den Bezirkstagen in Bayern sind sie hauptsächlich für die Trägerschaft der Sozial-, Behinderten- und Jugendhilfe, insbesondere für Fach- und psychiatrische Krankenhäuser sowie Förderschulen zuständig.</story>
       </parlament>
     </gebiet>
@@ -591,7 +590,7 @@
       <gebiet type="Kreisfreie Stadt" name="Krefeld" gs="05114000" localpirates="http://www.seidenstadt-piraten.de/">
         <parlament name="Stadtrat" seats="58" ris="http://www.ratsportal.krefeld.de/">
           <mandat type="pirat">Peter Klein</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="Die PARTEI-Piraten" email="PARTEI-Piraten@krefeld.de" />
           <story source="http://www.seidenstadt-piraten.de/2014/06/01/die-partei-und-piraten-beschliessen-gemeinsame-ratsgruppe/">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht und eine gemeinsame Gruppe mit einem Stadtverordneten der PARTEI gegründet.</story>
         </parlament>
       </gebiet>
@@ -599,8 +598,8 @@
         <parlament name="Stadtrat" seats="68" ris="http://www.moenchengladbach.de/index.php?id=rat_fraktionen">
           <oa url="http://openantrag.de/moenchengladbach" />
           <mandat type="pirat" email="reiner.gutowski@pipa-gruppe.de">Reiner Gutowski</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht. Es besteht eine Gruppe namens „Die-Piraten-PARTEI“ mit der PARTEI.</story>
+          <fraktion type="gruppe" name="Die Piraten-PARTEI" url="http://www.pipa-gruppe.de/" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht. Es besteht eine Gruppe zusammen mit der PARTEI.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Ost" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://ratsinfo.moenchengladbach.de/ratsinfo/moenchengladbach/Committee.html?orgid=115&amp;o=1&amp;oc=1&amp;ob=1#current">
@@ -628,7 +627,7 @@
       <gebiet type="Kreisfreie Stadt" name="Wuppertal" gs="05124000" localpirates="https://blog.piratenpartei-nrw.de/wuppertal/">
         <parlament name="Stadtrat" seats="52" ris="https://www.wuppertal.de/rathaus-buergerservice/verwaltung/politik/102010100000002794.php">
           <mandat type="pirat">Oliver Graf</mandat>
-          <fraktion type="none" />
+          <fraktion type="fremd" name="Bündnis 90/Die Grünen" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Elberfeld" localkey="0">
@@ -659,11 +658,11 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Kreis Mettmann" gs="05158000" localpirates="https://blog.piratenpartei-nrw.de/mettmann/">
+      <gebiet type="Landkreis" name="Kreis Mettmann" gs="05158000" localpirates="http://wiki.piratenpartei.de/NRW:Kreis_Mettmann">
         <parlament name="Kreistag" seats="78" ris="https://session.kreis-mettmann.de/bi/infobi.asp?__cportallinks=g">
           <mandat type="pirat" email="thomas.kueppers@piratenpartei.de">Thomas Küppers</mandat>
           <mandat type="pirat" email="ria.garcia@piratenpartei-nrw.de">Ria Angelika Garcia Rodriguez</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="PIRATEN" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Mettmann" gs="05158024">
@@ -791,12 +790,9 @@
       <gebiet type="Kommunalverband besonderer Art" name="Städteregion Aachen" gs="05334000" localpirates="http://www.piratenpartei-aachen.de/">
         <parlament name="Städteregionstag" seats="72" ris="http://gremieninfo.staedteregion-aachen.de/bi/allris.net.asp">
           <oa url="http://openantrag.de/aachen-region" />
-          <mandat type="pirat" multi="2">Udo Rüttgers</mandat>
           <mandat type="pirat" >Bertram Eckert</mandat>
-          <fraktion type="gemeinsam" name="Piraten/UFW" url="http://piraten-ufw.de/">
-            <partner name="Unabhängige und freie Wähler" partei="FW/UWG/etc." num="1" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht.</story>
+          <fraktion type="gruppe" name="Piraten/UFW" url="http://piraten-ufw.de/" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,1% der Stimmen erreicht und 2 Mandate errungen. Eine gemeinsame Fraktion mit einem Abgeordneten der Unabhängigen und freie Wähler (UFW) wurde gegründet. Ein Abgeordneter wechselte jedoch im Dezember 2014 zur CDU, woraufhin der Fraktionsstatus verloren ging.</story>
         </parlament>
         <gebiet type="Stadt" name="Aachen" gs="05334002">
           <parlament name="Stadtrat" seats="76" ris="http://ratsinfo.aachen.de/bi/pa021.asp">
@@ -830,20 +826,13 @@
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,7% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadt" name="Stolberg (Rheinland)" gs="05334032" localpirates="http://www.piraten-stolberg.de/">
-          <parlament name="Stadtrat" seats="44" ris="http://www.stolberg.de/city_info/webaccessibility/index.cfm?region_id=75&amp;waid=599&amp;item_id=862784&amp;oldrecord=7520&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
-            <mandat type="pirat">Udo Rüttgers</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Bonn" gs="05314000" localpirates="https://piratenpartei-bonn.de/">
         <parlament name="Stadtrat" seats="86" ris="http://www2.bonn.de/bo_ris/ris_sql/agm_index.asp">
           <oa url="http://openantrag.de/bonn" />
-          <mandat type="pirat">Felix Werner Ludwig Kopinski</mandat>
+          <mandat type="pirat">Felix Kopinski</mandat>
           <mandat type="pirat" email="carsten.euwens@kommunalpiraten-bonn.de">Dr. Carsten Euwens</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="Piraten" url="http://www.kommunalpiraten-bonn.de/" email="info@kommunalpiraten-bonn.de" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Bonn" arbkey="1">
@@ -859,7 +848,7 @@
           <oa url="http://openantrag.de/koeln" />
           <mandat type="pirat">Thomas Hegenbarth</mandat>
           <mandat type="pirat">Lisa Hanna Gerlach</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="PIRATEN" url="https://www.piratenpartei-koeln.de/piraten-im-stadtrat/" email="piraten@stadt-koeln.de" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Innenstadt" localkey="1">
@@ -872,7 +861,9 @@
         <gebiet type="Stadtbezirk" name="Ehrenfeld" localkey="4">
           <parlament name="Bezirksvertretung" seats="19" ris="http://ratsinformation.stadt-koeln.de/kp0040.asp?__kgrnr=23&amp;">
             <mandat type="pirat">Diana Lantzen</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="FDP/Piraten">
+							<partner partei="FDP" num="1" />
+						</fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -881,8 +872,8 @@
         <parlament name="Stadtrat" seats="52" ris="http://ris.leverkusen.de/bi/infobi.asp">
           <oa url="http://openantrag.de/leverkusen" />
           <mandat type="pirat">Dietmar Schaller</mandat>
-          <fraktion type="none" />
-          <story source="http://gruppe.piraten-leverkusen.de/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Der parteilose Ratsherr Uwe Bastian entschied sich nach der Kommunalwahl 2014 dazu, gemeinsam mit Dietmar Schaller von den PIRATEN die Gruppe PIRATEN im Rat der Stadt Leverkusen zu bilden.</story>
+          <fraktion type="gruppe" name="Soziale Gerechtigkeit" url="http://sg-lev.de/" email="verwaltung@sg-lev.de" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Der parteilose Ratsherr Uwe Bastian bildet mit Dietmar Schaller von den PIRATEN eine Gruppe.</story>
         </parlament>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
@@ -963,8 +954,8 @@
         <parlament name="Kreistag" seats="80" ris="http://www.rhein-sieg-kreis.de/cms100/buergerservice/politik/intris/">
           <oa url="http://openantrag.de/rhein-sieg" />
           <mandat type="pirat" email="anja.moersch@piratenpartei-rhein-sieg.de">Anja Moersch</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Es besteht eine Gruppe mit den Freien Wählern.</story>
+          <fraktion type="gruppe" name="Gruppe FUW/Piraten" url="http://fuw-piraten-rsk.de/" email="kontakt@fuw-piraten-rsk.de" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Es besteht eine Gruppe einer Abgeordneten der Freien Wähler.</story>
         </parlament>
         <gebiet type="Stadt" name="Troisdorf" gs="05382068" localpirates="http://www.piratenpartei-troisdorf.de/">
           <parlament name="Stadtrat" seats="52" ris="https://agendaservice.net/ratsinfo/troisdorf">
@@ -989,8 +980,8 @@
       <gebiet type="Kreisfreie Stadt" name="Bottrop" gs="05512000" localpirates="https://www.piratenpartei-bottrop.de/">
         <parlament name="Stadtrat" seats="54" ris="http://ratsinfo.bottrop.de/buergerinfo/infobi.asp">
           <mandat type="pirat">Gabriele Schmeer</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
+          <fraktion type="gruppe" name="LSB (Liberal-Sozial-Bürgernah)" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht. Zusammen mit der FDP besteht eine Ratsgruppe.</story>
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Gelsenkirchen" gs="05513000" localpirates="https://wiki.piratenpartei.de/NRW:Gelsenkirchen">
@@ -1028,8 +1019,8 @@
       <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="http://www.piraten-borken.de/">
         <parlament name="Kreistag" seats="60" ris="http://www.kreis-borken.de/sessionnet/infobi.php">
           <mandat type="pirat">Maria Strestik</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht. Es besteht eine gemeinsame Gruppe mit der Linken. Seit dem 26.08.2014 ist der Gruppenstatus strittig.</story>
+          <fraktion type="gruppe" name="DIE LINKE / PIRATEN" url="http://www.li-pi.de/" email="gruppe@li-pi.de" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht. Es besteht eine gemeinsame Gruppe mit der Linken. Die Gründung der Gruppe war vom Landrat zunächst nicht anerkannt worden. Seine Position erwies sich aber später als unbegründet und unhaltbar.</story>
         </parlament>
         <gebiet type="Stadt" name="Gronau (Westfalen)" gs="05554020" localpirates="http://www.piraten-gronau.de/">
           <parlament name="Stadtrat" seats="40" ris="https://gronau.ratsinfomanagement.net/">
@@ -1037,7 +1028,7 @@
             <fraktion type="gemeinsam" name="Pro! Bürgerschaft / Piraten" url="http://www.pb-pi.de/">
               <partner partei="FW/UWG/etc." num="1" name="Pro! Bürgerschaft" />
             </fraktion>
-            <story source="http://www.wn.de/Muensterland/Kreis-Borken/Gronau/1587273-Gemeinsam-drittstaerkste-Kraft-Pro-Buergerschaft-und-Piraten-bilden-Ratsfraktion">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht. Es wurde eine gemeinsame Fraktion mit der Wählergruppierung „Pro! Bürgerschaft“ (keine Verbindung zu Pro NRW!) gegründet. Seit dem 23.10.2014 ist der Fraktionsstatus strittig.</story>
+            <story source="http://www.wn.de/Muensterland/Kreis-Borken/Gronau/1587273-Gemeinsam-drittstaerkste-Kraft-Pro-Buergerschaft-und-Piraten-bilden-Ratsfraktion">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht. Es wurde eine gemeinsame Fraktion mit der Wählergruppierung „Pro! Bürgerschaft“ (kein Zusammenhang mit Pro NRW) gegründet. Die Gründung der Fraktion war von der Bürgermeisterin zunächst nicht anerkannt worden. Ihre Position erwies sich aber später als unbegründet und unhaltbar.</story>
           </parlament>
         </gebiet>
       </gebiet>
@@ -1046,7 +1037,7 @@
           <oa url="http://openantrag.de/recklinghausen" />
           <mandat type="pirat">Melanie Kalkowski</mandat>
           <mandat type="pirat">Michael Herbert Levedag</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="Piraten" url="http://blog.piratenpartei-nrw.de/recklinghausen/kreistag-re/" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Gladbeck" gs="05562014" localpirates="http://piratengladbeck.de/">
@@ -1095,10 +1086,8 @@
         <parlament name="Stadtrat" seats="66" ris="https://anwendungen.bielefeld.de/bi/infobi.asp">
           <oa url="http://openantrag.de/bielefeld" />
           <mandat type="pirat">Michael Gugat</mandat>
-          <fraktion type="gemeinsam" name="Ratsgruppe Bürgernähe/Piraten">
-            <partner partei="FW/UWG/etc." num="1" name="Wählergemeinschaft Bürgernähe" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 3.9.2014 hat sich Michael Gugat mit Christian Heißenberg von der Wählergemeinschaft Bürgernähe zur Ratsgruppe Bürgernähe/Piraten zusammengeschlossen, der vom Oberbürgermeister weiterhin die Anerkennung versagt bleibt.</story>
+          <fraktion type="gruppe" name="Ratsgruppe Bürgernähe/Piraten" />
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht. Am 3.9.2014 hat sich Michael Gugat mit Christian Heißenberg von der Wählergemeinschaft Bürgernähe zur Ratsgruppe Bürgernähe/Piraten zusammengeschlossen. Die Gruppe wurde zunächst vom Oberbürgermeister nicht anerkannt, was sich jedoch als haltlos erwies.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Mitte" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://anwendungen.bielefeld.de/bi/kp0040.asp?__kgrnr=895910&amp;">
@@ -1169,7 +1158,7 @@
         <parlament name="Stadtrat" seats="84" ris="https://session.bochum.de/bi/infobi.php">
           <mandat type="pirat">Stephanie Kotalla</mandat>
           <mandat type="pirat">Andre Kasper</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="Piraten im Rat" email="Piraten@bochum.de" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Mitte" localkey="1">
@@ -1254,11 +1243,11 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Kreisfreie Stadt" name="Hagen" gs="05914000" localpirates="http://piratenhagen.de/">
+      <gebiet type="Kreisfreie Stadt" name="Hagen" gs="05914000" localpirates="http://piratenhagen.org/">
         <parlament name="Stadtrat" seats="62" ris="https://www.hagen.de/irj/portal/AllrisB">
           <mandat type="pirat">Thorsten Kiszkenow</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+          <story source="http://www.derwesten.de/wr/staedte/hagen/piraten-und-buerger-fuer-hohenlimburg-verklagen-die-stadt-id9694792.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht. Die Bildung einer Gruppe mit der Wähervereinigung „Bürger für Hohenlimburg“ wird bisher verweigert. Dagegen ist Klage eingereicht.</story>
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Hamm" gs="05915000" localpirates="https://blog.piratenpartei-nrw.de/hamm/">
@@ -1396,7 +1385,7 @@
         <parlament name="Kreistag" seats="70" ris="https://security.kreis-unna.de/sessionnet/bi/infobi.php">
           <mandat type="pirat" email="Ralf.Schaefer@piratenpartei-nrw.de">Ralf Schaefer</mandat>
           <mandat type="pirat" email="christian.ross@piratenpartei-nrw.de">Christian Roß</mandat>
-          <fraktion type="none" />
+          <fraktion type="gruppe" name="PIRATEN" url="http://piraten-kreistag-unna.de/" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Lünen" gs="05978024" localpirates="http://blog.piratenpartei-nrw.de/luenen/">
