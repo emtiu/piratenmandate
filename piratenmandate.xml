@@ -1281,7 +1281,7 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Ennepe-Ruhr-Kreis" gs="05954000" localpirates="https://blog.piratenpartei-nrw.de/enneperuhr/">
+      <gebiet type="Landkreis" name="Ennepe-Ruhr-Kreis" gs="05954000" localpirates="http://www.piraten-en.de/">
         <parlament name="Kreistag" seats="66" ris="https://sessionnet.krz.de/en-kreis/bi/infobi.asp">
           <mandat type="pirat" email="chris.demmer@piratenpartei-nrw.de">Chris Demmer</mandat>
           <mandat type="pirat">Jörg Müller</mandat>
@@ -1313,12 +1313,12 @@
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,8% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadt" name="Witten" gs="05954036" localpirates="https://piraten-witten.de/">
+        <gebiet type="Stadt" name="Witten" gs="05954036">
           <parlament name="Stadtrat" seats="72" ris="https://secure.stadt-witten.de/session/bis/infobi.asp">
             <oa url="http://openantrag.de/witten" />
             <mandat type="pirat" email="roland.loepke@piraten-witten.de">Roland Löpke</mandat>
             <mandat type="pirat" email="stefan.borggraefe@piraten-witten.de">Stefan Borggraefe</mandat>
-            <fraktion type="piraten" url="https://piraten-witten.de/witten/" />
+            <fraktion type="piraten" url="https://piraten-witten.de/" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
