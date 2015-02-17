@@ -1122,7 +1122,9 @@
       <gebiet type="Landkreis" name="Kreis Minden-Lübbecke" gs="05770000" localpirates="http://piratenpartei-milk.de/">
         <parlament name="Kreistag" seats="60" ris="https://minden-luebbecke.ratsinfomanagement.net/">
           <mandat type="pirat" email="kalle@piratenpartei-nrw.de">Karl-Heinz Detert</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="FWG Mühlenkreis PIRATEN">
+						<partner name="FWG Mühlenkreis" partei="FW/UWG/etc." num="2" />
+					</fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Minden" gs="05770024">
