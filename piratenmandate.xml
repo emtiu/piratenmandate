@@ -994,12 +994,9 @@
       <gebiet type="Kreisfreie Stadt" name="Münster" gs="05515000" localpirates="http://www.piratenms.de/">
         <parlament name="Stadtrat" seats="72" ris="https://www.stadt-muenster.de/sessionnet/sessionnetbi/infobi.php">
           <oa url="http://openantrag.de/muenster" />
-          <mandat type="pirat">Pascal Powroznik</mandat>
           <mandat type="pirat">Johannes Schmanck</mandat>
-          <fraktion type="gemeinsam" name="Piraten / ÖDP">
-            <partner partei="ÖDP" num="1" />
-          </fraktion>
-          <story source="http://www.muensterschezeitung.de/staedte/muenster/48143-M%FCnster~/Nach-der-Kommunalwahl-Parteien-suchen-nach-moeglichen-Buendnissen;art993,2381210">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht. Es wurde eine gemeinsame Fraktion mit dem Abgeordneten der ÖDP gegründet.</story>
+          <fraktion type="none" />
+          <story source="http://www.wn.de/Muenster/1891931-Ratsherr-jetzt-parteilos-Pascal-Powroznik-verlaesst-die-Piraten">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht und damit 2 Sitze gewonnen. Es wurde eine gemeinsame Fraktion mit dem Abgeordneten der ÖDP gegründet. Nach dem Parteiaustritt eines der Mandatsträger aus der Piratenpartei wurde die Fraktion aufgelöst.</story>
         </parlament>
         <gebiet type="Stadtbezirk" name="Ost" arbkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://www.stadt-muenster.de/sessionnet/sessionnetbi/kp0040.php?__kgrnr=92&amp;">
