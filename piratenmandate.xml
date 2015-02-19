@@ -642,10 +642,11 @@
         <parlament name="Kreistag" seats="58" ris="http://www.kreis-kleve.de/C125713400487381/html/F16A0094F580851BC12576330049400D?opendocument&amp;nid1=52024">
           <oa url="http://openantrag.de/kleve" />
           <mandat type="pirat" email="tim.reuter@piratenpartei-nrw.de">Tim Reuter</mandat>
+          <mandat type="transfer" from="LINKE">Rainer Severin</mandat>
           <fraktion type="gemeinsam" name="Die Linke / Piraten">
-            <partner partei="LINKE" num="2" />
+            <partner partei="LINKE" num="1" />
           </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+          <story source="http://www.kurier-am-sonntag.de/lokales-sp-16783/kleverland/8979-kreistagsmitglied-severin-verlaesst-die-linke-im-zorn-behaelt-aber-das-mandat">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht. Im Februar 2014 trat Rainer Severin von der LINKEN zur Piratenpartei über, der schon zuvor mit dem zweiten LINKEN-Abgeordneten eine gemeinsame Fraktion mit den Piraten gebildet hatte.</story>
         </parlament>
         <gebiet type="Stadt" name="Geldern" gs="05154012">
           <parlament name="Stadtrat" seats="40" ris="http://www.ratsinfoserver.de/ratsinfo/geldern">
