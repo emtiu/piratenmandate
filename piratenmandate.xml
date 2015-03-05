@@ -869,14 +869,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Kreisfreie Stadt" name="Leverkusen" gs="05316000" localpirates="https://www.piratenpartei-leverkusen.de/">
-        <parlament name="Stadtrat" seats="52" ris="http://ris.leverkusen.de/bi/infobi.asp">
-          <oa url="http://openantrag.de/leverkusen" />
-          <mandat type="pirat">Dietmar Schaller</mandat>
-          <fraktion type="gruppe" name="Soziale Gerechtigkeit" url="http://sg-lev.de/" email="verwaltung@sg-lev.de" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht. Der parteilose Ratsherr Uwe Bastian bildet mit Dietmar Schaller von den PIRATEN eine Gruppe.</story>
-        </parlament>
-      </gebiet>
       <gebiet type="Landkreis" name="Kreis Düren" gs="05358000" localpirates="http://piratenpartei-dueren.de/">
         <parlament name="Kreistag" seats="54" ris="http://www.sdnet.kreis-dueren.de/">
           <mandat type="pirat" email="dietmar.schwindt@piratenpartei-nrw.de">Dietmar Schwindt</mandat>
