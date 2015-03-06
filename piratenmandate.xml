@@ -52,9 +52,8 @@
       <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <oa url="http://openantrag.de/segeberg" />
         <mandat type="pirat" email="toni.koeppen@piratenpartei-se.de">Toni Köppen</mandat>
-        <fraktion type="gemeinsam" name="PIRATEN/Neue Liberale" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/">
-					<partner partei="Neue Liberale" num="1" />
-				</fraktion>
+        <mandat type="pirat">Claudia Beyer</mandat>
+        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
