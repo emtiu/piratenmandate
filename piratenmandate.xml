@@ -35,8 +35,8 @@
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <mandat type="pirat" email="Christian.Thiessen@Piratenpartei-SH.de">Christian Thiessen</mandat>
           <fraktion type="gemeinsam" name="Insulaner/PIRATEN" url="http://insulaner-piraten.de/">
-						<partner name="Die Insulaner" partei="Offene/Bunte/Lokal" num="1" />
-					</fraktion>
+            <partner name="Die Insulaner" partei="Offene/Bunte/Lokal" num="1" />
+          </fraktion>
         </parlament>
       </gebiet>
     </gebiet>
@@ -54,6 +54,7 @@
         <mandat type="pirat" email="toni.koeppen@piratenpartei-se.de">Toni Köppen</mandat>
         <mandat type="pirat">Claudia Beyer</mandat>
         <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
+        <story url="http://www.stadtmagazin-bad-segeberg.de/piratenpartei/bad-segeberg/1503/fraktionsdynamik-im-kreistag">Einer der beiden PIRATEN-Mandatsträger war im November 2014 zur Neuen Liberalen übergelaufen, hatte aber in der Folge in einer gemeinsamen Fraktion „PIRATEN/Neue Liberale“ mitgewirkt. Als er im März 2015 sein Mandat niederlegte, fiel das Mandat wieder an die PIRATEN, die nun erneut eine eigene Fraktion bilden.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
@@ -453,10 +454,10 @@
       </gebiet>
       <gebiet type="Gemeinde" name="Dettum" gs="03158009">
         <parlament name="Gemeinderat" seats="10" ris="http://www.sickte.de/dettum/gemeinderat">
-	  <mandat type="transfer" from="CDU/CSU">Ralf Möhle</mandat>
+    <mandat type="transfer" from="CDU/CSU">Ralf Möhle</mandat>
           <fraktion type="none" />
           <story source="http://www.piratenpartei-wolfenbuettel.de/allgemein/cdu-ortsvorsitzender-wechselt-zu-den-piraten/">Im September 2013 wechselte Ralf Möhle von der CDU im Gemeinderat zur Piratenpartei.</story>
-	</parlament>
+  </parlament>
       </gebiet>
     </gebiet>
 <!-- Tim Weber möchte nicht offiziell als Übergetretener geführt werden.
@@ -862,8 +863,8 @@
           <parlament name="Bezirksvertretung" seats="19" ris="http://ratsinformation.stadt-koeln.de/kp0040.asp?__kgrnr=23&amp;">
             <mandat type="pirat">Diana Lantzen</mandat>
             <fraktion type="gemeinsam" name="FDP/Piraten">
-							<partner partei="FDP" num="1" />
-						</fraktion>
+              <partner partei="FDP" num="1" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
@@ -1112,8 +1113,8 @@
         <parlament name="Kreistag" seats="60" ris="https://minden-luebbecke.ratsinfomanagement.net/">
           <mandat type="pirat" email="kalle@piratenpartei-nrw.de">Karl-Heinz Detert</mandat>
           <fraktion type="gemeinsam" name="FWG Mühlenkreis PIRATEN">
-						<partner name="FWG Mühlenkreis" partei="FW/UWG/etc." num="2" />
-					</fraktion>
+            <partner name="FWG Mühlenkreis" partei="FW/UWG/etc." num="2" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Minden" gs="05770024">
