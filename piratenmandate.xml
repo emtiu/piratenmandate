@@ -2648,14 +2648,16 @@
     <gebiet type="Landkreis" name="Landkreis Gotha" gs="16067000" localpirates="http://piraten-gotha.de/">
       <parlament name="Kreistag" seats="51">
         <mandat type="pirat" email="bernhard.koim@piraten-gotha.de">Bernhard Koim</mandat>
-        <fraktion type="none" />
+        <fraktion type="fremd" name="Die Linke" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Stadt" name="Gotha" gs="10067029">
         <parlament name="Stadtrat" seats="37" ris="http://www.gotha.de/index.php?id=1513">
           <mandat type="pirat" email="enrico.stiller@piraten-gotha.de">Enrico Stiller</mandat>
-          <mandat type="pirat">Gerrit Walter Jeron</mandat>
-          <fraktion type="none" />
+          <mandat type="pirat" email="gerrit.jeron@piraten-gotha.de">Gerrit Jeron</mandat>
+          <fraktion type="gemeinsam" name="PIRATEN/Bündnis 90/Die GRÜNEN" url="http://www.piraten-gruene.de/" email="srf@piraten-gruene.de">
+            <partner partei="GRÜNE" num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 5,4% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
