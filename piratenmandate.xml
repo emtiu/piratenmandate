@@ -2469,7 +2469,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Leipzig" gs="14713000" localpirates="http://www.piraten-leipzig.de/">
       <parlament name="Stadtrat" seats="70" ris="http://notes.leipzig.de/eris/eris.nsf">
-        <mandat type="pirat" email="anfragen@piratenlily.net">Ute Elisabeth Gabelmann</mandat>
+        <mandat type="pirat" email="ue.gabelmann@piraten-leipzig.de">Ute Elisabeth Gabelmann</mandat>
         <fraktion type="fremd" name="SPD" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
       </parlament>
