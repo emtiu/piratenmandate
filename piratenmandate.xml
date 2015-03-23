@@ -1156,8 +1156,9 @@
         <gebiet type="Stadtbezirk" name="Mitte" localkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://session.bochum.de/bi/kp0040.php?__kgrnr=103973">
             <mandat type="pirat">Jannis Mehring</mandat>
-            <fraktion type="gemeinsam" name="Grün-offene Fraktion" url="https://www.facebook.com/gruenoffenefraktion" />
-           <partner name="Grüne Bochum-Mitte" partei="Grüne" num="3"/>
+            <fraktion type="gemeinsam" name="Grün-offene Fraktion" url="https://www.facebook.com/gruenoffenefraktion">
+              <partner partei="GRÜNE" num="3"/>
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
