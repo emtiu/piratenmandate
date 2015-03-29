@@ -590,8 +590,8 @@
       <gebiet type="Kreisfreie Stadt" name="Krefeld" gs="05114000" localpirates="http://www.seidenstadt-piraten.de/">
         <parlament name="Stadtrat" seats="58" ris="http://www.ratsportal.krefeld.de/">
           <mandat type="pirat">Peter Klein</mandat>
-          <fraktion type="gruppe" name="Die PARTEI-Piraten" email="PARTEI-Piraten@krefeld.de" />
-          <story source="http://www.seidenstadt-piraten.de/2014/06/01/die-partei-und-piraten-beschliessen-gemeinsame-ratsgruppe/">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht und eine gemeinsame Gruppe mit einem Stadtverordneten der PARTEI gegründet.</story>
+          <fraktion type="none" />
+          <story source="http://www.wz-newsline.de/lokales/krefeld/uwg-wird-wieder-zur-fraktion-1.1895919">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht. Es wurde eine gemeinsame Gruppe mit einem Stadtverordneten der PARTEI gegründet, die im März 2015 von Seiten der PARTEI wieder aufgekündigt würde.</story>
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Mönchengladbach" gs="05116000" localpirates="https://wiki.piratenpartei.de/NRW:M%C3%B6nchengladbach">
