@@ -33,12 +33,8 @@
       </parlament>
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
-<<<<<<< HEAD
           <oa url="http://openantrag.de/sylt" />
-          <mandat type="pirat">Christian Thiessen</mandat>
-=======
           <mandat type="pirat" email="Christian.Thiessen@Piratenpartei-SH.de">Christian Thiessen</mandat>
->>>>>>> 77b1b47803801f9b8e4a75759bbef6d33e7a9bbc
           <fraktion type="gemeinsam" name="Insulaner/PIRATEN" url="http://insulaner-piraten.de/">
             <partner name="Die Insulaner" partei="Offene/Bunte/Lokal" num="1" />
           </fraktion>
