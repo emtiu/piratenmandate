@@ -26,11 +26,13 @@
 <!ATTLIST mandat name CDATA #IMPLIED >
 <!ATTLIST mandat from CDATA #IMPLIED >
 <!ATTLIST mandat multi CDATA #IMPLIED >
+<!ATTLIST mandat email CDATA #IMPLIED >
 
 <!ELEMENT fraktion (partner*) >
-<!ATTLIST fraktion type (piraten | gemeinsam | fremd | none | unknown) #REQUIRED >
+<!ATTLIST fraktion type (piraten | gemeinsam | gruppe | fremd | none | unknown) #REQUIRED >
 <!ATTLIST fraktion name CDATA #IMPLIED >
 <!ATTLIST fraktion url CDATA #IMPLIED >
+<!ATTLIST fraktion email CDATA #IMPLIED >
 
 <!ELEMENT story (#PCDATA) >
 <!ATTLIST story source CDATA #IMPLIED >
