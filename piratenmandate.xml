@@ -179,12 +179,6 @@
         <mandat type="pirat">Claudia Jonda</mandat>
         <fraktion type="piraten" url="http://www.piratenpartei-braunschweig.de/startseite/ratsarbeit/fraktion-im-rat/" />
       </parlament>
-      <gebiet type="Stadtbezirk" name="Östliches Ringgebiet" localkey="120">
-        <parlament name="Stadtbezirksrat" seats="19" ris="http://www.braunschweig.de/politik_verwaltung/politik/stadtbezirksraete/sb120.html">
-          <mandat type="pirat">Merten Herms</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Delmenhorst" gs="03401000" localpirates="http://piratenpartei-delmenhorst.de/">
       <parlament name="Stadtrat" seats="43" ris="http://www.delmenhorst.de/rat-politik/ratsinfo/index.php">
@@ -1500,13 +1494,13 @@
         <mandat type="pirat">Paulo Rommel</mandat>
         <fraktion type="none" />
       </parlament>
-      <gebiet type="Stadt" name="Gießen" gs="06531005">
+<!--      <gebiet type="Stadt" name="Gießen" gs="06531005">
         <parlament name="Stadtverordnetenversammlung" seats="59" ris="http://giessen.de/Rathaus_und_Service/Stadtparlament/Parlamentsinfo/">
           <mandat type="pirat" multi="2">Christian Oechler</mandat>
           <mandat type="pirat">Christian Jackelen</mandat>
           <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" email="mail@piratenfraktion-giessen.de" />
         </parlament>
-      </gebiet>
+      </gebiet>-->
     </gebiet>
     <gebiet type="Landkreis" name="Hochtaunuskreis" gs="06434000" localpirates="http://www.piratenpartei-hochtaunus.de/">
       <parlament name="Kreistag" seats="71" ris="http://buergerinfo.hochtaunuskreis.de/kp0040.asp?__kgrnr=1&amp;">
@@ -1589,7 +1583,7 @@
   <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
       <parlament name="Stadtrat" seats="45">
-        <mandat type="pirat" email="kim.orth@piraten-rlp.de">Kim Julia Orth</mandat>
+        <mandat type="pirat">Jakob Wagner</mandat>
         <fraktion type="none" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
       </parlament>
