@@ -546,6 +546,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Düsseldorf" gs="05111000" localpirates="https://blog.piratenpartei-nrw.de/duesseldorf/">
         <parlament name="Stadtrat" seats="82" ris="http://www.duesseldorf.de/rathaus/rat/index.shtml">
+          <oa url="http://openantrag.de/duesseldorf" />
           <mandat type="pirat" email="f.grenda@ratspirat.de">Frank Grenda</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
