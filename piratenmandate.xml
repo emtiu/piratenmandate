@@ -1275,10 +1275,10 @@
         <gebiet type="Stadt" name="Hattingen" gs="05954016">
           <parlament name="Stadtrat" seats="46" ris="https://sitzungsinfo.hattingen.de/">
             <mandat type="pirat">Sascha Kursawe</mandat>
-            <fraktion type="gemeinsam" name="die linke.Hattingen">
-              <partner partei="LINKE" num="3" />
+            <fraktion type="gemeinsam" name="Linke-Piraten">
+              <partner partei="LINKE" num="1" />
             </fraktion>
-            <story source="http://www.derwesten.de/staedte/hattingen/linke-und-piraten-bilden-gemeinsame-ratsfraktion-id9457666.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+            <story source="http://www.derwesten.de/staedte/hattingen/linke-und-piraten-bilden-gemeinsame-ratsfraktion-id9457666.html">Nach Spaltung der zunächst vierköpfigen LINKE-Fraktion, in welcher auch der Piraten-Vertreter Mitglied war, bildet dieser nun mit einem einzelnen LINKEN-Parteimitglied eine zweiköpfige Fraktion.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Sprockhövel" gs="05954028">
