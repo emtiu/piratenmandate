@@ -471,13 +471,13 @@
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
       <gebiet type="Stadtteil" name="Neustadt" localkey="21">
         <parlament name="Beirat" seats="19" ris="http://www.ortsamt-woltmershausen.bremen.de/sixcms/detail.php?gsid=bremen152.c.1851.de">
-          <mandat type="pirat">Gunnar Christiansen</mandat>
+          <mandat type="pirat" email="gunnar.christiansen@bremen.piratenpartei.de">Gunnar Christiansen</mandat>
           <fraktion type="none" />
         </parlament>
       </gebiet>
       <gebiet type="Stadtteil" name="Hemelingen" localkey="38">
         <parlament name="Beirat" seats="19" ris="http://www.ortsamt-hemelingen.de/sixcms/detail.php?gsid=bremen149.c.1632.de">
-          <mandat type="pirat">Arend Vogtländer</mandat>
+          <mandat type="pirat" email="arend.vogtlaender@bremen.piratenpartei.de">Arend Vogtländer</mandat>
           <fraktion type="none" />
         </parlament>
       </gebiet>
