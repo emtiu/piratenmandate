@@ -789,7 +789,9 @@
           <gebiet type="Stadtbezirk" name="Aachen-Mitte" arbkey="1">
             <parlament name="Bezirksvertretung" seats="18" ris="http://ratsinfo.aachen.de/bi/au020.asp?AULFDNR=17">
               <mandat type="pirat" multi="2">Bertram Eckert</mandat>
-              <fraktion type="none" />
+              <fraktion type="gemeinsam" name="PIRATEN-UWG">
+                <partner name="UWG" partei="FW/UWG/etc." num="1" />
+              </fraktion>
               <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,4% der Stimmen erreicht.</story>
             </parlament>
           </gebiet>
