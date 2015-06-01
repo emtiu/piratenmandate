@@ -1345,11 +1345,6 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
-        <parlament name="Kreistag" seats="66" ris="https://kreistag.kreis-soest.de/ratsinfo/soestlk">
-          <mandat type="pirat">Ali Kaya</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
-        </parlament>
         <gebiet type="Stadt" name="Soest" gs="05974040">
           <parlament name="Stadtrat" seats="50" ris="http://87.106.2.115:8080/ratsinfo/soest">
             <mandat type="pirat">Sven Sladek</mandat>
