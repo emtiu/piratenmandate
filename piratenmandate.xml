@@ -12,14 +12,6 @@
         </fraktion>
       </parlament>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
-      <parlament name="Ratsversammlung" seats="42" ris="https://w2.neumuenster.de/session/bi/infobi.php">
-        <mandat type="pirat">Thomas Puls</mandat>
-        <fraktion type="gemeinsam" name="BfB/PIRATEN">
-          <partner name="Bündnis für Bürger" partei="FW/UWG/etc." num="3"/>
-        </fraktion>
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
       <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/Informationen-beschaffen/Politik/Kreistag">
         <mandat type="pirat">Axel Sieck</mandat>
@@ -378,12 +370,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
-      <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Committee.html?orgid=14&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <mandat type="pirat" email="Max.rother@piraten-nds.de">Max Rother</mandat>
-        <fraktion type="gemeinsam" name="FDP und Piraten">
-          <partner partei="FDP" num="1" />
-        </fraktion>
-      </parlament>
       <gebiet type="Stadt" name="Peine" gs="03157006">
         <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat" email="matthias.roll@piraten-peine.de">Matthias Roll</mandat>
@@ -1480,9 +1466,8 @@
       </parlament>
 <!--      <gebiet type="Stadt" name="Gießen" gs="06531005">
         <parlament name="Stadtverordnetenversammlung" seats="59" ris="http://giessen.de/Rathaus_und_Service/Stadtparlament/Parlamentsinfo/">
-          <mandat type="pirat" multi="2">Christian Oechler</mandat>
           <mandat type="pirat">Christian Jackelen</mandat>
-          <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" email="mail@piratenfraktion-giessen.de" />
+          <fraktion type="none" />
         </parlament>
       </gebiet>-->
     </gebiet>
@@ -1554,13 +1539,13 @@
         <mandat type="pirat" email="s.flindt@piratenpartei-hessen.de">Stephan Flindt</mandat>
         <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
       </parlament>
-      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
+<!--      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
         <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
           <oa url="http://openantrag.de/rosbach" />
           <mandat type="pirat">Helge Welker</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>
+      </gebiet> -->
     </gebiet>
   </bundesland>
 
