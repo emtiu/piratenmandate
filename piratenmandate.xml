@@ -128,25 +128,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Stadt" name="Laatzen" gs="03241009" localpirates="http://www.piraten-laatzen.de/">
-        <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
-          <oa url="http://openantrag.de/laatzen" />
-          <mandat type="pirat">Heiko Schönemann</mandat>
-          <fraktion type="gemeinsam" name="Mehrheitsgruppe SPD, Grünen, Linke Piraten">
-            <partner partei="SPD" num="15" />
-            <partner partei="GRÜNE" num="5" />
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-        <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
-          <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
-            <mandat type="pirat" multi="2">Heiko Schönemann</mandat>
-            <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
-              <partner partei="LINKE" num="1" />
-            </fraktion>
-          </parlament>
-        </gebiet>
-      </gebiet>
       <gebiet type="Stadt" name="Lehrte" gs="03241011" localpirates="http://www.piratenpartei-lehrte.de/">
         <parlament name="Stadtrat" seats="40" ris="https://sessionnet.krz.de/lehrte/bi/kp0041.asp">
           <mandat type="pirat" email="jan.nadaczinski@piratenpartei-lehrte.de">Jan Nadaczinski</mandat>
