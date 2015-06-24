@@ -272,11 +272,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
-      <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0040.asp?__kgrnr=186&amp;__cgrname=Kreistag">
-        <oa url="http://openantrag.de/goettingen" />
-        <mandat type="pirat" email="Andreas.Schelper@piratenpartei-goettingen.de">Andreas Schelper</mandat>
-        <fraktion type="none" />
-      </parlament>
       <gebiet type="Stadt" name="Göttingen" gs="03152012">
         <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
           <oa url="http://openantrag.de/goettingen" />
@@ -2441,7 +2436,10 @@
     <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
       <parlament name="Kreistag" seats="86">
         <mandat type="pirat" email="soeren.skalicks@piraten-meissen.de">Sören Skalicks</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="SPD/Grüne/PIRATEN">
+          <partner partei="SPD" num="8" />
+          <partner partei="GRÜNE" num="4" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
