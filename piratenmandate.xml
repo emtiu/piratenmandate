@@ -12,14 +12,6 @@
         </fraktion>
       </parlament>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
-      <parlament name="Ratsversammlung" seats="42" ris="https://w2.neumuenster.de/session/bi/infobi.php">
-        <mandat type="pirat">Thomas Puls</mandat>
-        <fraktion type="gemeinsam" name="BfB/PIRATEN">
-          <partner name="Bündnis für Bürger" partei="FW/UWG/etc." num="3"/>
-        </fraktion>
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
       <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/Informationen-beschaffen/Politik/Kreistag">
         <mandat type="pirat">Axel Sieck</mandat>
@@ -133,25 +125,6 @@
           <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-13-Nord">
             <mandat type="pirat">Thomas Grote</mandat>
             <fraktion type="none" />
-          </parlament>
-        </gebiet>
-      </gebiet>
-      <gebiet type="Stadt" name="Laatzen" gs="03241009" localpirates="http://www.piraten-laatzen.de/">
-        <parlament name="Stadtrat" seats="40" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Rat+der+Stadt+Laatzen">
-          <oa url="http://openantrag.de/laatzen" />
-          <mandat type="pirat">Heiko Schönemann</mandat>
-          <fraktion type="gemeinsam" name="Mehrheitsgruppe SPD, Grünen, Linke Piraten">
-            <partner partei="SPD" num="15" />
-            <partner partei="GRÜNE" num="5" />
-            <partner partei="LINKE" num="1" />
-          </fraktion>
-        </parlament>
-        <gebiet type="Ortsteil" name="Laatzen" arbkey="1">
-          <parlament name="Ortsrat" seats="17" ris="http://cms.laatzen.de/session/buergerinfo/kp0040.php?__kgrnr=8&amp;">
-            <mandat type="pirat" multi="2">Heiko Schönemann</mandat>
-            <fraktion type="gemeinsam" name="Gruppe Linke und Piraten">
-              <partner partei="LINKE" num="1" />
-            </fraktion>
           </parlament>
         </gebiet>
       </gebiet>
@@ -299,11 +272,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
-      <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0040.asp?__kgrnr=186&amp;__cgrname=Kreistag">
-        <oa url="http://openantrag.de/goettingen" />
-        <mandat type="pirat" email="Andreas.Schelper@piratenpartei-goettingen.de">Andreas Schelper</mandat>
-        <fraktion type="none" />
-      </parlament>
       <gebiet type="Stadt" name="Göttingen" gs="03152012">
         <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
           <oa url="http://openantrag.de/goettingen" />
@@ -378,12 +346,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
-      <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Committee.html?orgid=14&amp;o=1&amp;oc=0&amp;ob=1#current">
-        <mandat type="pirat" email="Max.rother@piraten-nds.de">Max Rother</mandat>
-        <fraktion type="gemeinsam" name="FDP und Piraten">
-          <partner partei="FDP" num="1" />
-        </fraktion>
-      </parlament>
       <gebiet type="Stadt" name="Peine" gs="03157006">
         <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
           <mandat type="pirat" email="matthias.roll@piraten-peine.de">Matthias Roll</mandat>
@@ -463,24 +425,24 @@
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
-        <mandat type="pirat" email="alexander.niedermeier@b21-piraten.de">Alexander Niedermeier</mandat>
-        <fraktion type="gruppe" name="B21-PIRATEN" url="http://www.b21-piraten.de/" email="info@b21-piraten.de" />
-        <story source="http://de.wikipedia.org/wiki/Bremerhaven#Stadtverordnetenversammlung">Nach der Wahl am 22. Mai 2011 bildeten die Piraten zunächst mit zwei Abgeordneten der Linken einem und der RRP die Fraktion „RePiLi“. Im November 2012 traten die beiden Stadtverordneten der Linken zur RRP (inzwischen „Bündnis 21/RRP“) über, woraufhin die Fraktion in „B21-Piraten“ umbenannt wurde. Im März 2013 trat eine Abgeordnete aus dem Bündnis 21/RRP aus und der Wählervereinigung BIW bei, sodass die Fraktion aufgelöst werden musste. Die B21-Piraten arbeiten als Gruppe weiter.</story>
+        <mandat type="pirat" email="alexander.niedermeier@piraten-bremerhaven.de">Alexander Niedermeier</mandat>
+        <fraktion type="none" />
+        <story>Bei der Wahl zur Stadtverordnetenversammlung am 10. Mai 2015 wurden 2,8% der Stimmen erzielt. Bereits 2011 warendie PIRATEN mit 2,2% eingezogen.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
-      <gebiet type="Stadtteil" name="Mitte" localkey="11">
-        <parlament name="Beirat" seats="13" ris="http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.734.de">
-          <mandat type="pirat" email="siegfried.wegner@bremen.piratenpartei.de">Siegfried Wegner-Kärsten</mandat>
-        </parlament>
-      </gebiet>
-<!--Mandat der Piratenpartei laut http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.736.de vakant
-      <gebiet type="Stadtteil" name="Östliche Vorstadt" localkey="31">
-        <parlament name="Beirat" seats="17" ris="http://www.ortsamtmitte.bremen.de/sixcms/detail.php?gsid=bremen02.c.736.de">
-          <mandat type="pirat">Arend Vogtländer</mandat>
+      <gebiet type="Stadtteil" name="Neustadt" localkey="21">
+        <parlament name="Beirat" seats="19" ris="http://www.ortsamt-woltmershausen.bremen.de/sixcms/detail.php?gsid=bremen152.c.1851.de">
+          <mandat type="pirat" email="gunnar.christiansen@bremen.piratenpartei.de">Gunnar Christiansen</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>-->
+      </gebiet>
+      <gebiet type="Stadtteil" name="Hemelingen" localkey="38">
+        <parlament name="Beirat" seats="19" ris="http://www.ortsamt-hemelingen.de/sixcms/detail.php?gsid=bremen149.c.1632.de">
+          <mandat type="pirat" email="arend.vogtlaender@bremen.piratenpartei.de">Arend Vogtländer</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
     </gebiet>
   </bundesland>
 
@@ -790,7 +752,9 @@
           <gebiet type="Stadtbezirk" name="Aachen-Mitte" arbkey="1">
             <parlament name="Bezirksvertretung" seats="18" ris="http://ratsinfo.aachen.de/bi/au020.asp?AULFDNR=17">
               <mandat type="pirat" multi="2">Bertram Eckert</mandat>
-              <fraktion type="none" />
+              <fraktion type="gemeinsam" name="PIRATEN-UWG">
+                <partner name="UWG" partei="FW/UWG/etc." num="1" />
+              </fraktion>
               <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,4% der Stimmen erreicht.</story>
             </parlament>
           </gebiet>
@@ -1276,10 +1240,10 @@
         <gebiet type="Stadt" name="Hattingen" gs="05954016">
           <parlament name="Stadtrat" seats="46" ris="https://sitzungsinfo.hattingen.de/">
             <mandat type="pirat">Sascha Kursawe</mandat>
-            <fraktion type="gemeinsam" name="die linke.Hattingen">
-              <partner partei="LINKE" num="3" />
+            <fraktion type="gemeinsam" name="Linke-Piraten">
+              <partner partei="LINKE" num="1" />
             </fraktion>
-            <story source="http://www.derwesten.de/staedte/hattingen/linke-und-piraten-bilden-gemeinsame-ratsfraktion-id9457666.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+            <story source="http://www.derwesten.de/staedte/hattingen/linke-und-piraten-bilden-gemeinsame-ratsfraktion-id9457666.html">Nach Spaltung der zunächst vierköpfigen LINKE-Fraktion, in welcher auch der Piraten-Vertreter Mitglied war, bildet dieser nun mit einem einzelnen LINKEN-Parteimitglied eine zweiköpfige Fraktion.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Sprockhövel" gs="05954028">
@@ -1344,11 +1308,6 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
-        <parlament name="Kreistag" seats="66" ris="https://kreistag.kreis-soest.de/ratsinfo/soestlk">
-          <mandat type="pirat">Ali Kaya</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
-        </parlament>
         <gebiet type="Stadt" name="Soest" gs="05974040">
           <parlament name="Stadtrat" seats="50" ris="http://87.106.2.115:8080/ratsinfo/soest">
             <mandat type="pirat">Sven Sladek</mandat>
@@ -1484,9 +1443,8 @@
       </parlament>
 <!--      <gebiet type="Stadt" name="Gießen" gs="06531005">
         <parlament name="Stadtverordnetenversammlung" seats="59" ris="http://giessen.de/Rathaus_und_Service/Stadtparlament/Parlamentsinfo/">
-          <mandat type="pirat" multi="2">Christian Oechler</mandat>
           <mandat type="pirat">Christian Jackelen</mandat>
-          <fraktion type="piraten" url="http://www.piratenfraktion-giessen.de/" email="mail@piratenfraktion-giessen.de" />
+          <fraktion type="none" />
         </parlament>
       </gebiet>-->
     </gebiet>
@@ -1558,13 +1516,13 @@
         <mandat type="pirat" email="s.flindt@piratenpartei-hessen.de">Stephan Flindt</mandat>
         <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
       </parlament>
-      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
+<!--      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
         <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
           <oa url="http://openantrag.de/rosbach" />
           <mandat type="pirat">Helge Welker</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>
+      </gebiet> -->
     </gebiet>
   </bundesland>
 
@@ -2281,14 +2239,20 @@
       <gebiet type="Stadt" name="Teltow" gs="12069616">
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www.ratsinfo-online.de/teltow.bi/pa021.asp">
           <mandat type="pirat">Jeannette Paech</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="LINKE/Umweltaktive/BfB/Piraten">
+            <partner partei="LINKE" num="3" />
+            <partner name="Umweltaktive" partei="FW/UWG/etc." num="1" />
+            <partner name="Bürger für Bürger Teltow" partei="FW/UWG/etc." num="1" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Kleinmachnow" gs="12069304">
         <parlament name="Gemeindevertretung" seats="29" ris="http://www.kleinmachnow.de/staticsite/staticsite.php?menuid=58">
           <mandat type="pirat" email="r.schramm@piratenbrandenburg.de">Raoul Schramm</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="DIE LINKE/Piraten">
+            <partner partei="LINKE" num="3" />
+          </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
@@ -2473,7 +2437,10 @@
     <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
       <parlament name="Kreistag" seats="86">
         <mandat type="pirat" email="soeren.skalicks@piraten-meissen.de">Sören Skalicks</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="SPD/Grüne/PIRATEN">
+          <partner partei="SPD" num="8" />
+          <partner partei="GRÜNE" num="4" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
