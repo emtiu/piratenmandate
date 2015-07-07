@@ -1405,7 +1405,6 @@
     <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
       <parlament name="Stadtverordnetenversammlung" seats="81" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
         <oa url="http://openantrag.de/wiesbaden" />
-        <mandat type="pirat" email="Hendrik.Seipel-Rotter@lipiwi.de">Hendrik Seipel-Rotter</mandat>
         <mandat type="pirat">Kristof Zerbe</mandat>
         <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
           <partner partei="LINKE" num="2" />
