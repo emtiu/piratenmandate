@@ -1318,6 +1318,7 @@
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
         <parlament name="Kreistag" seats="70" ris="https://security.kreis-unna.de/sessionnet/bi/infobi.php">
+          <oa url="http://openantrag.de/unna" />
           <mandat type="pirat" email="Ralf.Schaefer@piratenpartei-nrw.de">Ralf Schaefer</mandat>
           <mandat type="pirat" email="christian.ross@piratenpartei-nrw.de">Christian Roß</mandat>
           <fraktion type="gruppe" name="PIRATEN" url="http://piraten-kreistag-unna.de/" />
