@@ -1728,7 +1728,7 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Göppingen" gs="08117000" localpirates="https://piratenpartei-gp.de/">
+    <gebiet type="Landkreis" name="Landkreis Göppingen" gs="08117000" localpirates="http://goeppinger-piraten.de/">
       <gebiet type="Stadt" name="Göppingen" gs="08117026">
         <parlament name="Gemeinderat" seats="41" ris="https://goeppingen.more-rubin1.de/index.php">
           <oa url="http://openantrag.de/goeppingen" />
