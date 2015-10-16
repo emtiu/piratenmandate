@@ -310,7 +310,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
+<!--    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
       <gebiet type="Stadt" name="Hildesheim" gs="03254021">
         <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
           <oa url="http://openantrag.de/hildesheim-stadt" />
@@ -322,7 +322,7 @@
           <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
         </parlament>
       </gebiet>
-    </gebiet>
+    </gebiet>-->
     <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
       <gebiet type="Stadt" name="Lüneburg" gs="03355022">
         <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
