@@ -1094,11 +1094,11 @@
     </gebiet>
     <gebiet type="Bezirk" name="Regierungsbezirk Arnsberg" gs="05900000">
       <gebiet type="Kreisfreie Stadt" name="Bochum" gs="05911000" localpirates="http://piratenbochum.de/">
-        <parlament name="Stadtrat" seats="84" ris="https://session.bochum.de/bi/infobi.php">
+<!--        <parlament name="Stadtrat" seats="84" ris="https://session.bochum.de/bi/infobi.php">
           <mandat type="pirat">Andre Kasper</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht. Nach dem Austritt einer Mandatsträgerin aus der Piratenpartei wurde im April 2015 die bis dahin bestehende Gruppe aufgelöst.</story>
-        </parlament>
+        </parlament> -->
         <gebiet type="Stadtbezirk" name="Mitte" localkey="1">
           <parlament name="Bezirksvertretung" seats="19" ris="https://session.bochum.de/bi/kp0040.php?__kgrnr=103973">
             <mandat type="pirat">Jannis Mehring</mandat>
