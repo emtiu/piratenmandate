@@ -1336,10 +1336,10 @@
         </gebiet>
         <gebiet type="Stadt" name="Unna" gs="05978036" localpirates="https://blog.piratenpartei-nrw.de/unna/">
           <parlament name="Stadtrat" seats="52" ris="http://www.unna.de/ratsinfo/index.php">
-            <mandat type="pirat" email="heikepalm@piratenpartei-nrw.de">Heike Palm</mandat>
+            <mandat type="pirat">Christian Ross</mandat>
             <mandat type="pirat">Christoph Tetzner</mandat>
-            <fraktion type="none" />
-            <story source="https://blog.piratenpartei-nrw.de/unna/2014/11/24/piratenfraktion-in-unna-loest-sich-auf/">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,5% der Stimmen erreicht. Die beiden Ratsmitglieder der PIRATEN bildeten eine Fraktion, die jedoch im November 2014 wegen politischer Differenzen aufgelöst wurde.</story>
+            <fraktion type="piraten" url="http://piratenfraktion-unna.de/" />
+            <story source="https://blog.piratenpartei-nrw.de/unna/2014/11/24/piratenfraktion-in-unna-loest-sich-auf/">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,5% der Stimmen erreicht. Es bestand zunächst eine Fraktion, die vorübergehend aufgelöst war. Seit dem Nachrücken eines Piratenvertreters besteht sie wieder.</story>
           </parlament>
         </gebiet>
       </gebiet>
