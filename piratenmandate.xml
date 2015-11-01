@@ -2320,6 +2320,7 @@
       </parlament>
       <gebiet type="Stadt" name="Wismar" gs="13074087">
         <parlament name="Bürgerschaft" seats="37" ris="http://www.wismar.sitzung-online.de/bi/allris.net.asp">
+          <oa url="http://openantrag.de/wismar" />
           <mandat type="pirat">Dr. Bernhard Schubach</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
