@@ -1001,14 +1001,6 @@
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
         </parlament>
-<!--        <gebiet type="Stadt" name="Beckum" gs="05570008">
-          <parlament name="Stadtrat" seats="38" ris="https://www.beckum.de/sessionnet/sessionnetbi/infobi.php">
-            <oa url="http://openantrag.de/beckum" />
-            <mandat type="pirat" email="michael.ortner@piratenpartei-nrw.de">Michael Ortner</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet> -->
         <gebiet type="Stadt" name="Sendenhorst" gs="05570040">
           <parlament name="Stadtrat" seats="26" ris="https://www.sendenhorst.de/rais/">
             <mandat type="pirat">Thomas Lohmann</mandat>
@@ -1336,6 +1328,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Unna" gs="05978036" localpirates="https://blog.piratenpartei-nrw.de/unna/">
           <parlament name="Stadtrat" seats="52" ris="http://www.unna.de/ratsinfo/index.php">
+            <oa url="http://openantrag.de/unna-stadt" />
             <mandat type="pirat">Christian Ross</mandat>
             <mandat type="pirat">Christoph Tetzner</mandat>
             <fraktion type="piraten" url="http://piratenfraktion-unna.de/" />
@@ -2109,22 +2102,17 @@
         <fraktion type="piraten" url="https://fraktion-piraten-lichtenberg.de/" />
       </parlament>
     </gebiet>
-<!--    <gebiet type="Bezirk" name="Reinickendorf" localkey="12" localpirates="http://www.piratenpartei-reinickendorf.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-reinickendorf/bvv-online/pa021.asp">
-        <mandat type="pirat">Sascha Rudloff</mandat>
-        <mandat type="pirat">Benjamin Adamski</mandat>
-        <mandat type="pirat">Michael Windisch</mandat>
-        <mandat type="pirat">Michael Schulz</mandat>
-        <fraktion type="piraten" url="http://www.piratenfraktion-reinickendorf.eu/" />
-      </parlament>
-    </gebiet> -->
   </bundesland>
 
   <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
     <gebiet type="Kreisfreie Stadt" name="Frankfurt (Oder)" gs="12053000" localpirates="http://dos.piratenbrandenburg.de/">
       <parlament name="Stadtverordnetenversammlung" seats="47" ris="https://www.sitzungsdienst-frankfurt-oder.de/tbi/pa021.asp">
+        <oa url="http://openantrag.de/frankfurt-oder" />
         <mandat type="pirat">Steffen Kern</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="Grüne/B90 &amp; BI Stadtentwicklung/PIRAT">
+          <partner partei="GRÜNE" num="2" />
+          <partner name="Bürgerinitiative Stadtentwicklung" partei="FW/UWG/etc." num="1" />
+        </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
@@ -2315,6 +2303,7 @@
       </parlament>
       <gebiet type="Stadt" name="Wismar" gs="13074087">
         <parlament name="Bürgerschaft" seats="37" ris="http://www.wismar.sitzung-online.de/bi/allris.net.asp">
+          <oa url="http://openantrag.de/wismar" />
           <mandat type="pirat">Dr. Bernhard Schubach</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
