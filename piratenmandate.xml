@@ -1893,13 +1893,6 @@
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Stadt" name="Saarbrücken" gs="10041100">
-        <parlament name="Stadtrat" seats="63" ris="http://www.saarbruecken.de/rathaus/stadtpolitik/ratsinformationssystem">
-          <oa url="http://openantrag.de/saarbruecken" />
-          <mandat type="pirat">José Ignacio Rodriguez Maicas</mandat>
-          <mandat type="pirat">Thomas Brass</mandat>
-          <fraktion type="piraten" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,6% der Stimmen erreicht.</story>
-        </parlament>
         <gebiet type="Stadtbezirk" name="Bezirk Mitte" arbkey="1">
           <parlament name="Bezirksrat" seats="21">
             <mandat type="pirat" multi="2">Markus Hansen</mandat>
