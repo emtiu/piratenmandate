@@ -910,8 +910,8 @@
         <gebiet type="Stadt" name="Bornheim" gs="05382012" localpirates="http://www.piratenpartei-bornheim.de/">
           <parlament name="Stadtrat" seats="52" ris="http://session.stadt-bornheim.de/bi/infobi.php">
             <mandat type="fremdliste" name="Aktive Bürger Bornheim" from="FW/UWG/etc." email="jjw@piratenpartei-bornheim.de">Jürgen Weiler</mandat>
-            <fraktion type="fremd" name="Aktive Bürger Bornheim" />
-            <story source="http://www.aktivebuergerbornheim.de/2014/05/abb-zieht-in-den-bornheimer-stadtrat-ein/">Pirat Jürgen Weiler kandidierte erfolgreich auf der Liste „Aktive Bürger Bornheim“ und ist jetzt Teil einer zweiköpfigen Fraktion.</story>
+            <fraktion type="none" />
+            <story source="https://www.piratenpartei-bornheim.de/2015/11/eine-ganz-persoenliche-oeffentliche-stellungnahme/">Pirat Jürgen Weiler kandidierte erfolgreich auf der Liste „Aktive Bürger Bornheim“ und war Teil einer zweiköpfigen Fraktion, bis die Zusammenarbeit im November 2015 beendet werden musste.</story>
           </parlament>
         </gebiet>
       </gebiet>
