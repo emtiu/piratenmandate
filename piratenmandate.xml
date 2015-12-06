@@ -1460,7 +1460,7 @@
       <parlament name="Kreistag" seats="87" ris="http://www.mkk.de/cms/de/politik/kreistag/kreistagsabgeordnete/kreistagsabgeordnete.html">
         <oa url="http://openantrag.de/main-kinzig" />
         <mandat type="pirat">Birgit Simon</mandat>
-        <mandat type="pirat">Sören Siegismund-Poschmann</mandat>
+        <mandat type="pirat" email="nadja.haas@piratenpartei-hessen.de">Nadja Haas</mandat>
         <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" email="kreistag@kinzigpiraten.de" />
       </parlament>
     </gebiet>
