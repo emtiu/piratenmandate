@@ -2012,9 +2012,7 @@
     <gebiet type="Bezirk" name="Pankow" localkey="03" localpirates="http://piratenpartei-pankow.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-pankow/bvv-online/pa021.asp">
         <mandat type="pirat" email="mittelbach@piratenfraktion-pankow.de">Michael Mittelbach</mandat>
-        <mandat type="pirat" email="bliedung@piratenfraktion-pankow.de ">Stephan Bliedung</mandat>
         <mandat type="pirat" email="bartsch@piratenfraktion-pankow.de">Achim Bartsch</mandat>
-        <mandat type="pirat" email="bordfeld@piratenfraktion-pankow.de">Frederik Bordfeld</mandat>
         <mandat type="pirat" email="verbuecheln@piratenfraktion-pankow.de">Stephan Verbücheln</mandat>
         <mandat type="pirat" email="schrecker@piratenfraktion-pankow.de">Jan Schrecker</mandat>
         <fraktion type="piraten" url="http://www.piratenfraktion-pankow.de/" />
@@ -2066,22 +2064,12 @@
         <fraktion type="piraten" url="http://wiki.piratenpartei.de/BE:Neuk%C3%B6lln/BVV/Fraktion" />
       </parlament>
     </gebiet>
-    <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
-        <oa url="http://openantrag.de/berlin-treptow-koepenick" />
-        <mandat type="pirat" email="volker.schroeder@berlin.piratenpartei.de">Volker Schröder</mandat>
-        <mandat type="pirat" email="rene@pf-tk.de">René Pönitz</mandat>
-        <fraktion type="piraten" url="http://pf-tk.de/" />
-        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da es nur 4 Listenkandidaten gab, ein Sitz in der Versammlung ist damit unbesetzt. Zwei Mandatsträger sind im Jahr 2014 aus der Piratenpartei ausgetreten, bleiben aber Mitglieder der Fraktion.</story>
-      </parlament>
-    </gebiet>
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-marzahn-hellersdorf" />
         <mandat type="pirat" email="steffen.ostehr@piraten-mahe.de">Steffen Ostehr</mandat>
         <mandat type="pirat" email="volker.tanger@piraten-mahe.de">Volker Tanger</mandat>
         <mandat type="pirat" email="steven.kelz@piraten-mahe.de">Steven Kelz</mandat>
-        <mandat type="pirat" email="marcel.geppert@piraten-mahe.de">Marcel Geppert</mandat>
         <fraktion type="piraten" url="http://fraktion.piraten-mahe.de/" />
         <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da eine Listenkandidatin gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
       </parlament>
