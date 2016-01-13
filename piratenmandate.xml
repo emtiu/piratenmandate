@@ -2064,6 +2064,14 @@
         <fraktion type="piraten" url="http://wiki.piratenpartei.de/BE:Neuk%C3%B6lln/BVV/Fraktion" />
       </parlament>
     </gebiet>
+		<gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
+      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
+        <oa url="http://openantrag.de/berlin-treptow-koepenick" />
+        <mandat type="pirat">René Pönitz</mandat>
+        <fraktion type="none" />
+        <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da die Liste erschöpft war. Im Laufe der Jahre 2014 und 2015 sind alle vier gewählten Vertreter aus der Piratenpartei ausgetreten. Im Januar 2016 ist einer davon wieder in die Piratenpartei eingetreten.</story>
+      </parlament>
+    </gebiet> 
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-marzahn-hellersdorf" />
