@@ -2033,9 +2033,9 @@
         <oa url="http://openantrag.de/berlin-spandau" />
         <mandat type="pirat" email="ep@piraten-fraktion-spandau.de">Emilio Paolini</mandat>
         <mandat type="pirat">Mikk Schunke</mandat>
-        <mandat type="pirat">Lasse Kosiol</mandat>
-        <fraktion type="piraten" url="http://www.piraten-fraktion-spandau.de/" />
-        <story>Von 4 gewonnenen Sitzen konnten nur 3 besetzt werden, da es nur 3 Listenkandidaten gab. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
+        <fraktion type="gemeinsam" name="PIRATEN" url="http://www.piraten-fraktion-spandau.de/">
+					<partner partei="LINKE" num="1" />
+				</fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Steglitz-Zehlendorf" localkey="06" localpirates="http://piraten-steglitz-zehlendorf.de/">
@@ -2058,10 +2058,11 @@
     <gebiet type="Bezirk" name="Neukölln" localkey="08" localpirates="http://piratenneukoelln.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-neukoelln/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-neukoelln" />
-        <mandat type="pirat">Steffen Burger</mandat>
         <mandat type="pirat">Mathias Zaech</mandat>
         <mandat type="pirat">Semih Kasap</mandat>
-        <fraktion type="piraten" url="http://wiki.piratenpartei.de/BE:Neuk%C3%B6lln/BVV/Fraktion" />
+        <fraktion type="gemeinsam" name="PIRATEN" url="http://wiki.piratenpartei.de/BE:Neuk%C3%B6lln/BVV/Fraktion">
+					<partner partei="LINKE" num="2" />
+				</fraktion>
       </parlament>
     </gebiet>
 		<gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
@@ -2075,10 +2076,11 @@
     <gebiet type="Bezirk" name="Marzahn-Hellersdorf" localkey="10" localpirates="http://piratenpartei-marzahn-hellersdorf.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-marzahn-hellersdorf" />
-        <mandat type="pirat" email="steffen.ostehr@piraten-mahe.de">Steffen Ostehr</mandat>
         <mandat type="pirat" email="volker.tanger@piraten-mahe.de">Volker Tanger</mandat>
-        <mandat type="pirat" email="steven.kelz@piraten-mahe.de">Steven Kelz</mandat>
-        <fraktion type="piraten" url="http://fraktion.piraten-mahe.de/" />
+        <fraktion type="gemeinsam" name="PIRATEN" url="http://fraktion.piraten-mahe.de/">
+					<partner partei="LINKE" num="2" />
+					<partner partei="Einzelbewerber" num="1" />
+				</fraktion>
         <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da eine Listenkandidatin gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
       </parlament>
     </gebiet>
