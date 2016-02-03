@@ -2005,7 +2005,9 @@
         <mandat type="pirat" email="jana.wisniowska@piraten-xhain.de">Barbara Wisniowska</mandat>
         <mandat type="pirat" email="michael.herbst@piraten-xhain.de">Michael Herbst</mandat>
         <mandat type="pirat">Jessica Zinn</mandat>
-        <fraktion type="piraten" url="http://piraten-xhain.de/" />
+        <fraktion type="gemeinsam" name="PIRATEN" url="http://piraten-xhain.de/">
+          <partner partei="Einzelbewerber" num="1" />
+        </fraktion>
         <story>Von 9 gewonnenen Sitzen konnten nur 5 besetzt werden, da es nur 8 Listenkandidaten gab, von denen zudem ein Teil gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit sind vier Sitze in der Versammlung unbesetzt. Ein Mandatsträger ist inzwischen aus der Piratenpartei ausgetreten, Jessica Zinn ist nicht mehr Mitglied der Fraktion.</story>
       </parlament>
     </gebiet>
@@ -2034,8 +2036,8 @@
         <mandat type="pirat" email="ep@piraten-fraktion-spandau.de">Emilio Paolini</mandat>
         <mandat type="pirat">Mikk Schunke</mandat>
         <fraktion type="gemeinsam" name="PIRATEN" url="http://www.piraten-fraktion-spandau.de/">
-					<partner partei="LINKE" num="1" />
-				</fraktion>
+          <partner partei="LINKE" num="1" />
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Steglitz-Zehlendorf" localkey="06" localpirates="http://piraten-steglitz-zehlendorf.de/">
@@ -2061,11 +2063,11 @@
         <mandat type="pirat">Mathias Zaech</mandat>
         <mandat type="pirat">Semih Kasap</mandat>
         <fraktion type="gemeinsam" name="PIRATEN" url="http://wiki.piratenpartei.de/BE:Neuk%C3%B6lln/BVV/Fraktion">
-					<partner partei="LINKE" num="2" />
-				</fraktion>
+          <partner partei="LINKE" num="2" />
+        </fraktion>
       </parlament>
     </gebiet>
-		<gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
+    <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-treptow-koepenick" />
         <mandat type="pirat">René Pönitz</mandat>
@@ -2077,10 +2079,10 @@
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-marzahn-hellersdorf/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-marzahn-hellersdorf" />
         <mandat type="pirat" email="volker.tanger@piraten-mahe.de">Volker Tanger</mandat>
+        <mandat type="pirat">Steven Kelz</mandat>
         <fraktion type="gemeinsam" name="PIRATEN" url="http://fraktion.piraten-mahe.de/">
-					<partner partei="LINKE" num="2" />
-					<partner partei="Einzelbewerber" num="1" />
-				</fraktion>
+          <partner partei="Einzelbewerber" num="2" />
+        </fraktion>
         <story>Von 5 gewonnenen Sitzen konnten nur 4 besetzt werden, da eine Listenkandidatin gleichzeitig ins Abgeordnetenhaus gewählt wurde. Somit ist ein Sitz in der Versammlung unbesetzt.</story>
       </parlament>
     </gebiet>
