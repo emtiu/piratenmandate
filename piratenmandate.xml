@@ -2057,16 +2057,6 @@
         <story source="http://wiki.piratenpartei.de/BE:Tempelhof-Sch%C3%B6neberg/BVV">Zwei der ursprünglich vier auf der PIRATEN-Liste gewählten Mandatsträger sind inzwischen aus der Fraktion bzw. der Piratenpartei ausgetreten, sodass statt einer Fraktion nur noch eine Gruppe besteht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Bezirk" name="Neukölln" localkey="08" localpirates="http://piratenneukoelln.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-neukoelln/bvv-online/pa021.asp">
-        <oa url="http://openantrag.de/berlin-neukoelln" />
-        <mandat type="pirat">Mathias Zaech</mandat>
-        <mandat type="pirat">Semih Kasap</mandat>
-        <fraktion type="gemeinsam" name="PIRATEN" url="http://wiki.piratenpartei.de/BE:Neuk%C3%B6lln/BVV/Fraktion">
-          <partner partei="LINKE" num="2" />
-        </fraktion>
-      </parlament>
-    </gebiet>
     <gebiet type="Bezirk" name="Treptow-Köpenick" localkey="09" localpirates="http://piratenpartei-treptow-koepenick.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-treptow-koepenick/bvv-online/pa021.asp">
         <oa url="http://openantrag.de/berlin-treptow-koepenick" />
