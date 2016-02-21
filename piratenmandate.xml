@@ -425,6 +425,7 @@
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
+        <oa url="http://openantrag.de/bremerhaven" />
         <mandat type="pirat" email="alexander.niedermeier@piraten-bremerhaven.de">Alexander Niedermeier</mandat>
         <fraktion type="none" />
         <story>Bei der Wahl zur Stadtverordnetenversammlung am 10. Mai 2015 wurden 2,8% der Stimmen erzielt. Bereits 2011 warendie PIRATEN mit 2,2% eingezogen.</story>
@@ -708,6 +709,7 @@
         </parlament>
         <gebiet type="Stadt" name="Neukirchen-Vluyn" gs="05170028" localpirates="http://www.piraten-neukirchen-vluyn.de/">
           <parlament name="Stadtrat" seats="38" ris="http://www.neukirchen-vluyn.de/C12576540024DF00/html/97560FD399F17C79C1257674003C88CB?opendocument&amp;nid1=93266">
+            <oa url="http://openantrag.de/neukirchen-vluyn" />
             <mandat type="pirat" email="jochen.lobnig@piratenpartei-nrw.de">Jochen Lobnig</mandat>
             <fraktion type="gemeinsam" name="FDP / Piraten" url="https://www.neukirchen-vluyn.de/C125767300615A3E/html/3F883DC857CF9CD4C1257674002C67BE?opendocument&amp;nid1=41165">
               <partner partei="FDP" num="1" />
@@ -834,6 +836,7 @@
       </gebiet>
       <gebiet type="Landkreis" name="Rhein-Erft-Kreis" gs="05362000" localpirates="https://piratenpartei-rhein-erft.de/">
         <parlament name="Kreistag" seats="76" ris="http://www2.rhein-erft-kreis.de:8080/">
+          <oa url="http://openantrag.de/rhein-erft" />
           <mandat type="pirat">Ioannis Milios</mandat>
           <fraktion type="gemeinsam" name="Freie Wähler Rhein-Erft/Piratenpartei">
             <partner name="Freie Wähler Rhein-Erft" partei="FW/UWG/etc." num="2" />
@@ -842,6 +845,7 @@
         </parlament>
         <gebiet type="Stadt" name="Brühl" gs="05362012" localpirates="http://piratenpartei-bruehl.de/">
           <parlament name="Stadtrat" seats="44" ris="http://www.bruehl.de/rathaus/stadtrat/stadtrat.php">
+            <oa url="http://openantrag.de/bruehl" />            
             <mandat type="pirat" email="harry.hupp@piratenpartei-nrw.de">Harry Hupp</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
@@ -856,6 +860,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Hürth" gs="05362028">
           <parlament name="Stadtrat" seats="44" ris="https://sdnetrim.kdvz-frechen.de/rim4390/">
+            <oa url="http://openantrag.de/huerth" />
             <mandat type="pirat" email="alexandra.osburg@piratenpartei-nrw.de">Alexandra Osburg</mandat>
             <fraktion type="gemeinsam" name="FDP-Piraten Fraktion">
               <partner partei="FDP" num="1" />
@@ -1192,6 +1197,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Hamm" gs="05915000" localpirates="https://blog.piratenpartei-nrw.de/hamm/">
         <parlament name="Stadtrat" seats="58" ris="https://www.hamm.de/rais/">
+          <oa url="http://openantrag.de/hamm" />
           <mandat type="pirat" email="martin.kesztyues@piratenpartei-nrw.de">Martin Kesztyüs</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
@@ -1545,6 +1551,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
       <parlament name="Stadtrat" seats="60" ris="https://bi.mainz.de/infobi.php">
+        <oa url="http://openantrag.de/mainz" />
         <mandat type="pirat">Xander Dorn</mandat>
         <fraktion type="fremd" name="DIE LINKE" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
@@ -2024,6 +2031,7 @@
     </gebiet>
     <gebiet type="Bezirk" name="Pankow" localkey="03" localpirates="http://piratenpartei-pankow.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-pankow/bvv-online/pa021.asp">
+        <oa url="http://openantrag.de/berlin-pankow" />
         <mandat type="pirat" email="mittelbach@piratenfraktion-pankow.de">Michael Mittelbach</mandat>
         <mandat type="pirat" email="bliedung@piratenfraktion-pankow.de ">Stephan Bliedung</mandat>
         <mandat type="pirat" email="bartsch@piratenfraktion-pankow.de">Achim Bartsch</mandat>
