@@ -1869,13 +1869,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Landkreis Main-Spessart" gs="09677000">
-        <parlament name="Kreistag" seats="60" ris="http://www.main-spessart.de/LandkreisOnline/Kreisorgane/Kreistag.aspx">
-          <mandat type="pirat" email="juergen.neuwirth@piratenpartei-bayern.de">Jürgen Neuwirth</mandat>
-          <fraktion type="none" />
-          <story>Jürgen Neuwirth wurde auf der gemeinsamen Liste „Die Sonstigen“ von ÖDP, PIRATEN und LINKE gewählt, die 2,3% erlangte.</story>
-        </parlament>
-      </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Schwaben" gs="09700000" localpirates="http://www.piraten-schwaben.de/">
       <parlament name="Bezirkstag" seats="27" ris="https://www.bezirk-schwaben.de/bezirk/bezirkstag/bezirkstag/">
