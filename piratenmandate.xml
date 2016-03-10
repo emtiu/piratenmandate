@@ -1883,22 +1883,6 @@
   </bundesland>
 
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/"> <!-- Danke @piratenproll für die Daten -->
-    <gebiet type="Kommunalverband besonderer Art" name="Regionalverband Saarbrücken" gs="10041000" localpirates="https://kvsb.piratenpartei-saarland.de/">
-      <parlament name="Regionalversammlung" seats="45" ris="http://www.regionalverband-saarbruecken.de/staticsite/staticsite.php?menuid=547&amp;topmenu=2&amp;keepmenu=inactive">
-        <mandat type="pirat">Markus Hansen</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
-      </parlament>
-      <gebiet type="Stadt" name="Saarbrücken" gs="10041100">
-        <gebiet type="Stadtbezirk" name="Bezirk Mitte" arbkey="1">
-          <parlament name="Bezirksrat" seats="21">
-            <mandat type="pirat" multi="2">Markus Hansen</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 5,1% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
       <gebiet type="Stadt" name="Merzig" gs="10042113">
         <parlament name="Stadtrat" seats="39" ris="http://merzig.de/rathaus/stadtpolitik">
