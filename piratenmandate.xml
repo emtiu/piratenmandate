@@ -919,13 +919,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Regierungsbezirk Münster" gs="05500000">
-      <gebiet type="Kreisfreie Stadt" name="Bottrop" gs="05512000" localpirates="https://www.piratenpartei-bottrop.de/">
-        <parlament name="Stadtrat" seats="54" ris="http://ratsinfo.bottrop.de/buergerinfo/infobi.asp">
-          <mandat type="pirat">Gabriele Schmeer</mandat>
-          <fraktion type="gruppe" name="LSB (Liberal-Sozial-Bürgernah)" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht. Zusammen mit der FDP besteht eine Ratsgruppe.</story>
-        </parlament>
-      </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Gelsenkirchen" gs="05513000" localpirates="https://wiki.piratenpartei.de/NRW:Gelsenkirchen">
         <parlament name="Stadtrat" seats="66" ris="https://ratsinfo.gelsenkirchen.de/ratsinfo/gelsenkirchen.html">
           <mandat type="pirat">Jürgen Hansen</mandat>
