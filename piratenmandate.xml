@@ -621,12 +621,12 @@
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadt" name="Ratingen" gs="05158028" localpirates="https://blog.piratenpartei-nrw.de/ratingen/">
+        <gebiet type="Stadt" name="Ratingen" gs="05158028" localpirates="http://piraten-ratingen.de/">
           <parlament name="Stadtrat" seats="58" ris="http://ris.ratingen.de/">
             <oa url="http://openantrag.de/ratingen" />
-            <mandat type="pirat">Thomas Woywod</mandat>
-            <mandat type="pirat">Jochen Drahorad</mandat>
-            <fraktion type="piraten" url="http://www.piratingen.de" />
+            <mandat type="pirat" email="thomas.woywod@piraten-ratingen.de">Thomas Woywod</mandat>
+            <mandat type="pirat" email="jochen.drahorad@piraten-ratingen.de">Jochen Drahorad</mandat>
+            <fraktion type="piraten" url="http://piraten-ratingen.de/fraktion/">
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
