@@ -770,6 +770,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Herzogenrath" gs="05334016" localpirates="http://herzogenrath.piraten.ac/">
           <parlament name="Stadtrat" seats="44" ris="http://ratsinfo.herzogenrath.de/bi/allris.net.asp">
+            <oa url="http://openantrag.de/herzogenrath" />
             <mandat type="pirat" email="Kai.Baumann@piratenpartei-aachen.de">Kai Baumann</mandat>
             <mandat type="pirat">Stefan Kuklik</mandat>
             <fraktion type="piraten" />
