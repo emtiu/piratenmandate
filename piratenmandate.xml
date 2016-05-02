@@ -425,6 +425,7 @@
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
     <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
       <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
+        <oa url="http://openantrag.de/bremerhaven" />
         <mandat type="pirat" email="alexander.niedermeier@piraten-bremerhaven.de">Alexander Niedermeier</mandat>
         <fraktion type="none" />
         <story>Bei der Wahl zur Stadtverordnetenversammlung am 10. Mai 2015 wurden 2,8% der Stimmen erzielt. Bereits 2011 warendie PIRATEN mit 2,2% eingezogen.</story>
@@ -708,6 +709,7 @@
         </parlament>
         <gebiet type="Stadt" name="Neukirchen-Vluyn" gs="05170028" localpirates="http://www.piraten-neukirchen-vluyn.de/">
           <parlament name="Stadtrat" seats="38" ris="http://www.neukirchen-vluyn.de/C12576540024DF00/html/97560FD399F17C79C1257674003C88CB?opendocument&amp;nid1=93266">
+            <oa url="http://openantrag.de/neukirchen-vluyn" />
             <mandat type="pirat" email="jochen.lobnig@piratenpartei-nrw.de">Jochen Lobnig</mandat>
             <fraktion type="gemeinsam" name="FDP / Piraten" url="https://www.neukirchen-vluyn.de/C125767300615A3E/html/3F883DC857CF9CD4C1257674002C67BE?opendocument&amp;nid1=41165">
               <partner partei="FDP" num="1" />
@@ -768,6 +770,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Herzogenrath" gs="05334016" localpirates="http://herzogenrath.piraten.ac/">
           <parlament name="Stadtrat" seats="44" ris="http://ratsinfo.herzogenrath.de/bi/allris.net.asp">
+            <oa url="http://openantrag.de/herzogenrath" />
             <mandat type="pirat" email="Kai.Baumann@piratenpartei-aachen.de">Kai Baumann</mandat>
             <mandat type="pirat">Stefan Kuklik</mandat>
             <fraktion type="piraten" />
@@ -836,6 +839,7 @@
       </gebiet>
       <gebiet type="Landkreis" name="Rhein-Erft-Kreis" gs="05362000" localpirates="https://piratenpartei-rhein-erft.de/">
         <parlament name="Kreistag" seats="76" ris="http://www2.rhein-erft-kreis.de:8080/">
+          <oa url="http://openantrag.de/rhein-erft" />
           <mandat type="pirat">Ioannis Milios</mandat>
           <fraktion type="gemeinsam" name="Freie Wähler Rhein-Erft/Piratenpartei">
             <partner name="Freie Wähler Rhein-Erft" partei="FW/UWG/etc." num="2" />
@@ -844,6 +848,7 @@
         </parlament>
         <gebiet type="Stadt" name="Brühl" gs="05362012" localpirates="http://piratenpartei-bruehl.de/">
           <parlament name="Stadtrat" seats="44" ris="http://www.bruehl.de/rathaus/stadtrat/stadtrat.php">
+            <oa url="http://openantrag.de/bruehl" />
             <mandat type="pirat" email="harry.hupp@piratenpartei-nrw.de">Harry Hupp</mandat>
             <fraktion type="none" />
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
@@ -858,6 +863,7 @@
         </gebiet>
         <gebiet type="Stadt" name="Hürth" gs="05362028">
           <parlament name="Stadtrat" seats="44" ris="https://sdnetrim.kdvz-frechen.de/rim4390/">
+            <oa url="http://openantrag.de/huerth" />
             <mandat type="pirat" email="alexandra.osburg@piratenpartei-nrw.de">Alexandra Osburg</mandat>
             <fraktion type="gemeinsam" name="FDP-Piraten Fraktion">
               <partner partei="FDP" num="1" />
@@ -1181,6 +1187,7 @@
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Hamm" gs="05915000" localpirates="https://blog.piratenpartei-nrw.de/hamm/">
         <parlament name="Stadtrat" seats="58" ris="https://www.hamm.de/rais/">
+          <oa url="http://openantrag.de/hamm" />
           <mandat type="pirat" email="martin.kesztyues@piratenpartei-nrw.de">Martin Kesztyüs</mandat>
           <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
@@ -1337,6 +1344,7 @@
   </bundesland>
 
   <bundesland name="Hessen" gs="06000000" localpirates="http://www.piratenpartei-hessen.de/">
+<!--
     <gebiet type="Planungsregion" name="Planungsregion Nordhessen" gs="06600000">
       <parlament name="Regionalversammlung" seats="41" ris="http://www.rp-kassel.hessen.de/irj/RPKS_Internet?cid=937c12afeba4b0fb24611df1b86fd477">
         <oa url="http://openantrag.de/regionalversammlung-nordhessen" />
@@ -1352,33 +1360,34 @@
         <story>Das Gebiet der Planungsregion Südhessen ist identisch mit dem des Regierungsbezirks Darmstadt. Die Regionalversammlung der Planungsregion wird nicht direkt, sondern von den Vertretungen großer Mitgliedskörperschaften gewählt. Derzeit wird ein Sitz von den PIRATEN gehalten. Die Regionalversammlung ist vor allem für die Regionalplanung in Sachen Flächennutzung und Verkehr zuständig.</story>
       </parlament>
     </gebiet>
+-->
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="https://darmstadt.more-rubin1.de/index.php">
         <oa url="http://openantrag.de/darmstadt" />
         <mandat type="pirat">Claudia Stricker</mandat>
-        <mandat type="pirat">Roland Cuny</mandat>
-        <fraktion type="piraten" url="http://www.piratenfraktion-darmstadt.de/" email="info@piratenfraktion-darmstadt.de" />
-        <story>Im „Magistrat“, dem ausführenden und überwiegend ehrenamtlich besetzten Verwaltungsvorstand der Stadt Darmstadt, sitzt der Pirat Markus Drenger in der Funktion eines „Stadtrats“.</story>
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
       <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
         <oa url="http://openantrag.de/frankfurt-am-main" />
-        <mandat type="pirat">Herbert Förster</mandat>       
-        <fraktion type="none" />
-        <story>Zunächst wurde die „Bunte Fraktion“ aus je einer Abgeordneten der Liste ÖkoLinX und der Europaliste für Frankfurt (ELF) sowie den beiden Piraten gebildet. Im September 2011 traten Piraten und ELF aus der Fraktion aus und gründeten die neue Fraktion „ELF Piraten“. Im September 2014 ist Martin Kliehm aus der Piratenpartei ausgetreten und hat sich zusammen mit Luigi Brillante der LINKE-Fraktion angeschlossen. Herbert Förster führt sein Mandat nun ohne Fraktion weiter.</story>
+        <mandat type="pirat" email="h.foerster@piratenpartei-frankfurt.de">Herbert Förster</mandat>
+        <fraktion type="gemeinsam" name="Die FRAKTION">
+          <partner partei="Die PARTEI" num="2" />
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet4/gremien/?__=LfyIfvCWq8SpBQj0MiyHavGau9TuCPj2NgzHauCWr8Um5Ol7MfyIduGGJ/">
-        <mandat type="pirat" email="joerg-peter.bayer@piratenpartei-kassel.de">Jörg-Peter Bayer</mandat>
-        <fraktion type="none" />
-        <story>Die beiden in die Stadtverordnetenversammlung gewählten Piraten bildeten zunächst eine Fraktion mit mit einem parteilosen Stadtverordneten (ehemals SPD) als Fraktionschef. Diese wurde im März 2013 aufgelöst. Im Mai 2013 trat schließlich einer der beiden PIRATEN-Abgeordneten aus der Partei aus.</story>
+      <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet4/gremien/">
+        <mandat type="pirat">Volker Berkhout</mandat>
+        <fraktion type="gemeinsam" name="FREIE WÄHLER und PIRATEN" url="http://freiewaehler-und-piraten.de/" email="fraktion@freiewaehler-und-piraten.de">
+          <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="2" />
+        </fraktion>
       </parlament>
-      <gebiet type="Ortsteil" name="Stadtteil Nord-Holland" arbkey="1">
-        <parlament name="Ortsbeirat" seats="13" ris="http://wwwsvc1.stadt-kassel.de/sdnet/gremien.do?mode=1&amp;gid=22">
+      <gebiet type="Ortsteil" name="Stadtteil Nord-Holland" localkey="11">
+        <parlament name="Ortsbeirat" seats="13" ris="http://wwwsvc1.stadt-kassel.de/sdnet4/gremien/?__=LfyIfvCWq8SpBQj0MjyGawHWq8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsCSnGJ">
           <oa url="http://openantrag.de/kassel-nord-holland" />
-          <mandat type="pirat">Volker Berkhout</mandat>
+          <mandat type="pirat">Johannes Rieder</mandat>
         </parlament>
       </gebiet>
     </gebiet>
@@ -1386,83 +1395,53 @@
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://pio.offenbach.de/">
         <oa url="http://openantrag.de/offenbach" />
         <mandat type="pirat">Gregory Engels</mandat>
-        <mandat type="pirat">Helmut Eisenkolb</mandat>
-        <fraktion type="piraten" url="http://www.piratenpartei-offenbach.de/content/fraktion-2011-2016" email="Fraktion@piratenpartei-offenbach.de" />
-      </parlament>
-      <parlament name="Ausländerbeirat" seats="25" ris="http://www.offenbach.de/offenbach/themen/rathaus/politik/auslaenderbeirat/">
-        <mandat type="pirat">Olga Eisenkolb</mandat>
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
       <parlament name="Stadtverordnetenversammlung" seats="81" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
         <oa url="http://openantrag.de/wiesbaden" />
-        <mandat type="pirat">Kristof Zerbe</mandat>
+        <mandat type="pirat">Jörg Sobek</mandat>
         <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
-          <partner partei="LINKE" num="2" />
+          <partner partei="LINKE" num="3" />
         </fraktion>
       </parlament>
       <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
         <parlament name="Ortsbeirat" seats="15" ris="https://piwi.wiesbaden.de/Anzeige/RII/HAUPT/SitzungsKalender.jsp">
           <oa url="http://openantrag.de/wiesbaden-westend" />
-          <mandat type="pirat">Markus Kairies</mandat>
+          <mandat type="pirat">Klaus-Dieter Händler</mandat>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Bergstraße" gs="06431000" localpirates="http://www.piraten-bergstrasse.de/">
       <parlament name="Kreistag" seats="81" ris="http://bis.kreis-bergstrasse.de/kp0040.asp?__kgrnr=2&amp;">
-        <mandat type="pirat" email="Peter.Dambier@piraten-fraktion-bergstrasse.de">Peter Dambier</mandat>
-        <mandat type="transfer" from="LINKE">Veronika Zenker</mandat>
-        <fraktion type="piraten" url="http://www.piraten-fraktion-bergstrasse.de/" />
-        <story source="http://www.echo-online.de/region/bergstrasse/kreis/Piraten-als-Fraktion;art1145,2571529">Die am 27. März 2011 für die LINKE in den Kreistag gewählte Abgeordnete Veronika Zenker ist im Januar 2012 zur Piratenpartei übergetreten. Sie hat daraufhin mit Peter Dambier, der bei der gleichen Wahl für die PIRATEN gewählt wurde, eine Piratenfraktion gegründet und den Fraktionsvorsitz übernommen.</story>
+        <mandat type="pirat">Veronika Zenker</mandat>
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <oa url="http://openantrag.de/darmstadt-dieburg" />
         <mandat type="pirat">Markus Brechtel</mandat>
-        <fraktion type="gemeinsam" name="Freie Wähler – Piraten" url="http://fw-pp.de/" email="fraktion@freiewaehler-piraten.de">
-          <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="2" />
-        </fraktion>
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
-        <mandat type="pirat">Iwan Lappo-Danilewski</mandat>
-        <mandat type="pirat">Paulo Rommel</mandat>
+        <mandat type="pirat">Björn Fleischer-Smajek</mandat>
         <fraktion type="none" />
       </parlament>
-<!--      <gebiet type="Stadt" name="Gießen" gs="06531005">
+      <gebiet type="Stadt" name="Gießen" gs="06531005">
         <parlament name="Stadtverordnetenversammlung" seats="59" ris="http://giessen.de/Rathaus_und_Service/Stadtparlament/Parlamentsinfo/">
-          <mandat type="pirat">Christian Jackelen</mandat>
+          <mandat type="pirat">Thomas Jochimsthal</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>-->
-    </gebiet>
-    <gebiet type="Landkreis" name="Hochtaunuskreis" gs="06434000" localpirates="http://www.piratenpartei-hochtaunus.de/">
-      <parlament name="Kreistag" seats="71" ris="http://buergerinfo.hochtaunuskreis.de/kp0040.asp?__kgrnr=1&amp;">
-        <mandat type="pirat" email="michael.geurts@piratenpartei-hochtaunus.de">Michael Geurts</mandat>
-        <fraktion type="none" />
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Kassel" gs="06633000" localpirates="http://www.piratenpartei-kassel.de/">
-      <parlament name="Kreistag" seats="81" ris="https://gremien.landkreiskassel.de/">
-        <oa url="http://openantrag.de/kassel-land" />
-        <mandat type="pirat" email="SwenSchmidt@piratenpartei-hessen.de">Swen Schmidt</mandat>
-        <fraktion type="none" />
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Main-Kinzig-Kreis" gs="06435000" localpirates="http://www.kinzigpiraten.de/">
-      <parlament name="Kreistag" seats="87" ris="http://www.mkk.de/cms/de/politik/kreistag/kreistagsabgeordnete/kreistagsabgeordnete.html">
-        <oa url="http://openantrag.de/main-kinzig" />
-        <mandat type="pirat">Birgit Simon</mandat>
-        <mandat type="pirat" email="nadja.haas@piratenpartei-hessen.de">Nadja Haas</mandat>
-        <fraktion type="piraten" url="http://kreistag.kinzigpiraten.de/" email="kreistag@kinzigpiraten.de" />
-      </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Marburg-Biedenkopf" gs="06534000" localpirates="http://www.piratenpartei-marburg.de/">
       <parlament name="Kreistag" seats="81" ris="https://marburg-biedenkopf.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MiyHavGau9TuCPj2NgzHauCWr8Um5Ol7MfyIduGGJ">
         <oa url="http://openantrag.de/marburg-biedenkopf" />
-        <mandat type="pirat">Jens Fricke</mandat>
+        <mandat type="pirat">Frank Lerche</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Marburg" gs="06534014">
@@ -1470,49 +1449,28 @@
           <oa url="http://openantrag.de/marburg" />
           <mandat type="pirat">Michael Weber</mandat>
           <fraktion type="none" />
-          <story source="http://www.piratenpartei-marburg.de/content/piraten-zur%C3%BCck-im-marburger-stadtparlament">Am 27. März 2011 war Sascha Klee für die Piratenpartei in die Stadtverordnetenversammlung gewählt worden. Im Juli 2012 trat er aus der Piratenpartei aus, legte aber zunächst das Mandat nicht nieder. Im Januar 2013 trat er schließlich doch zurück, sodass Michael Weber als Pirat nachrücken konnte.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Offenbach" gs="06438000" localpirates="http://www.kreispiraten-of.de/">
       <parlament name="Kreistag" seats="87" ris="http://www.kreis-offenbach.de/index.phtml?mNavID=1856.545&amp;sNavID=1856.545&amp;La=1">
         <oa url="http://openantrag.de/offenbach-land" />
-        <mandat type="pirat">Christoph Hampe</mandat>
-        <mandat type="pirat">Eduard Baumann</mandat>
-        <fraktion type="piraten" url="http://www.kreispiraten-of.de/content/fraktion-piraten-im-kreistag-offenbach-land" email="piraten@kreis-offenbach.de"/>
+        <mandat type="pirat" email="christoph.hampe@piratenpartei-hessen.de">Christoph Hampe</mandat>
+        <fraktion type="fremd" name="FDP" />
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
-      <parlament name="Kreistag" seats="71" ris="http://lk-wf.active-city.net/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
-        <mandat type="pirat" email="alexander.kaufmann@piraten-wa-fkb.net">Alexander Kaufmann</mandat>
+      <parlament name="Kreistag" seats="71" ris="http://www.landkreis-waldeck-frankenberg.de/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
+        <mandat type="pirat">Alexander Kaufmann</mandat>
         <fraktion type="none" />
       </parlament>
-      <gebiet type="Stadt" name="Frankenau" gs="06635010">
-        <parlament name="Stadtverordnetenversammlung" seats="23" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100018&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
-          <mandat type="pirat" multi="3" email="alexander.kaufmann@piraten-wa-fkb.net">Alexander Kaufmann</mandat>
-          <fraktion type="none" />
-        </parlament>
-        <gebiet type="Ortsteil" name="Frankenau" arbkey="1">
-          <parlament name="Ortsbeirat" seats="7" ris="http://frankenau.ecity21.de/w3a/publication.jsp?PubType=100017&amp;d=1&amp;l=1&amp;nf=1&amp;mp=765&amp;mpnl=765%2C777&amp;mpp=t24">
-            <mandat type="pirat" multi="3" email="alexander.kaufmann@piraten-wa-fkb.net">Alexander Kaufmann</mandat>
-            <story source="http://www.piraten-wa-fkb.net/index.php/abgeordnete.html">Alexander Kaufmann ist als Vorsitzender des Ortsbeirates der Ortsvorsteher des Ortsteils Frankenau.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
-      <parlament name="Kreistag" seats="81" ris="https://ramiris.wetteraukreis.org/context/ramiris/?op=ramirisGremiumDetails&amp;gremiumid=0MIQN68VDU">
+      <parlament name="Kreistag" seats="81" ris="https://sdonline.wetterau.de/context/ramiris/?op=ramirisGremiumDetails&amp;gremiumid=0MIQN68VDU">
         <oa url="http://openantrag.de/wetterau" />
-        <mandat type="pirat" email="s.flindt@piratenpartei-hessen.de">Stephan Flindt</mandat>
-        <fraktion type="fremd" name="Freie Wähler FWG/UWG" url="http://www.fwg-uwg-wetterau.de/" />
+        <mandat type="pirat">Viktoria Klaus</mandat>
+        <fraktion type="none" />
       </parlament>
-<!--      <gebiet type="Stadt" name="Rosbach vor der Höhe" gs="06440023" localpirates="http://www.piratenpartei-rosbach.de/">
-        <parlament name="Stadtverordnetenversammlung" seats="31" ris="http://www.rosbach-hessen.de/rathaus/politik/gremien/stadtverordnetenversammlung">
-          <oa url="http://openantrag.de/rosbach" />
-          <mandat type="pirat">Helge Welker</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet> -->
     </gebiet>
   </bundesland>
 
@@ -1534,6 +1492,7 @@
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
       <parlament name="Stadtrat" seats="60" ris="https://bi.mainz.de/infobi.php">
+        <oa url="http://openantrag.de/mainz" />
         <mandat type="pirat">Xander Dorn</mandat>
         <fraktion type="fremd" name="DIE LINKE" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
@@ -1985,6 +1944,7 @@
     </gebiet>
     <gebiet type="Bezirk" name="Pankow" localkey="03" localpirates="http://piratenpartei-pankow.de/">
       <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-pankow/bvv-online/pa021.asp">
+        <oa url="http://openantrag.de/berlin-pankow" />
         <mandat type="pirat" email="mittelbach@piratenfraktion-pankow.de">Michael Mittelbach</mandat>
         <mandat type="pirat" email="bartsch@piratenfraktion-pankow.de">Achim Bartsch</mandat>
         <mandat type="pirat" email="verbuecheln@piratenfraktion-pankow.de">Stephan Verbücheln</mandat>
