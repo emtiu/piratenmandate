@@ -1403,7 +1403,7 @@
         <oa url="http://openantrag.de/wiesbaden" />
         <mandat type="pirat">Jörg Sobek</mandat>
         <fraktion type="gemeinsam" name="LINKE und PIRATEN" url="http://www.linke-und-piraten-wiesbaden.de/">
-          <partner partei="LINKE" num="3" />
+          <partner partei="LINKE" num="5" />
         </fraktion>
       </parlament>
       <gebiet type="Ortsteil" name="Wiesbaden-Westend" localkey="08">
