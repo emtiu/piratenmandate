@@ -1426,6 +1426,12 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Kreis Groß-Gerau" gs="06433000" localpirates="http://www.piratenpartei-gross-gerau.de/">
+      <parlament name="Kreistag" seats="71" ris="https://kreisgg.more-rubin1.de/index.php">
+        <mandat type="pirat" email="christian.greb@piratenpartei-hessen.de">Christian Greb</mandat>
+        <fraktion type="fremd" name="Die Linke.Offene Liste" url="http://www.linkeol-kreisgg.de/" />
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
         <mandat type="pirat">Björn Fleischer-Smajek</mandat>
