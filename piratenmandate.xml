@@ -668,7 +668,7 @@
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadt" name="Kaarst" gs="05162016" localpirates="https://blog.piratenpartei-nrw.de/kaarst/">
+        <gebiet type="Stadt" name="Kaarst" gs="05162016" localpirates="http://www.piratenpartei-kaarst.de/">
           <parlament name="Stadtrat" seats="50" ris="http://pvr.itk-rheinland.de/ratsinfo/kaarst">
             <oa url="http://openantrag.de/kaarst" />
             <mandat type="pirat" email="m.wetzler@piraten-rkn.de">Markus Wetzler</mandat>
