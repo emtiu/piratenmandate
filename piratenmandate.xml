@@ -461,7 +461,6 @@
     <gebiet type="Landschaftsverband" name="Landschaftsverband Westfalen-Lippe" arbkey="2">
       <parlament name="Landschaftsversammlung" seats="125" ris="http://www.lwl.org/bi-lwl/_lwl_do011_x.asp">
         <oa url="http://openantrag.de/westfalen-lippe" />
-        <mandat type="pirat" multi="2">Sven Sladek</mandat>
         <mandat type="pirat">Christina Worm</mandat>
         <fraktion type="gruppe" name="Piraten" url="http://www.lwl-piraten.de/" email="hallo@lwl-piraten.de" />
         <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Die beiden „Landschaftsverbände“ in Nordrhein-Westfalen, die jeweils grob die Hälfte des Gebiets und der Bevölkerung abdecken, sind Gebietskörperschaften der kommunalen Selbstverwaltung und haben je eine „Landschaftsversammlung“ als Parlament. Diese wird nicht direkt gewählt, sondern nach den Wahlergebnissen bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten haben nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Ähnlich den Bezirkstagen in Bayern sind sie hauptsächlich für die Trägerschaft der Sozial-, Behinderten- und Jugendhilfe, insbesondere für Fach- und psychiatrische Krankenhäuser sowie Förderschulen zuständig.</story>
@@ -1305,15 +1304,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Kreis Soest" gs="05974000" localpirates="http://www.piratenpartei-soest.de/">
-        <gebiet type="Stadt" name="Soest" gs="05974040">
-          <parlament name="Stadtrat" seats="50" ris="http://87.106.2.115:8080/ratsinfo/soest">
-            <mandat type="pirat">Sven Sladek</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
       <gebiet type="Landkreis" name="Kreis Unna" gs="05978000" localpirates="http://piraten-kreis-unna.de/">
         <parlament name="Kreistag" seats="70" ris="https://security.kreis-unna.de/sessionnet/bi/infobi.php">
           <oa url="http://openantrag.de/unna" />
@@ -1468,10 +1458,12 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
-      <parlament name="Kreistag" seats="71" ris="http://www.landkreis-waldeck-frankenberg.de/city_info/webaccessibility/index.cfm?region_id=81&amp;waid=172&amp;item_id=855238&amp;oldrecord=76034&amp;oldmodul=5&amp;olddesign=0&amp;oldkeyword=0&amp;oldeps=20&amp;oldaz=all&amp;oldcat=0&amp;fsize=1&amp;contrast=0">
-        <mandat type="pirat">Alexander Kaufmann</mandat>
-        <fraktion type="none" />
-      </parlament>
+      <gebiet type="Stadt" name="Frankenau" gs="06635010">
+        <parlament name="Stadtverordnetenversammlung" seats="23" ris="http://www.frankenau.de/politik/mitglieder/gremium/6994/Stadtverordnete%20Frankenau">
+          <mandat type="pirat" email="alexander.kaufmann@piraten-wa-fkb.net">Alexander Kaufmann</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Wetteraukreis" gs="06440000" localpirates="http://www.piratenpartei-wetterau.de/">
       <parlament name="Kreistag" seats="81" ris="https://sdonline.wetterau.de/context/ramiris/?op=ramirisGremiumDetails&amp;gremiumid=0MIQN68VDU">
@@ -1496,14 +1488,6 @@
         <mandat type="pirat">Heinz Zell</mandat>
         <fraktion type="fremd" name="B90/GRÜNE Ludwigshafen" url="http://www.gruene-lu.de/" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht. Heinz Zell schloss sich daraufhin der Grünen-Fraktion an.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Mainz" gs="07315000" localpirates="http://www.piraten-rheinhessen.de/">
-      <parlament name="Stadtrat" seats="60" ris="https://bi.mainz.de/infobi.php">
-        <oa url="http://openantrag.de/mainz" />
-        <mandat type="pirat">Xander Dorn</mandat>
-        <fraktion type="fremd" name="DIE LINKE" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Trier" gs="07211000" localpirates="http://www.piraten-trier.de/">
