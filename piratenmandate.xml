@@ -1529,16 +1529,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Mainz-Bingen" gs="07339000" localpirates="http://www.piraten-rheinhessen.de/">
-      <parlament name="Kreistag" seats="50" ris="https://www.landkreis-mainz-bingen.sitzung-online.de/bi/allris.net.asp">
-        <oa url="http://openantrag.de/mainz-bingen" />
-        <mandat type="pirat">Patrick Walter</mandat>
-        <fraktion type="gemeinsam" name="Die Piraten" url="http://www.piratenfraktion-mzbi.de/">
-          <partner partei="Einzelbewerber" num="1" />
-        </fraktion>
-        <story source="http://www.piratenfraktion-mzbi.de/2014/06/30/pressemitteilung-gruendung-der-piratenfraktion/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht. Kurz nach der Wahl trat Michael Stüber, gewählt als einer von sechs Abgeorndeten auf der Liste der Grünen, aus seiner Partei aus und bildet fortan als Parteiloser eine Fraktion mit dem einzigen Piraten der Versammlung.</story>
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Trier-Saarburg" gs="07235000" localpirates="http://www.piraten-trier.de/">
       <parlament name="Kreistag" seats="46">
         <oa url="http://openantrag.de/trier-saarburg" />
