@@ -1336,7 +1336,6 @@
   </bundesland>
 
   <bundesland name="Hessen" gs="06000000" localpirates="http://www.piratenpartei-hessen.de/">
-<!--
     <gebiet type="Planungsregion" name="Planungsregion Nordhessen" gs="06600000">
       <parlament name="Regionalversammlung" seats="41" ris="http://www.rp-kassel.hessen.de/irj/RPKS_Internet?cid=937c12afeba4b0fb24611df1b86fd477">
         <oa url="http://openantrag.de/regionalversammlung-nordhessen" />
@@ -1352,7 +1351,6 @@
         <story>Das Gebiet der Planungsregion Südhessen ist identisch mit dem des Regierungsbezirks Darmstadt. Die Regionalversammlung der Planungsregion wird nicht direkt, sondern von den Vertretungen großer Mitgliedskörperschaften gewählt. Derzeit wird ein Sitz von den PIRATEN gehalten. Die Regionalversammlung ist vor allem für die Regionalplanung in Sachen Flächennutzung und Verkehr zuständig.</story>
       </parlament>
     </gebiet>
--->
     <gebiet type="Kreisfreie Stadt" name="Darmstadt" gs="06411000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="https://darmstadt.more-rubin1.de/index.php">
         <oa url="http://openantrag.de/darmstadt" />
@@ -1368,6 +1366,11 @@
           <partner partei="Die PARTEI" num="2" />
         </fraktion>
       </parlament>
+      <gebiet type="Ortsteil" name="Stadtteile Bockenheim, Kuhwald, Westend" localkey="2">
+        <parlament name="Ortsbeirat" seats="19" ris="http://www.frankfurt.de/sixcms/detail.php?id=3467&amp;_ffmpar[_id_inhalt]=19177633">
+          <mandat type="pirat">Jürgen Erkmann</mandat>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Kassel" gs="06611000" localpirates="http://www.piratenpartei-kassel.de/">
       <parlament name="Stadtverordnetenversammlung" seats="71" ris="http://wwwsvc1.stadt-kassel.de/sdnet4/gremien/">
@@ -1388,6 +1391,9 @@
         <oa url="http://openantrag.de/offenbach" />
         <mandat type="pirat">Gregory Engels</mandat>
         <fraktion type="none" />
+      </parlament>
+      <parlament name="Ausländerbeirat" seats="25" ris="http://www.offenbach.de/rathaus/politik/auslaenderbeirat/auslaenderbeirat.php">
+        <mandat type="pirat">Olga Eisenkolb</mandat>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Wiesbaden" gs="06414000" localpirates="http://piratenpartei-wiesbaden.de/">
@@ -1414,8 +1420,10 @@
     <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <oa url="http://openantrag.de/darmstadt-dieburg" />
-        <mandat type="pirat">Markus Brechtel</mandat>
-        <fraktion type="none" />
+        <mandat type="pirat">Michael Kittlaus</mandat>
+        <fraktion type="gemeinsam" name="Freie Wähler - Piraten" url="http://freiewaehler-piraten.de/" email="fraktion@freiewaehler-piraten.de">
+          <partner num="2" partei="FW/UWG/etc." name="Freie Wähler" />
+        </fraktion>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Groß-Gerau" gs="06433000" localpirates="http://www.piratenpartei-gross-gerau.de/">
@@ -1456,6 +1464,19 @@
         <mandat type="pirat" email="christoph.hampe@piratenpartei-hessen.de">Christoph Hampe</mandat>
         <fraktion type="fremd" name="FDP" />
       </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Schwalm-Eder-Kreis" gs="06634000" localpirates="http://piraten-sek.de/">
+      <parlament name="Kreistag" seats="71" ris="https://www.schwalm-eder-kreis.de/sitzungsdienst/bi/kp0040.php?__kgrnr=1">
+        <mandat type="pirat" multi="2">Marcel Duve</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Gemeinde" name="Wabern" gs="06634025">
+        <gebiet type="Ortsteil" name="Harle" arbkey="2">
+          <parlament name="Ortsbeirat" seats="5" ris="http://www.harle-hessen.de/?page_id=4774">
+            <mandat type="pirat" multi="2" email="ortsbeirat@marcelduve.de">Marcel Duve</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Waldeck-Frankenberg" gs="06635000" localpirates="http://www.piraten-wa-fkb.net/">
       <gebiet type="Stadt" name="Frankenau" gs="06635010">
