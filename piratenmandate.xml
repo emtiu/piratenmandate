@@ -459,9 +459,10 @@
       </parlament>
     </gebiet>
     <gebiet type="Landschaftsverband" name="Landschaftsverband Westfalen-Lippe" arbkey="2">
-      <parlament name="Landschaftsversammlung" seats="125" ris="http://www.lwl.org/bi-lwl/_lwl_do011_x.asp">
+      <parlament name="Landschaftsversammlung" seats="125" ris="https://www.lwl.org/bi-lwl/allris.net.asp">
         <oa url="http://openantrag.de/westfalen-lippe" />
         <mandat type="pirat">Christina Worm</mandat>
+        <mandat type="pirat">Sven Sladek</mandat>
         <fraktion type="gruppe" name="Piraten" url="http://www.lwl-piraten.de/" email="hallo@lwl-piraten.de" />
         <story source="http://www.piratenpartei-nrw.de/2014/06/09/piraten-waehlen-mitglieder-fuer-regionale-vertretungen-in-nordrhein-westfalen/">Die beiden „Landschaftsverbände“ in Nordrhein-Westfalen, die jeweils grob die Hälfte des Gebiets und der Bevölkerung abdecken, sind Gebietskörperschaften der kommunalen Selbstverwaltung und haben je eine „Landschaftsversammlung“ als Parlament. Diese wird nicht direkt gewählt, sondern nach den Wahlergebnissen bei allgemeinen Kommunalwahlen nach Proporz besetzt. Die Piraten haben nach den Kommunalwahlen am 25. Mai 2014 Anspruch auf zwei Sitze. Ähnlich den Bezirkstagen in Bayern sind sie hauptsächlich für die Trägerschaft der Sozial-, Behinderten- und Jugendhilfe, insbesondere für Fach- und psychiatrische Krankenhäuser sowie Förderschulen zuständig.</story>
       </parlament>
