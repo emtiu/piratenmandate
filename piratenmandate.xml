@@ -1469,7 +1469,7 @@
     <gebiet type="Landkreis" name="Schwalm-Eder-Kreis" gs="06634000" localpirates="http://piraten-sek.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.schwalm-eder-kreis.de/sitzungsdienst/bi/kp0040.php?__kgrnr=1">
         <mandat type="pirat" multi="2">Marcel Duve</mandat>
-        <fraktion type="none" />
+        <fraktion type="fremd" name="Freie Wähler" />
       </parlament>
       <gebiet type="Gemeinde" name="Wabern" gs="06634025">
         <gebiet type="Ortsteil" name="Harle" arbkey="2">
