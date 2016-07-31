@@ -2260,12 +2260,6 @@
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Eixen" gs="13073022">
-        <parlament name="Gemeindevertretung" seats="9" ris="https://www.recknitz-trebeltal.sitzung-online.de/bi/pa020.asp?PALFDNR=6&amp;options=4">
-          <mandat type="fremdliste" name="Eine Liste für Eixen" from="FW/UWG/etc.">André Bonitz</mandat>
-          <story source="http://www.heise.de/tp/blogs/8/151935">Am 7. Juni 2009 wurde André Bonitz als parteiloser Kandidat in die Gemeindevertretung gewählt. Dort wurde er ebenfalls zum Bürgermeister der Gemeinde gewählt. Im April 2012 ist er in die Piratenpartei eingetreten. Bei der Kommunalwahl am 25. Mai 2014 wurde er für „Eine Liste für Eixen“ in beiden Ämtern bestätigt.</story>
-        </parlament>
-      </gebiet>
     </gebiet>
   </bundesland>
 
