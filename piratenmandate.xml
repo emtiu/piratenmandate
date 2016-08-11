@@ -1790,16 +1790,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Bezirk" name="Oberfranken" gs="09400000" localpirates="http://piraten-oberfranken.de/">
-      <gebiet type="Landkreis" name="Landkreis Lichtenfels" gs="09478000">
-        <gebiet type="Stadt" name="Burgkunstadt" gs="09478116">
-          <parlament name="Stadtrat" seats="21" ris="http://www.burgkunstadt.de/2267_DEU_WWW.php">
-            <mandat type="fremdliste" name="Bürgerverein Burgkunstadt" from="FW/UWG/etc.">Marcus Dinglreiter</mandat>
-            <fraktion type="fremd" name="Bürgerverein Burgkunstadt" />
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
     <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
       <parlament name="Bezirkstag" seats="30" ris="http://www.bezirk-mittelfranken.de/index.php?id=53">
         <oa url="http://openantrag.de/mittelfranken" />
