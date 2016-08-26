@@ -976,9 +976,8 @@
       <gebiet type="Landkreis" name="Kreis Recklinghausen" gs="05562000" localpirates="http://blog.piratenpartei-nrw.de/recklinghausen/">
         <parlament name="Kreistag" seats="72" ris="https://kvrecklinghausen.more-rubin1.de/">
           <oa url="http://openantrag.de/recklinghausen" />
-          <mandat type="pirat">Melanie Kalkowski</mandat>
-          <mandat type="pirat">Michael Herbert Levedag</mandat>
-          <fraktion type="gruppe" name="Piraten" url="http://blog.piratenpartei-nrw.de/recklinghausen/kreistag-re/" />
+          <mandat type="pirat">Melanie Kern</mandat>
+          <fraktion type="none" />
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
         </parlament>
         <gebiet type="Stadt" name="Gladbeck" gs="05562014" localpirates="http://piratengladbeck.de/">
@@ -988,14 +987,6 @@
               <partner partei="FDP" num="1" />
             </fraktion>
             <story source="http://waz.m.derwesten.de/dw/staedte/gladbeck/fdp-und-piraten-wollen-in-gladbeck-eine-fraktion-dsl-bilden-id9465207.html?service=mobile">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
-        <gebiet type="Stadt" name="Marl" gs="05562024" localpirates="http://blog.piratenpartei-nrw.de/marl">
-          <parlament name="Stadtrat" seats="48" ris="https://marl.more-rubin1.de/">
-            <oa url="http://openantrag.de/marl" />
-            <mandat type="pirat">Michael Levedag</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
       </gebiet>
