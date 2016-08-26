@@ -282,13 +282,14 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
+<!-- Arne Ludwig ist verstorben, Nachrücksituation unklar
       <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
         <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
           <oa url="http://openantrag.de/buchholz" />
           <mandat type="pirat" email="arne.ludwig@heide-piraten.de">Arne Ludwig</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>
+      </gebiet> -->
       <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
         <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
           <oa url="http://openantrag.de/elbmarsch" />
