@@ -3,15 +3,6 @@
 
 <piratenmandate>
   <bundesland name="Schleswig-Holstein" gs="01000000" localpirates="http://landesportal.piratenpartei-sh.de/">
-    <gebiet type="Kreisfreie Stadt" name="Lübeck" gs="01003000" localpirates="http://landesportal.piratenpartei-sh.de/luebeck/">
-      <parlament name="Bürgerschaft" seats="49" ris="http://luebeck.de/stadt_politik/buergerinfo/bi/pa021.asp">
-        <oa url="http://openantrag.de/luebeck" />
-        <mandat type="pirat">Oliver Dedow</mandat>
-        <fraktion type="gemeinsam" name="Die Partei-Piraten" url="http://die-partei-piraten.de/">
-          <partner partei="Die PARTEI" num="1"/>
-        </fraktion>
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Kreis Dithmarschen" gs="01051000" localpirates="http://landesportal.piratenpartei-sh.de/dithmarschen/">
       <parlament name="Kreistag" seats="48" ris="http://www.dithmarschen.de/Informationen-beschaffen/Politik/Kreistag">
         <mandat type="pirat">Axel Sieck</mandat>
