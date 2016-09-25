@@ -853,16 +853,6 @@
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
-        <gebiet type="Stadt" name="Hürth" gs="05362028">
-          <parlament name="Stadtrat" seats="44" ris="https://sdnetrim.kdvz-frechen.de/rim4390/">
-            <oa url="http://openantrag.de/huerth" />
-            <mandat type="pirat" email="alexandra.osburg@piratenpartei-nrw.de">Alexandra Osburg</mandat>
-            <fraktion type="gemeinsam" name="FDP-Piraten Fraktion">
-              <partner partei="FDP" num="1" />
-            </fraktion>
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,2% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
         <gebiet type="Stadt" name="Kerpen" gs="05362032">
           <parlament name="Stadtrat" seats="46" ris="https://sdnetrim.kdvz-frechen.de/rim4770/">
             <oa url="http://openantrag.de/kerpen" />
