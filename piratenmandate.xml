@@ -1664,6 +1664,13 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Ostalbkreis" gs="08136000">
+      <gebiet type="Gemeinde" name="Frickenhausen" gs="08136070">
+        <parlament name="Gemeinderat" seats="8" ris="http://www.taeferrot.de/rathaus-und-buergerservice/kommunalpolitik/mitglieder-des-gemeinderats">
+          <mandat type="fremdliste" name="Unabhängige Liste 2014" from="FW/UWG/etc.">Manuel Feuersänger</mandat>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
       <gebiet type="Stadt" name="Bruchsal" gs="08215009">
         <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
@@ -1690,16 +1697,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-<!-- Mandatsträger fall down go boom: http://www.tagblatt.de/Home/nachrichten/tuebingen_artikel,-Juergen-Steinhilber-trat-bei-den-Piraten-aus-_arid,264308.html
-    <gebiet type="Landkreis" name="Landkreis Tübingen" gs="08416000" localpirates="http://piratenpartei-reutlingen-tuebingen.de/">
-      <gebiet type="Stadt" name="Tübingen" gs="08416041">
-        <parlament name="Gemeinderat" seats="41" ris="http://www.tuebingen.de/gemeinderat">
-          <mandat type="pirat">Jürgen Steinhilber</mandat>
-          <fraktion type="none" />
-          <story>Jürgen Steinhilber war 2009 für die Unabhängige Freie Wählergemeinschaft (UFW) in den Gemeinderat gewählt worden. 2012 trat er zur Piratenpartei über und bildete mit der parteilosen Ilona Raiser eine PIRATEN-Fraktion. Bei der Gemeinderatswahl konnte Jürgen Steinhilber sein Mandat auf der PIRATEN-Liste verteidigen, die 2,4% der Stimmen gewann.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>-->
   </bundesland>
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
