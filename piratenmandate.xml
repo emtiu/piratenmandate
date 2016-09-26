@@ -83,32 +83,69 @@
 
   <bundesland name="Niedersachsen" gs="03000000" localpirates="http://piratenpartei-niedersachsen.de/">
     <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
-      <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Die-Region-Hannover-politisch/Regionsversammlung">
+      <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Politisch/Regionsversammlung">
         <oa url="http://openantrag.de/region-hannover" />
-        <mandat type="pirat" email="juergen.hey@piratenhannover.de">Hans-Jürgen Hey</mandat>
-        <fraktion type="gemeinsam" name="Linke &amp; Piraten">
-          <partner partei="LINKE" num="1" />
-          <partner partei="Einzelbewerber" num="1" />
-        </fraktion>
-        <story source="http://www.piratenhannover.de/3659/neue-gruppe-in-der-regionsversammlung-fleischmann-die-linke-und-hey-piraten/">Ralf Kleyer und Hans-Jürgen Hey waren im September 2011 auf der PIRATEN-Liste in die Regionsversammlung gewählt worden und hatten eine PIRATEN-Fraktion gebildet. Im September 2013 trat aber Ralf Kleyer aus der Piratenpartei aus. Mit Auflösung der PIRATEN-Fraktion schloss sich Hans-Jürgen Hey mit einem Abgeordneten der Linken zu einer Gruppe zusammen.</story>
+        <mandat type="pirat" email="adam.wolf@pp-international.net">Bruno Wolf</mandat>
+        <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
           <oa url="http://openantrag.de/hannover" />
-          <mandat type="pirat" email="dirk@hillbrecht.de">Dirk Hillbrecht</mandat>
+          <mandat type="pirat" email="adam.wolf@pp-international.net" multi="2">Bruno Wolf</mandat>
           <fraktion type="none" />
-          <story source="http://www.ihmebote.de/2014/03/20/piraten-verlieren-fraktionsstatus/">Im März 2013 ist ein Abgeordneter von der PIRATEN-Liste nachgerückt, der wenig später die Partei verlassen hat. So ist nur ein Sitz von einem Mitglied der Piratenpartei besetzt, die vorher bestehende Fraktion wurde aufgelöst.</story>
           <feed url="http://piraten-rat-hannover.de/feed/"/>
         </parlament>
+        <gebiet type="Stadtbezirk" name="Mitte" localkey="1">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-1-Mitte">
+            <mandat type="pirat">Dr.Jürgen Junghänel</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
         <gebiet type="Stadtbezirk" name="Vahrenwald-List" localkey="2">
           <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-2-Vahrenwald-List">
             <mandat type="pirat">Reiner Budnick</mandat>
             <fraktion type="none" />
           </parlament>
         </gebiet>
+        <gebiet type="Stadtbezirk" name="Buchholz-Kleefeld" localkey="3">
+          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-3-Bothfeld-Vahrenheide">
+            <mandat type="pirat">Dr. Christopher Carlson</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Misburg-Anderten" localkey="5">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-5-Misburg-Anderten">
+            <mandat type="pirat">Jennifer Schnelle</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Südstadt-Bult" localkey="7">
+          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-7-S%C3%BCdstadt-Bult">
+            <mandat type="pirat">Peter Weinem</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Ricklingen" localkey="9">
+          <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-9-Ricklingen">
+            <mandat type="pirat">Andreas Fauteck</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
         <gebiet type="Stadtbezirk" name="Linden-Limmer" localkey="10">
           <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshaupstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-10-Linden-Limmer">
-            <mandat type="pirat">Andis Rave</mandat>
+            <mandat type="pirat" email="thomas.ganskow@piratenhannover.de">Thomas Ganskow</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Ahlem-Badenstedt-Davenstedt" localkey="11">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-11-Ahlem-Badenstedt-Davenstedt">
+            <mandat type="pirat">Siegfried Egyptien</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
+        <gebiet type="Stadtbezirk" name="Herrenhausen-Stöcken" localkey="12">
+          <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-12-Herrenhausen-St%C3%B6cken">
+            <mandat type="pirat">Friedrich Schneider</mandat>
             <fraktion type="none" />
           </parlament>
         </gebiet>
@@ -121,12 +158,15 @@
       </gebiet>
       <gebiet type="Stadt" name="Lehrte" gs="03241011" localpirates="http://www.piratenpartei-lehrte.de/">
         <parlament name="Stadtrat" seats="40" ris="https://sessionnet.krz.de/lehrte/bi/kp0041.asp">
-          <mandat type="pirat" email="jan.nadaczinski@piratenpartei-lehrte.de">Jan Nadaczinski</mandat>
-          <fraktion type="gemeinsam" name="Gruppe CDU / FDP / Piraten">
-            <partner partei="CDU/CSU" num="14" />
-            <partner partei="FDP" num="1" />
-          </fraktion>
+          <mandat type="pirat">Sebastian Frenger</mandat>
+          <fraktion type="none" />
         </parlament>
+        <gebiet type="Stadtbezirk" name="Nord" arbkey="1">
+          <parlament name="Ortsrat" seats="9" ris="https://sessionnet.krz.de/lehrte/bi/kp0040.asp?__kgrnr=346">
+            <mandat type="pirat">Gerhard Posywio</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
       </gebiet>
       <gebiet type="Stadt" name="Neustadt am Rübenberge" gs="03241012">
         <gebiet type="Ortsteil" name="Mandelsloh" arbkey="1">
@@ -135,224 +175,185 @@
             <fraktion type="none" />
           </parlament>
         </gebiet>
+        <gebiet type="Gemeinde" name="Wennigsen (Deister)" gs="03241020">
+          <parlament type="Gemeinderat" seats="30">
+            <mandat type="pirat">Uwe Kopec</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
       </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Braunschweig" gs="03101000" localpirates="http://www.piratenpartei-braunschweig.de/">
       <parlament name="Stadtrat" seats="54" ris="https://ratsinfo.braunschweig.de/">
         <oa url="http://openantrag.de/braunschweig" />
-        <mandat type="pirat">Jens-Wolfhard Schicke-Uffmann</mandat>
-        <mandat type="pirat">Claudia Jonda</mandat>
-        <fraktion type="piraten" url="http://www.piratenpartei-braunschweig.de/startseite/ratsarbeit/fraktion-im-rat/" />
+        <mandat type="pirat">Christian Bley</mandat>
+        <fraktion type="none" />
       </parlament>
+      <gebiet type="Stadtbezirk" name="Wabe-Schunter-Beberbach" localkey="112">
+        <parlament type="Stadtbezirksrat" seats="17">
+          <mandat type="pirat">Daniel Klöpfel</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Innenstadt" localkey="131">
+        <parlament type="Stadtbezirksrat" seats="15">
+          <mandat type="pirat">Martin Bonneberg</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Rüningen" localkey="224">
+        <parlament type="Stadtbezirksrat" seats="7">
+          <mandat type="pirat">Nico Alexander Greßmann</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Westliches Ringgebiet" localkey="310">
+        <parlament type="Stadtbezirksrat" seats="19">
+          <mandat type="pirat" multi="2">Christian Bley</mandat>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadtbezirk" name="Nordstadt" localkey="331">
+        <parlament type="Stadtbezirksrat" seats="17">
+          <mandat type="pirat">Stefan Zander</mandat>
+        </parlament>
+      </gebiet>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Delmenhorst" gs="03401000" localpirates="http://piratenpartei-delmenhorst.de/">
       <parlament name="Stadtrat" seats="43" ris="http://www.delmenhorst.de/rat-politik/ratsinfo/index.php">
         <oa url="http://openantrag.de/delmenhorst" />
         <mandat type="pirat">Andreas Neugebauer</mandat>
-        <mandat type="pirat">Florian Beyer</mandat>
-        <fraktion type="piraten" url="http://piratenpartei-delmenhorst.de/piratenfraktion/" email="fraktion@piratenpartei-delmenhorst.de" />
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Oldenburg" gs="03403000" localpirates="https://piratenpartei-oldenburg.de/">
       <parlament name="Stadtrat" seats="50" ris="http://buergerinfo.oldenburg.de/kp0041.php">
         <mandat type="pirat" email="jan-martin.meyer@piratenpartei-oldenburg.de">Jan-Martin Meyer</mandat>
-        <fraktion type="gemeinsam" name="DIE.LINKE/Piratenpartei" url="https://wiki.piratenpartei.de/Oldenburg/Gruppe_DIE_LINKE.-Piratenpartei">
-          <partner partei="LINKE" num="3"/>
-        </fraktion>
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Osnabrück" gs="03404000" localpirates="https://www.piraten-osnabrueck.de/">
       <parlament name="Stadtrat" seats="50" ris="https://ris.osnabrueck.de/bi/pa021.asp">
         <oa url="http://openantrag.de/osnabrueck" />
-        <mandat type="pirat">Ralf ter Veer</mandat>
-        <fraktion type="gemeinsam" name="UWG und PIRATEN" url="http://www.uwg-und-piraten.de/" email="gruppe@uwg-und-piraten.de">
-          <partner name="UWG Osnabrück-Stadt" partei="FW/UWG/etc." num="1"/>
-        </fraktion>
+        <mandat type="pirat">Nils Elmers</mandat>
+        <fraktion type="none" />
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Wolfsburg" gs="03103000" localpirates="http://wolfsburg.piratenpartei-nds.de/">
       <parlament name="Stadtrat" seats="46" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Rat/Ratsmitglieder">
         <oa url="http://openantrag.de/wolfsburg" />
-        <mandat type="pirat">Piroska Evenburg</mandat>
         <mandat type="pirat">Svante Evenburg</mandat>
-        <fraktion type="piraten" url="http://ratsfraktion.piratenpartei-wolfsburg.de/" email="ratsfraktion@piratenpartei-wolfsburg.de" />
+        <fraktion type="none" />
       </parlament>
       <gebiet type="Ortschaft" name="Vorsfelde" arbkey="1">
         <parlament name="Ortsrat" seats="17" ris="http://www.wolfsburg.de/irj/portal/anonymous?NavigationTarget=imperiafully://de/townhall/49c0f8b2.xml/Rathaus/Politik/Ortsr%C3%A4te/Vorsfelde">
-          <mandat type="pirat" multi="2">Svante Evenburg</mandat>
+          <mandat type="pirat">Jürgen Evenburg</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Cuxhaven" gs="03352000" localpirates="http://piraten-cux.de/">
-      <gebiet type="Gemeinde" name="Schiffdorf" gs="03352050" localpirates="http://piratenpartei-schiffdorf.de/">
-        <parlament name="Gemeinderat" seats="30" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=2&amp;o=1&amp;oc=1&amp;ob=1#current">
-          <mandat type="transfer" from="CDU/CSU">Frank Schulz</mandat>
-          <fraktion type="none" />
-          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU in den Gemeinderat Schiffdorf gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
-        </parlament>
-        <gebiet type="Ortschaft" name="Schiffdorf" arbkey="1">
-          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=38&amp;o=1&amp;oc=1&amp;ob=1#current">
-            <mandat type="transfer" from="CDU/CSU">Thomas Behra</mandat>
-            <fraktion type="none" />
-          <story source="http://82.198.220.84/ratsinfo/schiffdorf/401/UHVibGljX01pbnV0ZXNfRG9jdW1lbnQ=/9/n/15981.doc">Thomas Behra wurde am 11. September 2011 für CDU in den Ortsrat Schiffdorf gewählt. Im April 2012 trat zur der Piratenpartei über.</story>
-          </parlament>
-        </gebiet>
-        <gebiet type="Ortschaft" name="Sellstedt" arbkey="2">
-          <parlament name="Ortsrat" seats="8" ris="https://pvi.bit.bremerhaven.de/ratsinfo/schiffdorf/Committee.html?orgid=39&amp;o=1&amp;oc=1&amp;ob=1#current">
-            <mandat type="transfer" from="CDU/CSU" multi="2">Frank Schulz</mandat>
-            <fraktion type="none" />
-          <story source="http://www.nordsee-zeitung.de/region/cuxland/Hagen_artikel,-Jung-Pirat-will-in-den-Landtag-segeln-_arid,737687.html">Frank Schulz wurde am 11. September 2011 für die CDU neben dem Gemeinderat Schiffdorf auch in den Ortsrat Sellstedt gewählt. Im Februar 2012 trat zur der Piratenpartei über.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Friesland" gs="03455000" localpirates="http://piraten-friesland.de/">
-      <parlament name="Kreistag" seats="42" ris="http://buergerinfo.friesland.de/kp0041.php">
-        <mandat type="transfer" from="FW/UWG/etc.">Janto Just</mandat>
-        <fraktion type="fremd" name="Bürger für Bürger" />
-        <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Kreistag Friesland gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
-      </parlament>
-      <gebiet type="Stadt" name="Schortens" gs="03455015">
-        <parlament name="Stadtrat" seats="34" ris="https://rat.schortens.de/buergerinfo/kp0041.php">
-          <mandat type="transfer" from="FW/UWG/etc." multi="2" email="">Janto Just</mandat>
-          <fraktion type="fremd" name="Bürger für Bürger" />
-          <story source="http://www.janto-just.de/piraten/">Janto Just wurde am 11. September 2011 auf der Liste „Bürger für Bürger“ in den Stadtrat Schortens gewählt. Ende 2011 ist er in die Piratenpartei eingetreten, bleibt aber ebenfalls in der BfB-Fraktion aktiv.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Gifhorn" gs="03151000" localpirates="http://piraten-gifhorn.de/">
-      <parlament name="Kreistag" seats="55" ris="http://www.gifhorn.de/staticsite/staticsite.php?menuid=451&amp;topmenu=450">
-        <mandat type="pirat" email="stefan.domke@piratenpartei-gifhorn.de">Stefan Domke</mandat>
-        <fraktion type="gemeinsam" name="Gruppe SPD / Grüne / Piraten / Linke">
-          <partner partei="SPD" num="19" />
-          <partner partei="GRÜNE" num="7" />
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-      </parlament>
-      <gebiet type="Stadt" name="Gifhorn" gs="03151009">
-        <parlament name="Stadtrat" seats="36" ris="https://gifhorn.more-rubin1.de/gremien_pers.php?Kuerzel=1&amp;persnr=&amp;Bezeichnung=Rat+der+Stadt+Gifhorn&amp;entrygremien=0&amp;sortgremien=Bezeichnung&amp;sort=gm.Folge_Personen&amp;entrypers=0">
-          <mandat type="pirat" email="matthias.stoll@piratenpartei-gifhorn.de">Matthias Stoll</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Samtgemeinde" name="Isenbüttel" gs="031515404">
-        <parlament name="Samtgemeinderat" seats="30" ris="https://www.sitzungsdienst-isenbuettel.de/bi/pa020.asp?PALFDNR=1&amp;options=4">
-          <oa url="http://openantrag.de/isenbuettel" />
-          <mandat type="pirat">Sören Tesch</mandat>
-          <fraktion type="gemeinsam" name="Gruppe SPD-Piraten">
-            <partner partei="SPD" num="10" />
-          </fraktion>
-        </parlament>
-      </gebiet>
-      <gebiet type="Samtgemeinde" name="Papenteich" gs="031515406">
-        <parlament name="Samtgemeinderat" seats="34" ris="http://www.papenteich.de/ratsinfo/list_ratsinfo.php?menuid=221&amp;topmenu=25&amp;keepmenu=inactive">
-          <mandat type="pirat" multi="3">Stefan Domke</mandat>
-          <fraktion type="gemeinsam" name="GRÜNE/PIRATEN">
-            <partner partei="GRÜNE" num="4" />
-          </fraktion>
-        </parlament>
-        <gebiet type="Gemeinde" name="Schwülper" gs="03151027">
-          <parlament name="Gemeinderat" seats="19" ris="">
-            <mandat type="pirat" multi="3">Stefan Domke</mandat>
-            <fraktion type="gemeinsam" name="Grüne und Piraten">
-              <partner partei="GRÜNE" num="1" />
-            </fraktion>
-          </parlament>
-        </gebiet>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Göttingen" gs="03152000" localpirates="http://www.piratenpartei-goettingen.de/">
+      <parlament name="Kreistag" seats="64" ris="https://sessionnet.krz.de/kreis_goettingen/bi/kp0041.asp">
+        <mandat type="pirat" email="meinhart.ramaswamy@piraten-nds.de">Meinhart Ramaswamy</mandat>
+        <fraktion type="none" />
+        <story>Der Landkreis Göttingen umfasst ab dem 31. Oktober 2016 auch das Gebiet des früheren Landkreises Osterode am Harz.</story>
+      </parlament>
       <gebiet type="Stadt" name="Göttingen" gs="03152012">
         <parlament name="Stadtrat" seats="46" ris="http://www.goettingen.de/staticsite/staticsite.php?menuid=629&amp;topmenu=628">
           <oa url="http://openantrag.de/goettingen" />
-          <mandat type="pirat">Martin Rieth</mandat>
-          <mandat type="pirat">Meinhart Ramaswamy</mandat>
+          <mandat type="pirat">Dana Rotter</mandat>
+          <mandat type="pirat">Francisco Welter-Schultes</mandat>
           <fraktion type="piraten" url="http://www.piratenpartei-goettingen.de/ratsfraktion" email="piraten-ratsfraktion@goettingen.de" />
+        </parlament>
+        <gebiet type="Ortschaft" name="Weende/Deppoldshausen" arbkey="01">
+          <parlament name="Ortsrat" seats="13" ris="https://ratsinfo.goettingen.de/bi/au020.asp?AULFDNR=31&amp;options=4&amp;altoption=Gremium">
+            <mandat type="pirat">Angelo Perriello</mandat>
+          </parlament>
+        </gebiet>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Friedland" gs="03152009">
+        <parlament type="Gemeinderat" seats="27" ris="https://sessionnet.krz.de/friedland/bi/infobi.asp">
+          <mandat type="pirat">Werner Gundelach</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+    </gebiet>
+    <gebiet type="Landkreis" name="Hameln-Pyrmont" gs="03252000" localpirates="https://piraten-hameln.de/">
+      <gebiet type="Stadt" name="Hameln" gs="03252006">
+        <parlament type="Stadtrat" seats="42" ris="http://www.hameln.de/stadtportal/rathaus/pvrat.htm">
+          <mandat type="pirat" email="claudia.schumann@piraten-hameln.de">Claudia Schumann</mandat>
+          <fraktion typ="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Bad Münder am Deister" gs="03252002">
+        <parlament type="Stadtrat" seats="32" ris="http://pvrat.de/ratsinfo/badmuender.html">
+          <mandat type="pirat">Nicky Reinsch</mandat>
+          <fraktion typ="none" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Harburg" gs="03353000" localpirates="http://www.heide-piraten.de/">
-<!-- Arne Ludwig ist verstorben, Nachrücksituation unklar
-      <gebiet type="Stadt" name="Buchholz in der Nordheide" gs="03353005">
-        <parlament name="Stadtrat" seats="39" ris="http://www.buchholz.de/allris/pa020.asp">
-          <oa url="http://openantrag.de/buchholz" />
-          <mandat type="pirat" email="arne.ludwig@heide-piraten.de">Arne Ludwig</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet> -->
       <gebiet type="Samtgemeinde" name="Elbmarsch" gs="033535401">
         <parlament name="Samtgemeinderat" seats="28" ris="http://www.samtgemeinde-elbmarsch.de/allris/pa020.asp">
           <oa url="http://openantrag.de/elbmarsch" />
-          <mandat type="pirat">Maik Bröse</mandat>
-          <fraktion type="gemeinsam" name="Grüne, Freie Wähler, Piraten-Gruppe">
-            <partner partei="GRÜNE" num="4" />
-            <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="1" />
-          </fraktion>
+          <mandat type="pirat">Florian Sievert</mandat>
+          <fraktion type="none" />
         </parlament>
         <gebiet type="Gemeinde" name="Tespe" gs="03353033">
           <parlament name="Gemeinderat" seats="15" ris="http://gemeinde-tespe.de/gremien/gemeinderat/">
             <oa url="http://openantrag.de/tespe" />
-            <mandat type="pirat" multi="2">Maik Bröse</mandat>
-            <fraktion type="gemeinsam" name="SPD/Grüne/Piraten">
-              <partner partei="SPD" num="6" />
-              <partner partei="GRÜNE" num="1" />
-            </fraktion>
+            <mandat type="pirat">Maik Bröse</mandat>
+            <fraktion type="none" />
           </parlament>
         </gebiet>
       </gebiet>
     </gebiet>
-<!--    <gebiet type="Landkreis" name="Landkreis Hildesheim" gs="03254000" localpirates="http://www.piratenpartei-hildesheim.de/">
-      <gebiet type="Stadt" name="Hildesheim" gs="03254021">
-        <parlament name="Stadtrat" seats="46" ris="http://www.sitzungsdienst-hildesheim.de/bi/pa021.asp">
-          <oa url="http://openantrag.de/hildesheim-stadt" />
-          <mandat type="pirat">Ortwin Regel</mandat>
-          <fraktion type="gemeinsam" name="SPD, Grüne, Regel">
-            <partner partei="SPD" num="14" />
-            <partner partei="GRÜNE" num="9" />
-          </fraktion>
-          <story source="http://popcornpiraten.de/piratenfraktion-stadtrat-hildesheim-nach-betrugsversuch-mit-gefalschter-175-euro-reisekostenabrechnung-aufgelost/">Zunächst war der gewählte Pirat mit einem parteilosen Abgeordneten in einer PIRATEN-Fraktion. Dieser Parteilose war der Vorsitzende („Sprecher“) der Fraktion. Die zweiköpfige PIRATEN-Fraktion war ihrerseits Teil des Fraktionsverbunds („Gruppe“) aus SPD, Grünen und Piraten. Nach einem Streit um Unstimmigkeiten mit den Fraktionsfinanzen wurde die Fraktion aufgelöst. Der gewählte Pirat ist nunmehr Einzelmitglied in dieser Gruppe.</story>
+    <gebiet type="Landkreis" name="Landkreis Nienburg/Weser" gs="03256000" localpirates="http://piratenpartei-nienburg.de/">
+      <gebiet type="Samtgemeinde" name="Mittelweser" gs="032565410">
+        <parlament type="Samtgemeinderat" seats="32" ris="https://www.sg-mittelweser.de/allris/allris.net.asp">
+          <mandat type="pirat">Martina Broschei</mandat>
+          <fraktion type="none" />
         </parlament>
+        <gebiet type="Gemeinde" name="Stolzenau" gs="03256032">
+          <parlament type="Gemeinderat" seats="21" ris="https://www.sg-mittelweser.de/allris/?PALFDNRM=1091359">
+            <mandat type="fremdliste" from="Einzelbewerber" multi="2">Martina Broschei</mandat>
+            <fraktion type="none" />
+          </parlament>
+        </gebiet>
       </gebiet>
-    </gebiet>-->
-    <gebiet type="Landkreis" name="Landkreis Lüneburg" gs="03355000" localpirates="http://www.heide-piraten.de/">
-      <gebiet type="Stadt" name="Lüneburg" gs="03355022">
-        <parlament name="Stadtrat" seats="43" ris="http://www.stadt.lueneburg.de/bi/pa021.asp">
-          <oa url="http://openantrag.de/lueneburg" />
-          <mandat type="pirat" email="Torbjoern.Bartels@heide-piraten.de">Torbjörn Bartels</mandat>
-          <mandat type="pirat">Daniel Brügge</mandat>
-          <fraktion type="piraten" url="http://www.heide-piraten.de/hpblog/pirathaus/stadtrat-luneburg/" />
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Oldenburg" gs="03458000" localpirates="https://www.piratenpartei-oldenburg.de/">
+      <gebiet type="Stadt" name="Wildeshausen" gs="03458014">
+        <parlament type="Stadtrat" seats="33" ris="https://ris.geocms.com/wildeshausen/">
+          <mandat type="pirat">Uwe Bock</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Northeim" gs="03155000" localpirates="http://www.piratenpartei-northeim.de/">
-      <gebiet type="Stadt" name="Uslar" gs="03155012">
-        <parlament name="Stadtrat" seats="31" ris="https://sessionnet.krz.de/uslar/bi/kp0040.asp?__kgrnr=199&amp;__cgrname=Rat">
-          <mandat type="pirat" email="aljoscha.rittner@piraten-nom.de">Aljoscha Rittner</mandat>
-          <fraktion type="gemeinsam" name="Bunte Ratsgruppe Uslar" url="http://www.bunte-ratsgruppe-uslar.de/">
-            <partner partei="GRÜNE" num="2" />
-            <partner partei="LINKE" num="1" />
-            <partner partei="Einzelbewerber" num="1" />
-          </fraktion>
+    <gebiet type="Landkreis" name="Landkreis Osnabrück" gs="03459000" localpirates="https://www.piraten-osnabrueck.de/">
+      <gebiet type="Gemeinde" name="Hilter am Teutoburger Wald" gs="03459022">
+        <parlament type="Gemeinderat" seats="25" ris="http://www.hilter.de/de/Rathaus/rat">
+          <mandat type="fremdliste" name="UWG Hilter" from="FW/UWG/etc.">Jan Sicars</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Peine" gs="03157000" localpirates="http://peine.piraten-nds.de/">
+      <parlament name="Kreistag" seats="51" ris="http://kt-info.landkreis-peine.de:8080/ratsinfo/peinelk/Person.html">
+        <mandat type="pirat">Roger Floribert Kabambe</mandat>
+      </parlament>
       <gebiet type="Stadt" name="Peine" gs="03157006">
-        <parlament name="Stadtrat" seats="41" ris="http://87.106.2.115:8080/ratsinfo/peinestadt/Committee.html?orgid=1&amp;o=1&amp;oc=0&amp;ob=1#current">
+        <parlament name="Stadtrat" seats="41" ris="http://213.165.68.250:8080/ratsinfo/peinestadt/Person.html">
           <mandat type="pirat" email="matthias.roll@piraten-peine.de">Matthias Roll</mandat>
-          <fraktion type="gemeinsam" name="GuB/FDP/Piraten">
-            <partner name="Gemeinschaft unabhängiger Bürger" partei="FW/UWG/etc." num="1" />
-            <partner partei="FDP" num="1" />
-          </fraktion>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Edemissen" gs="03157001">
-        <parlament name="Gemeinderat" seats="31" ris="http://87.106.2.115:8080/ratsinfo/edemissen/Committee.html?orgid=12&amp;o=1&amp;oc=0&amp;ob=1#current">
-          <mandat type="pirat">Carsten Bartels</mandat>
-          <fraktion type="gemeinsam" name="Piraten/Linke">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
+    </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Stade" gs="03159000" localpirates="https://www.piraten-stade.de/category/kreisverband/">
+      <parlament name="Kreistag" seats="52" ris="https://www.landkreis-stade.de/allris/pa021.asp">
+        <mandat type="pirat">Richard Klaus</mandat>
+        <fraktion type="none" />
+      </parlament>
+      <gebiet type="Stadt" name="Stade" gs="03159038" localpirates="https://www.piraten-stade.de/">
+        <parlament name="Stadtrat" seats="41" ris="https://www.stadt-stade.info/portal/seiten/rat-der-hansestadt-stade-900000107-20390.html">
+          <mandat type="pirat">Wolf Vincent Lübcke</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -360,11 +361,8 @@
       <gebiet type="Stadt" name="Uelzen" gs="03360025">
         <parlament name="Stadtrat" seats="39" ris="http://portal.uelzen.de/ue_ris/gremien_pers.php?submenu=3&amp;Kuerzel=1&amp;Bezeichnung=Rat&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <oa url="http://openantrag.de/uelzen" />
-          <mandat type="pirat">Rolf Tischer</mandat>
-          <fraktion type="gemeinsam" name="Piraten / Bündnis 21/RRP / Freies Ratsmitglied">
-            <partner partei="Bündnis 21/RRP" num="1" />
-            <partner partei="Einzelbewerber" num="1" />
-          </fraktion>
+          <mandat type="pirat">Titus Tscharnke</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
@@ -372,46 +370,47 @@
       <gebiet type="Stadt" name="Wolfenbüttel" gs="03158037">
         <parlament name="Stadtrat" seats="43" ris="http://ris.wolfenbuettel.de/sessionnet/buergerinfo/kp0041.php">
           <oa url="http://openantrag.de/wolfenbuettel" />
-          <mandat type="pirat" email="w.heise@piratenpartei-wolfenbuettel.de">Werner Heise</mandat>
-          <mandat type="pirat">Arne Hattendorf</mandat>
-          <fraktion type="gemeinsam" name="PIRATEN und FDP" url="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">
-            <partner partei="FDP" num="1" />
-          </fraktion>
-          <story source="http://www.piratenpartei-wolfenbuettel.de/organisation/stadtrat/">Anfangs bildeten die beiden Piraten im Stadtrat die PIRATEN-Fraktion. Nach etwa einem Jahr schlossen sie sich mit dem einzigen FDP-Abgeordneten zu der Gruppe PIRATEN und FDP zusammen. Die PIRATEN-Fraktion ist damit praktisch in der Gruppe aufgegangen.</story>
+          <mandat type="pirat">Stefan Strehlow</mandat>
+          <fraktion type="none" />
         </parlament>
+        <gebiet type="Ortsteil" name="Halchter" arbkey="1">
+          <parlament type="Ortsrat" seats="7">
+            <mandat type="pirat" multi="2">Stefan Strehlow</mandat>
+          </parlament>
+        </gebiet>
       </gebiet>
       <gebiet type="Gemeinde" name="Cremlingen" gs="03158006">
         <parlament name="Gemeinderat" seats="31" ris="http://www.sitzungsdienst-cremlingen.de/bi/pa021.asp">
           <mandat type="pirat" email="j.golland@piratenpartei-wolfenbuettel.de">Jens Golland</mandat>
-          <fraktion type="gemeinsam" name="LINKE/PIRATEN-Gruppe" url="https://cremlingen.piraten-nds.de/">
-            <partner partei="LINKE" num="1" />
-          </fraktion>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Dettum" gs="03158009">
-        <parlament name="Gemeinderat" seats="10" ris="http://www.sickte.de/dettum/gemeinderat">
-    <mandat type="transfer" from="CDU/CSU">Ralf Möhle</mandat>
-          <fraktion type="none" />
-          <story source="http://www.piratenpartei-wolfenbuettel.de/allgemein/cdu-ortsvorsitzender-wechselt-zu-den-piraten/">Im September 2013 wechselte Ralf Möhle von der CDU im Gemeinderat zur Piratenpartei.</story>
-  </parlament>
-      </gebiet>
     </gebiet>
-<!-- Tim Weber möchte nicht offiziell als Übergetretener geführt werden.
-    <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000">
+    <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000" localpirates="https://wiki.piratenpartei.de/NDS:KV_VOR">
+      <gebiet type="Stadt" name="Verden" gs="03361012">
+        <parlament type="Stadtrat" seats="36" ris="https://verden.ratsinfomanagement.net/">
+          <mandat type="pirat">Kai Rosebrock</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Flecken Langwedel" gs="03361006">
+        <parlament type="Gemeinderat" seats="27" ris="https://flecken-langwedel.ratsinfomanagement.net/">
+          <mandat type="pirat">Fabian Reichwald</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
       <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
         <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
-          <mandat type="transfer" from="FW/UWG/etc.">Tim Weber</mandat>
+          <mandat type="fremd" name="Freie Grüne Bürgerliste Ottersberg" from="FW/UWG/etc.">Tim Weber</mandat>
           <fraktion type="fremd" name="Freie Grüne Bürgerliste Ottersberg" url="http://www.fgbo.de/" />
-          <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 als einer von drei Abgeordneten für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Gemeinderat der Einheitsgemeinde Ottersberg gewählt und wurde ihr Fraktionsvorsitzender. Am 6. Januar 2012 ist er der Piratenpartei beigetreten, blieb aber Fraktionsvorsitzender der FGBO.</story>
         </parlament>
         <gebiet type="Ortschaft" name="Ottersberg" arbkey="1">
           <parlament name="Ortsrat" seats="7" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawHWq8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsCSnGJ">
-            <mandat type="transfer" from="FW/UWG/etc." multi="2">Tim Weber</mandat>
-            <story source="http://www.weser-kurier.de/Artikel/Region/VERDENER-NACHRICHTEN/562730/Weber-will-fuer-die-Piraten-in-den-Landtag.html">Tim Weber wurde am 11. September 2011 neben dem Gemeinderat Flecken Ottersberg als einziger Abgeordneter für die Freie Grüne Bürgerliste Ottersberg (FGBO) in den Ortsrat ders Ortsteils Ottersberg gewählt. Am 6. Januar 2012 ist er der Piratenpartei beigetreten.</story>
+            <mandat type="fremd" name="Freie Grüne Bürgerliste Ottersberg" from="FW/UWG/etc." multi="2">Tim Weber</mandat>
           </parlament>
         </gebiet>
       </gebiet>
-    </gebiet> -->
+    </gebiet> 
   </bundesland>
 
   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
