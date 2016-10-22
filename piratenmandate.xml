@@ -87,7 +87,7 @@
         <oa url="http://openantrag.de/region-hannover" />
         <mandat type="pirat" email="adam.wolf@piraten-nds.de">Bruno Adam Wolf</mandat>
         <fraktion type="gemeinsam">
-          <partner partei="LINKE" num="3" />
+          <partner partei="LINKE" num="4" />
         </fraktion>
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
