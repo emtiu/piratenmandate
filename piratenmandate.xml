@@ -85,13 +85,13 @@
     <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
       <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Politisch/Regionsversammlung">
         <oa url="http://openantrag.de/region-hannover" />
-        <mandat type="pirat" email="adam.wolf@piraten-nds.de">Bruno Adam Wolf</mandat>
+        <mandat type="pirat" email="adam.wolf@piraten-nds.de" profil="https://wiki.piratenpartei.de/Benutzer:Sailorwolf">Bruno Adam Wolf</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
           <oa url="http://openantrag.de/hannover" />
-          <mandat type="pirat" email="adam.wolf@piraten-nds.de" multi="2">Bruno Adam Wolf</mandat>
+          <mandat type="pirat" email="adam.wolf@piraten-nds.de" multi="2" profil="https://wiki.piratenpartei.de/Benutzer:Sailorwolf">Bruno Adam Wolf</mandat>
           <fraktion type="gemeinsam">
             <partner partei="LINKE" num="4" />
           </fraktion>
