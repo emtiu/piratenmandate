@@ -320,7 +320,7 @@
         </gebiet>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Oldenburg" gs="03458000" localpirates="https://www.piratenpartei-oldenburg.de/">
+    <gebiet type="Landkreis" name="Landkreis Oldenburg" gs="03458000" localpirates="https://www.piraten-ol-land.de/">
       <gebiet type="Stadt" name="Wildeshausen" gs="03458014">
         <parlament type="Stadtrat" seats="33" ris="https://ris.geocms.com/wildeshausen/">
           <mandat type="pirat">Uwe Bock</mandat>
