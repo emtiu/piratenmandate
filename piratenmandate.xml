@@ -1203,24 +1203,27 @@
         <gebiet type="Stadt" name="Ennepetal" gs="05954008">
           <parlament name="Stadtrat" seats="42" ris="http://rat.ennepetal.de/ratsinfo/ennepetal">
             <mandat type="pirat">Wilhelm Völlmecke</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Die Linke/Piratenpartei">
+              <partner num="1" partei="LINKE" />
+            </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Hattingen" gs="05954016">
           <parlament name="Stadtrat" seats="46" ris="https://sitzungsinfo.hattingen.de/">
             <mandat type="pirat">Sascha Kursawe</mandat>
-            <fraktion type="gemeinsam" name="Linke-Piraten">
-              <partner partei="LINKE" num="1" />
+            <fraktion type="gemeinsam" name="Linke-Piraten" url="http://www.linke-piraten-hattingen.de/">
+              <partner partei="Einzelbewerber" num="1" />
             </fraktion>
-            <story source="http://www.derwesten.de/staedte/hattingen/linke-und-piraten-bilden-gemeinsame-ratsfraktion-id9457666.html">Nach Spaltung der zunächst vierköpfigen LINKE-Fraktion, in welcher auch der Piraten-Vertreter Mitglied war, bildet dieser nun mit einem einzelnen LINKEN-Parteimitglied eine zweiköpfige Fraktion.</story>
+            <story>Nach Spaltung der zunächst vierköpfigen LINKE-Fraktion, in welcher auch der Piraten-Vertreter Mitglied war, bildet dieser nun mit einem inzwischen ebenfalls aus der LINKEN ausgetretenen Vertreter eine zweiköpfige Fraktion.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Sprockhövel" gs="05954028">
           <parlament name="Stadtrat" seats="40" ris="https://sprockhoevel.more-rubin1.de/">
             <mandat type="pirat">Martin Debold</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,8% der Stimmen erreicht.</story>
+            <mandat type="transfer" from="FW/UWG/etc.">Holger Krefting</mandat>
+            <fraktion type="piraten" />
+            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,8% der Stimmen erreicht und ein Mandat errungen. Später trat ein Mitglied der Bürgerinitiative MiS zur Piratenpartei über und gründete mit dem gewählten Piraten die Fraktion „MiS/Piraten“.</story>
           </parlament>
         </gebiet>
         <gebiet type="Stadt" name="Witten" gs="05954036">
