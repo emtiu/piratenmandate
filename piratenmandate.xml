@@ -1155,8 +1155,8 @@
       <gebiet type="Kreisfreie Stadt" name="Hagen" gs="05914000" localpirates="http://piratenhagen.org/">
         <parlament name="Stadtrat" seats="62" ris="https://www.hagen.de/irj/portal/AllrisB">
           <mandat type="pirat">Thorsten Kiszkenow</mandat>
-          <fraktion type="none" />
-          <story source="http://www.derwesten.de/wr/staedte/hagen/piraten-und-buerger-fuer-hohenlimburg-verklagen-die-stadt-id9694792.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht. Die Bildung einer Gruppe mit der Wähervereinigung „Bürger für Hohenlimburg“ wird bisher verweigert. Dagegen ist Klage eingereicht.</story>
+          <fraktion type="gruppe" name="BfHo/Piraten" url="http://bfhopiraten.de/" />
+          <story source="http://www.derwesten.de/wr/staedte/hagen/piraten-und-buerger-fuer-hohenlimburg-verklagen-die-stadt-id9694792.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht. Die Bildung einer Gruppe mit der Wähervereinigung „Bürger für Hohenlimburg“ wurde zunächst verweigert, konnte aber inzwischen eingeklagt werden.</story>
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Hamm" gs="05915000" localpirates="https://blog.piratenpartei-nrw.de/hamm/">
