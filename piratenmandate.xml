@@ -714,10 +714,8 @@
           <parlament name="Stadtrat" seats="50" ris="http://ratsinfo.wesel.de/bi/infobi.asp">
             <oa url="http://openantrag.de/wesel" />
             <mandat type="pirat" multi="2">Manfred Friedrich Schramm</mandat>
-            <fraktion type="gemeinsam" name="WWW-Piraten">
-              <partner partei="Offene/Bunte/Lokal" num="1" name="WWW – die junge Alternative" />
-            </fraktion>
-            <story source="http://www.piraten-kreiswesel.de/www-und-piraten-bilden-fraktion-im-weseler-rat/">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht und eine Fraktionsgemeinschaft mit der Liste „WWW – die junge Alternative“ geschlossen.</story>
+            <fraktion type="none" />
+            <story source="http://www.piraten-kreiswesel.de/www-und-piraten-bilden-fraktion-im-weseler-rat/">Bei der Kommunalwahl am 25. Mai 2014 wurden 2,3% der Stimmen erreicht und eine Fraktionsgemeinschaft mit der Liste „WWW – die junge Alternative“ geschlossen. Ende des Jahres 2016 wurde die allerdings aufgelöst.</story>
           </parlament>
         </gebiet>
       </gebiet>
