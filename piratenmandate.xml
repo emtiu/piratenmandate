@@ -1891,17 +1891,6 @@
         <!--<fraktion type="piraten" url="http://piratenfraktion-berlin-mitte.de/" />-->
       </parlament>
     </gebiet>
-      <gebiet type="Bezirk" name="Friedrichshain-Kreuzberg" localkey="02" localpirates="http://piratenpartei-friedrichshain-kreuzberg.de/">
-      <parlament name="Bezirksverordnetenversammlung" seats="55" ris="http://www.berlin.de/ba-friedrichshain-kreuzberg/bvv-online/pa021.asp">
-        <oa url="http://openantrag.de/berlin-friedrichshain-kreuzberg" />
-        <mandat type="pirat" email="pirat@ralfgerlich.de">Ralf Gerlich</mandat>
-        <mandat type="pirat">Felix Just</mandat>
-        <fraktion type="none" />
-        <!--<fraktion type="gemeinsam" name="PIRATEN" url="http://piraten-xhain.de/">
-          <partner partei="Einzelbewerber" num="1" />
-        </fraktion>-->
-      </parlament>
-    </gebiet>
   </bundesland>
 
   <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
