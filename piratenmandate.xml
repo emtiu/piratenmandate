@@ -1470,13 +1470,13 @@
   </bundesland>
 
   <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/"> <!-- Danke @piratenproll für die Daten -->
-    <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
+<!--  parteilos  <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
       <parlament name="Stadtrat" seats="45">
         <mandat type="pirat">Jakob Wagner</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" url="http://pfefferundsalz.jetzt/" />
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
       </parlament>
-    </gebiet>
+    </gebiet>-->
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
       <parlament name="Stadtrat" seats="60" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
         <oa url="http://openantrag.de/ludwigshafen" />
