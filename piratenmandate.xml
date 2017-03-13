@@ -1623,13 +1623,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Stadtkreis" name="Ulm" gs="08421000" localpirates="http://www.piraten-ulm.de/">
-      <parlament name="Gemeinderat" seats="41" ris="http://buergerinfo.ulm.de/infobi.php">
-        <oa url="http://openantrag.de/ulm" />
-        <mandat type="fremdliste" name="Ulm hoch 3" from="Offene/Bunte/Lokal" email="denise.niggemeier@ulmhoch3.de">Denise Niggemeier</mandat>
-        <fraktion type="fremd" name="GRÜNE Fraktion Ulm" />
-      </parlament>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
       <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
         <mandat type="fremdliste" from="LINKE">Markus Arnold</mandat>
