@@ -403,12 +403,12 @@
       </gebiet>
       <gebiet type="Gemeinde" name="Flecken Ottersberg" gs="03361008">
         <parlament name="Gemeinderat" seats="29" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawKWz8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
-          <mandat type="fremd" name="Freie Grüne Bürgerliste Ottersberg" from="FW/UWG/etc.">Tim Weber</mandat>
+          <mandat type="fremdliste" name="Freie Grüne Bürgerliste Ottersberg" from="FW/UWG/etc.">Tim Weber</mandat>
           <fraktion type="fremd" name="Freie Grüne Bürgerliste Ottersberg" url="http://www.fgbo.de/" />
         </parlament>
         <gebiet type="Ortschaft" name="Ottersberg" arbkey="1">
           <parlament name="Ortsrat" seats="7" ris="https://flecken-ottersberg.ratsinfomanagement.net/gremien/?__=LfyIfvCWq8SpBQj0MjyGawHWq8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsCSnGJ">
-            <mandat type="fremd" name="Freie Grüne Bürgerliste Ottersberg" from="FW/UWG/etc." multi="2">Tim Weber</mandat>
+            <mandat type="fremdliste" name="Freie Grüne Bürgerliste Ottersberg" from="FW/UWG/etc." multi="2">Tim Weber</mandat>
           </parlament>
         </gebiet>
       </gebiet>
