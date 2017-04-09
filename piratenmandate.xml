@@ -2086,6 +2086,7 @@
         </parlament>
       </gebiet>
     </gebiet>
+<!-- ausgeschieden – Nachrücker unbekannt
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
       <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
         <oa url="http://openantrag.de/vorpommern-greifswald" />
@@ -2095,18 +2096,7 @@
         </fraktion>
         <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
       </parlament>
-      <gebiet type="Stadt" name="Greifswald" gs="13075039">
-        <parlament name="Bürgerschaft" seats="43" ris="http://www.greifswald.de/politik/buergerschaft/ratsinformationssystem.html">
-          <oa url="http://openantrag.de/greifswald" />
-          <mandat type="pirat">Milos Rodatos</mandat>
-          <mandat type="pirat">Petra Dörwald</mandat>
-          <fraktion type="gemeinsam" name="Kom­pe­tenz für Vorpommern/PIRATEN">
-            <partner name="Kom­pe­tenz für Vorpommern" partei="FW/UWG/etc." num="3" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
+    </gebiet>-->
     <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
       <gebiet type="Stadt" name="Stralsund" gs="13073088">
         <parlament name="Bürgerschaft" seats="43" ris="http://www2.stralsund.de/sitzung/sm_sourc.nsf">
