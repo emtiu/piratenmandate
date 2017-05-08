@@ -1018,17 +1018,16 @@
       <gebiet type="Landkreis" name="Kreis Minden-Lübbecke" gs="05770000" localpirates="http://piratenpartei-milk.de/">
         <parlament name="Kreistag" seats="60" ris="https://minden-luebbecke.ratsinfomanagement.net/">
           <mandat type="pirat" email="kalle@piratenpartei-nrw.de">Karl-Heinz Detert</mandat>
-          <fraktion type="gemeinsam" name="FWG Mühlenkreis PIRATEN">
+          <fraktion type="gemeinsam" url="http://fwg-piraten.de/" name="FWG Mühlenkreis PIRATEN">
             <partner name="FWG Mühlenkreis" partei="FW/UWG/etc." num="2" />
           </fraktion>
           <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
         </parlament>
-        <gebiet type="Stadt" name="Minden" gs="05770024">
+        <gebiet type="Stadt" name="Minden" gs="05770024" localpirates="http://piratenpartei-minden.de/">
           <parlament name="Stadtrat" seats="60" ris="https://minden.ratsinfomanagement.net/">
-            <mandat type="pirat" email="sven.brandhorst@piratenpartei-nrw.de">Sven Brandhorst</mandat>
-            <fraktion type="gemeinsam" name="Die Liberale Fraktion">
+            <mandat type="pirat">Frank Tomaschewski</mandat>
+            <fraktion type="gemeinsam" url="http://liberale-fraktion-minden.de/" name="Liberale Fraktion">
               <partner partei="FDP" num="2" />
-              <partner name="Bürger-Bündnis Minden e.V." partei="FW/UWG/etc." num="1" />
             </fraktion>
             <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
           </parlament>
