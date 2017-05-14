@@ -1695,16 +1695,6 @@
         <fraktion type="none" />
         <story source="http://de.wikipedia.org/wiki/Bezirkstag_%28Bayern%29">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen.</story>
       </parlament>
-      <gebiet type="Kreisfreie Stadt" name="München" gs="09162000" localpirates="https://muenchen.piratenpartei-bayern.de/">
-        <parlament name="Stadtrat" seats="81" ris="http://www.ris-muenchen.de/RII2/RII/ris_mitglieder_trefferliste.jsp?nav=1">
-          <oa url="http://openantrag.de/muenchen" />
-          <mandat type="pirat" email="thomas.ranft@muenchen.piratenpartei.de">Thomas Ranft</mandat>
-          <fraktion type="gemeinsam" name="Freiheitsrechte Transparenz Bürgerbeteiligung">
-            <partner partei="FDP" num="3" />
-            <partner name="Wählergruppe HUT" partei="Offene/Bunte/Lokal" num="1" />
-          </fraktion>
-        </parlament>
-      </gebiet>
       <gebiet type="Landkreis" name="Landkreis Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
         <gebiet type="Stadt" name="Erding" gs="09177117">
           <parlament name="Stadtrat" seats="41" ris="http://www.erding.de/cms/politik/stadtrat.html">
