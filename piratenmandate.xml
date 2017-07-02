@@ -2027,6 +2027,13 @@
   </bundesland>
 
   <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/"> <!-- Danke @piratenproll für die Daten -->
+    <gebiet type="Kreisfreie Stadt" name="Schwerin" gs="13004000" localpirates="http://www.piraten-westmecklenburg.de/regionen/schwerin/">
+      <parlament name="Stadtvertretung" seats="45" ris="https://bis.schwerin.de/kp0041.asp">
+        <mandat type="fremdliste" name="Aktion Stadt und Kulturschutz" from="Offene/Bunte/Lokal" email="KJagau@schwerin.de">Karsten Jagau</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 25. Mai 2014 errang die Wählervereinigung „Aktion Stadt und Kulturschutz“ einen Sitz. Im Mai 2017 rückte Karsten Jagau als Mitglied der Piratenpartei nach.</story>
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
       <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
         <mandat type="pirat">Matthias Reimann</mandat>
