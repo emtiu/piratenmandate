@@ -1705,15 +1705,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <gebiet type="Landkreis" name="Landkreis Fürstenfeldbruck" gs="09179000" localpirates="http://piraten-ffb.de/">
-        <gebiet type="Stadt" name="Fürstenfeldbruck" gs="09179121">
-          <parlament name="Stadtrat" seats="41" ris="http://www.ffbinfo.de/">
-            <mandat type="pirat" email="andreas.stroehle@piratenpartei-bayern.de">Andreas Ströhle</mandat>
-            <fraktion type="none" />
-            <story>Andreas Ströhle hat im Rat eine Ausschussgemeinschaft mit FDP und ÖDP</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
       <gebiet type="Landkreis" name="Landkreis Starnberg" gs="09188000" localpirates="http://starnberg.ppby.de/">
         <gebiet type="Gemeinde" name="Gauting" gs="09188120">
           <parlament name="Gemeinderat" seats="25" ris="http://www.gauting.de/index.php?id=877">
@@ -1723,16 +1714,6 @@
             <story source="http://starnberg.ppby.de/gemeinderat-aktuell-einzelkaempfer-im-vierebuendnis/">Ausschussgemeinschaft mit ÖDP, UBG und Einzelbewerber</story>
           </parlament>
         </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Bezirk" name="Oberpfalz" gs="09300000" localpirates="http://piraten-oberpfalz.de/">
-      <gebiet type="Kreisfreie Stadt" name="Regensburg" gs="09362000" localpirates="http://www.piraten-regensburg.de/">
-        <parlament name="Stadtrat" seats="50" ris="http://www.regensburg.de/rathaus/stadtpolitik/regensburger-sitzungsdienst/stadtratsplenum/63600">
-          <oa url="http://openantrag.de/regensburg" />
-          <mandat type="pirat" email="tina.lorenz@piratenpartei-bayern.de">Tina Lorenz</mandat>
-          <fraktion type="none" />
-          <story source="http://piraten-regensburg.de/2014/05/06/piraten-uebernehmen-verantwortung-in-regensburg/">Die fraktionslose PIRATEN-Abgeordnete ist an einer Regierungskoalition mit SPD, Grünen, FDP und Freien Wählern beteiligt, aufgrund derer auch zusätzliche Ausschusssitze besetzt werden können.</story>
-        </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
@@ -1760,16 +1741,6 @@
           </parlament>
         </gebiet>
       </gebiet>
-    </gebiet>
-    <gebiet type="Bezirk" name="Schwaben" gs="09700000" localpirates="http://www.piraten-schwaben.de/">
-      <parlament name="Bezirkstag" seats="27" ris="https://www.bezirk-schwaben.de/bezirk/bezirkstag/bezirkstag/">
-        <oa url="http://openantrag.de/schwaben" />
-        <mandat type="pirat" email="fritz.effenberger@piraten-schwaben.de">Fritz Effenberger</mandat>
-        <fraktion type="gemeinsam">
-          <partner partei="LINKE" num="1" />
-        </fraktion>
-        <story source="https://piraten-augsburg.de/aktuelles/2013-19/piraten-und-linke-im-bezirkstag-schwaben-stimmen-gegen-haushalt-2014/">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen. Im Bezirkstag Schwaben bilden die zwei Abgeordneten von PIRATEN und LINKE eine Fraktionsgemeinschaft.</story>
-      </parlament>
     </gebiet>
   </bundesland>
 
