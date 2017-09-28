@@ -814,11 +814,11 @@
         </parlament>
         <gebiet type="Stadt" name="Linnich" gs="05358036" localpirates="http://www.piratenpartei-dueren.de/linnich/">
           <parlament name="Stadtrat" seats="32" ris="https://sdnetrim.kdvz-frechen.de/rim4270/">
-            <mandat type="pirat">Sascha Zuther</mandat>
+            <mandat type="pirat">Dietmar Schwindt</mandat>
             <fraktion type="gemeinsam" name="FDP/Piraten">
               <partner partei="FDP" num="1" />
             </fraktion>
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
+            <story url="http://www.aachener-zeitung.de/lokales/dueren/schweigeminute-fuer-sascha-zuther-in-linnich-1.1669928">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht. Der gewählte Sascha Zuther vertrat die Piratenpartei im Stadtrat, bis er 2017 unerwartet verstarb.</story>
           </parlament>
         </gebiet>
       </gebiet>
