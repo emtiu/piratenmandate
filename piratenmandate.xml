@@ -1387,10 +1387,11 @@
     <gebiet type="Landkreis" name="Landkreis Darmstadt-Dieburg" gs="06432000" localpirates="http://www.piratenpartei-dadadi.de/">
       <parlament name="Kreistag" seats="71" ris="https://www.ladadi.de/politikinfo/kp0040.php?__kgrnr=1&amp;__cgrname=Kreistag">
         <oa url="http://openantrag.de/darmstadt-dieburg" />
-        <mandat type="pirat">Michael Kittlaus</mandat>
+        <mandat type="pirat">Chris­ti­an Röw­ens­trunk</mandat>
         <fraktion type="gemeinsam" name="Freie Wähler - Piraten" url="http://freiewaehler-piraten.de/" email="fraktion@freiewaehler-piraten.de">
           <partner num="2" partei="FW/UWG/etc." name="Freie Wähler" />
         </fraktion>
+		<story source="http://www.main-echo.de/regional/rhein-main-hessen/art3988,5135901">Der mit der Kommunalwahl am 6. März 2016 gewählte Michael Kittlaus schied im September 2017 aus gesundheitlichen Gründen aus. Für ihn rückte Christian Röwenstrunk nach. Im Januar 2018 verstarb Michael Kittlaus.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Groß-Gerau" gs="06433000" localpirates="http://www.piratenpartei-gross-gerau.de/">
