@@ -9,18 +9,23 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
+    <gebiet type="Kreisfreie Stadt" name="Neumünster" gs="01004000" localpirates="http://landesportal.piratenpartei-sh.de/nms/">
+      <parlament name="Ratsversammlung" seats="42" ris="https://w2.neumuenster.de/session/bi/kp0041.php">
+        <mandat type="pirat">Jörg Goldkamp</mandat>
+        <fraktion type="gemeinsam" name="BfB/PIRATEN" url="http://www.bfb-nms.de/">
+          <partner name="Bündnis für Bürger" partei="FW/UWG/etc." num="3"/>
+        </fraktion>
+		<story source="https://www.shz.de/lokales/holsteinischer-courier/thomas-puls-tritt-zurueck-id16719171.html">Der 2013 gewählte Mandatsträger hatte sich der Fraktion "Bündnis für Bürger" (BfB) angeschlossen, aber war im Juni 2015 aus der Piratenpartei ausgetreten. Aus persönlichen Gründen legte er sein Mandat im März 2017 nieder, woraufhin Hörd Goldkamp für die PIRATEN nachrückte. Er ist ebenfalls Mitglied der BfB-Fraktion.</story>
+      </parlament>
+    </gebiet>
     <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
       <parlament name="Kreistag" seats="52" ris="http://ratsinfo.nordfriesland.de/sdnet/gremien/?__=LfyIfvCWq8SpBQj0MiyHawGWr8Tq8Sj1SmzHcxEXr8Sm4Pi2KfyJhwDWsBSqGJ">
         <mandat type="pirat">Timo Ploog</mandat>
-        <fraktion type="fremd" name="Bündnis 90/Die Grünen" url="http://www.gruene-nf.de/kreistagsfraktion-nf/" />
       </parlament>
       <gebiet type="Gemeinde" name="Sylt" gs="01054168" localpirates="http://landesportal.piratenpartei-sh.de/sylt/">
         <parlament name="Gemeindevertretung" seats="36" ris="https://westerland.more-rubin1.de/gremien_pers.php?submenu=3&amp;Kuerzel=GVSYLT&amp;entrygremien=0&amp;sortgremien=Bezeichnung">
           <oa url="http://openantrag.de/sylt" />
           <mandat type="pirat" email="Christian.Thiessen@Piratenpartei-SH.de">Christian Thiessen</mandat>
-          <fraktion type="gemeinsam" name="Insulaner/PIRATEN" url="http://insulaner-piraten.de/">
-            <partner name="Die Insulaner" partei="Offene/Bunte/Lokal" num="1" />
-          </fraktion>
         </parlament>
       </gebiet>
     </gebiet>
@@ -36,9 +41,8 @@
       <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
         <oa url="http://openantrag.de/segeberg" />
         <mandat type="pirat" email="toni.koeppen@piratenpartei-se.de">Toni Köppen</mandat>
-        <mandat type="pirat">Claudia Beyer</mandat>
-        <fraktion type="piraten" url="http://landesportal.piratenpartei-sh.de/fraktion-segeberg/" />
-        <story url="http://www.stadtmagazin-bad-segeberg.de/piratenpartei/bad-segeberg/1503/fraktionsdynamik-im-kreistag">Einer der beiden PIRATEN-Mandatsträger war im November 2014 zur Neuen Liberalen übergelaufen, hatte aber in der Folge in einer gemeinsamen Fraktion „PIRATEN/Neue Liberale“ mitgewirkt. Als er im März 2015 sein Mandat niederlegte, fiel das Mandat wieder an die PIRATEN, die nun erneut eine eigene Fraktion bilden.</story>
+        <fraktion type="fremd" name="Wählerinitiative Segeberg" url="https://wi-se.de/" />
+        <story>Einer der beiden PIRATEN-Mandatsträger war im November 2014 zur Neuen Liberalen übergelaufen, hatte aber in der Folge in einer gemeinsamen Fraktion „PIRATEN/Neue Liberale“ mitgewirkt. Als er im März 2015 sein Mandat niederlegte, fiel das Mandat wieder an die PIRATEN, die erneut eine eigene Fraktion bildeten. Später trat erneut einer der beiden Mandatsträger aus der Piratenpartei aus, der nun mit dem verbleibenden sowie anderen Mandatsträgern zur "Wählerinitiative Segeberg" gehört.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
