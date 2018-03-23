@@ -1679,6 +1679,15 @@
         </parlament>
       </gebiet>
     </gebiet>
+    <gebiet type="Landkreis" name="Landkreis Lörrach" gs="08336000" localpirates="http://piratenpartei-loerrach.de/">
+      <gebiet type="Stadt" name="Lörrach" gs="08336050">
+        <parlament name="Gemeinderat" seats="32" ris="https://www.loerrach.de/de/Rathaus-/-B%C3%BCrgerservice/Kommunalpolitik/Mitglieder-des-Gemeinderats">
+          <mandat type="fremdliste" from="LINKE">Sabine Schumacher</mandat>
+          <fraktion type="none" />
+		  <story source="http://www.badische-zeitung.de/loerrach/schumacher-rueckt-fuer-di-prima-nach--139828481.html">Sabine Schumacher kandidierte 2014 als Mitglied der Piratenpartei auf der Liste der LINKEN. Mitte 2017 rückte sie über diese Liste in den Gemeinderat nach.</story>
+        </parlament>
+      </gebiet>
+    </gebiet>
     <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
       <gebiet type="Stadt" name="Weikersheim" gs="08128126">
         <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
