@@ -478,11 +478,8 @@
       <gebiet type="Kreisfreie Stadt" name="Duisburg" gs="05112000" localpirates="http://www.piratenpartei-duisburg.de/">
         <parlament name="Stadtrat" seats="74" ris="http://www.duisburg.de/rathaus/rathaus/gremien/index.php">
           <mandat type="pirat" email="brittas@piratenpartei-nrw.de">Britta Söntgerath</mandat>
-          <fraktion type="gemeinsam" name="PIRATEN SOZIAL LIBERAL">
-            <partner name="Sozial Gerecht Unabhängig" partei="Offene/Bunte/Lokal" num="1" />
-            <partner name="Bürgerlich-Liberale" partei="FW/UWG/etc." num="1" />
-          </fraktion>
-          <story source="http://www.piratenpartei-duisburg.de/piraten-sozial-liberal-das-neue-buendnis-fuer-duisburg/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht und eine Fraktionsgemeinschaft mit den Wählervereinigungen „Bürgerlich Liberale (BL)“ und „Sozial Gerecht Unabhängig (SGU)“ eingegangen.</story>
+          <fraktion type="none" />
+          <story source="http://www.piratenpartei-duisburg.de/fraktion-piraten-sozial-liberal-psl-duisburg-loest-sich-auf/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht und mit zwei Wählervereinigungen eine Fraktionsgemeinschaft namens „Piraten Sozial Liberal“ (PSL) eingegangen. Diese löste sich im März 2018 auf.</story>
         </parlament>
       </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Düsseldorf" gs="05111000" localpirates="https://blog.piratenpartei-nrw.de/duesseldorf/">
