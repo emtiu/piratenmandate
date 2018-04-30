@@ -15,7 +15,7 @@
         <fraktion type="gemeinsam" name="BfB/PIRATEN" url="http://www.bfb-nms.de/">
           <partner name="Bündnis für Bürger" partei="FW/UWG/etc." num="3"/>
         </fraktion>
-		<story source="https://www.shz.de/lokales/holsteinischer-courier/thomas-puls-tritt-zurueck-id16719171.html">Der 2013 gewählte Mandatsträger hatte sich der Fraktion "Bündnis für Bürger" (BfB) angeschlossen, aber war im Juni 2015 aus der Piratenpartei ausgetreten. Aus persönlichen Gründen legte er sein Mandat im März 2017 nieder, woraufhin Hörd Goldkamp für die PIRATEN nachrückte. Er ist ebenfalls Mitglied der BfB-Fraktion.</story>
+        <story source="https://www.shz.de/lokales/holsteinischer-courier/thomas-puls-tritt-zurueck-id16719171.html">Der 2013 gewählte Mandatsträger hatte sich der Fraktion "Bündnis für Bürger" (BfB) angeschlossen, aber war im Juni 2015 aus der Piratenpartei ausgetreten. Aus persönlichen Gründen legte er sein Mandat im März 2017 nieder, woraufhin Hörd Goldkamp für die PIRATEN nachrückte. Er ist ebenfalls Mitglied der BfB-Fraktion.</story>
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Nordfriesland" gs="01054000" localpirates="http://landesportal.piratenpartei-sh.de/nordfriesland/">
@@ -351,15 +351,20 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Stade" gs="03159000" localpirates="https://www.piraten-stade.de/category/kreisverband/">
+    <gebiet type="Landkreis" name="Landkreis Stade" gs="03359000" localpirates="https://www.piraten-stade.de/category/kreisverband/">
       <parlament name="Kreistag" seats="52" ris="https://www.landkreis-stade.de/allris/pa021.asp">
         <mandat type="pirat">Richard Klaus</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="FDP/PIRATEN">
+          <partner partei="FDP" num="2" />
+        </fraktion>
       </parlament>
       <gebiet type="Stadt" name="Stade" gs="03159038" localpirates="https://www.piraten-stade.de/">
         <parlament name="Stadtrat" seats="41" ris="https://www.stadt-stade.info/portal/seiten/rat-der-hansestadt-stade-900000107-20390.html">
-          <mandat type="pirat">Wolf Vincent Lübcke</mandat>
-          <fraktion type="none" />
+          <mandat type="pirat" email="WolfVincent.Luebcke@stadt-stade.de">Wolf Vincent Lübcke</mandat>
+          <fraktion type="gemeinsam" name="FDP/UBLS/Piraten">
+            <partner partei="FDP" num="2" />
+            <partner name="Unabhängige Bürgerliste Stade (UBLS)" partei="FW/UWG/etc." num="2" />
+          </fraktion>
         </parlament>
       </gebiet>
     </gebiet>
