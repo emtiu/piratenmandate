@@ -10,7 +10,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
-      <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
+      <parlament name="Kreistag" seats="62" ris="https://kreis-se.info/bi/pa021.asp">
         <mandat type="fremdliste" name="Wählerinitiative Segeberg" from="FW/UWG/etc." email="toni.koeppen@piratenpartei-se.de">Toni Köppen</mandat>
         <fraktion type="fremd" name="Wählerinitiative Segeberg" url="https://büfüg.de/" />
       </parlament>
