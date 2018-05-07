@@ -9,6 +9,21 @@
         <fraktion type="none" />
       </parlament>
     </gebiet>
+    <gebiet type="Landkreis" name="Kreis Segeberg" gs="01060000" localpirates="http://landesportal.piratenpartei-sh.de/kreis-segeberg/">
+      <parlament name="Kreistag" seats="56" ris="https://kreis-se.info/bi/pa021.asp">
+        <mandat type="fremdliste" name="Wählerinitiative Segeberg" from="FW/UWG/etc." email="toni.koeppen@piratenpartei-se.de">Toni Köppen</mandat>
+        <fraktion type="fremd" name="Wählerinitiative Segeberg" url="https://büfüg.de/" />
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Kreis Steinburg" gs="01061000" localpirates="http://landesportal.piratenpartei-sh.de/steinburg/">
+      <gebiet type="Stadt" name="Glückstadt" gs="01061029" localpirates="http://landesportal.piratenpartei-sh.de/glueckstadt/">
+        <parlament name="Stadtvertretung" seats="23" ris="http://glueckstadt.de/Verwaltung-Politik/Politik/Stadtvertretung">
+          <mandat type="fremdliste" name="Bürger für Glückstadt" from="FW/UWG/etc.">Dr. Siegfried Hansen</mandat>
+          <mandat type="fremdliste" name="Bürger für Glückstadt" from="FW/UWG/etc.">Harro Burghold</mandat>
+        <fraktion type="fremd" name="Bürger für Glückstadt" url="https://xn--bfg-hoab.de" />
+        </parlament>
+      </gebiet>
+    </gebiet>
   </bundesland>
 
   <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/"> <!-- Danke @piratenproll für die Daten -->
