@@ -1963,13 +1963,13 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Schwedt" gs="12073532">
+      <!-- <gebiet type="Stadt" name="Schwedt" gs="12073532">
         <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.schwedt.eu/sixcms/detail.php/72193">
           <oa url="http://openantrag.de/schwedt" />
           <mandat type="fremdliste" name="Bunte Liste" from="Offene/Bunte/Lokal">Nadine Heckendorn</mandat>
           <fraktion type="none" />
         </parlament>
-      </gebiet>
+      </gebiet> -->
     </gebiet>
   </bundesland>
 
