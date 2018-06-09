@@ -1870,14 +1870,15 @@
           </parlament>
         </gebiet>
       </gebiet>
-      <!-- Gemeinsame Liste Frischer Wind/PIRATEN, aber kein Piratenpartei-Mitglied gewählt
       <gebiet type="Stadt" name="Nauen" gs="12063208">
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://ris.nauen.de/instanz_1/index.htm">
-          <mandat type="pirat">Anke Bienwald</mandat>
-          <mandat type="pirat">Steffen Glagow</mandat>
-          <fraktion type="none" />
+          <mandat type="pirat" email="r.heydt@piratenbrandenburg.de">Raimond Heydt</mandat>
+          <fraktion type="gemeinsam" name="Frischer Wind/Piraten">
+            <partner name="Frischer Wind" partei="FW/UWG/etc." num="1" />
+          </fraktion>
+          <story>Die gemeinsame Liste „Frischer Wind/Piraten“ errang 2014 zwei Mandate, die von Mitgliedern von „Frischer Wind“ ausgeübt wurden. Im Juni 2018 rückte Raimond Heydt als Mitglied der Piratenpartei auf einen dieser Sitze nach.</story>
         </parlament>
-      </gebiet> -->
+      </gebiet> 
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://piraten-nbb.de/">
       <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
