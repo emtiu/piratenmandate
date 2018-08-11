@@ -1802,8 +1802,7 @@
         <oa url="http://openantrag.de/berlin-mitte" />
         <mandat type="pirat">Michael Konrad</mandat>
         <mandat type="pirat" email="freitag@piratenfraktion-berlin-mitte.de">Alexander Freitag</mandat>
-        <fraktion type="none" />
-        <!--<fraktion type="piraten" url="http://piratenfraktion-berlin-mitte.de/" />-->
+        <fraktion type="gruppe" name="PIRATEN" url="https://twitter.com/piratenbvvmitte" />
       </parlament>
     </gebiet>
   </bundesland>
