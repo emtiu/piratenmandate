@@ -51,7 +51,10 @@
       <parlament name="Regionsversammlung" seats="85" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Politisch/Regionsversammlung">
         <oa url="http://openantrag.de/region-hannover" />
         <mandat type="pirat" email="adam.wolf@piraten-nds.de" profil="https://wiki.piratenpartei.de/Benutzer:Sailorwolf">Bruno Adam Wolf</mandat>
-        <fraktion type="none" />
+        <fraktion type="gemeinsam" name="REGION">
+          <partner partei="LINKE" num="1" />
+          <partner partei="Die PARTEI" num="1" />
+        </fraktion>
       </parlament>
       <gebiet type="Stadt" name="Hannover" gs="03241001">
         <parlament name="Stadtrat" seats="64" ris="https://e-government.hannover-stadt.de/lhhsimwebre.nsf">
@@ -83,7 +86,9 @@
         <gebiet type="Stadtbezirk" name="Misburg-Anderten" localkey="5">
           <parlament name="Stadtbezirksrat" seats="19" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-5-Misburg-Anderten">
             <mandat type="pirat">Jennifer Schnelle</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Linke/Piraten">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Südstadt-Bult" localkey="7">
@@ -95,7 +100,9 @@
         <gebiet type="Stadtbezirk" name="Ricklingen" localkey="9">
           <parlament name="Stadtbezirksrat" seats="21" ris="http://www.hannover.de/Leben-in-der-Region-Hannover/Politik/Politische-Gremien/Landeshauptstadt-Hannover/Bezirksr%C3%A4te/Stadtbezirk-9-Ricklingen">
             <mandat type="pirat">Andreas Fauteck</mandat>
-            <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Linke/Piraten">
+              <partner partei="LINKE" num="1" />
+            </fraktion>
           </parlament>
         </gebiet>
         <gebiet type="Stadtbezirk" name="Linden-Limmer" localkey="10">
@@ -126,7 +133,9 @@
       <gebiet type="Stadt" name="Lehrte" gs="03241011" localpirates="http://www.piratenpartei-lehrte.de/">
         <parlament name="Stadtrat" seats="40" ris="https://sessionnet.krz.de/lehrte/bi/kp0041.asp">
           <mandat type="pirat">Sebastian Frenger</mandat>
-          <fraktion type="none" />
+          <fraktion type="gemeinsam" name="CDU/Piraten">
+            <partner partei="CDU" num="14" />
+          </fraktion>
         </parlament>
         <gebiet type="Stadtbezirk" name="Nord" arbkey="1">
           <parlament name="Ortsrat" seats="9" ris="https://sessionnet.krz.de/lehrte/bi/kp0040.asp?__kgrnr=346">
@@ -378,7 +387,7 @@
         <oa url="http://openantrag.de/bremerhaven" />
         <mandat type="pirat" email="alexander.niedermeier@piraten-bremerhaven.de">Alexander Niedermeier</mandat>
         <fraktion type="none" />
-        <story>Bei der Wahl zur Stadtverordnetenversammlung am 10. Mai 2015 wurden 2,8% der Stimmen erzielt. Bereits 2011 warendie PIRATEN mit 2,2% eingezogen.</story>
+        <story>Bei der Wahl zur Stadtverordnetenversammlung am 10. Mai 2015 wurden 2,8% der Stimmen erzielt. Bereits 2011 waren die PIRATEN mit 2,2% eingezogen.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
