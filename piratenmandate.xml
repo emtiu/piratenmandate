@@ -352,12 +352,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Verden" gs="03361000" localpirates="https://wiki.piratenpartei.de/NDS:KV_VOR">
-      <gebiet type="Stadt" name="Verden" gs="03361012">
-        <parlament type="Stadtrat" seats="36" ris="https://verden.ratsinfomanagement.net/">
-          <mandat type="pirat">Kai Rosebrock</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
       <gebiet type="Gemeinde" name="Flecken Langwedel" gs="03361006">
         <parlament type="Gemeinderat" seats="27" ris="https://flecken-langwedel.ratsinfomanagement.net/">
           <mandat type="pirat">Fabian Reichwald</mandat>
