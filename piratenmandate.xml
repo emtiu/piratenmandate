@@ -182,13 +182,6 @@
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Kreisfreie Stadt" name="Delmenhorst" gs="03401000" localpirates="http://piratenpartei-delmenhorst.de/">
-      <parlament name="Stadtrat" seats="43" ris="http://www.delmenhorst.de/rat-politik/ratsinfo/index.php">
-        <oa url="http://openantrag.de/delmenhorst" />
-        <mandat type="pirat">Andreas Neugebauer</mandat>
-        <fraktion type="none" />
-      </parlament>
-    </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Oldenburg" gs="03403000" localpirates="https://piratenpartei-oldenburg.de/">
       <parlament name="Stadtrat" seats="50" ris="http://buergerinfo.oldenburg.de/kp0041.php">
         <mandat type="pirat" email="jan-martin.meyer@piratenpartei-oldenburg.de">Jan-Martin Meyer</mandat>
