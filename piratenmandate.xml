@@ -437,13 +437,6 @@
       </parlament>
     </gebiet>
     <gebiet type="Bezirk" name="Regierungsbezirk Düsseldorf" gs="05100000">
-      <gebiet type="Kreisfreie Stadt" name="Duisburg" gs="05112000" localpirates="http://www.piratenpartei-duisburg.de/">
-        <parlament name="Stadtrat" seats="74" ris="https://sessionnet.krz.de/duisburg/bi/infobi.asp">
-          <mandat type="pirat" email="brittas@piratenpartei-nrw.de">Britta Söntgerath</mandat>
-          <fraktion type="none" />
-          <story source="http://www.piratenpartei-duisburg.de/fraktion-piraten-sozial-liberal-psl-duisburg-loest-sich-auf/">Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht und mit zwei Wählervereinigungen eine Fraktionsgemeinschaft namens „Piraten Sozial Liberal“ (PSL) eingegangen. Diese löste sich im März 2018 auf.</story>
-        </parlament>
-      </gebiet>
       <gebiet type="Kreisfreie Stadt" name="Düsseldorf" gs="05111000" localpirates="https://blog.piratenpartei-nrw.de/duesseldorf/">
         <parlament name="Stadtrat" seats="82" ris="http://www.duesseldorf.de/rathaus/rat/index.shtml">
           <oa url="http://openantrag.de/duesseldorf" />
