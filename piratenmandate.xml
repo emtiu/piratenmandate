@@ -26,25 +26,8 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/"> <!-- Danke @piratenproll für die Daten -->
-    <gebiet type="Bezirk" name="Hamburg-Mitte" localkey="1">
-      <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:84/bi/pa021.asp">
-        <mandat type="pirat" email="andreas.gerhold@hamburg-mitte.bezirkspiraten.de">Andreas Gerhold</mandat>
-        <mandat type="pirat">Wolfdietrich Thürnagel</mandat>
-        <fraktion type="gruppe" name="PIRATEN"/>
-        <story>2011 zogen die PIRATEN erstmals mit 2 Mandaten in die Bezirksversammlung Hamburg-Mitte ein. Ab 2012 bestand eine Fraktion nach dem Übertritt einer Grünen-Abgeordneten. Bei der folgenden Wahl zur Bezirksversammlung am 25. Mai 2014 wurden mit 4,4% der Stimmen erneut 2 Mandate errungen, aber das notwendige 3. Mandat für den Fortbestand der Fraktion knapp verpasst. Andreas Gerhold konnte als erster Pirat deutschlandweit zum zweiten Mal in Folge das gleiche Mandat erringen.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Bezirk" name="Hamburg-Nord" localkey="4" localpirates="http://nord.piraten-hh.de/">
-      <parlament name="Bezirksversammlung" seats="51" ris="http://ratsinformation.web.hamburg.de:85/bi/pa021.asp">
-        <oa url="http://openantrag.de/hamburg-nord" />
-        <mandat type="pirat" email="dorle.olszewski@piraten-bv-nord.de">Dorle Olszewski</mandat>
-        <mandat type="pirat" email="markus.poestinger@piraten-bv-nord.de">Markus Pöstinger</mandat>
-        <fraktion type="gruppe" name="PIRATEN" url="http://www.piraten-bv-nord.de/" email="info@piraten-bv-nord.de" />
-        <story>Bei der Wahl zur Bezirksversammlung am 25. Mai 2014 wurden 3,5% der Stimmen erreicht. Die PIRATEN sind damit in der BV mit 2 Mandaten erstmals vertreten, nachdem sie 2011 noch an der 3%-Hürde gescheitert waren. </story>
-      </parlament>
-    </gebiet>
-  </bundesland>
+<!--   <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/"> -->
+<!--   </bundesland> -->
 
   <bundesland name="Niedersachsen" gs="03000000" localpirates="http://piratenpartei-niedersachsen.de/">
     <gebiet type="Kommunalverband besonderer Art" name="Region Hannover" gs="03241000" localpirates="http://www.piratenhannover.de/">
@@ -381,30 +364,8 @@
     </gebiet> 
   </bundesland>
 
-  <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/">
-    <gebiet type="Stadt" name="Bremerhaven" gs="04012000" localpirates="http://www.piraten-bremerhaven.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="48" ris="https://sitzungsdienst.bremerhaven.de/ratsinfo/bremerhaven/Committee.html?orgid=8&amp;o=1&amp;oc=1&amp;ob=1#current">
-        <oa url="http://openantrag.de/bremerhaven" />
-        <mandat type="pirat" email="alexander.niedermeier@piraten-bremerhaven.de">Alexander Niedermeier</mandat>
-        <fraktion type="none" />
-        <story>Bei der Wahl zur Stadtverordnetenversammlung am 10. Mai 2015 wurden 2,8% der Stimmen erzielt. Bereits 2011 waren die PIRATEN mit 2,2% eingezogen.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Stadt" name="Bremen" gs="04011000" localpirates="http://piraten-hb.de/">
-      <gebiet type="Stadtteil" name="Neustadt" localkey="21">
-        <parlament name="Beirat" seats="19" ris="http://www.ortsamt-woltmershausen.bremen.de/sixcms/detail.php?gsid=bremen152.c.1851.de">
-          <mandat type="pirat" email="gunnar.christiansen@bremen.piratenpartei.de">Gunnar Christiansen</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtteil" name="Hemelingen" localkey="38">
-        <parlament name="Beirat" seats="19" ris="http://www.ortsamt-hemelingen.de/sixcms/detail.php?gsid=bremen149.c.1632.de">
-          <mandat type="pirat" email="arend.vogtlaender@bremen.piratenpartei.de">Arend Vogtländer</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet>
-    </gebiet>
-  </bundesland>
+<!--   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/"> -->
+<!--   </bundesland> -->
 
   <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/"> <!-- Danke @piratenproll für die Daten -->
     <gebiet type="Landschaftsverband" name="Landschaftsverband Rheinland" arbkey="1">
