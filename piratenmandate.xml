@@ -879,10 +879,10 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Kreis Borken" gs="05554000" localpirates="http://www.piraten-borken.de/">
-        <parlament name="Kreistag" seats="60" ris="http://www.kreis-borken.de/sessionnet/infobi.php">
-          <mandat type="pirat">Maria Strestik</mandat>
+        <parlament name="Kreistag" seats="60" ris="https://secure.kreis-borken.de/BI/infobi.asp">
+          <mandat type="pirat">Stephan Strestik</mandat>
           <fraktion type="gruppe" name="DIE LINKE / PIRATEN" url="http://www.li-pi.de/" email="gruppe@li-pi.de" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht. Es besteht eine gemeinsame Gruppe mit der Linken. Die Gründung der Gruppe war vom Landrat zunächst nicht anerkannt worden. Seine Position erwies sich aber später als unbegründet und unhaltbar.</story>
+          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht. Es besteht eine gemeinsame Gruppe mit der Linken. Die Gründung der Gruppe war vom Landrat zunächst nicht anerkannt worden. Seine Position erwies sich aber später als unbegründet und unhaltbar. Im Jahr 2018 rückte Stephan Strestik für Maria Strestik nach.</story>
         </parlament>
         <gebiet type="Stadt" name="Gronau (Westfalen)" gs="05554020" localpirates="http://www.piraten-gronau.de/">
           <parlament name="Stadtrat" seats="40" ris="https://gronau.ratsinfomanagement.net/">
