@@ -1441,153 +1441,80 @@
   <bundesland name="Baden-Württemberg" gs="08000000" localpirates="http://piratenpartei-bw.de/">
     <gebiet type="Regionalverband" name="Region Stuttgart" gs="08110000" localpirates="http://piraten-region-stuttgart.de/">
       <parlament name="Regionalversammlung" seats="87" ris="https://gecms.region-stuttgart.org/">
-        <oa url="http://openantrag.de/stuttgart-region" />
-        <mandat type="pirat">Ingo Mörl</mandat>
-        <fraktion type="fremd" name="Die Linke" />
-        <story>Als einziger der 12 Regionalverbände in Baden-Württemberg hat die Region Stuttgart eine politische Vertretung. Sie wird bei allgemeinen Kommunalwahlen direkt gewählt. Ihre Zuständigkeiten liegen in der Regionalplanung, insbesondere in den Bereichen Verkehr, Wirtschaft und Verwaltung. Bei der Kommunalwahl am 25. Mai 2014 erreichten die PIRATEN 1,1% der Stimmen.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Stadtkreis" name="Heidelberg" gs="08221000" localpirates="http://www.piraten-rhein-neckar-heidelberg.de/">
-      <parlament name="Gemeinderat" seats="49" ris="http://ww1.heidelberg.de/buergerinfo/gr0040.asp">
-        <mandat type="pirat" email="politik@schestag.info">Alexander Schestag</mandat>
+        <mandat type="pirat">Michael Knödler</mandat>
         <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Stadtkreis" name="Karlsruhe" gs="08212000" localpirates="http://www.piraten-karlsruhe.de/">
-      <parlament name="Gemeinderat" seats="48" ris="http://web1.karlsruhe.de/Gemeinderat/ris/bi/kp0040.php?__kgrnr=32130&amp;">
-        <oa url="http://openantrag.de/karlsruhe" />
-        <mandat type="pirat">Uwe Lancier</mandat>
-        <mandat type="pirat">Erik Wohlfeil</mandat>
-        <fraktion type="gemeinsam" name="KULT-Fraktion" url="http://www.kult-fraktion.de/">
-          <partner name="Karlsruher Liste" partei="Offene/Bunte/Lokal" num="2" />
-          <partner partei="Die PARTEI" num="1"/>
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
+        <story>Als einziger der 12 Regionalverbände in Baden-Württemberg hat die Region Stuttgart eine politische Vertretung. Sie wird bei allgemeinen Kommunalwahlen direkt gewählt. Ihre Zuständigkeiten liegen in der Regionalplanung, insbesondere in den Bereichen Verkehr, Wirtschaft und Verwaltung. Bei der Kommunalwahl am 26. Mai 2019 erreichten die PIRATEN 1,35% der Stimmen.</story>
       </parlament>
     </gebiet>
     <gebiet type="Stadtkreis" name="Stuttgart" gs="08111000" localpirates="http://www.piratenpartei-stuttgart.de/">
       <parlament name="Gemeinderat" seats="61" ris="http://www.stuttgart.de/external/show/ratsdokumente">
-        <oa url="http://openantrag.de/stuttgart" />
         <mandat type="pirat" email="stefan.urbat@stuttgart.de">Stefan Urbat</mandat>
-        <fraktion type="gemeinsam" name="SÖS-LINKE-PluS">
-          <partner name="Stuttgart Ökologisch Sozial (SÖS)" partei="Offene/Bunte/Lokal" num="3" />
-          <partner partei="LINKE" num="3" />
-          <partner name="Studentische Liste – junges Stuttgart" partei="Offene/Bunte/Lokal" num="1" />
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,6% der Stimmen erreicht.</story>
-      </parlament>
-      <gebiet type="Stadtbezirk" name="Süd" arbkey="04">
-        <parlament name="Bezirksbeirat" seats="16">
-          <mandat type="pirat">Michael Knödler</mandat>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="West" arbkey="05">
-        <parlament name="Bezirksbeirat" seats="20">
-          <mandat type="pirat">David Münzing</mandat>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="Bad Cannstatt" arbkey="11">
-        <parlament name="Bezirksbeirat" seats="20">
-          <mandat type="pirat">Nikolai Kliewer</mandat>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="Birkach" arbkey="12">
-        <parlament name="Bezirksbeirat" seats="9">
-          <mandat type="pirat">László Peters</mandat>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="Möhringen" arbkey="17">
-        <parlament name="Bezirksbeirat" seats="17">
-          <mandat type="pirat">Christian Brugger-Burg</mandat>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="Plieningen" arbkey="111">
-        <parlament name="Bezirksbeirat" seats="11">
-          <mandat type="pirat">Jochen Buchholz</mandat>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadtbezirk" name="Vaihingen" arbkey="115">
-        <parlament name="Bezirksbeirat" seats="17">
-          <mandat type="pirat">Jörn-Rimbert Chrobok</mandat>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Böblingen" gs="08115000" localpirates="http://piratenpartei-bb.de/">
-      <parlament name="Kreistag" seats="84" ris="http://195.189.95.167/sessionnet/bi/infobi.php">
-        <mandat type="fremdliste" from="LINKE">Markus Arnold</mandat>
-        <fraktion type="gemeinsam" name="LINKE/Piraten">
-          <partner partei="LINKE" num="2" />
-        </fraktion>
-        <story source="http://linke-bw.de/kv-bb/">Mit dem auf der Liste der LINKEN gewählten Piraten konnte eine Fraktion gebildet werden, nachdem zwei LINKE durch Ausgleichsmandate zusätzlich eingezogen sind.</story>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 1,2% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Esslingen" gs="08116000" localpirates="http://www.piratenpartei-esslingen.de/">
-      <gebiet type="Stadt" name="Leinfelden-Echterdingen" gs="08116078" localpirates="http://filderpiraten.de/">
-        <parlament name="Gemeinderat" seats="27" ris="https://www.geocms.com/ris-leinfelden-echterdingen/">
-          <mandat type="pirat">Claudia Moosmann</mandat>
-          <story>In Leinfelden-Echterdingen sind Kandidaten der Piratenpartei als „Filderpiraten e.V.“ organisiert und mit der Liste „Freunde der Filderpiraten e.V.“ angetreten, die 2,2% der Stimmen erhielt.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Frickenhausen" gs="08116020">
-        <parlament name="Gemeinderat" seats="20" ris="http://frickenhausen.kdrs.de/,Lde/start/gemeinde/Gemeinderat.html">
-          <mandat type="pirat">Jochen Jansen</mandat>
+    <gebiet type="Stadtkreis" name="Ulm" gs="08421000" localpirates="https://www.piraten-ulm.de/">
+      <parlament name="Gemeinderat" seats="40" ris="https://buergerinfo.ulm.de/kp0040.php?__kgrnr=1">
+        <mandat type="pirat">Anja Hirschel</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 2,3% der Stimmen erreicht.</story>
+      </parlament>
+    </gebiet>
+    <gebiet type="Landkreis" name="Rems-Murr-Kreis" gs="08119000">
+     <parlament name="Kreistag" seats="91" ris="https://service.rems-murr-kreis.de/bi/info.php">
+       <mandat type="fremdliste" from="LINKE">Philip Köngeter</mandat>
+        <fraktion type="none" />
+     </parlament>
+      <gebiet type="Stadt" name="Backnang" gs="08119008">
+        <parlament name="Gemeinderat" seats="26" ris="https://www.backnang.de/start/Stadt+Backnang/Gemeinderat">
+          <mandat type="fremdliste" name="Backnanger Demokraten" from="FW/UWG/etc.">Volker Dyken</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 6,5% der Stimmen erreicht.</story>
+          <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 3,4% der Stimmen erreicht.</story>
+        </parlament>
+      </gebiet>
+      <gebiet type="Stadt" name="Welzheim" gs="08119084">
+        <parlament name="Gemeinderat" seats="22" ris="https://www.welzheim.de/Gemeinderat.aspx?H=%27288%27">
+          <mandat type="pirat">Philip Köngeter</mandat>
+          <mandat type="pirat">Kai Dorra</mandat>
+          <fraktion type="PIRATEN" />
+          <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 8,1% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Göppingen" gs="08117000" localpirates="http://goeppinger-piraten.de/">
+    <gebiet type="Landkreis" name="Landkreis Göppingen" gs="08117000" localpirates="https://piratenpartei-gp.de/">
       <gebiet type="Stadt" name="Göppingen" gs="08117026">
         <parlament name="Gemeinderat" seats="41" ris="https://goeppingen.more-rubin1.de/index.php">
-          <oa url="http://openantrag.de/goeppingen" />
           <mandat type="pirat" email="Michael.Freche@goeppingen.de">Michael Freche</mandat>
-          <fraktion type="gemeinsam" name="Linke und Piraten" url="http://linke-piraten-gp.de/" email="kontakt@linke-piraten-gp.de">
-            <partner partei="LINKE" num="2" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 1,3% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Ostalbkreis" gs="08136000">
-      <gebiet type="Gemeinde" name="Frickenhausen" gs="08136070">
+      <gebiet type="Gemeinde" name="Täferrot" gs="08136070">
         <parlament name="Gemeinderat" seats="8" ris="http://www.taeferrot.de/rathaus-und-buergerservice/kommunalpolitik/mitglieder-des-gemeinderats">
-          <mandat type="fremdliste" name="Unabhängige Liste 2014" from="FW/UWG/etc.">Manuel Feuersänger</mandat>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Karlsruhe" gs="08215000" localpirates="http://www.piraten-karlsruhe.de/blog/">
-      <gebiet type="Stadt" name="Bruchsal" gs="08215009">
-        <parlament name="Gemeinderat" seats="35" ris="http://www.bruchsal.de/servlet/PB/menu/1339199_l1/index.html">
-          <mandat type="fremdliste" name="Grüne/Neue Köpfe" from="GRÜNE">Hartmut Schönherr</mandat>
-          <fraktion type="fremd" name="Die Grünen/Neue Köpfe" />
-          <story>Bei der Kommunalwahl 2009 wurde Hartmut Schönherr für die Wählervereinigung „Neue Köpfe“ über die Liste „Grüne/Neue Köpfe“ in den Gemeinderat der Stadt Bruchsal gewählt. Noch im selben Jahr trat er der Piratenpartei bei, blieb aber in der Fraktion „Die Grünen/Neue Köpfe“. 2014 wurde er auf der gleichen Liste wiedergewählt und übt sein Mandat seitdem aus wie zuvor.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Konstanz" gs="08335000" localpirates="http://piraten-konstanz.de/">
-      <gebiet type="Stadt" name="Konstanz" gs="08335043">
-        <parlament name="Gemeinderat" seats="40" ris="http://www.konstanz.sitzung-online.de/bi/allris.net.asp">
-          <mandat type="fremdliste" name="Junges Forum Konstanz" from="Offene/Bunte/Lokal">Thomas Buck</mandat>
-          <fraktion type="fremd" name="Junges Forum Konstanz" />
+          <mandat type="fremdliste" name="Unabhängige Liste 2019" from="FW/UWG/etc.">Manuel Feuersänger</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Lörrach" gs="08336000" localpirates="http://piratenpartei-loerrach.de/">
+      <parlament name="Kreistag" seats="60" ris="https://session.loerrach-landkreis.de/data/buergerinfo/infobi.asp">
+        <mandat type="fremdliste" from="LINKE">Sabine Schumacher</mandat>
+        <fraktion type="none" />
+      </parlament>
       <gebiet type="Stadt" name="Lörrach" gs="08336050">
         <parlament name="Gemeinderat" seats="32" ris="https://www.loerrach.de/de/Rathaus-/-B%C3%BCrgerservice/Kommunalpolitik/Mitglieder-des-Gemeinderats">
           <mandat type="fremdliste" from="LINKE">Sabine Schumacher</mandat>
           <fraktion type="none" />
-		  <story source="http://www.badische-zeitung.de/loerrach/schumacher-rueckt-fuer-di-prima-nach--139828481.html">Sabine Schumacher kandidierte 2014 als Mitglied der Piratenpartei auf der Liste der LINKEN. Mitte 2017 rückte sie über diese Liste in den Gemeinderat nach.</story>
         </parlament>
       </gebiet>
     </gebiet>
-    <gebiet type="Landkreis" name="Main-Tauber-Kreis" gs="08128000" localpirates="http://main-tauber.piraten-bw.de/">
-      <gebiet type="Stadt" name="Weikersheim" gs="08128126">
-        <parlament name="Gemeinderat" seats="21" ris="http://www.weikersheim.de/stadt/gemeinderaete.html">
-          <mandat type="pirat">Rainer Nase</mandat>
+    <gebiet type="Landkreis" name="Emmendingen" gs="08316000" localpirates="https://elzpiraten.de/">
+      <gebiet type="Stadt" name="Gutach im Breisgau" gs="08316014">
+        <parlament name="Gemeinderat" seats="14" ris="https://www.gutach.de/startseite/buergerservice/gemeinderat.html">
+          <mandat type="fremdliste" name="Ökologische Liste" from="FW/UWG/etc.">Annette Linder</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl 2009 wurde Rainer Nase auf der SPD-Liste als Nachrücker für den Gemeinderat der Stadt Weikersheim gewählt. 2011 trat er aus der SPD aus und in die Piratenpartei ein. Durch den Wegzug einer Mandatsträgerin 2012 rückte er als Pirat in den Gemeinderat nach. 2014 konnte er auf der PIRATEN-Liste sein Mandat verteidigen.</story>
         </parlament>
       </gebiet>
     </gebiet>
