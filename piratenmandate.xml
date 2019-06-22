@@ -26,7 +26,7 @@
     </gebiet>
   </bundesland>
 
-<!--   <bundesland name="Hamburg" gs="02000000" localpirates="http://mitte.piraten-hh.de/"> -->
+<!--   <bundesland name="Hamburg" gs="02000000" localpirates="http://piraten-hh.de/"> -->
 <!--   </bundesland> -->
 
   <bundesland name="Niedersachsen" gs="03000000" localpirates="http://piratenpartei-niedersachsen.de/">
@@ -367,7 +367,7 @@
 <!--   <bundesland name="Bremen" gs="04000000" localpirates="http://www.piratenpartei-bremen.de/"> -->
 <!--   </bundesland> -->
 
-  <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/"> <!-- Danke @piratenproll für die Daten -->
+  <bundesland name="Nordrhein-Westfalen" gs="05000000" localpirates="http://www.piratenpartei-nrw.de/">
     <gebiet type="Landschaftsverband" name="Landschaftsverband Rheinland" arbkey="1">
       <parlament name="Landschaftsversammlung" seats="116" ris="https://dom.lvr.de/lvis/lvr_publik.nsf/WEB1LVers?ReadForm&amp;wp=13">
         <mandat type="pirat" multi="2">Rudi Ernst Lennartz</mandat>
@@ -1366,14 +1366,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/"> <!-- Danke @piratenproll für die Daten -->
-<!--  parteilos  <gebiet type="Kreisfreie Stadt" name="Landau in der Pfalz" gs="07313000" localpirates="https://wiki.piratenpartei.de/RP:Kreisverband_S%C3%BCdpfalz">
-      <parlament name="Stadtrat" seats="45">
-        <mandat type="pirat">Jakob Wagner</mandat>
-        <fraktion type="gemeinsam" url="http://pfefferundsalz.jetzt/" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>-->
+  <bundesland name="Rheinland-Pfalz" gs="07000000" localpirates="http://www.piraten-rlp.de/">
     <gebiet type="Kreisfreie Stadt" name="Ludwigshafen am Rhein" gs="07314000" localpirates="http://www.piraten-rp.de/">
       <parlament name="Stadtrat" seats="60" ris="https://www.ludwigshafen.de/ratsinformationssystem/bi/infobi.php">
         <oa url="http://openantrag.de/ludwigshafen" />
@@ -1657,7 +1650,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/"> <!-- Danke @piratenproll für die Daten -->
+  <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
     <gebiet type="Landkreis" name="Landkreis Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
       <gebiet type="Stadt" name="Merzig" gs="10042113">
         <parlament name="Stadtrat" seats="39" ris="http://merzig.de/rathaus/stadtpolitik">
@@ -1909,7 +1902,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/"> <!-- Danke @piratenproll für die Daten -->
+  <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/">
     <gebiet type="Kreisfreie Stadt" name="Schwerin" gs="13004000" localpirates="http://www.piraten-westmecklenburg.de/regionen/schwerin/">
       <parlament name="Stadtvertretung" seats="45" ris="https://bis.schwerin.de/kp0041.asp">
         <mandat type="fremdliste" name="Aktion Stadt und Kulturschutz" from="Offene/Bunte/Lokal" email="KJagau@schwerin.de">Karsten Jagau</mandat>
@@ -1975,7 +1968,7 @@
     </gebiet>
   </bundesland>
 
-  <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/"> <!-- Danke @piratenproll für die Daten -->
+  <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/">
     <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
       <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
         <oa url="http://openantrag.de/chemnitz" />
@@ -2062,7 +2055,7 @@
 <!--   <bundesland name="Sachsen-Anhalt" gs="15000000" localpirates="http://www.piraten-lsa.de/"> -->
 <!--   </bundesland> -->
 
-  <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/"> <!-- Danke @piratenproll für die Daten -->
+  <bundesland name="Thüringen" gs="16000000" localpirates="http://www.piraten-thueringen.de/">
     <gebiet type="Kreisfreie Stadt" name="Eisenach" gs="16056000" localpirates="http://wartburgpiraten.de/">
       <parlament name="Stadtrat" seats="37" ris="http://ratsinfo.eisenach.de/sessionnet/bi/infobi.php">
         <oa url="http://openantrag.de/eisenach" />
