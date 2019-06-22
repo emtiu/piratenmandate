@@ -1794,83 +1794,30 @@
   <bundesland name="Sachsen" gs="14000000" localpirates="http://piraten-sachsen.de/">
     <gebiet type="Kreisfreie Stadt" name="Chemnitz" gs="14511000" localpirates="http://www.piraten-chemnitz.de/">
       <parlament name="Stadtrat" seats="60" ris="http://session-bi.stadt-chemnitz.de/infobi.php">
-        <oa url="http://openantrag.de/chemnitz" />
         <mandat type="pirat" email="toni.rotter@piraten-sachsen.de">Toni Rotter</mandat>
-        <fraktion type="gemeinsam" name="VOSI / PIRATEN">
-          <partner name="Volkssolidarität (Vosi)" partei="Offene/Bunte/Lokal" num="2" />
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 26. Mai 2019 trat die Piratenpartei als Liste „Chemitz für Alle“ an. Es wurden 2,0% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000" localpirates="http://www.piraten-dresden.de/">
       <parlament name="Stadtrat" seats="71" ris="http://ratsinfo.dresden.de/infobi.php">
-        <oa url="http://openantrag.de/dresden" />
         <mandat type="pirat" email="martin.schulte-wissermann@piraten-dresden.de">Dr. Martin Schulte-Wissermann</mandat>
-        <mandat type="pirat" email="norbert.engemaier@piraten-dresden.de">Norbert Engemaier</mandat>
         <fraktion type="fremd" name="Die LINKE" />
-        <story source="http://www.dnn-online.de/web/dnn/specials/stadtrat2014/detail/-/specific/Linke-Mehrheit-im-Dresdner-Stadtrat-bahnt-sich-an-Gruene-SPD-und-Linke-wollen-Politikwechsel-2296462">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,3% der Stimmen erreicht. Die PIRATEN verhelfen mit ihren 2 Sitzen Rot-Rot-Grün zur Mehrheit.</story>
+        <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 2,4% der Stimmen erreicht.</story>
       </parlament>
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Altstadt" arbkey="1">
-        <parlament name="Ortsbeirat" seats="17">
-          <mandat type="pirat" email="florian.vogelmaier@piraten-dresden.de">Florian Andreas Vogelmaier</mandat>
-          <story>Die Ortsbeiräte werden vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
+      <gebiet type="Stadtbezirk" name="Neustadt" arbkey="2" localpirates="http://www.neustadtpiraten.de/">
+        <parlament name="Stadtbezirksbeirat" seats="19">
+          <mandat type="pirat">Jan Kossick</mandat>
+          <fraktion type="none" />
+          <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 4,6% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Neustadt" arbkey="2" localpirates="http://www.neustadtpiraten.de/">
-        <parlament name="Ortsbeirat" seats="15">
-          <mandat type="pirat" email="marcel.ritschel@piraten-dresden.de">Marcel Ritschel</mandat>
-           <story>Die Ortsbeiräte werden vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
-        </parlament>
-      </gebiet> 
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Pieschen" arbkey="3" localpirates="http://www.pieschenpiraten.de/">
-        <parlament name="Ortsbeirat" seats="15">
-          <mandat type="pirat" email="annica.peter@piraten-dresden.de">Annica Peter</mandat>
-           <story>Die Ortsbeiräte werden vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
-        </parlament>
-      </gebiet> 
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Blasewitz" arbkey="4">
-        <parlament name="Ortsbeirat" seats="21">
-          <mandat type="pirat" email="vanya.wagner@piraten-dresden.de">Vanya Wagner</mandat>
-           <story>Die Ortsbeiräte werden vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
-        </parlament>
-      </gebiet> 
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Plauen" arbkey="5">
-        <parlament name="Ortsbeirat" seats="17">
-          <mandat type="pirat" email="frank.schirlitz@piraten-dresden.de">Frank Schirlitz</mandat>
-           <story>Die Ortsbeiräte werden vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
-        </parlament>
-      </gebiet> 
-      <gebiet type="Ortsteil" name="Ortsamtsbereich Cotta" arbkey="6">
-        <parlament name="Ortsbeirat" seats="19">
-          <mandat type="pirat" email="florian-andre.unterburger@piraten-dresden.de">Florian-André Unterburger</mandat>
-           <story>Die Ortsbeiräte werden vom Stadtrat gewählt. Den PIRATEN steht 1 Sitz zu.</story>
-        </parlament>
-      </gebiet> 
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Leipzig" gs="14713000" localpirates="http://www.piraten-leipzig.de/">
       <parlament name="Stadtrat" seats="70" ris="http://notes.leipzig.de/eris/eris.nsf">
-        <mandat type="pirat" email="ue.gabelmann@piraten-leipzig.de">Ute Elisabeth Gabelmann</mandat>
-        <fraktion type="fremd" name="SPD" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Görlitz" gs="14626000" localpirates="http://piraten-goerlitz.de/">
-      <gebiet type="Stadt" name="Görlitz" gs="14626110">
-        <parlament name="Stadtrat" seats="38" ris="https://sitzungsdienst.kin-sachsen.de/goerlitz/index.php">
-          <mandat type="pirat">Cindy Rosenthal</mandat>
-          <fraktion type="none" />
-          <story source="http://www.sz-online.de/nachrichten/wechsel-bei-den-piraten-3544430.html">Bei der Kommunalwahl am 25. Mai 2014 wurden 3,0% der Stimmen erreicht. Im November 2016 rückte Cindy Rosenthal wegen des Wegzugs von Carolin Mahn-Gauseweg nach.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Meißen" gs="14627000" localpirates="http://piraten-meissen.de/">
-      <parlament name="Kreistag" seats="86">
-        <mandat type="pirat" email="soeren.skalicks@piraten-meissen.de">Sören Skalicks</mandat>
-        <fraktion type="gemeinsam" name="SPD/Grüne/PIRATEN">
-          <partner partei="SPD" num="8" />
-          <partner partei="GRÜNE" num="4" />
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,5% der Stimmen erreicht.</story>
+        <mandat type="pirat">Isabel Scholz</mandat>
+        <fraktion type="none" />
+        <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 1,4% der Stimmen erreicht.</story>
       </parlament>
     </gebiet>
   </bundesland>
