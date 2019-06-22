@@ -1775,66 +1775,17 @@
   </bundesland>
 
   <bundesland name="Mecklenburg-Vorpommern" gs="13000000" localpirates="http://piratenpartei-mv.de/">
-    <gebiet type="Kreisfreie Stadt" name="Schwerin" gs="13004000" localpirates="http://www.piraten-westmecklenburg.de/regionen/schwerin/">
-      <parlament name="Stadtvertretung" seats="45" ris="https://bis.schwerin.de/kp0041.asp">
-        <mandat type="fremdliste" name="Aktion Stadt und Kulturschutz" from="Offene/Bunte/Lokal" email="KJagau@schwerin.de">Karsten Jagau</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 errang die Wählervereinigung „Aktion Stadt und Kulturschutz“ einen Sitz. Im Mai 2017 rückte Karsten Jagau als Mitglied der Piratenpartei nach.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Ludwigslust-Parchim" gs="13076000" localpirates="http://www.piraten-westmecklenburg.de/">
-      <parlament name="Kreistag" seats="77" ris="http://www.kreis-swm.de/allris/pa021.asp?PALFDNR=2">
-        <mandat type="pirat">Matthias Reimann</mandat>
-        <fraktion type="gemeinsam" name="BÜNDNIS 90/Die GRÜNEN / Piraten">
-          <partner partei="GRÜNE" num="3" />
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Mecklenburgische Seenplatte" gs="13071000">
-      <parlament name="Kreistag" seats="77" ris="http://web.lk-seenplatte.de/ratsinfo/seenplatte">
-        <mandat type="pirat" email="theodor.luttmer@piraten-mv.de">Theodor Luttmer</mandat>
-        <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,1% der Stimmen erreicht.</story>
-      </parlament>
-      <gebiet type="Stadt" name="Neubrandenburg" gs="13071107" localpirates="http://piratenpartei-mv.de/partei/stammtische/neubrandenburg/">
-        <parlament name="Stadtvertretung" seats="42" ris="http://62.159.150.6:8080/ratsinfo/neubrandenburg">
-          <mandat type="pirat" email="robert.schuldt@piraten-mv.de">Robert Schuldt</mandat>
-           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Nordwestmecklenburg" gs="13074000" localpirates="http://www.piraten-westmecklenburg.de//">
       <parlament name="Kreistag" seats="61" ris="http://ris.nordwestmecklenburg.de/sessionnet/buergerinfo/infobi.php">
-        <oa url="http://openantrag.de/nordwestmecklenburg" />
-        <mandat type="pirat">Dennis Klüver</mandat>
+        <mandat type="pirat">Dr. Bernhard Schubach</mandat>
         <fraktion type="none" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,4% der Stimmen erreicht.</story>
+        <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 1,4% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Stadt" name="Wismar" gs="13074087">
-        <parlament name="Bürgerschaft" seats="37" ris="http://www.wismar.sitzung-online.de/bi/allris.net.asp">
-          <oa url="http://openantrag.de/wismar" />
-          <mandat type="pirat">Dr. Bernhard Schubach</mandat>
+        <parlament name="Bürgerschaft" seats="37" ris="https://www.wismar.de/buergerinformationssystem/pa021.asp">
+          <mandat type="pirat" multi="2">Dr. Bernhard Schubach</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Greifswald" gs="13075000" localpirates="http://piraten-hgw.de/">
-      <parlament name="Kreistag" seats="69" ris="https://kreis-vg.ratsinfomanagement.net/">
-        <oa url="http://openantrag.de/vorpommern-greifswald" />
-        <mandat type="pirat">Mathias Archut</mandat>
-        <fraktion type="fremd" name="Fraktion Bündnis 90/Die Grünen – forum siebzehnvier" />
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht. Für den urspünglich gewählten Martin Banduch ist im Januar 2017 Mathias Archut nachgerückt.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Vorpommern-Rügen" gs="13073000" localpirates="http://www.piratenpartei-vr.de/">
-      <gebiet type="Stadt" name="Stralsund" gs="13073088">
-        <parlament name="Bürgerschaft" seats="43" ris="http://www2.stralsund.de/sitzung/sm_sourc.nsf">
-          <mandat type="pirat" email="friedrich.smyra@piraten-MV.de">Friedrich Smyra</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,3% der Stimmen erreicht.</story>
+          <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 2,4% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
