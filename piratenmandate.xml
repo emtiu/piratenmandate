@@ -1559,168 +1559,76 @@
   </bundesland>
 
   <bundesland name="Brandenburg" gs="12000000" localpirates="http://www.piratenbrandenburg.de/">
-    <gebiet type="Kreisfreie Stadt" name="Frankfurt (Oder)" gs="12053000" localpirates="http://dos.piratenbrandenburg.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="47" ris="https://www.sitzungsdienst-frankfurt-oder.de/tbi/pa021.asp">
-        <oa url="http://openantrag.de/frankfurt-oder" />
-        <mandat type="pirat">Steffen Kern</mandat>
-        <fraktion type="gemeinsam" name="Grüne/B90 &amp; BI Stadtentwicklung/PIRAT">
-          <partner partei="GRÜNE" num="2" />
-          <partner name="Bürgerinitiative Stadtentwicklung" partei="FW/UWG/etc." num="1" />
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,7% der Stimmen erreicht.</story>
-      </parlament>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Barnim" gs="12060000" localpirates="http://piraten-nbb.de/">
-      <gebiet type="Stadt" name="Bernau bei Berlin" gs="12060020">
-        <parlament name="Stadtverordnetenversammlung" seats="37" ris="http://www.bernau-bei-berlin.de/de/buergerportal/rathaus/politische-gremien/stadtverordnetenversammlung.html">
-          <mandat type="pirat" email="k.stattaus@piratenbrandenburg.de">Kim Stattaus</mandat>
-          <fraktion type="gemeinsam" name="Bündnis90-Grüne/Piraten">
-            <partner partei="GRÜNE" num="2" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Dahme-Spreewald" gs="12061000" localpirates="http://dos.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Königs Wusterhausen" gs="12061260">
-        <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.koenigs-wusterhausen.de/534163/svv">
-          <mandat type="pirat" email="Ronnyf@piraten-dos.de">Ronny Friedrich</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,8% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadt" name="Lieberose" gs="12061308">
-        <gebiet type="Ortsteil" name="Doberburg" arbkey="1">
-          <parlament name="Ortsbeirat" seats="3">
-            <mandat type="pirat">Jürgen Willenberg</mandat>
-            <story source="http://www.amt-lieberose-oberspreewald.de/download/amt/Wahlen2014/Lieberose2.pdf">Für die 3 Sitze im Ortsbeirat Doberburg gab es 4 Bewerber, darunter Jürgen Willenberg für die PIRATEN. Er erhielt 76 von 194 Stimmen, was einem Wahlergebnis von 39,2% entspricht.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Elbe-Elster" gs="12062000" localpirates="http://sued.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Elsterwerda" gs="12062124">
-        <parlament name="Stadtverordnetenversammlung" seats="19" ris="http://www.elsterwerda.de/svv/">
-          <oa url="http://openantrag.de/elsterwerda" />
-          <mandat type="pirat">Kerstin Schenkel</mandat>
-          <fraktion type="gemeinsam" name="G.E.L.P">
-            <partner name="LUN – Landwirtschaft/Umwelt/Natur" partei="FW/UWG/etc." num="1"/>
-            <partner partei="Einzelbewerber" num="2"/>
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,4% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
     <gebiet type="Landkreis" name="Landkreis Havelland" gs="12063000" localpirates="http://hvl.piratenbrandenburg.de/">
+      <parlament name="Kreistag" seats="56" ris="https://ratsinfo.havelland.de/bi/si010_e.asp">
+        <mandat type="pirat">n. n.</mandat>
+        <mandat type="pirat">n. n.</mandat>
+        <fraktion type="none" />
+      </parlament>
       <gebiet type="Stadt" name="Ketzin/Havel" gs="12063148">
+        <parlament name="Stadtverordnetenversammlung" seats="29" ris="https://www.ketzin.de/ratsinfo/index.php">
+          <mandat type="pirat">Nicole Niemoth</mandat>
+          <fraktion type="none" />
+        </parlament>
         <gebiet type="Ortsteil" name="Etzin" arbkey="1">
           <parlament name="Ortsbeirat" seats="3" ris="https://www.ketzin.de/ratsinfo/gremium/5360/ortsbeirat_etzin.html">
-            <mandat type="pirat">Nicole Niemoth</mandat>
-            <story source="http://www.kita-ketzin.de/Wahlen/ob-et/index.html">Zu den 3 Sitzen im Ortsbeirat Etzin sind 3 Listen angetreten (CDU, PIRATEN, FREIE WÄHLER Etzin). Nicole Niemoth erhielt für die PIRATEN 69 von 437 Stimmen, was einem Wahlergebnis von 15,8% entspricht. Die anderen beiden Sitze gingen an die FREIE WÄHLER.</story>
+            <mandat type="pirat" multi="2">Nicole Niemoth</mandat>
           </parlament>
         </gebiet>
       </gebiet>
       <gebiet type="Stadt" name="Nauen" gs="12063208">
         <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://ris.nauen.de/instanz_1/index.htm">
           <mandat type="pirat" email="r.heydt@piratenbrandenburg.de">Raimond Heydt</mandat>
-          <fraktion type="gemeinsam" name="Frischer Wind/Piraten">
-            <partner name="Frischer Wind" partei="FW/UWG/etc." num="1" />
-          </fraktion>
-          <story>Die gemeinsame Liste „Frischer Wind/Piraten“ errang 2014 zwei Mandate, die von Mitgliedern von „Frischer Wind“ ausgeübt wurden. Im Juni 2018 rückte Raimond Heydt als Mitglied der Piratenpartei auf einen dieser Sitze nach.</story>
+          <fraktion type="none" />
         </parlament>
       </gebiet> 
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://piraten-nbb.de/">
       <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
-        <mandat type="pirat" email="a.heidkamp@piraten-nbb.de">Axel Heidkamp</mandat>
-        <fraktion type="gemeinsam" name="Grüne/PIRATEN">
-          <partner partei="GRÜNE" num="4" />
-        </fraktion>
-        <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,9% der Stimmen erreicht.</story>
+        <mandat type="pirat">Thomas Bennühr</mandat>
+        <fraktion type="none" />
       </parlament>
       <gebiet type="Gemeinde" name="Großwoltersdorf" gs="12065117">
         <parlament name="Gemeindevertreterversammlung" seats="10" ris="http://www.gransee.de/politik/mitglieder.php?gremium=1646">
-          <mandat type="pirat">Markus Hoffmann</mandat>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,8% der Stimmen erreicht.</story>
+          <mandat type="fremdliste" name="Frischer Wind">Markus Hoffmann</mandat>
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Glienicke/Nordbahn" gs="12065096">
         <parlament name="Gemeindevertretung" seats="22" ris="http://www.glienicke.eu/rathaus-politik/kommunalpolitik/">
-          <mandat type="pirat" multi="2">Thomas Bennühr</mandat>
-          <fraktion type="gemeinsam" name="Bündnis 90/Die Grünen / PIRATEN">
-            <partner partei="GRÜNE" num="3" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
+          <mandat type="pirat">Alexander Kunst</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Gransee" gs="12065100">
+        <parlament name="Gemeindevertretung" seats="18">
+          <mandat type="pirat">Frank Görden</mandat>
+          <fraktion type="none" />
+        </parlament>
+      </gebiet>
+      <gebiet type="Gemeinde" name="Oranienburg" gs="12065256">
+        <parlament name="Gemeindevertretung" seats="36">
+          <mandat type="pirat">Thomas Ney</mandat>
+          <fraktion type="none" />
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Oder-Spree" gs="12067000" localpirates="https://dos.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="https://web.landkreis-oder-spree.de/somacos/sessionnet/bi/infobi.php">
-        <mandat type="pirat">Frank Behr</mandat>
-        <fraktion type="gemeinsam" name="Bündnis 90/Die Grünen &amp; Piraten">
-          <partner partei="GRÜNE" num="3" />
-        </fraktion>
-        <story source="http://anjagrabs.blogspot.de/2014/06/kreistag-oder-spree-grune-koalieren-mit.html?spref=tw">Bei der Kommunalwahl am 25. Mai 2014 wurden 0,8% der Stimmen erreicht.</story>
+        <mandat type="pirat">Dr. Felix Mühlberg</mandat>
+        <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Eisenhüttenstadt" gs="12067120">
         <parlament name="Stadtverordnetenversammlung" seats="32" ris="http://www.ratsinfo-online.net/eisenhuettenstadt-bi/allris.net.asp">
-          <mandat type="pirat" multi="2" email="frank@piraten-dos.de">Frank Behr</mandat>
+          <mandat type="pirat">Frank Kage</mandat>
           <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,4% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadt" name="Fürstenwalde/Spree" gs="12067144">
-        <parlament name="Stadtverordnetenversammlung" seats="32" ris="http://binfo.fuerstenwalde-spree.de/infobi.php">
-          <mandat type="pirat" email="kaih@piraten-dos.de">Kai Hamacher</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Potsdam-Mittelmark" gs="12069000" localpirates="https://pm.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Teltow" gs="12069616">
-        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www.ratsinfo-online.de/teltow.bi/pa021.asp">
-          <mandat type="pirat">Jeannette Paech</mandat>
-          <fraktion type="gemeinsam" name="LINKE/Umweltaktive/BfB/Piraten">
-            <partner partei="LINKE" num="3" />
-            <partner name="Umweltaktive" partei="FW/UWG/etc." num="1" />
-            <partner name="Bürger für Bürger Teltow" partei="FW/UWG/etc." num="1" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Kleinmachnow" gs="12069304">
-        <parlament name="Gemeindevertretung" seats="29" ris="http://www.kleinmachnow.de/staticsite/staticsite.php?menuid=58">
-          <mandat type="pirat" email="r.schramm@piratenbrandenburg.de">Raoul Schramm</mandat>
-          <fraktion type="gemeinsam" name="DIE LINKE/Piraten">
-            <partner partei="LINKE" num="3" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 1,6% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Spree-Neiße" gs="12071000" localpirates="http://dos.piratenbrandenburg.de/">
-      <gebiet type="Stadt" name="Forst (Lausitz)" gs="12071076">
-        <parlament name="Stadtverordnetenversammlung" seats="29" ris="http://www2.forst-lausitz.de/allrisbi/pa021.asp">
-          <oa url="http://openantrag.de/forst-lausitz" />
-          <mandat type="pirat" email="th.friedrich@piratenbrandenburg.de">Thomas Friedrich</mandat>
-          <fraktion type="gemeinsam" name="Wir für Forst">
-            <partner name="WG Landwirtschaft und Umwelt" partei="FW/UWG/etc." num="1"/>
-            <partner name="Klinger Runde" partei="FW/UWG/etc." num="1"/>
-            <partner partei="Einzelbewerber" num="1"/>
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,5% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Uckermark" gs="12073000" localpirates="http://barum.piratenbrandenburg.de/">
-      <!-- <gebiet type="Stadt" name="Schwedt" gs="12073532">
-        <parlament name="Stadtverordnetenversammlung" seats="33" ris="http://www.schwedt.eu/sixcms/detail.php/72193">
-          <oa url="http://openantrag.de/schwedt" />
-          <mandat type="fremdliste" name="Bunte Liste" from="Offene/Bunte/Lokal">Nadine Heckendorn</mandat>
-          <fraktion type="none" />
-        </parlament>
-      </gebiet> -->
+      <parlament name="Kreistag" seats="56" ris="https://pm-belzig.more-rubin1.de/mandate.php">
+        <mandat type="pirat">Jeannette Paech</mandat>
+        <fraktion type="none" />
+      </parlament>
     </gebiet>
   </bundesland>
 
