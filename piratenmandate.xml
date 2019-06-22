@@ -1525,74 +1525,24 @@
   <bundesland name="Saarland" gs="10000000" localpirates="http://piratenpartei-saarland.de/">
     <gebiet type="Landkreis" name="Landkreis Merzig-Wadern" gs="10042000" localpirates="https://kvmw.piratenpartei-saarland.de/">
       <gebiet type="Stadt" name="Merzig" gs="10042113">
-        <parlament name="Stadtrat" seats="39" ris="http://merzig.de/rathaus/stadtpolitik">
-          <mandat type="pirat">Michael Grauer</mandat>
-          <fraktion type="gemeinsam" name="Bündnis für mehr Miteinander in Merzig">
-            <partner partei="GRÜNE" num="1" />
-            <partner name="Freie Wähler" partei="FW/UWG/etc." num="1" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,7% der Stimmen erreicht.</story>
-        </parlament>
         <gebiet type="Ortsteil" name="Merchingen" arbkey="1">
-          <parlament name="Ortsrat" seats="9" ris="http://merzig.de/rathaus/stadtpolitik">
-            <mandat type="pirat" multi="2">Michael Grauer</mandat>
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 19,5% der Stimmen erreicht.</story>
+          <parlament name="Ortsrat" seats="9" ris="https://www.merzig.de/ortsraete/ortsrat-merchingen/">
+            <mandat type="pirat">Michael Grauer</mandat>
+            <mandat type="pirat">Dirk Huffer</mandat>
+            <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 38,6% der Stimmen erreicht. Von den gewonnenen 3 Sitzen konnten mangels aufgestellter Kandidaten nur 2 besetzt werden.</story>
           </parlament>
         </gebiet>
       </gebiet>
       <gebiet type="Gemeinde" name="Weiskirchen" gs="10042117">
-        <parlament name="Gemeinderat" seats="27" ris="http://www.weiskirchen.de/politik.html">
-          <oa url="http://openantrag.de/weiskirchen" />
-          <mandat type="pirat" email="wolfgang.barth@piratenpartei-saarland.de">Wolfgang Barth</mandat>
-          <fraktion type="gemeinsam" name="Bunte Fraktion" url="https://kvmw.piratenpartei-saarland.de/mandate/gemeinderat-weiskirchen/">
-            <partner partei="LINKE" num="1" />
-            <partner name="Grün-Alternative Liste Weiskirchen" partei="Offene/Bunte/Lokal" num="1" />
-          </fraktion>
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,0% der Stimmen erreicht.</story>
+        <parlament name="Gemeinderat" seats="27" ris="https://www.weiskirchen.de/rathaus-service/politik/gemeinderat/">
+          <mandat type="fremdliste" name="Grün-Alternative Liste" from="GRÜNE">Wolfgang Barth</mandat>
+          <fraktion type="none" />
         </parlament>
         <gebiet type="Ortsteil" name="Rappweiler-Zwalbach" arbkey="1">
           <parlament name="Ortsrat" seats="9" ris="http://www.weiskirchen.de/politik.html">
-            <mandat type="pirat">Hans Hirtz</mandat>
-            <mandat type="pirat">Roman Thielen</mandat>
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 17,9% der Stimmen erreicht.</story>
+            <mandat type="fremdliste" name="Grün-Alternative Liste" from="GRÜNE">Hans Hirtz</mandat>
           </parlament>
         </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Neunkirchen" gs="10043000" localpirates="https://kvspk.piratenpartei-saarland.de/">
-      <gebiet type="Gemeinde" name="Eppelborn" gs="10043111">
-        <parlament name="Gemeinderat" seats="33">
-          <mandat type="pirat">Dieter Schmidt</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,3% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Stadt" name="Neunkirchen" gs="10043114">
-        <parlament name="Stadtrat" seats="51" ris="http://buergerinfo.neunkirchen.de/infobi.php">
-          <oa url="http://openantrag.de/neunkirchen-saar" />
-          <mandat type="pirat">Rudi Berhard</mandat>
-          <mandat type="pirat" email="steven.latterner@piratenpartei-saarland.de">Steven Latterner</mandat>
-          <fraktion type="piraten" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 3,7% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-      <gebiet type="Gemeinde" name="Schiffweiler" gs="10043116">
-        <parlament name="Gemeinderat" seats="33">
-          <oa url="http://openantrag.de/schiffweiler" />
-          <mandat type="pirat" email="ralf.petermann@piratenpartei-saarland.de">Ralf Petermann</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 4,2% der Stimmen erreicht.</story>
-        </parlament>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Landkreis" name="Landkreis Saarlouis" gs="10044000" localpirates="http://piratenpartei-kvsaarlouis.de/">
-      <gebiet type="Stadt" name="Saarlouis" gs="10044115">
-        <parlament name="Stadtrat" seats="45">
-          <oa url="http://openantrag.de/saarlouis-stadt" />
-          <mandat type="pirat" email="holger.gier@piratenpartei-saarland.de">Holger Gier</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,1% der Stimmen erreicht.</story>
-        </parlament>
       </gebiet>
     </gebiet>
   </bundesland>
