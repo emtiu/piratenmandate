@@ -1131,18 +1131,6 @@
         </gebiet>
       </gebiet>
       <gebiet type="Landkreis" name="Hochsauerlandkreis" gs="05958000" localpirates="https://piratenpartei-hsk.de/">
-        <parlament name="Kreistag" seats="54" ris="https://sdoffice.hochsauerlandkreis.de/">
-          <mandat type="pirat" email="daniel.wagner@piratenpartei-arnsberg.de">Daniel Wagner</mandat>
-          <fraktion type="none" />
-          <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,2% der Stimmen erreicht.</story>
-        </parlament>
-        <gebiet type="Stadt" name="Arnsberg" gs="05958004">
-          <parlament name="Stadtrat" seats="48" ris="https://ratsinfo.arnsberg.de/news">
-            <mandat type="pirat" multi="2">Daniel Wagner</mandat>
-            <fraktion type="none" />
-            <story>Bei der Kommunalwahl am 25. Mai 2014 wurden 2,0% der Stimmen erreicht.</story>
-          </parlament>
-        </gebiet>
         <gebiet type="Gemeinde" name="Bestwig" gs="05958008">
           <parlament name="Gemeinderat" seats="28" ris="http://www.bestwig.de/verwaltung-politik/rat-politik.html">
             <mandat type="pirat">Julius Hahn</mandat>
