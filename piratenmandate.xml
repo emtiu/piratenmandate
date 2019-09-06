@@ -1236,7 +1236,7 @@
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Gießen" gs="06531000" localpirates="http://www.piraten-giessen.de/">
       <parlament name="Kreistag" seats="81" ris="http://politik.lkgi.de/bi/kp0040.asp?__kgrnr=1&amp;__cgrname=Kreistag">
-        <mandat type="pirat">Björn Fleischer-Smajek</mandat>
+        <mandat type="pirat">Thomas Jochimsthal</mandat>
         <fraktion type="none" />
       </parlament>
       <gebiet type="Stadt" name="Gießen" gs="06531005">
@@ -1375,10 +1375,6 @@
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Lörrach" gs="08336000" localpirates="http://piratenpartei-loerrach.de/">
-      <parlament name="Kreistag" seats="60" ris="https://session.loerrach-landkreis.de/data/buergerinfo/infobi.asp">
-        <mandat type="fremdliste" from="LINKE">Sabine Schumacher</mandat>
-        <fraktion type="none" />
-      </parlament>
       <gebiet type="Stadt" name="Lörrach" gs="08336050">
         <parlament name="Gemeinderat" seats="32" ris="https://www.loerrach.de/de/Rathaus-/-B%C3%BCrgerservice/Kommunalpolitik/Mitglieder-des-Gemeinderats">
           <mandat type="fremdliste" from="LINKE">Sabine Schumacher</mandat>
@@ -1398,12 +1394,6 @@
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
     <gebiet type="Bezirk" name="Oberbayern" gs="09100000" localpirates="http://piraten-oberbayern.de/">
-      <parlament name="Bezirkstag" seats="67" ris="https://sessionnet.edv-obb.de/bi/kp0040.asp?__kgrnr=1">
-        <oa url="http://openantrag.de/oberbayern" />
-        <mandat type="pirat" email="martina.wenta@traunpiraten.de">Martina Wenta</mandat>
-        <fraktion type="none" />
-        <story source="http://de.wikipedia.org/wiki/Bezirkstag_%28Bayern%29">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen.</story>
-      </parlament>
       <gebiet type="Landkreis" name="Landkreis Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
         <gebiet type="Stadt" name="Erding" gs="09177117">
           <parlament name="Stadtrat" seats="41" ris="http://www.erding.de/cms/politik/stadtrat.html">
@@ -1423,21 +1413,6 @@
             <story source="http://starnberg.ppby.de/gemeinderat-aktuell-einzelkaempfer-im-vierebuendnis/">Ausschussgemeinschaft mit ÖDP, UBG und Einzelbewerber</story>
           </parlament>
         </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Bezirk" name="Mittelfranken" gs="09500000" localpirates="http://piraten-mfr.de/">
-      <parlament name="Bezirkstag" seats="30" ris="http://www.bezirk-mittelfranken.de/index.php?id=53">
-        <oa url="http://openantrag.de/mittelfranken" />
-        <mandat type="pirat" email="daniel.gruber@piraten-mfr.de">Daniel Gruber</mandat>
-        <fraktion type="none" />
-        <story source="http://de.wikipedia.org/wiki/Bezirkstag_%28Bayern%29">Die bayerischen Bezirkstage stehen als Kommunalparlamente auf der Ebene der Regierungsbezirke. Sind sind jedoch den kreisfreien Städten und Landkreisen in ihren Entscheiden nicht übergeordnet, sondern haben spezielle, eigene Zuständigkeiten. Diese umfassen insbesondere psychiatrische Einrichtungen, die Trägerschaft für Einrichtungen der Sozialhilfe sowie Förderschulen.</story>
-      </parlament>
-      <gebiet type="Kreisfreie Stadt" name="Nürnberg" gs="09564000" localpirates="http://piraten-nbg.de/">
-        <parlament name="Stadtrat" seats="71" ris="http://online-service2.nuernberg.de/eris09/calendar.do">
-          <mandat type="pirat" email="michael.bengl@piraten-nbg.de">Michael Bengl</mandat>
-          <fraktion type="none" />
-          <story source="http://www.die-guten.de/presse/20140429_NN.jpg">Ausschussgemeinschaft mit Freien Wählern, FDP, ÖDP und den "Guten".</story>
-        </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Bezirk" name="Unterfranken" gs="09600000" localpirates="https://www.piraten-ufr.de/">
