@@ -1497,7 +1497,7 @@
             </fraktion>
       </parlament>
       <gebiet type="Gemeinde" name="Großwoltersdorf" gs="12065117">
-        <parlament name="Gemeindevertreterversammlung" seats="10" ris="http://www.gransee.de/politik/mitglieder.php?gremium=1646">
+        <parlament name="Gemeindevertretung" seats="10" ris="http://www.gransee.de/politik/mitglieder.php?gremium=1646">
           <mandat type="fremdliste" name="Frischer Wind">Markus Hoffmann</mandat>
 		<fraktion type="none" />
         </parlament>
@@ -1510,16 +1510,16 @@
             </fraktion>
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Gransee" gs="12065100">
-        <parlament name="Gemeindevertretung" seats="18" ris="https://www.gransee.de/ratsinfo/index.php">
+      <gebiet type="Stadt" name="Gransee" gs="12065100">
+        <parlament name="Stadtverordnetenversammlung" seats="18" ris="https://www.gransee.de/ratsinfo/index.php">
           <mandat type="pirat">Frank Görden</mandat>
             <fraktion type="gemeinsam" name="Grüne/PIRATEN">
               <partner partei="Grüne" num="1" />
             </fraktion>
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Oranienburg" gs="12065256">
-        <parlament name="Gemeindevertretung" seats="36" ris="https://www.ri-or.oberhavel.de/bi/">
+      <gebiet type="Stadt" name="Oranienburg" gs="12065256">
+        <parlament name="Stadtverordnetenversammlung" seats="36" ris="https://www.ri-or.oberhavel.de/bi/">
           <mandat type="pirat">Thomas Ney</mandat>
             <fraktion type="gemeinsam" name="Freie Wähler/PIRATEN">
               <partner partei="Freie Wähler" num="3" />
