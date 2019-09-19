@@ -1510,7 +1510,7 @@
             </fraktion>
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Gransee" gs="12065100">
+      <gebiet type="Stadt" name="Gransee" gs="12065100">
         <parlament name="Stadtverordnetenversammlung" seats="18" ris="https://www.gransee.de/ratsinfo/index.php">
           <mandat type="pirat">Frank Görden</mandat>
             <fraktion type="gemeinsam" name="Grüne/PIRATEN">
@@ -1518,7 +1518,7 @@
             </fraktion>
         </parlament>
       </gebiet>
-      <gebiet type="Gemeinde" name="Oranienburg" gs="12065256">
+      <gebiet type="Stadt" name="Oranienburg" gs="12065256">
         <parlament name="Stadtverordnetenversammlung" seats="36" ris="https://www.ri-or.oberhavel.de/bi/">
           <mandat type="pirat">Thomas Ney</mandat>
             <fraktion type="gemeinsam" name="Freie Wähler/PIRATEN">
