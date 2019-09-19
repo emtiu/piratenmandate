@@ -1492,48 +1492,63 @@
     <gebiet type="Landkreis" name="Landkreis Oberhavel" gs="12065000" localpirates="http://piraten-nbb.de/">
       <parlament name="Kreistag" seats="56" ris="http://www.oberhavel.de/Politik-Verwaltung/Kreistag/Kreistagsinfosystem">
         <mandat type="pirat">Thomas Bennühr</mandat>
-        <fraktion type="none" />
+            <fraktion type="gemeinsam" name="FDP/PIRATEN">
+              <partner partei="FDP" num="3" />
+            </fraktion>
       </parlament>
       <gebiet type="Gemeinde" name="Großwoltersdorf" gs="12065117">
         <parlament name="Gemeindevertreterversammlung" seats="10" ris="http://www.gransee.de/politik/mitglieder.php?gremium=1646">
           <mandat type="fremdliste" name="Frischer Wind">Markus Hoffmann</mandat>
+		<fraktion type="none" />
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Glienicke/Nordbahn" gs="12065096">
         <parlament name="Gemeindevertretung" seats="22" ris="http://www.glienicke.eu/rathaus-politik/kommunalpolitik/">
           <mandat type="pirat">Alexander Kunst</mandat>
-          <fraktion type="none" />
+            <fraktion type="gemeinsam" name="SPD/PIRATEN">
+              <partner partei="SPD" num="5" />
+            </fraktion>
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Gransee" gs="12065100">
-        <parlament name="Gemeindevertretung" seats="18">
+        <parlament name="Gemeindevertretung" seats="18" ris="https://www.gransee.de/ratsinfo/index.php">
           <mandat type="pirat">Frank Görden</mandat>
-          <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Grüne/PIRATEN">
+              <partner partei="Grüne" num="1" />
+            </fraktion>
         </parlament>
       </gebiet>
       <gebiet type="Gemeinde" name="Oranienburg" gs="12065256">
-        <parlament name="Gemeindevertretung" seats="36">
+        <parlament name="Gemeindevertretung" seats="36" ris="https://www.ri-or.oberhavel.de/bi/">
           <mandat type="pirat">Thomas Ney</mandat>
-          <fraktion type="none" />
+            <fraktion type="gemeinsam" name="Freie Wähler/PIRATEN">
+              <partner partei="Freie Wähler" num="3" />
+            </fraktion>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Oder-Spree" gs="12067000" localpirates="https://dos.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="https://web.landkreis-oder-spree.de/somacos/sessionnet/bi/infobi.php">
         <mandat type="pirat">Dr. Felix Mühlberg</mandat>
-        <fraktion type="none" />
+            <fraktion type="gemeinsam" name="DIE LINKE/PIRATEN">
+              <partner partei="LINKE" num="9" />
+            </fraktion>
       </parlament>
       <gebiet type="Stadt" name="Eisenhüttenstadt" gs="12067120">
         <parlament name="Stadtverordnetenversammlung" seats="32" ris="http://www.ratsinfo-online.net/eisenhuettenstadt-bi/allris.net.asp">
           <mandat type="pirat">Frank Kage</mandat>
-          <fraktion type="none" />
+            <fraktion type="gemeinsam" name="BVFO/PIRATEN">
+              <partner partei="BVFO" num="4" />
+            </fraktion>
         </parlament>
       </gebiet>
     </gebiet>
     <gebiet type="Landkreis" name="Landkreis Potsdam-Mittelmark" gs="12069000" localpirates="https://pm.piratenbrandenburg.de/">
       <parlament name="Kreistag" seats="56" ris="https://pm-belzig.more-rubin1.de/mandate.php">
         <mandat type="pirat">Jeannette Paech</mandat>
-        <fraktion type="none" />
+            <fraktion type="gemeinsam" name="LINKE/PIRATEN">
+              <partner partei="LINKE" num="13" />
+            </fraktion>
       </parlament>
     </gebiet>
   </bundesland>
