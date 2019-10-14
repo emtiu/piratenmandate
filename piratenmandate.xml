@@ -228,15 +228,20 @@
     </gebiet>
     <gebiet type="Landkreis" name="Hameln-Pyrmont" gs="03252000" localpirates="https://piraten-hameln.de/">
       <gebiet type="Stadt" name="Hameln" gs="03252006">
-        <parlament type="Stadtrat" seats="42" ris="http://www.hameln.de/stadtportal/rathaus/pvrat.htm">
+        <parlament type="Stadtrat" seats="42" ris="https://www.hameln.de/de/buergerservice-verwaltung/rat-der-stadt-hameln/">
           <mandat type="pirat" email="claudia.schumann@piraten-hameln.de">Claudia Schumann</mandat>
-          <fraktion typ="none" />
+          <fraktion typ="gemeinsam" name="Frischer Wind &amp; Piraten">
+            <partner name="Frischer Wind" partei="FW/UWG/etc." num="1" />
+          </fraktion>
         </parlament>
       </gebiet>
       <gebiet type="Stadt" name="Bad Münder am Deister" gs="03252002">
-        <parlament type="Stadtrat" seats="32" ris="http://pvrat.de/ratsinfo/badmuender.html">
-          <mandat type="pirat">Nicky Reinsch</mandat>
-          <fraktion typ="none" />
+        <parlament type="Stadtrat" seats="32" ris="https://pvrat.de/ratsinfo/badmuender.html">
+          <mandat type="pirat" email="nicky.reinsch@piraten-hameln.de">Nicky Reinsch</mandat>
+          <fraktion typ="gemeinsam" name="Ratsgruppe SPD-GRÜNE-PIRATEN">
+             <partner partei="SPD" num="13" />
+             <partner partei="GRÜNE" num="3" />
+          </fraktion>
         </parlament>
       </gebiet>
     </gebiet>
