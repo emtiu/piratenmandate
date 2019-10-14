@@ -230,7 +230,7 @@
       <gebiet type="Stadt" name="Hameln" gs="03252006">
         <parlament type="Stadtrat" seats="42" ris="https://www.hameln.de/de/buergerservice-verwaltung/rat-der-stadt-hameln/">
           <mandat type="pirat" email="claudia.schumann@piraten-hameln.de">Claudia Schumann</mandat>
-          <fraktion typ="gemeinsam" name="Frischer Wind &amp; Piraten">
+          <fraktion type="gemeinsam" name="Frischer Wind &amp; Piraten">
             <partner name="Frischer Wind" partei="FW/UWG/etc." num="1" />
           </fraktion>
         </parlament>
@@ -238,9 +238,9 @@
       <gebiet type="Stadt" name="Bad Münder am Deister" gs="03252002">
         <parlament type="Stadtrat" seats="32" ris="https://pvrat.de/ratsinfo/badmuender.html">
           <mandat type="pirat" email="nicky.reinsch@piraten-hameln.de">Nicky Reinsch</mandat>
-          <fraktion typ="gemeinsam" name="Ratsgruppe SPD-GRÜNE-PIRATEN">
-             <partner partei="SPD" num="13" />
-             <partner partei="GRÜNE" num="3" />
+          <fraktion type="gemeinsam" name="Ratsgruppe SPD-GRÜNE-PIRATEN">
+            <partner partei="SPD" num="13" />
+            <partner partei="GRÜNE" num="3" />
           </fraktion>
         </parlament>
       </gebiet>
@@ -1519,7 +1519,7 @@
         <parlament name="Stadtverordnetenversammlung" seats="18" ris="https://www.gransee.de/ratsinfo/index.php">
           <mandat type="pirat">Frank Görden</mandat>
             <fraktion type="gemeinsam" name="Grüne/PIRATEN">
-              <partner partei="Grüne" num="1" />
+              <partner partei="GRÜNE" num="1" />
             </fraktion>
         </parlament>
       </gebiet>
@@ -1527,7 +1527,7 @@
         <parlament name="Stadtverordnetenversammlung" seats="36" ris="https://www.ri-or.oberhavel.de/bi/">
           <mandat type="pirat">Thomas Ney</mandat>
             <fraktion type="gemeinsam" name="Freie Wähler/PIRATEN">
-              <partner partei="Freie Wähler" num="3" />
+              <partner name="Freie Wähler" partei="FW/UWG/etc." num="3" />
             </fraktion>
         </parlament>
       </gebiet>
@@ -1543,7 +1543,7 @@
         <parlament name="Stadtverordnetenversammlung" seats="32" ris="http://www.ratsinfo-online.net/eisenhuettenstadt-bi/allris.net.asp">
           <mandat type="pirat">Frank Kage</mandat>
             <fraktion type="gemeinsam" name="BVFO/PIRATEN">
-              <partner partei="BVFO" num="4" />
+              <partner name="BVFO" partei="FW/UWG/etc." num="4" />
             </fraktion>
         </parlament>
       </gebiet>
