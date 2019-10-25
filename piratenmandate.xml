@@ -1586,7 +1586,7 @@
     <gebiet type="Kreisfreie Stadt" name="Dresden" gs="14612000" localpirates="http://www.piraten-dresden.de/">
       <parlament name="Stadtrat" seats="71" ris="http://ratsinfo.dresden.de/infobi.php">
         <mandat type="pirat" email="martin.schulte-wissermann@piraten-dresden.de">Dr. Martin Schulte-Wissermann</mandat>
-        <fraktion type="fremd" name="Die LINKE" />
+        <fraktion type="none" />
         <story>Bei der Kommunalwahl am 26. Mai 2019 wurden 2,4% der Stimmen erreicht.</story>
       </parlament>
       <gebiet type="Stadtbezirk" name="Neustadt" arbkey="2" localpirates="http://www.neustadtpiraten.de/">
