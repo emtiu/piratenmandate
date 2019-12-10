@@ -1169,7 +1169,8 @@
         <oa url="http://openantrag.de/frankfurt-am-main" />
         <mandat type="pirat" email="h.foerster@piratenpartei-frankfurt.de">Herbert Förster</mandat>
         <fraktion type="gemeinsam" name="Die FRAKTION">
-          <partner partei="Die PARTEI" num="2" />
+          <partner partei="Die PARTEI" num="1" />
+          <partner name="FREIE WÄHLER" partei="FW/UWG/etc." num="1" />
         </fraktion>
       </parlament>
       <gebiet type="Ortsteil" name="Stadtteile Bockenheim, Kuhwald, Westend" localkey="2">
