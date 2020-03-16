@@ -1166,7 +1166,7 @@
       </parlament>
     </gebiet>
     <gebiet type="Kreisfreie Stadt" name="Frankfurt am Main" gs="06412000" localpirates="http://www.piratenpartei-frankfurt.de/">
-      <parlament name="Stadtverordnetenversammlung" seats="93" ris="http://www.stvv.frankfurt.de/parlis2/parlis.php">
+      <parlament name="Stadtverordnetenversammlung" seats="93" ris="https://frankfurt.de/service-und-rathaus/stadtpolitik">
         <oa url="http://openantrag.de/frankfurt-am-main" />
         <mandat type="pirat" email="h.foerster@piratenpartei-frankfurt.de">Herbert Förster</mandat>
         <fraktion type="gemeinsam" name="Die FRAKTION">
@@ -1175,8 +1175,8 @@
         </fraktion>
       </parlament>
       <gebiet type="Ortsteil" name="Stadtteile Bockenheim, Kuhwald, Westend" localkey="2">
-        <parlament name="Ortsbeirat" seats="19" ris="http://www.frankfurt.de/sixcms/detail.php?id=3467&amp;_ffmpar[_id_inhalt]=19177633">
-          <mandat type="pirat">Jürgen Erkmann</mandat>
+        <parlament name="Ortsbeirat" seats="19" ris="https://frankfurt.de/service-und-rathaus/stadtpolitik/ortsbeiraete/ortsbeirat-02">
+          <mandat type="pirat">Lothar Krauß</mandat>
         </parlament>
       </gebiet>
     </gebiet>
