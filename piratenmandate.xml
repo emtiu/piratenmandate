@@ -1368,7 +1368,7 @@
       <gebiet type="Stadt" name="Göppingen" gs="08117026">
         <parlament name="Gemeinderat" seats="41" ris="https://goeppingen.more-rubin1.de/index.php">
           <mandat type="pirat" email="Michael.Freche@goeppingen.de">Michael Freche</mandat>
-          <mandat type="fremdliste" from="GRÜNE">Julia Uebele</mandat>
+          <mandat type="transfer" from="GRÜNE">Julia Uebele</mandat>
           <fraktion type="gemeinsam" name="Linke und Piraten" url="http://linke-piraten-gp.de/" email="kontakt@linke-piraten-gp.de">
             <partner partei="LINKE" num="2" />
           </fraktion>
