@@ -1404,36 +1404,10 @@
 
   <bundesland name="Bayern" gs="09000000" localpirates="https://piratenpartei-bayern.de/">
     <gebiet type="Bezirk" name="Oberbayern" gs="09100000" localpirates="http://piraten-oberbayern.de/">
-      <gebiet type="Landkreis" name="Landkreis Erding" gs="09177000" localpirates="http://erding.piratenpartei.de/">
-        <gebiet type="Stadt" name="Erding" gs="09177117">
-          <parlament name="Stadtrat" seats="41" ris="http://www.erding.de/cms/politik/stadtrat.html">
-            <oa url="http://openantrag.de/erding" />
-            <mandat type="pirat">Stefan Lorenz</mandat>
-            <fraktion type="none" />
-            <story>Stefan Lorenz wurde auf der gemeinsamen Liste LINKE/PIRATEN gewählt.</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-      <gebiet type="Landkreis" name="Landkreis Starnberg" gs="09188000" localpirates="http://starnberg.ppby.de/">
-        <gebiet type="Gemeinde" name="Gauting" gs="09188120">
-          <parlament name="Gemeinderat" seats="25" ris="http://www.gauting.de/index.php?id=877">
-            <oa url="http://openantrag.de/gauting" />
-            <mandat type="pirat" email="tmf@piratenpartei-bayern.de">Tobias Mc Fadden</mandat>
-            <fraktion type="none" />
-            <story source="http://starnberg.ppby.de/gemeinderat-aktuell-einzelkaempfer-im-vierebuendnis/">Ausschussgemeinschaft mit ÖDP, UBG und Einzelbewerber</story>
-          </parlament>
-        </gebiet>
-      </gebiet>
-    </gebiet>
-    <gebiet type="Bezirk" name="Unterfranken" gs="09600000" localpirates="https://www.piraten-ufr.de/">
-      <gebiet type="Landkreis" name="Landkreis Bad Kissingen" gs="09672000">
-        <gebiet type="Stadt" name="Bad Brückenau" gs="09672113">
-          <parlament name="Stadtrat" seats="21" ris="http://www.bad-brueckenau.de/de/index.cfm?fuseaction=rathaus&amp;rubrik=ratsmitglieder">
-            <mandat type="fremdliste" from="SPD" email="benjamin.wildenauer@piraten-ufr.de">Benjamin Wildenauer</mandat>
-            <fraktion type="fremd" name="SPD" />
-            <story>Benjamin Wildenauer wurde auf der Liste der SPD gewählt, die 8,2% erlangte.</story>
-          </parlament>
-        </gebiet>
+      <gebiet type="Landkreis" name="Landkreis Neuburg-Schrobenhausen" gs="09185000" localpirates="https://neusob-piraten.de/">
+        <parlament name="Kreistag" seats="60" ris="https://neuburgschrobenhausen.more-rubin1.de/">
+          <mandat type="fremdliste" from="LINKE">Reinhold Deuter</mandat>
+        </parlament>
       </gebiet>
     </gebiet>
   </bundesland>
